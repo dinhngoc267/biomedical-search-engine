@@ -1,0 +1,83 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are discussed in greater detail in other sections of the label:
+
+
+
+ *    hypersensitivity reactions [ see warnings and precautions (5.1) ] 
+ *    pancreatitis [ see warnings and precautions (5.2) ] 
+ *    glucose intolerance [ see warnings and precautions (5.3) ] 
+ *    thrombosis and hemorrhage [ see warnings and precautions (5.4) ] 
+    the most common adverse reactions (incidence 1% or greater) with erwinaze treatment are systemic hypersensitivity, hyperglycemia, transaminases abnormal, fever, pancreatitis, local reactions, vomiting, nausea, thrombosis, hyperbilirubinemia, abdominal pain/discomfort, and diarrhea.
+ 
+
+   excerpt:   most common adverse reactions (incidence 1% or greater) are: systemic hypersensitivity, hyperglycemia, transaminases abnormal, fever, pancreatitis, local reactions, vomiting, nausea, thrombosis, hyperbilirubinemia, abdominal pain/discomfort, and diarrhea.  to report suspected adverse reactions, contact jazz pharmaceuticals, inc. at 1-800-520-5568 or fda at 1-800-fda-1088 or    www.fda.gov/medwatch      
+
+
+
+ 
+
+  6.1 clinical studies
+
+  because clinical trials are conducted under controlled, but widely varying conditions, adverse reaction rates observed in clinical trials of erwinaze cannot be directly compared to rates in the clinical trials of other drugs and may not reflect the rates observed in practice.
+
+
+
+ the data presented below are based on information collected from study 1, a single-arm, multi-center, open-label, safety and clinical pharmacology trial (intramuscular administration), the erwinaze master treatment protocol (emtp), an expanded access program (both intramuscular, intravenous, and other or unknown administration), and study 2, a single-arm, multi-center, open-label, pharmacokinetic (pk) study trial of intravenous administration of erwinaze.study 1 enrolled 58 patients treated on national cancer institute (nci)-sponsored cooperative group all protocols who were unable to continue to receive pegaspargase due to hypersensitivity reactions. patients received 6 doses of erwinaze 25,000 international units/m  2  intramuscularly on a monday, wednesday, and friday schedule as a replacement for each scheduled dose of pegaspargase remaining on their original treatment protocol. the study 1 population included patients with a median age of 11 years (2 to 18 years); 59% were male, 78% were white, 10% were black/african american, 5% were asian, and 7% were other or unknown. a total of 35% were hispanic or latino. in study 1, the number of erwinaze courses ranged from 1 to 9. in this study, 76% (44 of 58) completed all planned therapy. fourteen (24%) patients stopped therapy prior to completion; seven due to allergic reactions, five due to physician or patient choice, one due to disease progression, and one due to discontinuation during frontline protocol. all other chemotherapy was continued according to the patient's prescribed treatment regimen [  see clinical studies (  14  )  ].study 2 enrolled 30 patients [29 were being treated for all and one for lymphoblastic lymphoma (lbl)] following allergy to native  e. coli  asparaginase or pegaspargase. patients received erwinaze 25,000 international unit/m  2  /dose, administered by intravenous infusion on a monday, wednesday, and friday schedule (6 doses) as a replacement for doses remaining on their original treatment plan. the study 2 population included patients with a median age of 7 years (1 to 17 years); 63% were male, 27% were hispanic or latino, 83% were white, 3% were black/african american, 7% were asian, and 7% were other (american indian, alaska native or indian) [  see clinical studies (14)  ].
+
+
+
+ the emtp trial enrolled 1368 patients with all or lymphoblastic lymphoma who received erwinaze after developing systemic hypersensitivity to an  e. coli  -derived asparaginase. of these 1368 patients, safety data were received for 940 patients with a median age of 9 years (0 to 76 years), 63% were male, 91% with leukemia, 3% with lymphoma, and 6% with unknown disease information. patients received erwinaze according to several schedules, and treatment center specifications with doses that ranged from 20,000 to 25,000 international units/m  2  . the route of administration was intramuscular n=852, intravenous n=29, other or unknown n=59. in the emtp trial, the planned number of doses of erwinaze ranged from 3 to 48 doses. seventy-eight percent of patients (693 of 893) were able to receive all planned doses to complete their prescribed treatment regimen.
+
+
+
+ in study 1 and study 2, safety information was prospectively and systematically collected. in study 1, all grades of adverse events were reported for the following adverse events of special interest: allergy, pancreatitis, coagulopathy (hemorrhage, thrombosis or infarct), hyperbilirubinemia, hyperglycemia, hyperlipidemia, ketoacidosis, and cns events (hemorrhage, thrombosis or infarction, and cerebral venous thrombosis) and only grade 3 and 4 events were reported for other adverse events. in study 2 all adverse events of all grades were prospectively collected. in the emtp trial, safety data were derived from case report forms that collected adverse event information. the forms specifically requested information on occurrence of allergic reactions, thrombotic events, hemorrhagic events, hepatobiliary disorders, pancreatic disorders, and hyperglycemia.
+
+
+
+ the incidence of non-hematologic, non-infectious, adverse events (all grades) in study 1, study 2, and the emtp trial is provided in table 1.
+
+
+
+ the incidence of grade 3 or greater non-hematologic, non-infectious adverse reactions occurring with erwinaze in study 1, study 2 and emtp trial is provided in table 2.
+
+
+
+  table 1  table 2   6.2 immunogenicity
+
+  as with most therapeutic proteins, patients may develop anti-drug antibodies (ada) to erwinaze.in a study with erwinaze treatment by intramuscular administration (study 1), 6 of 56 (11%) patients treated with erwinaze developed antibodies to erwinaze. of these 6 ada positive patients, one experienced a hypersensitivity reaction during study 1 (2%, 1 of 56). none of these 6 patients had neutralizing antibodies.in a study with erwinaze treatment by intravenous administration (study 2), 4 of 30 (13.3%) patients treated with erwinaze developed anti-erwinaze antibodies. of these 4 patients who developed anti-erwinaze antibodies, 3 experienced hypersensitivity reactions (10%, 3 of 30) during the study. none of these 4 patients had neutralizing antibodies.the presence of ada to erwinaze is associated with a higher risk of hypersensitivity reactions in patients who received erwinaze through intravenous infusion compared to intramuscular administration of erwinaze.immunogenicity assay are highly dependent on the sensitivity and specificity of the assay and may be influenced by several factors such as: assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of the incidence of antibodies to erwinaze with the incidence of antibodies to other products may be misleading.
+    5 warnings and precautions
+
+   excerpt:    *    if the following occur, discontinue erwinaze:serious hypersensitivity reactions, including anaphylaxis (5.1)severe or hemorrhagic pancreatitis (5.2) 
+ *    glucose intolerance can occur and, in some cases, may be irreversible. perform appropriate monitoring and treat hyperglycemia with insulin, as necessary (5.3) 
+ *    thrombosis, hemorrhage: discontinue erwinaze until resolved (5.4) 
+    
+   5.1 hypersensitivity reactions
+
+    grade 3 and 4 hypersensitivity reactions after the use of erwinaze have occurred in 5% of patients in clinical trials [  see adverse reactions (6.1)  ].  
+
+
+
+ administer this product in a setting with resuscitation equipment and other agents necessary to treat anaphylaxis. if a serious hypersensitivity reaction occurs, discontinue erwinaze and initiate appropriate therapy.
+
+
+
+   5.2 pancreatitis
+
+    pancreatitis has been reported in 4% of patients in clinical trials [  see adverse reactions (6.1)  ].  
+
+
+
+ evaluate patients with symptoms compatible with pancreatitis to establish a diagnosis. discontinue erwinaze for severe or hemorrhagic pancreatitis manifested by abdominal pain > 72 hours and amylase elevation >= 2.0 x uln. severe pancreatitis is a contraindication to additional asparaginase administration. in the case of mild pancreatitis, hold erwinaze until the signs and symptoms subside and amylase levels return to normal. after resolution, treatment with erwinaze may be resumed.
+
+
+
+   5.3 glucose intolerance
+
+    glucose intolerance has been reported in 5% of patients receiving erwinaze in clinical trials [  see adverse reactions       (6.1)  ]. in some cases glucose intolerance may be irreversible. monitor glucose levels in patients at baseline and periodically during treatment. administer insulin therapy as necessary in patients with hyperglycemia.
+
+
+
+   5.4 thrombosis and hemorrhage
+
+  serious thrombotic events, including sagittal sinus thrombosis and pulmonary embolism have been reported with both  e. coli  and  erwinia  -derived l-asparaginase therapy. the following coagulation proteins were decreased in the majority of patients after a 2-week course of erwinaze by intramuscular administration: fibrinogen, protein c activity, protein s activity, and anti-thrombin iii. discontinue erwinaze for a thrombotic or hemorrhagic event until symptoms resolve; after resolution, treatment with erwinaze may be resumed.

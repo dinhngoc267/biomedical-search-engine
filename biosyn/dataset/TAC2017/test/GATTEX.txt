@@ -1,0 +1,165 @@
+    6 adverse reactions
+
+  excerpt:   the most common adverse reactions (>= 10%) across all studies with gattex are abdominal pain, injection site reactions, nausea, headaches, abdominal distension, upper respiratory tract infection. in addition, vomiting and fluid overload were reported in the sbs studies (1 and 3) at rates >= 10%. (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact nps pharmaceuticals at 1-855-5gattex (1-855-542-8839) or fda at 1-800-fda-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other clinical trials and may not reflect the rates observed in clinical practice.
+
+
+
+ across all clinical studies, 566 subjects were exposed to at least one dose of gattex (190 patient-years of exposure; mean duration of exposure was 17 weeks). of the 566 subjects, 173 subjects were treated in phase 3 sbs studies (134/173 [77%] at the dose of 0.05 mg/kg/day and 39/173 [23%] at the dose of 0.10 mg/kg/day).
+
+
+
+ the most commonly reported (>= 10%) adverse reactions in patients treated with gattex across all clinical studies (n = 566) were: abdominal pain (30.0%); injection site reactions (22.4%); nausea (18.2%); headaches (15.9%); abdominal distension (13.8%); upper respiratory tract infection (11.8%).
+
+
+
+ the rates of adverse reactions in subjects with sbs participating in two randomized, placebo-controlled, 24-week, double-blind clinical studies (study 1 and study 3) are summarized in table 1. only those reactions with a rate of at least 5% in the gattex group, and greater than placebo group, are summarized in table 1. the majority of these reactions were mild or moderate. of subjects receiving gattex at the recommended dose of 0.05 mg/kg/day, 88.3% (n=68/77) experienced an adverse reaction, as compared to 83.1% (49/59) for placebo. many of these adverse reactions have been reported in association with the underlying disease and/or parenteral nutrition.
+
+
+
+ table 1: adverse reactions in >=5% of gattex-treated sbs subjects and more frequent than placebo: studies 1 and 3 
+ adverse reaction                                               placebo(n=59)n (%)   gattex0.05mg/kg/day(n=77)n (%)   
+  
+ abdominal pain                                                     16 ( 27.1)            29 ( 37.7)        
+ upper respiratory tract infection                                  8 ( 13.6)             20 ( 26.0)        
+ nausea                                                             12 ( 20.3)            19 ( 24.7)        
+ abdominal distension                                                1 ( 1.7)             15 ( 19.5)        
+ vomiting                                                           6 ( 10.2)             9 ( 11.7)         
+ fluid overload                                                      4 ( 6.8)             9 ( 11.7)         
+ flatulence                                                          4 ( 6.8)              7 ( 9.1)         
+ hypersensitivity                                                    3 ( 5.1)              6 ( 7.8)         
+ appetite disorders                                                  2 ( 3.4)              5 ( 6.5)         
+ sleep disturbances                                                     0                  4 ( 5.2)         
+ cough                                                                  0                  4 ( 5.2)         
+ skin hemorrhage                                                     1 ( 1.7)              4 ( 5.2)         
+   subjects with stoma                                          
+ gastrointestinal stoma complication                                 3 (13.6)             13 (41.9)         
+         in placebo-controlled studies 1 and 3, 12% of patients in each of the placebo and gattex study groups experienced an injection site reaction.
+ 
+
+     adverse reactions of special interest  
+
+
+
+     malignancy  . three subjects were diagnosed with malignancy in the clinical studies, all of whom were male and had received gattex 0.05 mg/kg/day in study 2. one subject had a history of abdominal radiation for hodgkin's disease two decades prior to receiving gattex and prior liver lesion on ct scan, and was diagnosed with metastatic adenocarcinoma of unconfirmed origin after 11 months of exposure to gattex. two subjects had extensive smoking histories, and were diagnosed with lung cancers (squamous and non-small cell) after 12 months and 3 months of gattex exposure, respectively.
+
+
+
+     colorectal polyps  . in the clinical studies, 6 subjects were diagnosed with polyps of the g.i. tract after initiation of study treatment. in the sbs placebo-controlled studies, 1/59 (1.7%) of subjects on placebo and 1/109 (0.9%) of subjects on gattex 0.05 mg/kg/day were diagnosed with intestinal polyps (inflammatory stomal and hyperplastic sigmoidal after 3 and 5 months, respectively). the remaining 4 polyp cases occurred in the extension studies - two colorectal villous adenomas (onset at 6 and 7 months in gattex 0.10 and 0.05 mg/kg/day dose groups, respectively), one hyperplastic polyp (onset 6 months in gattex 0.10 mg/kg/day dose group), and one small duodenal polyp (onset at 3 months in gattex 0.05 mg/kg/day dose group).
+
+
+
+     gastrointestinal obstruction  . overall, 12 subjects experienced one or more episodes of intestinal obstruction/stenosis: 6 in sbs placebo-controlled studies and 6 in the extension studies. the 6 subjects in the placebo-controlled trials were all on gattex: 3/77 (3.9%) on gattex 0.05 mg/kg/day and 3/32 (9.4%) on gattex 0.10 mg/kg/day. no cases of intestinal obstruction occurred in the placebo group. onsets ranged from 1 day to 6 months. in the extension studies, 6 additional subjects (all on gattex 0.05 mg/kg/day) were diagnosed with intestinal obstruction/stenosis with onsets ranging from 6 days to 7 months. two of the 6 subjects from the placebo-controlled trials experienced recurrence of obstruction in the extension studies. of all 8 subjects with an episode of intestinal obstruction/stenosis in these extension studies, 1 subject required endoscopic dilation and none required surgical intervention.
+
+
+
+     gallbladder, biliary and pancreatic disease  . for gallbladder and biliary disease in the placebo-controlled studies, 3 subjects were diagnosed with cholecystitis, all of whom had a prior history of gallbladder disease and were in the gattex 0.05 mg/kg/day dose group. no cases were reported in the placebo group. one of these 3 cases had gallbladder perforation and underwent cholecystectomy the next day. the remaining 2 cases underwent elective cholecystectomy at a later date. in the extension studies, 3 subjects had an episode of acute cholecystitis; 2 subjects had new-onset cholelithiasis; and 1 subject experienced cholestasis secondary to an obstructed biliary stent. for pancreatic disease in the placebo-controlled studies, 1 subject (gattex 0.05 mg/kg/day dose group) had a pancreatic pseudocyst diagnosed after 4 months of gattex. in the extension studies, 1 subject was diagnosed with chronic pancreatitis; and 1 subject was diagnosed with acute pancreatitis.
+
+
+
+     fluid overload  . in the placebo-controlled trials, fluid overload was reported in 4/59 (6.8%) of subjects on placebo and 9/77 (11.7%) subjects on gattex 0.05 mg/kg/day. of the 9 cases in the gattex group, there were 2 cases of congestive heart failure (chf), 1 of whom was reported as a serious adverse event and the other as non-serious. the serious case had onset at 6 months, and was possibly associated with previously undiagnosed hypothyroidism and/or cardiac dysfunction.
+
+
+
+     concomitant oral medication  . gattex can increase the absorption of concomitant oral medications such as benzodiazepines and psychotropic agents. in the placebo-controlled trials, an analysis of episodes of cognition and attention disturbances was performed for subjects on benzodiazepines. one of the subjects in the gattex 0.05 mg/kg/day group (on prazepam) experienced dramatic deterioration in mental status progressing to coma during her first week of gattex therapy. she was admitted to the icu where her benzodiazepine level was >300 mcg/l. gattex and prazepam were discontinued, and coma resolved 5 days later.
+
+
+
+   6.2 immunogenicity
+
+  consistent with the potentially immunogenic properties of medicinal products containing peptides, administration of gattex may trigger the development of antibodies. in a randomized, double-blind, placebo-controlled, parallel-group, multi-national, multi-center, clinical trial (study 1) in adults with sbs, the incidence of anti-gattex antibody was 0% (0/16) at week 12 and 18% (6/34) at week 24 in subjects who received subcutaneous administration of 0.05 mg/kg gattex once daily. the anti-gattex antibodies were cross-reactive to native glucagon-like peptide (glp-2) in five of the six subjects (83%) who had anti-gattex antibodies. in the extension study (study 2), the immunogenicity incidence rate increased over time to 27% (14/51) at 12 months and 38% (13/34) at 18 months. anti-gattex antibodies appear to have no impact on short term (up to 1.5 years) efficacy and safety although the long-term impact is unknown.
+
+
+
+ a total of 40 subjects were tested for neutralizing antibodies - 20 of these subjects had no neutralizing antibodies, and the remaining 20 subjects had no detectable neutralizing antibodies although, the presence of teduglutide at low levels in these study samples could have resulted in false negatives (no neutralizing antibody detected although present).
+
+
+
+ immunogenicity assay results are highly dependent on the sensitivity and specificity of the assay and may be influenced by several factors such as: assay methodology, sample handling, timing of sample collection, concomitant medication, and underlying diseases. for these reasons, comparison of the incidence of antibodies to gattex with the incidence of antibodies to other products may be misleading.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  neoplastic growth. there is a risk for acceleration of neoplastic growth. colonoscopy of the entire colon with removal of polyps should be done before initiating treatment with gattex and is recommended after 1 year. subsequent colonoscopies should be done as needed, but no less frequently than every 5 years. in case of intestinal malignancy discontinue gattex. the clinical decision to continue gattex in patients with non-gastrointestinal malignancy should be made based on risk and benefit considerations. (  5.1  ) 
+ *  intestinal obstruction. in patients who develop obstruction, gattex should be temporarily discontinued pending further clinical evaluation and management. (  5.2  ) 
+ *  biliary and pancreatic disease. patients should undergo laboratory assessment (bilirubin, alkaline phosphatase, lipase, amylase) before starting gattex. subsequent laboratory tests should be done every 6 months. if clinically meaningful changes are seen, further evaluation is recommended including imaging, and continued treatment with gattex should be reassessed. (  5.3  ) 
+ *  fluid overload. there is a potential for fluid overload while on gattex. if fluid overload occurs, especially in patients with cardiovascular disease, parenteral support should be appropriately adjusted, and gattex treatment reassessed. (  5.4  ) 
+    
+ 
+
+   5.1 acceleration of neoplastic growth
+
+
+
+  based on the pharmacologic activity and findings in animals, gattex has the potential to cause hyperplastic changes including neoplasia. in patients at increased risk for malignancy, the clinical decision to use gattex should be considered only if the benefits outweigh the risks. in patients with active gastrointestinal malignancy (gi tract, hepatobiliary, pancreatic), gattex therapy should be discontinued. in patients with active non-gastrointestinal malignancy, the clinical decision to continue gattex should be made based on risk-benefit considerations. [see  clinical pharmacology (12.1)  and  nonclinical toxicology (13.1)  ]  
+
+
+
+    colorectal polyps  
+
+
+
+ colorectal polyps were identified during the clinical trials. colonoscopy of the entire colon with removal of polyps should be done within 6 months prior to starting treatment with gattex. a follow-up colonoscopy (or alternate imaging) is recommended at the end of 1 year of gattex. subsequent colonoscopies should be done every 5 years or more often as needed. if a polyp is found, adherence to current polyp follow-up guidelines is recommended. in case of diagnosis of colorectal cancer, gattex therapy should be discontinued . [see  adverse reactions (6.1)  ]  
+
+
+
+    small bowel neoplasia  
+
+
+
+ based on benign tumor findings in the rat carcinogenicity study, patients should be monitored clinically for small bowel neoplasia. if a benign neoplasm is found, it should be removed. in case of small bowel cancer, gattex therapy should be discontinued. [see  nonclinical toxicology (13.1)  ]  
+
+
+
+    5.2 intestinal obstruction
+
+
+
+  intestinal obstruction has been reported in clinical trials. in patients who develop intestinal or stomal obstruction, gattex should be temporarily discontinued while the patient is clinically managed. gattex may be restarted when the obstructive presentation resolves, if clinically indicated. [see  adverse reactions (6.1)  ]  
+
+
+
+    5.3 biliary and pancreatic disease
+
+
+
+   gallbladder and biliary tract disease  
+
+
+
+ cholecystitis, cholangitis, and cholelithiasis, have been reported in clinical studies. for identification of the onset or worsening of gallbladder/biliary disease, patients should undergo laboratory assessment of bilirubin and alkaline phosphatase within 6 months prior to starting gattex, and at least every 6 months while on gattex; or more frequently if needed. if clinically meaningful changes are seen, further evaluation including imaging of the gallbladder and/or biliary tract is recommended; and the need for continued gattex treatment should be reassessed. [see  adverse reactions (6.1)  ]  
+
+
+
+    pancreatic disease  
+
+
+
+ pancreatitis has been reported in clinical studies. for identification of onset or worsening of pancreatic disease, patients should undergo laboratory assessment of lipase and amylase within 6 months prior to starting gattex, and at least every 6 months while on gattex; or more frequently if needed. if clinically meaningful changes are seen, further evaluation such as imaging of the pancreas is recommended; and the need for continued gattex treatment should be reassessed. [see  adverse reactions (6.1)  and  nonclinical toxicology (13.1)  ]  
+
+
+
+    5.4 fluid overload
+
+
+
+  fluid overload and congestive heart failure have been observed in clinical trials, which were felt to be related to enhanced fluid absorption associated with gattex. if fluid overload occurs, parenteral support should be adjusted and gattex treatment should be reassessed, especially in patients with underlying cardiovascular disease. if significant cardiac deterioration develops while on gattex, the need for continued gattex treatment should be reassessed. [ see  adverse reactions (6.1)  ]  
+
+
+
+    5.5 increased absorption of concomitant oral medication
+
+
+
+  altered mental status in association with gattex has been observed in patients on benzodiazepines in clinical trials. patients on concomitant oral drugs (e.g., benzodiazepines, phenothiazines) requiring titration or with a narrow therapeutic index may require dose adjustment while on gattex. [ see  adverse reactions (6.2)     ]  

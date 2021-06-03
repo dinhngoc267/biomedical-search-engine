@@ -1,0 +1,214 @@
+      6     adverse reactions  
+
+  three hundred ninety-five patients, including approximately 250 children (aged 2 to 17 years) have been treated with ilaris in interventional trials in caps or sjia. the most frequently reported adverse drug reactions were infections predominantly of the upper respiratory tract. the majority of the events were mild to moderate although serious infections were observed. the type and frequency of adverse drug reactions appeared to be consistent over time.
+
+
+
+ opportunistic infections have also been reported in patients treated with ilaris  [see warnings and precautions (5.1)]  .
+
+
+
+   excerpt:     caps:  the most common adverse reactions greater than 10% reported by patients with caps treated with ilaris are nasopharyngitis, diarrhea, influenza, headache and nausea. (  6  )
+
+
+
+   sjia:  the most common adverse drug reactions greater than 10% reported by patients with sjia treated with ilaris are infections (nasopharyngitis and upper respiratory tract infections), abdominal pain and injection site reactions. (  6  )
+
+
+
+   to report suspected adverse reactions, contact novartis pharmaceuticals corporation at 1-888-669-6682 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1     clinical trial experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+   treatment of caps  
+
+
+
+ the data described herein reflect exposure to ilaris in 104 adult and pediatric caps patients, including 20 fcas, 72 mws, 10 mws/nomid (neonatal onset multisystem inflammatory disorder) overlap, 1 non-fcas non-mws, and 1 misdiagnosed in placebo-controlled (35 patients) and uncontrolled trials. sixty-two patients were exposed to ilaris for at least 6 months, 56 for at least 1 year and 4 for at least 3 years. a total of 9 serious adverse reactions were reported for caps patients. among these were vertigo (2 patients), infections (3 patients), including intra-abdominal abscess following appendectomy (1 patient). the most commonly reported adverse reactions associated with ilaris treatment in the caps patients were nasopharyngitis, diarrhea, influenza, headache, and nausea. one patient discontinued treatment due to potential infection.
+
+
+
+ caps study 1 investigated the safety of ilaris in an 8-week, open-label period (part 1), followed by a 24-week, randomized withdrawal period (part 2), followed by a 16-week, open-label period (part 3). all patients were treated with ilaris 150 mg subcutaneously or 2 mg/kg if body weight was greater than or equal to 15 kg and less than or equal to 40 kg (see table 1).
+
+
+
+ since all caps patients received ilaris in part 1, there are no controlled data on adverse events (aes). data in table 1 are for all aes for all caps patients receiving canakinumab. in caps study 1, no pattern was observed for any type or frequency of adverse events throughout the three study periods.
+
+
+
+ table 1 number (%) of patients with aes by preferred terms, in >10% of patients in parts 1 to 3 of the phase 3 trial for caps patients 
+    preferred term      ilarisn=35n (%)     
+ n % of patients with adverse events  35 (100)          
+     nasopharyngitis  12 (34)           
+     diarrhea     7 (20)            
+     influenza    6 (17)            
+     rhinitis     6 (17)            
+     nausea       5 (14)            
+     headache     5 (14)            
+     bronchitis   4 (11)            
+     gastroenteritis  4 (11)            
+     pharyngitis  4 (11)            
+     weight increased  4 (11)            
+ musculoskeletal pain  4 (11)            
+ vertigo          4 (11)            
+          vertigo  
+ 
+
+ vertigo has been reported in 9% to 14% of patients in caps studies, exclusively in mws patients, and reported as a serious adverse event in two cases. all events resolved with continued treatment with ilaris.
+
+
+
+   injection site reactions  
+
+
+
+ in caps study 1, subcutaneous injection site reactions were observed in 9% of patients in part 1 with mild tolerability reactions; in part 2, one patient each (7%) had a mild or a moderate tolerability reaction and, in part 3, one patient had a mild local tolerability reaction. no severe injection-site reactions were reported and none led to discontinuation of treatment.
+
+
+
+   treatment of sjia  
+
+
+
+ a total of 201 sjia patients aged 2 to less than 20 years have received ilaris in clinical trials. the safety of ilaris compared to placebo was investigated in two phase 3 studies  [see clinical studies (14.2)]  . patients in sjia study 1 received a single dose of ilaris 4 mg/kg (n=43) or placebo (n=41) via subcutaneous injection and were assessed at day 15 for the efficacy endpoints and had a safety analysis up to day 29. sjia study 2 was a two-part study with an open-label, single-arm active treatment period (part i) followed by a randomized, double-blind, placebo-controlled, event-driven withdrawal design (part ii). overall, 177 patients were enrolled into the study and received ilaris 4 mg/kg (up to 300 mg maximum) in part i, and 100 patients received ilaris 4 mg/kg (up to 300 mg maximum) every 4 weeks or placebo in part ii. adverse drug reactions listed in table 2 showed higher rates than placebo from both trials. the adverse drug reactions associated with ilaris treatment in sjia patients were infections, abdominal pain, and injection site reactions. serious infections (e.g., pneumonia, varicella, gastroenteritis, measles, sepsis, otitis media, sinusitis, adenovirus, lymph node abscess, pharyngitis) were observed in approximately 4% to 5% (0.02 to 0.17 per 100 patient-days) of patients receiving ilaris in both studies.
+
+
+
+ adverse reactions are listed according to meddra version 15.0 system organ class.
+
+
+
+ table 2 tabulated summary of adverse drug reactions from pivotal sjia clinical trials 
+ n= number of patients^ ir=exposure adjusted incidence rate per 100 patient-days* no injection site reaction led to study discontinuation   
+  
+                    sjia study 2      sjia study 1     
+                    part i           part ii                                           
+                  ilarisn=177n (%)(ir)^  ilarisn=50n (%)(ir)  placebon=50n (%)(ir)  ilarisn=43n (%)(ir)  placebon=41n (%)(ir)   
+   infections and infestations     
+ all infections (e.g., nasopharyngitis, (viral) upper respiratory tract infection, pneumonia, rhinitis, pharyngitis, tonsillitis, sinusitis, urinary tract infection, gastroenteritis, viral infection)  97 (54.8%)(0.91)  27 (54%)(0.59)   19 (38%)(0.63)   13 (30.2%)(1.26)  5 (12.2%)(1.37)   
+   gastrointestinal disorders     
+ abdominal pain (upper)  25 (14.1%)(0.16)  8 (16%)(0.15)    6 (12%)(0.08)    3 (7%)(0.25)     1 (2.4%)(0.23)    
+   skin and subcutaneous tissue disorders     
+ injection site reaction*                                                                                        
+      mild        19 (10.7%)       6 (12.0%)        2 (4.0%)         0                3 (7.3%)          
+      moderate    2 (1.1%)         1 (2.0%)         0                0                0                 
+              6.2     hypersensitivity
+   during clinical trials, no anaphylactic reactions have been reported. in caps trials one patient discontinued and in sjia trials no patients discontinued due to hypersensitivity reactions. ilaris should not be administered to any patients with known clinical hypersensitivity to ilaris  [see contraindications (4) and warnings and precautions (5.3)]  .
+
+
+
+   6.3     immunogenicity
+
+  a biosensor binding assay or a bridging immunoassay was used to detect antibodies directed against canakinumab in patients who received ilaris. antibodies against ilaris were observed in approximately 1.5% and 3.1% of the patients treated with ilaris for caps and sjia, respectively. no neutralizing antibodies were detected. no apparent correlation of antibody development to clinical response or adverse events was observed. the caps clinical studies employed the biosensor binding assay, and most of the sjia clinical studies employed the bridging assay. the data obtained in an assay are highly dependent on several factors including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, underlying disease, and the number of patients tested. for these reasons, comparison of the incidence of antibodies to canakinumab between the caps and sjia clinical studies or with the incidence of antibodies to other products may be misleading.
+
+
+
+   6.4     laboratory findings
+
+    hematology  
+
+
+
+ during clinical trials with ilaris, mean values decreased for white blood cells, neutrophils and platelets.
+
+
+
+ in the randomized, placebo-controlled portion of sjia study 2 decreased white blood cell counts (wbc) less than or equal to 0.8 times lower limit of normal (lln) were reported in 5 patients (10.4%)in the ilaris group compared to 2 (4.0%) in the placebo group. transient decreases in absolute neutrophil count (anc) to less than 1x10  9  /l were reported in 3 patients (6.0%) in the ilaris group compared to1 patient (2.0%) in the placebo group. one case of anc less than 0.5x10  9  /l was observed in the ilaris group and none in the placebo group.
+
+
+
+ mild (less than lln and greater than 75x10  9  /l) and transient decreases in platelet counts were observed in 3 (6.3%) ilaris treated patients versus 1 (2.0%) placebo-treated patient.
+
+
+
+   hepatic transaminases  
+
+
+
+ elevations of transaminases have been observed in patients treated with ilaris.
+
+
+
+ in the randomized, placebo-controlled portion of sjia study 2, high alt and/or ast greater than or equal to 3 times upper limit of normal (uln) were reported in 2 (4.1%) ilaris-treated patients and 1 (2.0%) placebo patient. all patients had normal values at the next visit.
+
+
+
+   bilirubin  
+
+
+
+ asymptomatic and mild elevations of serum bilirubin have been observed in patients treated with ilaris without concomitant elevations of transaminases.
+     5     warnings and precautions  
+
+
+
+   excerpt:    *  interleukin-1 blockade may interfere with immune response to infections. treatment with medications that work through inhibition of il-1 has been associated with an increased risk of serious infections. ilaris has been associated with an increased incidence of serious infections. physicians should exercise caution when administering ilaris to patients with infections, a history of recurring infections or underlying conditions which may predispose them to infections. discontinue treatment with ilaris if a patient develops a serious infection. do not administer ilaris to patients during an active infection requiring medical intervention. (  5.1  ) 
+ *  live vaccines should not be given concurrently with ilaris. prior to initiation of therapy with ilaris, patients should receive all recommended vaccinations. (  5.4  ) 
+    
+ 
+
+   5.1     serious infections
+
+
+
+  ilaris has been associated with an increased risk of serious infections. physicians should exercise caution when administering ilaris to patients with infections, a history of recurring infections or underlying conditions which may predispose them to infections. ilaris should not be administered to patients during an active infection requiring medical intervention. administration of ilaris should be discontinued if a patient develops a serious infection.
+
+
+
+  infections, predominantly of the upper respiratory tract, in some instances serious, have been reported with ilaris. generally, the observed infections responded to standard therapy. isolated cases of unusual or opportunistic infections (e.g., aspergillosis, atypical mycobacterial infections, cytomegalovirus, herpes zoster) were reported during ilaris treatment. a causal relationship of ilaris to these events cannot be excluded. in clinical trials, ilaris has not been administered concomitantly with tumor necrosis factor (tnf) inhibitors. an increased incidence of serious infections has been associated with administration of another il-1 blocker in combination with tnf inhibitors. coadministration of ilaris with tnf inhibitors is not recommended because this may increase the risk of serious infections [see drug interactions (7.1)]  .  
+
+
+
+ drugs that affect the immune system by blocking tnf have been associated with an increased risk of new tuberculosis and reactivation of latent tuberculosis (tb). it is possible that use of il-1 inhibitors such as ilaris increases the risk of reactivation of tuberculosis or of opportunistic infections.
+
+
+
+ prior to initiating immunomodulatory therapies, including ilaris, patients should be evaluated for active and latent tuberculosis infection. appropriate screening tests should be performed in all patients. ilaris has not been studied in patients with a positive tuberculosis screen, and the safety of ilaris in individuals with latent tuberculosis infection is unknown. patients testing positive in tuberculosis screening should be treated according to standard medical practice prior to therapy with ilaris. all patients should be instructed to seek medical advice if signs, symptoms, or high risk exposure suggestive of tuberculosis (e.g., persistent cough, weight loss, subfebrile temperature) appear during or after ilaris therapy.
+
+
+
+ healthcare providers should follow current cdc guidelines both to evaluate for and to treat possible latent tuberculosis infections before initiating therapy with ilaris.
+
+
+
+    5.2     immunosuppression
+
+
+
+  the impact of treatment with anti-interleukin-1 (il-1) therapy on the development of malignancies is not known. however, treatment with immunosuppressants, including ilaris, may result in an increase in the risk of malignancies.
+
+
+
+    5.3     hypersensitivity
+
+
+
+  hypersensitivity reactions have been reported with ilaris therapy. during clinical trials, no anaphylactic reactions have been reported. it should be recognized that symptoms of the underlying disease being treated may be similar to symptoms of hypersensitivity. ilaris should not be administered to any patients with known clinical hypersensitivity to ilaris [see contraindications (4) and adverse reactions (6.2)]  .
+
+
+
+    5.4     immunizations
+
+
+
+  live vaccines should not be given concurrently with ilaris [see drug interactions (7.2)]  . since no data are available on either the efficacy or on the risks of secondary transmission of infection by live vaccines in patients receiving ilaris, live vaccines should not be given concurrently with ilaris. in addition, because ilaris may interfere with normal immune response to new antigens, vaccinations may not be effective in patients receiving ilaris. no data are available on the effectiveness of vaccinations with inactivated (killed) antigens in patients receiving ilaris [see drug interactions (7.2)]  .
+
+
+
+ because il-1 blockade may interfere with immune response to infections, it is recommended that prior to initiation of therapy with ilaris, adult and pediatric patients receive all recommended vaccinations, as appropriate, including pneumococcal vaccine and inactivated influenza vaccine. (see current recommended immunization schedules at the website of the centers for disease control, http://www.cdc.gov/vaccines/schedules/index.html).
+
+
+
+    5.5     macrophage activation syndrome
+
+
+
+  macrophage activation syndrome (mas) is a known, life-threatening disorder that may develop in patients with rheumatic conditions, in particular sjia, and should be aggressively treated. physicians should be attentive to symptoms of infection or worsening of sjia, as these are known triggers for mas. eleven cases of mas were observed in 201 sjia patients treated with canakinumab in clinical trials. based on the clinical trial experience, ilaris does not appear to increase the incidence of mas in sjia patients, but no definitive conclusion can be made.

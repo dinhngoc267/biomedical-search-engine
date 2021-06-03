@@ -1,0 +1,511 @@
+    6 adverse reactions
+
+  the following adverse reactions are discussed in greater detail in another section of the label:
+
+
+
+ *    new primary malignancies [see warnings and precautions (5.1)]  
+ *    hemorrhage [see warnings and precautions (5.2)]  
+ *    venous thromboembolism [see warnings and precautions (5.3)]  
+ *    cardiomyopathy [see warnings and precautions (5.4)]  
+ *    ocular toxicities [see warnings and precautions (5.5)]  
+ *    interstitial lung disease [see warnings and precautions (5.6)]  
+ *    serious febrile reactions [see warnings and precautions (5.7)]  
+ *    serious skin toxicity [see warnings and precautions (5.8)]  
+ *    hyperglycemia [see warnings and precautions (5.9)]  
+   *    most common adverse reactions (>=20%) for mekinist as a single agent include rash, diarrhea, and lymphedema. (  6.1  ) 
+ *    most common adverse reactions (>=20%) for mekinist in combination with dabrafenib include pyrexia, chills, fatigue, rash, nausea, vomiting, diarrhea, abdominal pain, peripheral edema, cough, headache, arthralgia, night sweats, decreased appetite, constipation, and myalgia. (  6.1   )  
+      excerpt:     to report suspected adverse reactions, contact glaxosmithkline at 1-888-825-5249 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch  .  
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the data described in the warnings and precautions section and below reflect exposure to mekinist as a single agent and in combination with dabrafenib. mekinist as a single agent was evaluated in 329 patients including 107 (33%) exposed for greater than or equal to 6 months and 30 (9%) exposed for greater than or equal to one year. mekinist as a single agent was studied in open-label, single-arm trials (n = 118) or in an open-label, randomized, active-controlled trial (n = 211). the median age was 54 years, 60% were male, >99% were white, and all patients had metastatic melanoma. all patients received 2 mg once-daily doses of mekinist. the incidence of rped and rvo are obtained from the 1,749 patients from all clinical trials with mekinist.
+
+
+
+ the safety of mekinist in combination with dabrafenib was evaluated in trial 2 and other trials consisting of 202 patients with braf v600 mutation-positive unresectable or metastatic melanoma who received mekinist 2 mg orally once daily in combination with dabrafenib 150 mg orally twice daily until disease progression or unacceptable toxicity. among these 202 patients, 68 (34%) were exposed to mekinist and 66 (33%) were exposed to dabrafenib for greater than 6 to 12 months while 36 (18%) were exposed to mekinist and 40 (20%) were exposed to dabrafenib for greater than one year. the median age was 54 years, 57% were male and >99% were white.
+
+
+
+ table 3 presents adverse reactions identified from analyses of trial 1, a randomized, open-label trial of patients with braf v600e or v600k mutation-positive melanoma receiving mekinist (n = 211) 2 mg orally once daily or chemotherapy (n = 99) (either dacarbazine 1,000 mg/m  2  every 3 weeks or paclitaxel 175 mg/m  2  every 3 weeks)  [see clinical studies (14.1)]  . patients with abnormal lvef, history of acute coronary syndrome within 6 months, or current evidence of class ii or greater congestive heart failure (new york heart association) were excluded from trial 1. the median duration of treatment with mekinist was 4.3 months. in trial 1, 9% of patients receiving mekinist experienced adverse reactions resulting in permanent discontinuation of trial medication. the most common adverse reactions resulting in permanent discontinuation of mekinist were decreased left ventricular ejection fraction (lvef), pneumonitis, renal failure, diarrhea, and rash. adverse reactions led to dose reductions in 27% of patients treated with mekinist. rash and decreased lvef were the most common reasons cited for dose reductions of mekinist.
+
+
+
+   table 3. selected adverse reactions occurring in >=10% of patients receiving mekinist and at a higher incidence (>=5%) than in the chemotherapy arm or >=2% (grades 3 or 4) adverse reactions  
+
+
+
+
+  adverse reactions                          mekinist         chemotherapy     
+  n = 211                                    n = 99           
+  all  gradesa                               grades  3 and 4b    all  gradesa     grades  3 and 4b    
+  skin and subcutaneous tissue disorders                                                                         
+     rash                                    57               8                10               0                
+     dermatitis acneiform                    19               <1               1                0                
+     dry skin                                11               0                0                0                
+     pruritus                                10               2                1                0                
+     paronychia                              10               0                1                0                
+  gastrointestinal disorders                                                                                     
+     diarrhea                                43               0                16               2                
+     stomatitisc                             15               2                2                0                
+     abdominal paind                         13               1                5                1                
+  vascular disorders                                                                                             
+     lymphedemae                             32               1                4                0                
+     hypertension                            15               12               7                3                
+     hemorrhagef                             13               <1               0                0                
+             a  national cancer institute common terminology criteria for adverse events, version 4.0.
+ 
+
+   b  grade 4 adverse reactions limited to rash (n = 1) in trametinib arm and diarrhea (n = 1) in chemotherapy arm.
+
+
+
+   c  includes the following terms: stomatitis, aphthous stomatitis, mouth ulceration, and mucosal inflammation.
+
+
+
+   d  includes the following terms: abdominal pain, abdominal pain lower, abdominal pain upper, and abdominal tenderness.
+
+
+
+   e  includes the following terms: lymphedema, edema, and peripheral edema.
+
+
+
+   f  includes the following terms: epistaxis, gingival bleeding, hematochezia, rectal hemorrhage, melena, vaginal hemorrhage, hemorrhoidal hemorrhage, hematuria, and conjunctival hemorrhage.
+
+
+
+ other clinically important adverse reactions observed in <=10% of patients (n = 329) treated with mekinist were:
+
+
+
+   cardiac disorders:  bradycardia.
+
+
+
+   gastrointestinal disorders:  xerostomia.
+
+
+
+   infections and infestations:  folliculitis, rash pustular, cellulitis.
+
+
+
+   musculoskeletal and connective tissue disorders:  rhabdomyolysis.
+
+
+
+   nervous system disorders:  dizziness, dysgeusia.
+
+
+
+   ocular disorders:  vision blurred, dry eye.
+
+
+
+   table 4. percent-patient incidence of laboratory abnormalities occurring at a higher incidence in patients treated with mekinist in trial 1 (between-arm difference of >=5% [all grades] or >=2% [grades 3 or 4]  a  )  
+
+
+
+
+  test                                         mekinist    chemotherapy    
+  n = 211                                      n = 99     
+  all  grades                                  grades  3 and 4    all  grades    grades  3 and 4    
+  increased aspartate aminotransferase (ast)    60         2          16         1          
+  increased alanine aminotransferase (alt)     39         3          20         3          
+  hypoalbuminemia                              42         2          23         1          
+  anemia                                       38         2          26         3          
+  increased alkaline phosphatase               24         2          18         3          
+          *       a  no grade 4 events were reported in either treatment arm. 
+    table 5 presents adverse reactions from trial 2, a multicenter, open-label, randomized trial of 162 patients with braf v600e or v600k mutation-positive melanoma receiving mekinist 2 mg once daily in combination with dabrafenib 150 mg twice daily (n = 55), mekinist 1 mg once daily in combination with dabrafenib 150 mg twice daily (n = 54), and dabrafenib as a single agent 150 mg twice daily (n = 53)  [see clinical studies (14.1)]  . patients with abnormal lvef, history of acute coronary syndrome within 6 months, current evidence of class ii or greater congestive heart failure (new york heart association), history of rvo, or rped, qtc interval >=480 msec, treatment refractory hypertension, uncontrolled arrhythmias, history of pneumonitis or interstitial lung disease, or a known history of g6pd deficiency were excluded. the median duration of treatment was 10.9 months for both mekinist (2-mg once-daily treatment group) and dabrafenib when used in combination, 10.6 months for both mekinist (1-mg once-daily treatment group) and dabrafenib when used in combination, and 6.1 months for dabrafenib as a single agent.
+ 
+
+ in trial 2, 13% of patients receiving mekinist in combination with dabrafenib at the recommended dose experienced adverse reactions resulting in permanent discontinuation of trial medication(s). the most common adverse reaction resulting in permanent discontinuation was pyrexia (4%). adverse reactions led to dose reductions in 49% and dose interruptions in 67% of patients treated with mekinist in combination with dabrafenib. pyrexia, chills, and nausea were the most common reasons cited for dose reductions, and pyrexia, chills, and decreased ejection fraction were the most common reasons cited for dose interruptions of mekinist and dabrafenib when used in combination.
+
+
+
+   table 5. common adverse drug reactions occurring in >10% (all grades) or >=5% (grades 3 or 4) of patients treated with mekinist in combination with dabrafenib in trial 2  
+
+
+
+
+   adverse reactions              mekinist 2 mg plus dabrafenib    n = 55      mekinist 1 mg plus dabrafenib    n = 54      dabrafenib    n = 53     
+   all    grades  a               grades    3 and 4      all    grades  a        grades    3 and 4      all    grades  a        grades    3 and 4     
+  
+  general disorders and administrative site conditions    
+     pyrexia                     71            5              69            9             26           0             
+     chills                      58            2              50            2             17           0             
+     fatigue                     53            4              57            2             40           6             
+     edema peripheralb           31            0              28            0             17           0             
+  skin and subcutaneous tissue disorders    
+     rashc                       45            0              43            2             53           0             
+     night sweats                24            0              15            0             6            0             
+     dry skin                    18            0              9             0             6            0             
+     dermatitis acneiform        16            0              11            0             4            0             
+     actinic keratosis           15            0              7             0             9            0             
+     erythema                    15            0              6             0             2            0             
+     pruritus                    11            0              11            0             13           0             
+  gastrointestinal disorders     
+     nausea                      44            2              46            6             21           0             
+     vomiting                    40            2              43            4             15           0             
+     diarrhea                    36            2              26            0             28           0             
+     abdominal paind             33            2              24            2             21           2             
+     constipation                22            0              17            2             11           0             
+     dry mouth                   11            0              11            0             6            0             
+  nervous system disorders       
+     headache                    29            0              37            2             28           0             
+     dizziness                   16            0              13            0             9            0             
+  respiratory, thoracic, and mediastinal disorders    
+     cough                       29            0              11            0             21           0             
+     oropharyngeal pain          13            0              7             0             0            0             
+  musculoskeletal, connective tissue, and bone disorders    
+     arthralgia                  27            0              44            0             34           0             
+     myalgia                     22            2              24            0             23           2             
+     back pain                   18            5              11            0             11           2             
+     muscle spasms               16            0              2             0             4            0             
+     pain in extremity           16            0              11            2             19           0             
+  metabolism and nutritional disorders    
+     decreased appetite          22            0              30            0             19           0             
+     dehydration                 11            0              6             2             2            0             
+  psychiatric disorders          
+     insomnia                    18            0              11            0             8            2             
+  vascular disorders             
+     hemorrhagee                 16            5              11            0             2            0             
+  infections and infestations    
+     urinary tract infection     13            2              6             0             9            2             
+  renal and urinary disorders    
+     renal failuref              7             7              2             0             0            0             
+            *       a  national cancer institute common terminology criteria for adverse events, version 4. 
+ *       b  includes the following terms: peripheral edema, edema, and lymphedema. 
+ *       c  includes the following terms: rash, rash generalized, rash pruritic, rash erythematous, rash papular, rash vesicular, rash macular, and rash maculo-papular. 
+ *       d  includes the following terms: abdominal pain, abdominal pain upper, abdominal pain lower, and abdominal discomfort. 
+ *       e  includes the following terms: brain stem hemorrhage, cerebral hemorrhage, gastric hemorrhage, epistaxis, gingival hemorrhage, hematuria, vaginal hemorrhage, hemorrhage intracranial, eye hemorrhage, and vitreous hemorrhage. 
+ *       f  includes the following terms: renal failure and renal failure acute. 
+    other clinically important adverse reactions (n = 202) observed in <10% of patients treated with mekinist in combination with dabrafenib were:
+ 
+
+   eye disorders:  vision blurred, transient blindness.
+
+
+
+   gastrointestinal disorders:  stomatitis, pancreatitis.
+
+
+
+   general disorders and administration site conditions:  asthenia.
+
+
+
+   infections and infestations:  cellulitis, folliculitis, paronychia, rash pustular.
+
+
+
+   neoplasms benign, malignant, and unspecified (including cysts and polyps):  skin papilloma.
+
+
+
+   skin and subcutaneous tissue disorders:  palmar-plantar erythrodysesthesia syndrome, hyperkeratosis, hyperhidrosis.
+
+
+
+   vascular disorders:  hypertension.
+
+
+
+   table 6. treatment-emergent laboratory abnormalities occurring at >=10% (all grades) or >=2% (grades 3 or 4) of patients treated with mekinist in combination with dabrafenib in trial 2  
+
+
+
+
+  test                                mekinist 2 mg plus dabrafenib  n = 55    mekinist 1 mg plus dabrafenib  n = 54    dabrafenib  n = 53    
+  all  grades                         grades  3 and 4    all  grades    grades  3 and 4    all  grades    grades  3 and 4a    
+  hematology                          
+     leukopenia                       62           5            46            4            21          0             
+     lymphopenia                      55           22           59            19           40          6             
+     neutropenia                      55           13           37            2            9           2             
+     anemia                           55           4            46            7            28          0             
+     thrombocytopenia                 31           4            31            2            8           0             
+  liver function tests                
+     increased ast                    60           5            54            0            15          0             
+     increased alkaline phosphatase    60           2            67            6            26          2             
+     increased alt                    42           4            35            4            11          0             
+     hyperbilirubinemia               15           0            7             4            0           0             
+  chemistry                           
+     hyperglycemia                    58           5            67            6            49          2             
+     increased ggt                    56           11           54            17           38          2             
+     hyponatremia                     55           11           48            15           36          2             
+     hypoalbuminemia                  53           0            43            2            23          0             
+     hypophosphatemia                 47           5            41            11           40          0             
+     hypokalemia                      29           2            15            2            23          6             
+     increased creatinine             24           5            20            2            9           0             
+     hypomagnesemia                   18           2            2             0            6           0             
+     hyperkalemia                     18           0            22            0            15          4             
+     hypercalcemia                    15           0            19            2            4           0             
+     hypocalcemia                     13           0            20            0            9           0             
+            *       a  no grade 4 events were reported in dabrafenib arm. 
+ *     alt = alanine aminotransferase; ast = aspartate aminotransferase; ggt = gamma glutamyltransferase. 
+      qt prolongation:  in trial 2, qtcf prolongation to >500 msec occurred in 4% (2/55) of patients treated with mekinist in combination with dabrafenib and in 2% (1/53) of patients treated with dabrafenib as a single agent. the qtcf was increased more than 60 msec from baseline in 13% (7/55) of patients treated with mekinist in combination with dabrafenib and 2% (1/53) of patients treated with dabrafenib as a single agent.
+    5 warnings and precautions
+
+
+
+   review the full prescribing information for dabrafenib prior to initiation of mekinist in combination with dabrafenib. the following serious adverse reactions of dabrafenib as a single agent, which may occur when mekinist is used in combination with dabrafenib, are not described in the full prescribing information for mekinist:  
+
+
+
+ *     tumor promotion in patients with braf wild-type melanoma  
+ *     hemolytic anemia in patients with glucose-6-phosphate dehydrogenase deficiency  
+   *    new primary malignancies, cutaneous and non-cutaneous, can occur when mekinist is used in combination with dabrafenib. monitor patients for new malignancies prior to initiation of therapy while on therapy, and following discontinuation of the combination treatment. (  5.1  ,  2.3  ) 
+ *    hemorrhage: major hemorrhagic events can occur in patients receiving mekinist in combination with dabrafenib. monitor for signs and symptoms of bleeding (  5.2  ,  2.3  ) 
+ *    venous thromboembolism: deep vein thrombosis and pulmonary embolism can occur in patients receiving mekinist in combination with dabrafenib. (  5.3  ,  2.3  ). 
+ *    cardiomyopathy: assess lvef before treatment, after one month of treatment, then every 2 to 3 months thereafter. (  5.4  ,  2.3  ) 
+ *    ocular toxicities: perform ophthalmologic evaluation for any visual disturbances. for retinal vein occlusion (rvo), permanently discontinue mekinist. (  5.5  ,  2.3  ) 
+ *    interstitial lung disease (ild): withhold mekinist for new or progressive unexplained pulmonary symptoms. permanently discontinue mekinist for treatment-related ild or pneumonitis. (  5.6  ,  2.3  ) 
+ *    serious febrile reactions can occur when mekinist is used in combination with dabrafenib. (  5.7  ,  2.3  ) 
+ *    serious skin toxicity: monitor for skin toxicities and for secondary infections. discontinue for intolerable grade 2, or grade 3 or 4 rash not improving within 3 weeks despite interruption of mekinist. (  5.8  ,  2.3  ) 
+ *    hyperglycemia: monitor serum glucose levels in patients with pre-existing diabetes or hyperglycemia. (  5.9  ,  2.3  ) 
+ *    embryofetal toxicity: can cause fetal harm. advise females of reproductive potential of potential risk to the fetus. (  5.10  ,  8.1  ,  8.6  ) 
+      excerpt:   
+ 
+
+    5.1 new primary malignancies  
+
+
+
+   new primary malignancies, cutaneous and non-cutaneous, can occur when mekinist is used in combination with dabrafenib and with dabrafenib as a single agent [refer to full prescribing information for dabrafenib]  .  
+
+
+
+   cutaneous malignancies:    
+
+
+
+  in trial 2, the incidence of basal cell carcinoma was increased in patients receiving mekinist in combination with dabrafenib, with an incidence of 9% (5/55) in patients receiving mekinist in combination with dabrafenib compared with 2% (1/53) in patients receiving dabrafenib as a single agent. the range of time to diagnosis of basal cell carcinoma was 28 to 249 days in patients receiving mekinist in combination with dabrafenib and was 197 days for the patient receiving dabrafenib as a single agent.  
+
+
+
+  cutaneous squamous cell carcinomas (scc), including keratoacanthoma, occurred in 7% of patients receiving mekinist in combination with dabrafenib and 19% of patients receiving dabrafenib as a single agent. the range of time to diagnosis of cuscc was 136 to 197 days in the combination arm and was 9 to 197 days in the arm receiving dabrafenib as a single agent.  
+
+
+
+  new primary melanoma occurred in 2% (1/53) of patients receiving dabrafenib and in none of the 55 patients receiving mekinist in combination with dabrafenib.  
+
+
+
+  perform dermatologic evaluations prior to initiation of mekinist in combination with dabrafenib, every 2 months while on therapy, and for up to 6 months following discontinuation of the combination. no dose modifications of mekinist or dabrafenib are recommended in patients who develop new primary cutaneous malignancies.  
+
+
+
+   non-cutaneous malignancies:    
+
+
+
+  based on its mechanism of action, dabrafenib may promote growth and development of malignancies with activation of ras through mutation or other mechanisms [refer to the full prescribing information for dabrafenib]  . in patients receiving mekinist in combination with dabrafenib, four cases of non-cutaneous malignancies were identified: kras mutation-positive pancreatic adenocarcinoma (n = 1), recurrent nras mutation-positive colorectal carcinoma (n = 1), head and neck carcinoma (n = 1), and glioblastoma (n = 1). monitor patients receiving the combination closely for signs or symptoms of non-cutaneous malignancies. if used in combination with dabrafenib, no dose modification is required for mekinist in patients who develop non-cutaneous malignancies. permanently discontinue dabrafenib in patients who develop ras mutation-positive non-cutaneous malignancies.  
+
+
+
+     5.2 hemorrhage  
+
+
+
+   hemorrhages, including major hemorrhages defined as symptomatic bleeding in a critical area or organ, can occur when mekinist is used in combination with dabrafenib.  
+
+
+
+  in trial 2, treatment with mekinist in combination with dabrafenib resulted in an increased incidence and severity of any hemorrhagic event: 16% (9/55) of patients treated with mekinist in combination with dabrafenib compared with 2% (1/53) of patients treated with dabrafenib as a single agent. the major hemorrhagic events of intracranial or gastric hemorrhage occurred in 5% (3/55) of patients treated with mekinist in combination with dabrafenib compared with none of the 53 patients treated with dabrafenib as a single agent. intracranial hemorrhage was fatal in two (4%) patients receiving the combination of mekinist and dabrafenib.  
+
+
+
+  permanently discontinue mekinist, and also permanently discontinue dabrafenib if administered in combination, for all grade 4 hemorrhagic events and for any grade 3 hemorrhagic events that do not improve. withhold mekinist for up to 3 weeks for grade 3 hemorrhagic events; if improved resume at a lower dose level. withhold dabrafenib for grade 3 hemorrhagic events; if improved resume at a lower dose level.  
+
+
+
+     5.3 venous thromboembolism  
+
+
+
+   venous thromboembolism can occur when mekinist is used in combination with dabrafenib.  
+
+
+
+  in trial 2, treatment with mekinist in combination with dabrafenib resulted in an increased incidence of deep venous thrombosis (dvt) and pulmonary embolism (pe): 7% (4/55) of patients treated with mekinist in combination with dabrafenib compared with none of the 53 patients treated with dabrafenib as a single agent. pulmonary embolism was fatal in one (2%) patient receiving the combination of mekinist and dabrafenib.  
+
+
+
+  advise patients to immediately seek medical care if they develop symptoms of dvt or pe, such as shortness of breath, chest pain, or arm or leg swelling. permanently discontinue mekinist and dabrafenib for life threatening pe. withhold mekinist for uncomplicated dvt and pe for up to 3 weeks; if improved, mekinist may be resumed at a lower dose level. do not modify the dose of dabrafenib [see dosage and administration (2.3)]  .  
+
+
+
+     5.4 cardiomyopathy  
+
+
+
+   cardiomyopathy can occur when mekinist is administered as a single agent or when used in combination with dabrafenib.  
+
+
+
+  in trial 1, cardiomyopathy (defined as cardiac failure, left ventricular dysfunction, or decreased left ventricular ejection fraction [lvef]) occurred in 7% (14/211) of patients treated with mekinist; no chemotherapy-treated patients in trial 1 developed cardiomyopathy. in trial 2, cardiomyopathy occurred in 9% (5/55) of patients treated with mekinist in combination with dabrafenib and in none of patients treated with dabrafenib as a single agent. the median time to onset of cardiomyopathy in patients treated with mekinist was 63 days (range: 16 to 156 days) for trial 1 and 86 days (range: 27 to 253 days) for trial 2.  
+
+
+
+  cardiomyopathy was identified within the first month of treatment with mekinist in 5 of 14 patients in trial 1 and in 2 of 5 patients in trial 2. development of cardiomyopathy resulted in dose reduction (7/211) and/or discontinuation (4/211) of study drug in trial 1, and resulted in dose reduction (4/55) and/or dose interruption (1/55) in trial 2. cardiomyopathy resolved in 10 of 14 (71%) patients in trial 1 and in all 5 patients in trial 2.  
+
+
+
+  across clinical trials of mekinist administered either as a single agent (n = 329), or in combination with dabrafenib (n = 202), 11% and 8% of patients, respectively, developed evidence of cardiomyopathy (decrease in lvef below institutional lower limits of normal with an absolute decrease in lvef >=10% below baseline). five percent and 2% in single-agent and in combination trials, respectively, demonstrated a decrease in lvef below institutional lower limits of normal with an absolute decrease in lvef of >=20% below baseline.  
+
+
+
+  assess lvef by echocardiogram or multigated acquisition (muga) scan before initiation of mekinist as a single agent and in combination with dabrafenib, one month after initiation, and then at 2- to 3-month intervals while on treatment. withhold treatment with mekinist for up to 4 weeks if absolute lvef value decreases by 10% from pretreatment values and is less than the lower limit of normal. for symptomatic cardiomyopathy or persistent, asymptomatic lv dysfunction that does not resolve within 4 weeks, permanently discontinue mekinist and withhold dabrafenib. resume dabrafenib at the same dose upon recovery of cardiac function [see dosage and administration (2.3)]  .  
+
+
+
+     5.5 ocular toxicities  
+
+
+
+    retinal vein occlusion (rvo):    
+
+
+
+  across all clinical trials of mekinist, the incidence of rvo was 0.2% (4/1,749). rvo may lead to macular edema, decreased visual function, neovascularization, and glaucoma.  
+
+
+
+  urgently (within 24 hours) perform ophthalmological evaluation for patient-reported loss of vision or other visual disturbances. permanently discontinue mekinist in patients with documented rvo. if mekinist is used in combination with dabrafenib, do not modify dabrafenib dose [see dosage and administration (2.3)]  .  
+
+
+
+   retinal pigment epithelial detachment (rped):    
+
+
+
+  retinal pigment epithelial detachment (rped) can occur when mekinist is administered as a single agent or when used in combination with dabrafenib  .
+
+
+
+  in trial 1 and trial 2, ophthalmologic examinations including retinal evaluation were performed pretreatment and at regular intervals during treatment.  
+
+
+
+  in trial 1, one patient (0.5%) receiving mekinist developed rped and no cases of rped were identified in chemotherapy-treated patients. across all clinical trials of mekinist, the incidence of rped was 0.8% (14/1,749). retinal detachments were often bilateral and multifocal, occurring in the macular region of the retina. rped led to reduction in visual acuity that resolved after a median of 11.5 days (range: 3 to 71 days) following the interruption of dosing with mekinist, although ocular coherence tomography (oct) abnormalities persisted beyond a month in at least several cases.  
+
+
+
+  in trial 2, one patient (2%) receiving mekinist in combination with dabrafenib developed rped.  
+
+
+
+  perform ophthalmological evaluation at any time a patient reports visual disturbances and compare with baseline, if available. withhold mekinist if rped is diagnosed. if resolution of the rped is documented on repeat ophthalmological evaluation within 3 weeks, resume mekinist at a lower dose level. discontinue mekinist if no improvement after 3 weeks. if mekinist is used in combination with dabrafenib, do not modify the dose of dabrafenib [see dosage and administration (2.3)]  .  
+
+
+
+   uveitis and iritis:    
+
+
+
+  uveitis and iritis can occur when mekinist is used in combination with dabrafenib and with dabrafenib as a single agent [refer to full prescribing information for dabrafenib]  .  
+
+
+
+  uveitis occurred in 1% (2/202) of patients treated with mekinist in combination with dabrafenib.  
+
+
+
+  symptomatic treatment employed in clinical trials included steroid and mydriatic ophthalmic drops. monitor patients for visual signs and symptoms of uveitis (e.g., change in vision, photophobia, eye pain). if diagnosed, withhold dabrafenib for up to 6 weeks until uveitis/iritis resolves to grade 0-1. if not improved, permanently discontinue dabrafenib. if mekinist is used in combination with dabrafenib, do not modify the dose of mekinist [see dosage and administration (2.3)]  .  
+
+
+
+    5.6 interstitial lung disease
+
+
+
+  in clinical trials of mekinist (n = 329) as a single agent, ild or pneumonitis occurred in 2% of patients. in trial 1, 2% (5/211) of patients treated with mekinist developed ild or pneumonitis; all five patients required hospitalization. the median time to first presentation of ild or pneumonitis was 160 days (range: 60 to 172 days).
+
+
+
+ withhold mekinist in patients presenting with new or progressive pulmonary symptoms and findings including cough, dyspnea, hypoxia, pleural effusion, or infiltrates, pending clinical investigations. permanently discontinue mekinist for patients diagnosed with treatment-related ild or pneumonitis. if mekinist is used in combination with dabrafenib, do not modify the dose of dabrafenib [see dosage and administration (2.3)].    
+
+
+
+     5.7 serious febrile reactions  
+
+
+
+   serious febrile reactions and fever of any severity accompanied by hypotension, rigors or chills, dehydration, or renal failure, can occur when mekinist is used in combination with dabrafenib and with dabrafenib as a single agent [refer to full prescribing information for dabrafenib]  .  
+
+
+
+  the incidence and severity of pyrexia are increased when mekinist is used in combination with dabrafenib compared with dabrafenib as a single agent [see adverse reactions (6.1)]  .  
+
+
+
+  in trial 2, the incidence of fever (serious and non-serious) was 71% (39/55) in patients treated with mekinist in combination with dabrafenib and 26% (14/53) in patients treated with dabrafenib as a single agent. serious febrile reactions and fever of any severity accompanied by hypotension, rigors, or chills occurred in 25% (14/55) of patients treated with mekinist in combination with dabrafenib compared with 2% (1/53) of patients treated with dabrafenib as a single agent. fever was complicated with chills/rigors in 51% (28/55), dehydration in 9% (5/55), renal failure in 4% (2/55), and syncope in 4% (2/55) of patients in trial 2. in patients treated with mekinist in combination with dabrafenib, the median time to initial onset of fever was 30 days compared with 19 days in patients treated with dabrafenib as a single agent; the median duration of fever was 6 days with the combination compared with 4 days with dabrafenib as a single agent.  
+
+
+
+  across clinical trials of mekinist administered in combination with dabrafenib (n = 202), the incidence of pyrexia was 57% (116/202).  
+
+
+
+  withhold dabrafenib for fever of 101.3of or higher. withhold mekinist for fever higher than 104of. withhold dabrafenib and mekinist for any serious febrile reaction or fever accompanied by hypotension, rigors or chills, dehydration, or renal failure, and evaluate for signs and symptoms of infection. refer to table 2 for recommended dose modifications for adverse reactions [see dosage and administration (2.3)]  . prophylaxis with antipyretics may be required when resuming mekinist or dabrafenib.  
+
+
+
+    5.8 serious skin toxicity
+
+
+
+   serious skin toxicity can occur when mekinist is administered as a single agent or when used in combination with dabrafenib. serious skin toxicity can also occur with dabrafenib as a single agent [refer to full prescribing information for dabrafenib]  .  
+
+
+
+ in trial 1, the overall incidence of any skin toxicity, the most common of which were rash, dermatitis acneiform rash, palmar-plantar erythrodysesthesia syndrome, and erythema, was 87% in patients treated with mekinist and 13% in chemotherapy-treated patients. severe skin toxicity occurred in 12% of patients treated with mekinist. skin toxicity requiring hospitalization occurred in 6% of patients treated with mekinist, most commonly for secondary infections of the skin requiring intravenous antibiotics or severe skin toxicity without secondary infection. in comparison, no patients treated with chemotherapy required hospitalization for severe skin toxicity or infections of the skin. the median time to onset of skin toxicity in patients treated with mekinist was 15 days (range: 1 to 221 days) and median time to resolution of skin toxicity was 48 days (range: 1 to 282 days). reductions in the dose of mekinist were required in 12% and permanent discontinuation of mekinist was required in 1% of patients with skin toxicity.
+
+
+
+  in trial 2, the incidence of any skin toxicity was similar for patients receiving mekinist in combination with dabrafenib (65% [36/55]) compared with patients receiving dabrafenib as a single agent (68% [36/53]). the median time to onset of skin toxicity in patients treated with mekinist in combination with dabrafenib was 37 days (range: 1 to 225 days) and median time to resolution of skin toxicity was 33 days (range: 3 to 421 days). no patient required dose reduction or permanent discontinuation of mekinist or dabrafenib for skin toxicity.  
+
+
+
+  across clinical trials of mekinist administered in combination with dabrafenib (n = 202), severe skin toxicity and secondary infection of the skin requiring hospitalization occurred in 2.5% (5/202) of patients treated with mekinist in combination with dabrafenib.  
+
+
+
+  withhold mekinist, and dabrafenib if used in combination, for intolerable or severe skin toxicity. mekinist and dabrafenib may be resumed at lower dose levels in patients with improvement or recovery from skin toxicity within 3 weeks [see dosage and administration (2.3)]  .  
+
+
+
+     5.9 hyperglycemia  
+
+
+
+   hyperglycemia can occur when mekinist is used in combination with dabrafenib and with dabrafenib as a single agent. hyperglycemia requiring an increase in the dose of, or initiation of insulin or oral hypoglycemic agent therapy occurred with dabrafenib as a single agent [refer to full prescribing information for dabrafenib]  .  
+
+
+
+  in trial 2, the incidence of grade 3 hyperglycemia based on laboratory values was 5% (3/55) in patients treated with mekinist in combination with dabrafenib compared with 2% (1/53) in patients treated with dabrafenib as a single agent.  
+
+
+
+  monitor serum glucose levels as clinically appropriate during treatment with mekinist in combination with dabrafenib in patients with pre-existing diabetes or hyperglycemia. advise patients to report symptoms of severe hyperglycemia.  
+
+
+
+    5.10 embryofetal toxicity
+
+
+
+  based on its mechanism of action, mekinist can cause fetal harm when administered to a pregnant woman. mekinist was embryotoxic and abortifacient in rabbits at doses greater than or equal to those resulting in exposures approximately 0.3 times the human exposure at the recommended clinical dose. if this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see use in specific populations (8.1)].  
+
+
+
+ advise female patients of reproductive potential to use highly effective contraception during treatment with mekinist and for 4 months after treatment. advise patients to use a highly effective non-hormonal method of contraception when mekinist is administered in combination with dabrafenib, since dabrafenib can render hormonal contraceptives ineffective.  advise patients to contact their healthcare provider if they become pregnant, or if pregnancy is suspected, while taking mekinist [see use in specific populations (8.1, 8.6)].  

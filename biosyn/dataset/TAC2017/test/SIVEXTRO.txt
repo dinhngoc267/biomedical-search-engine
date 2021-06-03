@@ -1,0 +1,167 @@
+    6 adverse reactions
+
+  excerpt:   the most common adverse reactions (>=2%) are nausea, headache, diarrhea, vomiting, and dizziness. (  6  )
+
+
+
+   to report suspected adverse reactions, contact merck sharp & dohme corp., a subsidiary of merck & co., inc., at 1-877-888-4231 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 adverse reactions in clinical trials
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be compared directly to rates from clinical trials of another drug and may not reflect rates observed in practice.
+
+
+
+ adverse reactions were evaluated for 1050 patients treated with sivextro and 662 patients treated with the comparator antibacterial drug in two phase 2 and two phase 3 clinical trials. the median age of patients treated with sivextro in the phase 2 and phase 3 trials was 42 years, ranging between 17 and 86 years old. patients treated with sivextro were predominantly male (65%) and white (82%).
+
+
+
+     serious adverse reactions and adverse reactions leading to discontinuation  
+
+
+
+ serious adverse reactions occurred in 12/662 (1.8%) of patients treated with sivextro and in 13/662 (2.0%) of patients treated with the comparator. sivextro was discontinued due to an adverse reaction in 3/662 (0.5%) of patients and the comparator was discontinued due to an adverse reaction in 6/662 (0.9%) of patients.
+
+
+
+     most common adverse reactions  
+
+
+
+ the most common adverse reactions in patients treated with sivextro were nausea (8%), headache (6%), diarrhea (4%), vomiting (3%), and dizziness (2%). the median time of onset of adverse reactions was 5 days for both sivextro and linezolid with 12% occurring on the second day of treatment in both treatment groups.
+
+
+
+ table 2 lists selected adverse reactions occurring in at least 2% of patients treated with sivextro in clinical trials.
+
+
+
+ table 2: selected adverse reactions occurring in >=2% of patients receiving sivextro in the pooled phase 3 absssi clinical trials 
+ adverse reactions      pooled phase 3 absssi clinical trials     
+ sivextro(200 mg oral/intravenous once daily for 6 days)(n=662)  linezolid(600 mg oral/intravenous twice daily for 10 days)(n=662)   
+  
+   gastrointestinal disorders     
+   nausea                                 8%                                       12%                      
+   diarrhea                               4%                                        5%                      
+   vomiting                               3%                                        6%                      
+   nervous system disorder     
+   headache                               6%                                        6%                      
+   dizziness                              2%                                        2%                      
+         the following selected adverse reactions were reported in sivextro-treated patients at a rate of less than 2% in these clinical trials:
+ 
+
+   blood and lymphatic system disorders:  anemia
+
+
+
+   cardiovascular:  palpitations, tachycardia
+
+
+
+   eye disorders:  asthenopia, vision blurred, visual impairment, vitreous floaters
+
+
+
+   general disorders and administration site conditions:  infusion-related reactions
+
+
+
+   immune system disorders:  drug hypersensitivity
+
+
+
+   infections and infestations:    clostridium difficile  colitis, oral candidiasis, vulvovaginal mycotic infection
+
+
+
+   investigations:  hepatic transaminases increased, white blood cell count decreased
+
+
+
+   nervous system disorders:  hypoesthesia, paresthesia, vii  th  nerve paralysis
+
+
+
+   psychiatric disorders:  insomnia
+
+
+
+   skin and subcutaneous tissue disorders:  pruritus, urticaria, dermatitis
+
+
+
+   vascular disorders:  flushing, hypertension
+
+
+
+     laboratory parameters  
+
+
+
+ hematology laboratory abnormalities that were determined to be potentially clinically significant in the pooled phase 3 absssi clinical trials are provided in table 3.
+
+
+
+ table 3: potentially clinically significant lowest laboratory values in the pooled phase 3 absssi clinical trials 
+ laboratory assay                potentially clinically significant values   
+ sivextro(200 mg oral/intravenous once daily for 6 days)(n=618)  linezolid(600 mg oral/intravenous twice daily for 10 days)(n=617)   
+  
+ m = male; f = female             
+  
+ hemoglobin  (<10.1 g/dl [m])  (<9 g/dl [f])                 3.1%                                 3.7%                   
+ platelet count  (<112 * 10  3  /mm  3  )                 2.3%                                 4.9%                   
+ absolute neutrophil count  (<0.8 * 10  3  /mm  3  )                 0.5%                                 0.6%                   
+             myelosuppression  
+ 
+
+ phase 1 studies conducted in healthy adults exposed to sivextro for 21 days showed a possible dose and duration effect on hematologic parameters beyond 6 days of treatment. in the phase 3 trials, clinically significant changes in these parameters were generally similar for both treatment arms (see  table 3  ).
+
+
+
+     peripheral and optic neuropathy  
+
+
+
+ peripheral and optic neuropathy have been described in patients treated with another member of the oxazolidinone class for longer than 28 days. in phase 3 trials, reported adverse reactions for peripheral neuropathy and optic nerve disorders were similar between both treatment arms (peripheral neuropathy 1.2% vs. 0.6% for tedizolid phosphate and linezolid, respectively; optic nerve disorders 0.3% vs. 0.2%, respectively). no data are available for patients exposed to sivextro for longer than 6 days.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  patients with neutropenia: the safety and efficacy of sivextro in patients with neutropenia (neutrophil counts <1000 cells/mm  3  ) have not been adequately evaluated. in an animal model of infection, the antibacterial activity of sivextro was reduced in the absence of granulocytes. consider alternative therapies in neutropenic patients. (  5.1  ) 
+ *   clostridium difficile -associated diarrhea: evaluate if diarrhea occurs. (  5.2  ) 
+    
+ 
+
+   5.1 patients with neutropenia
+
+
+
+  the safety and efficacy of sivextro in patients with neutropenia (neutrophil counts <1000 cells/mm  3  ) have not been adequately evaluated. in an animal model of infection, the antibacterial activity of sivextro was reduced in the absence of granulocytes [ see  clinical pharmacology (12.2)    ]. alternative therapies should be considered when treating patients with neutropenia and acute bacterial skin and skin structure infection.
+
+
+
+    5.2 clostridium difficile  -associated diarrhea
+
+
+
+   clostridium difficile  -associated diarrhea (cdad) has been reported for nearly all systemic antibacterial agents including sivextro, with severity ranging from mild diarrhea to fatal colitis. treatment with antibacterial agents can alter the normal flora of the colon and may permit overgrowth of c. difficile  .
+
+
+
+  c. difficile  produces toxins a and b which contribute to the development of cdad. hypertoxin producing strains of c. difficile  cause increased morbidity and mortality, as these infections can be refractory to antibacterial therapy and may require colectomy. cdad must be considered in all patients who present with diarrhea following antibiotic use. careful medical history is necessary because cdad has been reported to occur more than two months after the administration of antibacterial agents.
+
+
+
+ if cdad is suspected or confirmed, antibacterial use not directed against c. difficile  should be discontinued, if possible. appropriate measures such as fluid and electrolyte management, protein supplementation, antibacterial treatment of c. difficile  , and surgical evaluation should be instituted as clinically indicated.
+
+
+
+    5.3 development of drug-resistant bacteria
+
+
+
+  prescribing sivextro in the absence of a proven or strongly suspected bacterial infection or prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

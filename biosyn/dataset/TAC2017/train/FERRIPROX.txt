@@ -1,0 +1,268 @@
+    6 adverse reactions
+
+     excerpt:    *  the most common adverse reactions are (incidence >= 5%) chromaturia, nausea, vomiting and abdominal pain, alanine aminotransferase increased, arthralgia and neutropenia. (  5.1  ,  6  ) 
+ 
+    
+
+  to report suspected adverse reactions, contact apopharma inc. at:  telephone: 1-866-949-0995 
+
+
+
+  email:    medicalsafety@apopharma.com    or fda at 1-800-fda-1088 or        www.fda.gov/medwatch   
+
+
+
+}} 
+
+  6.1 clinical trial experience
+
+  the following adverse reactions are also discussed in other sections of the labeling: agranulocytosis/neutropenia  [see  warnings and precautions (5.1)  ]  . elevated alt  (5.3)  , decreased plasma zinc concentrations  (5.3)  .
+
+
+
+ because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ adverse reaction information for ferriprox represents the pooled data collected from 642 patients who participated in single arm or active-controlled clinical studies.
+
+
+
+ the most serious adverse reaction reported in clinical trials with ferriprox was agranulocytosis  [see  warnings and precautions (5.1)  ]  .
+
+
+
+ the most common adverse reactions reported during clinical trials were chromaturia, nausea, vomiting, abdominal pain, alanine aminotransferase increased, arthralgia and neutropenia.
+
+
+
+ the table below lists the adverse drug reactions that occurred in at least 1% of patients treated with ferriprox in clinical trials.
+
+
+
+ table 2: adverse drug reactions occurring in >= 1% of 642 ferriprox-treated patients 
+   body system                % subjects                
+                            preferred term              
+   blood and lymphatic system disorders     
+                            neutropenia                6.2                         
+                            agranulocytosis            1.7                         
+   gastrointestinal disorders     
+                            nausea                     12.6                        
+                            abdominal pain/discomfort  10.4                        
+                            vomiting                   9.8                         
+                            diarrhea                   3.0                         
+                            dyspepsia                  2.0                         
+   investigations            
+                            alanine aminotransferase increased  7.5                         
+                            neutrophil count decreased  7.3                         
+                            weight increased           1.9                         
+                            aspartate aminotransferase increased  1.2                         
+   metabolism and nutrition disorders     
+                            increased appetite         4.0                         
+                            decreased appetite         1.1                         
+   musculoskeletal and connective tissue disorders     
+                            arthralgia                 9.8                         
+                            back pain                  2.0                         
+                            pain in extremity          1.9                         
+                            arthropathy                1.4                         
+   nervous system disorders     
+                            headache                   2.5                         
+   urinary disorders         
+                            chromaturia                14.6                        
+      gastrointestinal symptoms such as nausea, vomiting, and abdominal pain were the most frequent adverse reactions reported by patients participating in clinical trials and led to the discontinuation of ferriprox therapy in 1.6% of patients.
+ 
+
+ chromaturia (reddish/brown discoloration of the urine) is a result of the excretion of the iron in the urine.
+
+
+
+   6.2 postmarketing experience
+
+  the following additional adverse reactions have been reported in patients receiving ferriprox. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or to establish a causal relationship to drug exposure.
+
+
+
+   blood and lymphatic system disorders:  thrombocytosis, pancytopenia.
+
+
+
+   cardiac disorders  : atrial fibrillation, cardiac failure.
+
+
+
+   congenital, familial and genetic disorders  : hypospadias.    
+
+
+
+   eye disorders  : diplopia, papilledema, retinal toxicity.
+
+
+
+   gastrointestinal disorders  : enterocolitis, rectal hemorrhage, gastric ulcer, pancreatitis, parotid gland enlargement.
+
+
+
+   general disorders and administration site conditions  : chills, pyrexia, edema peripheral, multi-organ failure.
+
+
+
+   hepatobiliary disorders    :  jaundice, hepatomegaly.    
+
+
+
+   immune system disorders:  anaphylactic shock, hypersensitivity.
+
+
+
+ i  nfections and infestations  : cryptococcal cutaneous infection, enteroviral encephalitis, pharyngitis, pneumonia, sepsis, furuncle, infectious hepatitis, rash pustular, subcutaneous abscess.
+
+
+
+   investigations  : blood bilirubin increased, blood creatinine phosphokinase increased.
+
+
+
+   metabolism and nutrition disorders  : metabolic acidosis, dehydration.
+
+
+
+   musculoskeletal and connective tissue disorders  : myositis, chondropathy, trismus.
+
+
+
+   nervous system disorders  : cerebellar syndrome, cerebral hemorrhage, convulsion, gait disturbance, intracranial pressure increased, psychomotor skills impaired, pyramidal tract syndrome, somnolence.
+
+
+
+   psychiatric disorders:  bruxism, depression, obsessive-compulsive disorder.
+
+
+
+   renal disorders:  glycosuria, hemoglobinuria.
+
+
+
+   respiratory, thoracic and mediastinal disorders  : acute respiratory distress syndrome, epistaxis, hemoptysis, pulmonary embolism.
+
+
+
+   skin, subcutaneous tissue disorders:  hyperhidrosis, periorbital edema, photosensitivity reaction, pruritis, urticaria, rash, henoch-schonlein purpura.
+
+
+
+   vascular disorders:  hypotension, hypertension.    
+
+
+    boxed warning: warning: agranulocytosis/neutropenia
+
+  warning: agranulocytosis/neutropenia
+
+    *  ferriprox can cause agranulocytosis that can lead to serious infections and death. neutropenia may precede the development of agranulocytosis. [see warnings and precautions (5.1)] 
+ *  measure the absolute neutrophil count (anc) before starting ferriprox therapy and monitor the anc weekly on therapy. interrupt ferriprox therapy if neutropenia develops. [see warnings and precautions (5.1)] 
+ *  interrupt ferriprox if infection develops, and monitor the anc more frequently. [see warnings and precautions (5.1)] 
+ *  advise patients taking ferriprox to report immediately any symptoms indicative of infection. [see warnings and precautions (5.1)] 
+        
+ 
+
+   excerpt:     warning: agranulocytosis    /neutropenia   
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  ferriprox can cause agranulocytosis that can lead to serious infections and death. neutropenia may precede the development of agranulocytosis. (5.1) 
+ *  measure the absolute neutrophil count (anc) before starting ferriprox and monitor the anc weekly on therapy. (5.1) 
+ *  interrupt ferriprox if infection develops and monitor the anc more frequently. (5.1) 
+ *  advise patients taking ferriprox to report immediately any symptoms indicative of infection. (5.1) 
+    5 warnings and precautions
+
+
+
+     excerpt:    *  if infection occurs while on ferriprox, interrupt therapy and monitor the anc more frequently. (5.1) 
+ *  ferriprox can cause fetal harm. women should be advised of the potential hazard to the fetus and to avoid pregnancy while on this drug. (5.2) 
+    
+ 
+
+   5.1 agranulocytosis/neutropenia
+
+
+
+  fatal agranulocytosis can occur with ferriprox use. ferriprox can also cause neutropenia, which may foreshadow agranulocytosis. measure the absolute neutrophil count (anc) before starting ferriprox therapy and monitor the anc weekly on therapy.
+
+
+
+ interrupt ferriprox therapy if neutropenia develops (anc < 1.5 x 10  9  /l).
+
+
+
+ interrupt ferriprox if infection develops, and monitor the anc more frequently.
+
+
+
+ advise patients taking ferriprox to immediately interrupt therapy and report to their physician if they experience any symptoms indicative of infection.
+
+
+
+ in pooled clinical trials, the incidence of agranulocytosis was 1.7% of patients. the mechanism of ferriprox-associated agranulocytosis is unknown. agranulocytosis and neutropenia usually resolve upon discontinuation of ferriprox, but there have been reports of agranulocytosis leading to death.
+
+
+
+ implement a plan to monitor for and to manage agranulocytosis/neutropenia prior to initiating ferriprox treatment.
+
+
+
+  for neutropenia (anc < 1.5 x 10  9  /l and > 0.5 x 10  9  /l):  
+
+
+
+ instruct the patient to immediately discontinue ferriprox and all other medications with a potential to cause neutropenia.
+
+
+
+ obtain a complete blood cell (cbc) count, including a white blood cell (wbc) count corrected for the presence of nucleated red blood cells, an absolute neutrophil count (anc), and a platelet count daily until recovery (anc >= 1.5 x 10  9  /l).   
+
+
+
+  for agranulocytosis (anc < 0.5 x 10  9  /l):  
+
+
+
+    consider hospitalization and other management as clinically appropriate.
+
+
+
+ do not resume ferriprox in patients who have developed agranulocytosis unless potential benefits outweigh potential risks. do not rechallenge patients who develop neutropenia with ferriprox unless potential benefits outweigh potential risks.
+
+
+
+    5.2 embryofetal toxicity
+
+
+
+  based on evidence of genotoxicity and developmental toxicity in animal studies, ferriprox can cause fetal harm when administered to a pregnant woman. in animal studies, administration of deferiprone during the period of organogenesis resulted in embryofetal death and malformations at doses lower than equivalent human clinical doses. if ferriprox is used during pregnancy or if the patient becomes pregnant while taking ferriprox, the patient should be apprised of the potential hazard to the fetus. women of reproductive potential should be advised to avoid pregnancy when taking ferriprox [see  use in specific populations (8.1)  and  nonclinical toxicology (13.1)  ]  .   
+
+
+
+    5.3 laboratory tests
+
+
+
+   serum liver enzyme activities  
+
+
+
+    in clinical studies, 7.5% of 642 subjects treated with ferriprox developed increased alt values. four (0.62%) ferriprox-treated subjects discontinued the drug due to increased serum alt levels and 1 (0.16%) due to an increase in both alt and ast.
+
+
+
+ monitor serum alt values monthly during therapy with ferriprox, and consider interruption of therapy if there is a persistent increase in the serum transaminase levels.
+
+
+
+  plasma zinc concentration  
+
+
+
+    decreased plasma zinc concentrations have been observed on ferriprox therapy. monitor plasma zinc, and supplement in the event of a deficiency.

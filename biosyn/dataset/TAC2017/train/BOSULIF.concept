@@ -1,0 +1,104 @@
+-1||-1|-1||-1||gastrointestinal toxicity||10059024
+-1||-1|-1||-1||myelosuppression||10065553
+-1||-1|-1||-1||hepatic toxicity||10019851
+-1||-1|-1||-1||fluid retention||10016807
+-1||-1|-1||-1||renal toxicity||10029155
+-1||-1|-1||-1||diarrhea||10012735
+-1||-1|-1||-1||nausea||10028813
+-1||-1|-1||-1||thrombocytopenia||10043554
+-1||-1|-1||-1||vomiting||10047700
+-1||-1|-1||-1||abdominal pain||10000081
+-1||-1|-1||-1||rash||10037844
+-1||-1|-1||-1||anemia||10002034
+-1||-1|-1||-1||pyrexia||10037660
+-1||-1|-1||-1||fatigue||10016256
+-1||-1|-1||-1||anaphylactic shock||10002199
+-1||-1|-1||-1||hepatotoxicity||10019851
+-1||-1|-1||-1||increased alanine aminotransferase||10001551
+-1||-1|-1||-1||headache||10019211
+-1||-1|-1||-1||cough||10011224
+-1||-1|-1||-1||increased aspartate aminotransferase||10003481
+-1||-1|-1||-1||neutropenia||10029354
+-1||-1|-1||-1||edema||10030095
+-1||-1|-1||-1||arthralgia||10003239
+-1||-1|-1||-1||decreased appetite||10061428
+-1||-1|-1||-1||respiratory tract infection||10062352
+-1||-1|-1||-1||nasopharyngitis||10028810
+-1||-1|-1||-1||back pain||10003988
+-1||-1|-1||-1||asthenia||10003549
+-1||-1|-1||-1||pruritus||10037087
+-1||-1|-1||-1||dizziness||10013573
+-1||-1|-1||-1||dyspnea||10013968
+-1||-1|-1||-1||qtcf interval of greater than 500 milliseconds||10014387
+-1||-1|-1||-1||platelet count low||10035528
+-1||-1|-1||-1||absolute neutrophil count less than 1*10 9 /l||10029366
+-1||-1|-1||-1||hemoglobin low||10018884
+-1||-1|-1||-1||sgpt greater than 5.0*uln||10001551
+-1||-1|-1||-1||alt greater than 5.0*uln||10001551
+-1||-1|-1||-1||sgot greater than 5.0*uln||10003481
+-1||-1|-1||-1||ast greater than 5.0*uln||10003481
+-1||-1|-1||-1||lipase greater than 2*uln||10024574
+-1||-1|-1||-1||phosphorus low||10049471
+-1||-1|-1||-1||total bilirubin greater than 3.0*uln||10005364
+-1||-1|-1||-1||febrile neutropenia||10016288
+-1||-1|-1||-1||pericardial effusion||10034474
+-1||-1|-1||-1||pericarditis||10034484
+-1||-1|-1||-1||tinnitus||10043882
+-1||-1|-1||-1||gastritis||10017853
+-1||-1|-1||-1||acute pancreatitis||10033647
+-1||-1|-1||-1||gastrointestinal hemorrhage||10017955
+-1||-1|-1||-1||gastric hemorrhage||10017788
+-1||-1|-1||-1||upper gastrointestinal hemorrhage||10046274
+-1||-1|-1||-1||chest pain||10008479
+-1||-1|-1||-1||chest discomfort||10008469
+-1||-1|-1||-1||pain||10033371
+-1||-1|-1||-1||toxic hepatitis||10019795
+-1||-1|-1||-1||cytolytic hepatitis||10019717
+-1||-1|-1||-1||abnormal hepatic function||10019670
+-1||-1|-1||-1||liver disorder||10024670
+-1||-1|-1||-1||liver injury||10067125
+-1||-1|-1||-1||drug hypersensitivity||10013700
+-1||-1|-1||-1||pneumonia||10035664
+-1||-1|-1||-1||bronchopneumonia||10035664
+-1||-1|-1||-1||lobar pneumonia||10035664
+-1||-1|-1||-1||primary atypical pneumonia||10003757
+-1||-1|-1||-1||influenza||10022000
+-1||-1|-1||-1||bronchitis||10006451
+-1||-1|-1||-1||electrocardiogram qt prolonged||10014387
+-1||-1|-1||-1||increased blood creatine phosphokinase||10005470
+-1||-1|-1||-1||increased blood creatinine||10005483
+-1||-1|-1||-1||hyperkalemia||10020646
+-1||-1|-1||-1||dehydration||10012174
+-1||-1|-1||-1||myalgia||10028411
+-1||-1|-1||-1||dysgeusia||10013911
+-1||-1|-1||-1||acute renal failure||10069339
+-1||-1|-1||-1||renal failure||10038435
+-1||-1|-1||-1||pleural effusion||10035598
+-1||-1|-1||-1||acute pulmonary edema||10001029
+-1||-1|-1||-1||respiratory failure||10038695
+-1||-1|-1||-1||pulmonary hypertension||10037400
+-1||-1|-1||-1||urticaria||10046735
+-1||-1|-1||-1||acne||10000496
+-1||-1|-1||-1||erythema multiforme||10015218
+-1||-1|-1||-1||exfoliative rash||10064579
+-1||-1|-1||-1||drug eruption||10013687
+-1||-1|-1||-1||embryofetal toxicity||10026923
+-1||-1|-1||-1||fetal harm||10016852
+-1||-1|-1||-1||drug induced liver injury||10072268
+-1||-1|-1||-1||elevations in alt||10001551
+-1||-1|-1||-1||elevations in ast||10003481
+-1||-1|-1||-1||total bilirubin greater than 2*uln||10005364
+-1||-1|-1||-1||alkaline phosphatase less than 2*uln||10059570
+-1||-1|-1||-1||alt elevation||10001551
+-1||-1|-1||-1||ast elevation||10003481
+-1||-1|-1||-1||increase in alt||10001551
+-1||-1|-1||-1||increase in ast||10003481
+-1||-1|-1||-1||transaminase elevations||10054889
+-1||-1|-1||-1||increased alt||10001551
+-1||-1|-1||-1||increased ast||10003481
+-1||-1|-1||-1||pulmonary edema||10037423
+-1||-1|-1||-1||peripheral edema||10030124
+-1||-1|-1||-1||pleural effusions||10035598
+-1||-1|-1||-1||pericardial effusions||10034474
+-1||-1|-1||-1||decline in estimated glomerular filtration rate||10018358
+-1||-1|-1||-1||kidney failure||10038435

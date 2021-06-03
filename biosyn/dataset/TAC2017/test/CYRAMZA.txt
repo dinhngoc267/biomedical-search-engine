@@ -1,0 +1,429 @@
+    6 adverse reactions
+
+  the following adverse drug reactions are discussed in greater detail in other sections of the label:
+
+
+
+ *  hemorrhage [see dosage and administration (  2.3  ) and warnings and precautions (  5.1  )] . 
+ *  arterial thromboembolic events [see dosage and administration (  2.3  ) and warnings and precautions (  5.2  )] . 
+ *  hypertension [see dosage and administration (  2.3  ) and warnings and precautions (  5.3  )] . 
+ *  infusion-related reactions [see dosage and administration (  2.3  ) and warnings and precautions (  5.4  )] . 
+ *  gastrointestinal perforation [see dosage and administration (  2.3  ) and warnings and precautions (  5.5  )] . 
+ *  impaired wound healing [see dosage and administration (  2.3  ) and warnings and precautions (  5.6  )] . 
+ *  patients with child-pugh b or c cirrhosis [see warnings and precautions (  5.7  )] . 
+ *  reversible posterior leukoencephalopathy syndrome [see warnings and precautions (  5.8  )] . 
+ *  proteinuria including nephrotic syndrome [see warnings and precautions (  5.9  )] . 
+ *  thyroid dysfunction [see warnings and precautions (  5.10  )].  
+   *  the most common adverse reactions observed in single-agent cyramza-treated patients at a rate of >=10% and >=2% higher than placebo were hypertension and diarrhea. (  6.1  ) 
+ *  the most common adverse reactions observed in patients treated with cyramza plus paclitaxel at a rate of >=30% and >=2% higher than placebo plus paclitaxel were fatigue, neutropenia, diarrhea, and epistaxis. (  6.1  ) 
+ *  the most common adverse reactions observed in patients treated with cyramza plus docetaxel at a rate of >=30% and >=2% higher than placebo plus docetaxel were neutropenia, fatigue/asthenia, and stomatitis/mucosal inflammation. (  6.1  ) 
+ *  the most common adverse reactions observed in patients treated with cyramza plus folfiri at a rate of >=30% and >=2% higher than placebo plus folfiri were diarrhea, neutropenia, decreased appetite, epistaxis, and stomatitis. (  6.1  ) 
+      excerpt:     to report suspected adverse reactions, contact eli lilly and company at 1-800-lillyrx (1-800-545-5979) or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+   gastric cancer  
+
+
+
+ safety data are presented from two randomized, placebo controlled clinical trials in which patients received cyramza: study 1, a randomized (2:1), double-blind, clinical trial in which 351 patients received either cyramza 8 mg/kg intravenously every two weeks or placebo every two weeks and study 2, a double-blind, randomized (1:1) clinical trial in which 656 patients received paclitaxel 80 mg/m  2  on days 1, 8, and 15 of each 28-day cycle plus either cyramza 8 mg/kg intravenously every two weeks or placebo every two weeks. both trials excluded patients with eastern cooperative oncology group (ecog) performance status (ps) of 2 or greater, uncontrolled hypertension, major surgery within 28 days, or patients receiving chronic anti-platelet therapy other than once daily aspirin. study 1 excluded patients with bilirubin >=1.5 mg/dl and study 2 excluded patients with bilirubin >1.5 times the upper limit of normal.
+
+
+
+     cyramza administered as a single agent  
+
+
+
+ among 236 patients who received cyramza (safety population) in study 1, median age was 60 years, 28% were women, 76% were white, and 16% were asian. patients in study 1 received a median of 4 doses of cyramza; the median duration of exposure was 8 weeks, and 32 (14% of 236) patients received cyramza for at least six months.
+
+
+
+ in study 1, the most common adverse reactions (all grades) observed in cyramza-treated patients at a rate of >=10% and >=2% higher than placebo were hypertension and diarrhea. the most common serious adverse events with cyramza were anemia (3.8%) and intestinal obstruction (2.1%). red blood cell transfusions were given to 11% of cyramza-treated patients versus 8.7% of patients who received placebo.
+
+
+
+   table 2  provides the frequency and severity of adverse reactions in study 1.
+
+
+
+ table 2: adverse reactions occurring at incidence rate >=5% and a >=2% difference between arms in patients receiving cyramza in study 1 
+                                       
+  
+   adverse reactions (meddra)    system organ class      cyramza (8 mg/kg)    n=236      placebo    n=115     
+   all grades    (frequency %)          grade 3-4    (frequency %)      all grades    (frequency %)      grade 3-4    (frequency %)     
+   gastrointestinal disorders          
+      diarrhea                        14               1                9                 2                   
+   metabolism and nutrition disorders     
+      hyponatremia                    6                3                2                 1                   
+   nervous system disorders            
+      headache                        9                0                3                 0                   
+   vascular disorders                  
+      hypertension                    16               8                8                 3                   
+           clinically relevant adverse reactions reported in >=1% and <5% of cyramza-treated patients in study 1 were: neutropenia (4.7% cyramza versus 0.9% placebo), epistaxis (4.7% cyramza versus 0.9% placebo), rash (4.2% cyramza versus 1.7% placebo), intestinal obstruction (2.1% cyramza versus 0% placebo), and arterial thromboembolic events (1.7% cyramza versus 0% placebo)  [see dosage and administration (  2.3  ) and warnings and precautions (  5.1  ,  5.2  )]  .
+ 
+
+ across clinical trials of cyramza administered as a single agent, clinically relevant adverse reactions (including grade >=3) reported in cyramza-treated patients included proteinuria, gastrointestinal perforation, and infusion-related reactions.
+
+
+
+ in study 1, according to laboratory assessment, 8% of cyramza-treated patients developed proteinuria versus 3% of placebo-treated patients. two patients discontinued cyramza due to proteinuria. the rate of gastrointestinal perforation in study 1 was 0.8% and the rate of infusion-related reactions was 0.4%  [see dosage and administration (  2.2  ,  2.3  ) and warnings and precautions (  5.4  ,  5.5  )]  .
+
+
+
+     cyramza administered in combination with paclitaxel  
+
+
+
+ among 327 patients who received cyramza (safety population) in study 2, median age was 61 years, 31% were women, 63% were white, and 33% were asian. patients in study 2 received a median of 9 doses of cyramza; the median duration of exposure was 18 weeks, and 93 (28% of 327) patients received cyramza for at least six months.
+
+
+
+ in study 2, the most common adverse reactions (all grades) observed in patients treated with cyramza plus paclitaxel at a rate of >=30% and >=2% higher than placebo plus paclitaxel were fatigue, neutropenia, diarrhea, and epistaxis. the most common serious adverse events with cyramza plus paclitaxel were neutropenia (3.7%) and febrile neutropenia (2.4%); 19% of patients treated with cyramza plus paclitaxel received granulocyte colony-stimulating factors. adverse reactions resulting in discontinuation of any component of the cyramza plus paclitaxel combination in 2% or more patients in study 2 were neutropenia (4%) and thrombocytopenia (3%).
+
+
+
+   table 3  provides the frequency and severity of adverse reactions in study 2.
+
+
+
+ table 3: adverse reactions occurring at incidence rate >=5% and a >=2% difference between arms in patients receiving cyramza plus paclitaxel in study 2 
+   adverse reactions (meddra) system organ class      cyramza plus paclitaxel    (n=327)      placebo plus paclitaxel    (n=329)     
+   all grades    (frequency %)           grade >=3 (frequency %)      all grades    (frequency %)      grade >=3 (frequency %)     
+   blood and lymphatic system disorders     
+      neutropenia                      54               41               31               19                 
+      thrombocytopenia                 13               2                6                2                  
+   gastrointestinal disorders           
+      diarrhea                         32               4                23               2                  
+      gastrointestinal hemorrhage events  10               4                6                2                  
+      stomatitis                       20               1                7                1                  
+   general disorders and administration site disorders     
+      fatigue/asthenia                 57               12               44               6                  
+      peripheral edema                 25               2                14               1                  
+   metabolism and nutrition disorders     
+      hypoalbuminemia                  11               1                5                1                  
+   renal and urinary disorders          
+      proteinuria                      17               1                6                0                  
+   respiratory, thoracic, and mediastinal disorders     
+      epistaxis                        31               0                7                0                  
+   vascular disorder                    
+      hypertension                     25               15               6                3                  
+           clinically relevant adverse reactions reported in >=1% and <5% of the cyramza plus paclitaxel treated patients in study 2 were sepsis (3.1% cyramza plus paclitaxel versus 1.8% placebo plus paclitaxel) and gastrointestinal perforations (1.2% cyramza plus paclitaxel versus 0.3% for placebo plus paclitaxel).
+ 
+
+     non-small cell lung cancer  
+
+
+
+     cyramza administered in combination with docetaxel  
+
+
+
+ study 3 was a multinational, randomized, double-blind study conducted in patients with nsclc with disease progression on or after one platinum-based therapy for locally advanced or metastatic disease. patients received either cyramza 10 mg/kg intravenously plus docetaxel 75 mg/m  2  intravenously every 3 weeks or placebo plus docetaxel 75 mg/m  2  intravenously every 3 weeks. due to an increased incidence of neutropenia and febrile neutropenia in patients enrolled in east asian sites, study 3 was amended and 24 patients (11 cyramza plus docetaxel, 13 placebo plus docetaxel) at east asian sites received a starting dose of docetaxel at 60 mg/m  2  every 3 weeks.
+
+
+
+ study 3 excluded patients with an ecog ps of 2 or greater, bilirubin greater than the upper limit of normal (uln), uncontrolled hypertension, major surgery within 28 days, radiographic evidence of major airway or blood vessel invasion by cancer, radiographic evidence of intra-tumor cavitation, or gross hemoptysis within the preceding 2 months, and patients receiving therapeutic anticoagulation or chronic anti-platelet therapy other than once daily aspirin. the study also excluded patients whose only prior treatment for advanced nsclc was a tyrosine kinase (epidermal growth factor receptor [egfr] or anaplastic lymphoma kinase [alk]) inhibitor.
+
+
+
+ the data described below reflect exposure to cyramza plus docetaxel in 627 patients in study 3. demographics and baseline characteristics were similar between treatment arms. median age was 62 years; 67% of patients were men; 84% were white and 12% were asian; 33% had ecog ps 0; 74% had non-squamous histology and 25% had squamous histology. patients received a median of 4.5 doses of cyramza; the median duration of exposure was 3.5 months, and 195 (31% of 627) patients received cyramza for at least six months.
+
+
+
+ in study 3, the most common adverse reactions (all grades) observed in cyramza plus docetaxel-treated patients at a rate of >=30% and >=2% higher than placebo plus docetaxel were neutropenia, fatigue/asthenia, and stomatitis/mucosal inflammation. treatment discontinuation due to adverse reactions occurred more frequently in cyramza plus docetaxel-treated patients (9%) than in placebo plus docetaxel-treated patients (5%). the most common adverse events leading to treatment discontinuation of cyramza were infusion-related reaction (0.5%) and epistaxis (0.3%). for patients with non-squamous histology, the overall incidence of pulmonary hemorrhage was 7% and the incidence of >=grade 3 pulmonary hemorrhage was 1% for cyramza plus docetaxel compared to 6% overall incidence and 1% for >=grade 3 pulmonary hemorrhage for placebo plus docetaxel. for patients with squamous histology, the overall incidence of pulmonary hemorrhage was 10% and the incidence of >=grade 3 pulmonary hemorrhage was 2% for cyramza plus docetaxel compared to 12% overall incidence and 2% for >=grade 3 pulmonary hemorrhage for placebo plus docetaxel.
+
+
+
+ the most common serious adverse events with cyramza plus docetaxel were febrile neutropenia (14%), pneumonia (6%), and neutropenia (5%). the use of granulocyte colony-stimulating factors was 42% in cyramza plus docetaxel-treated patients versus 37% in patients who received placebo plus docetaxel. in patients >=65 years, there were 18 (8%) deaths on treatment or within 30 days of discontinuation for cyramza plus docetaxel and 9 (4%) deaths for placebo plus docetaxel. in patients <65 years, there were 13 (3%) deaths on treatment or within 30 days of discontinuation for cyramza plus docetaxel and 26 (6%) deaths for placebo plus docetaxel.
+
+
+
+   table 4  provides the frequency and severity of adverse reactions in study 3.
+
+
+
+ table 4: adverse reactions occurring at incidence rate >=5% and a >=2% difference between arms in patients receiving cyramza in study 3 
+   adverse reactions (meddra)    system organ class      cyramza plus docetaxel    (n=627)      placebo plus docetaxel    (n=618)     
+   all grades    (frequency %)            grade 3-4    (frequency %)      all grades    (frequency %)      grade 3-4    (frequency %)     
+   blood and lymphatic system disorders     
+        febrile neutropenia             16               16                10                10                
+        neutropenia                     55               49                46                40                
+        thrombocytopenia                13               3                 5                 <1                
+   gastrointestinal disorders            
+        stomatitis/mucosal inflammation  37               7                 19                2                 
+   eye disorders                         
+        lacrimation increased           13               <1                5                 0                 
+   general disorders and administration site disorders     
+        fatigue/asthenia                55               14                50                11                
+        peripheral edema                16               0                 9                 <1                
+   respiratory, thoracic, and mediastinal disorders     
+        epistaxis                       19               <1                7                 <1                
+   vascular disorders                    
+        hypertension                    11               6                 5                 2                 
+           clinically relevant adverse drug reactions reported in >=1% and <5% of the cyramza plus docetaxel-treated patients in study 3 were hyponatremia (4.8% cyramza plus docetaxel versus 2.4% for placebo plus docetaxel) and proteinuria (3.3% cyramza plus docetaxel versus 0.8% placebo plus docetaxel).
+ 
+
+     colorectal cancer  
+
+
+
+     cyramza administered in combination with folfiri  
+
+
+
+ study 4 was a multinational, randomized, double-blind study conducted in patients with metastatic colorectal cancer with disease progression on or after therapy with bevacizumab, oxaliplatin, and a fluoropyrimidine. patients received either cyramza 8 mg/kg intravenously plus folfiri intravenously every 2 weeks or placebo plus folfiri intravenously every 2 weeks.
+
+
+
+ study 4 excluded patients with an ecog ps of 2 or greater, uncontrolled hypertension, major surgery within 28 days, and those who experienced any of the following during first-line therapy with a bevacizumab-containing regimen: an arterial thrombotic/thromboembolic event; grade 4 hypertension; grade 3 proteinuria; a grade 3-4 bleeding event; or bowel perforation.
+
+
+
+ demographics and baseline characteristics for the treated population were similar between treatment arms (n=1057). median age was 62 years; 57% of patients were men; 76% were white and 20% were asian; 48% had ecog ps 0.
+
+
+
+ the data described in this section reflect exposure to cyramza plus folfiri in 529 patients in study 4. patients received a median of 8 doses (range 1-68) of cyramza; the median duration of exposure was 4.4 months, and 169 (32% of 529) patients received cyramza for at least six months. the most common adverse reactions (all grades) observed in cyramza plus folfiri-treated patients at a rate of >=30% and >=2% higher than placebo plus folfiri were diarrhea, neutropenia, decreased appetite, epistaxis, and stomatitis. twenty percent of patients treated with cyramza plus folfiri received granulocyte colony-stimulating factors. treatment discontinuation of any study drug due to adverse reactions occurred more frequently in cyramza plus folfiri-treated patients (29%) than in placebo plus folfiri-treated patients (13%).
+
+
+
+ the most common adverse reactions leading to discontinuation of any component of cyramza plus folfiri as compared to placebo plus folfiri, were neutropenia (12.5% versus 5.3%) and thrombocytopenia (4.2% versus 0.8%). the most common adverse reactions leading to treatment discontinuation of cyramza were proteinuria (1.5%) and gastrointestinal perforation (1.7%).
+
+
+
+ the most common serious adverse events with cyramza plus folfiri were diarrhea (3.6%), intestinal obstruction (3.0%), and febrile neutropenia (2.8%).
+
+
+
+   table 5  provides the frequency and severity of adverse reactions in study 4.
+
+
+
+ table 5: adverse reactions occurring at incidence rate >=5% and a >=2% difference between arms in patients receiving cyramza in study 4 
+  a includes 3 patients with nephrotic syndrome in the cyramza plus folfiri treatment group.    
+  
+   adverse reactions (meddra)    system organ class      cyramza plus folfiri    n=529      placebo plus folfiri    n=528     
+   all grades    (frequency %)          grade >=3    (frequency %)      all grades    (frequency %)      grade >=3    (frequency %)     
+   blood and lymphatic system disorders     
+      neutropenia                     59               38               46                23                  
+      thrombocytopenia                28               3                14                <1                  
+   gastrointestinal disorders          
+      decreased appetite              37               2                27                2                   
+      diarrhea                        60               11               51                10                  
+      gastrointestinal hemorrhage events  12               2                7                 1                   
+      stomatitis                      31               4                21                2                   
+   general disorders and administration site disorders     
+      peripheral edema                20               <1               9                 0                   
+   metabolism and nutrition disorders     
+      hypoalbuminemia                 6                1                2                 0                   
+   renal and urinary disorders         
+      proteinuria  a                  17               3                5                 <1                  
+   respiratory, thoracic, and mediastinal disorders     
+      epistaxis                       33               0                15                0                   
+   skin and subcutaneous tissue disorders     
+      palmar-plantar erythrodysesthesia syndrome  13               1                5                 <1                  
+   vascular disorders                  
+      hypertension                    26               11               9                 3                   
+           clinically relevant adverse reactions reported in >=1% and <5% of cyramza plus folfiri-treated patients in study 4 consisted of gastrointestinal perforation (1.7% cyramza plus folfiri versus 0.6% for placebo plus folfiri).
+ 
+
+ thyroid stimulating hormone (tsh) levels were evaluated in 224 patients (115 cyramza plus folfiri-treated patients and 109 placebo plus folfiri-treated patients) with normal baseline tsh levels. patients underwent periodic tsh laboratory assessments until 30 days after the last dose of study treatment. increased tsh levels were observed in 53 (46%) patients treated with cyramza plus folfiri compared with 4 (4%) patients treated with placebo plus folfiri.
+
+
+
+   6.2 immunogenicity
+
+  as with all therapeutic proteins, there is the potential for immunogenicity. in 23 clinical trials, 86/2890 (3.0%) of cyramza-treated patients tested positive for treatment-emergent anti-ramucirumab antibodies by an enzyme-linked immunosorbent assay (elisa). neutralizing antibodies were detected in 14 of the 86 patients who tested positive for treatment-emergent anti-ramucirumab antibodies.
+
+
+
+ the detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of incidence of antibodies to cyramza with the incidences of antibodies to other products may be misleading.
+
+
+    boxed warning: warning: hemorrhage, gastrointestinal perforation, and impaired wound healing
+
+
+
+  warning: hemorrhage, gastrointestinal perforation, and impaired wound healing
+
+
+
+    hemorrhage: cyramza increased the risk of hemorrhage and gastrointestinal hemorrhage, including severe and sometimes fatal hemorrhagic events. permanently discontinue cyramza in patients who experience severe bleeding 
+
+    [see dosage and administration (  2.3  ), warnings and precautions (  5.1  )]  .
+
+
+
+
+
+   gastrointestinal perforation: cyramza can increase the risk of gastrointestinal perforation, a potentially fatal event. permanently discontinue cyramza in patients who experience a gastrointestinal perforation
+
+    [see dosage and administration (  2.3  ), warnings and precautions (  5.5  )].  
+
+
+
+   impaired wound healing: impaired wound healing can occur with antibodies inhibiting the vegf pathway. discontinue cyramza therapy in patients with impaired wound healing. withhold cyramza prior to surgery and discontinue cyramza if a patient develops wound healing complications 
+
+    [see dosage and administration (  2.3  ), warnings and precautions (  5.6  )].  
+
+
+
+   excerpt:     warning: hemorrhage, gastrointestinal perforation, and impaired wound healing  
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  hemorrhage: cyramza increased the risk of hemorrhage, and gastrointestinal hemorrhage, including severe and sometimes fatal hemorrhagic events. permanently discontinue cyramza in patients who experience severe bleeding. (2.3, 5.1) 
+ *  gastrointestinal perforation: permanently discontinue cyramza in patients who experience a gastrointestinal perforation. (2.3, 5.5) 
+ *  impaired wound healing: withhold cyramza prior to surgery and discontinue cyramza if a patient develops wound healing complications (2.3, 5.6) 
+    5 warnings and precautions
+
+
+
+   excerpt:    *  arterial thromboembolic events (ates): serious, sometimes fatal ates have been reported in clinical trials. discontinue cyramza for severe ates. (  5.2  ) 
+ *  hypertension: monitor blood pressure and treat hypertension. temporarily suspend cyramza for severe hypertension. discontinue cyramza for hypertension that cannot be medically controlled. (  5.3  ) 
+ *  infusion-related reactions: monitor for signs and symptoms during infusion. (  5.4  ) 
+ *  impaired wound healing: withhold cyramza prior to surgery. (  5.6  ) 
+ *  clinical deterioration in patients with cirrhosis: new onset or worsening encephalopathy, ascites, or hepatorenal syndrome can occur in patients with child-pugh b or c cirrhosis. (  5.7  ) 
+ *  reversible posterior leukoencephalopathy syndrome: discontinue cyramza. (  5.8  ) 
+ *  proteinuria including nephrotic syndrome: monitor proteinuria. interrupt cyramza for urine protein levels >=2 g/24 hours. permanently discontinue cyramza for urine protein levels >3 g/24 hours or for nephrotic syndrome. (  5.9  ) 
+ *  thyroid dysfunction: monitor thyroid function during treatment with cyramza. (  5.10  ) 
+ *  embryofetal risk: can cause fetal harm. (  5.11  ) 
+    
+ 
+
+      5.1 hemorrhage
+
+
+
+     cyramza increased the risk of hemorrhage and gastrointestinal hemorrhage, including severe and sometimes fatal hemorrhagic events. in study 1, the incidence of severe bleeding was 3.4% for cyramza and 2.6% for placebo. in study 2, the incidence of severe bleeding was 4.3% for cyramza plus paclitaxel and 2.4% for placebo plus paclitaxel.
+
+
+
+    patients with gastric cancer receiving nonsteroidal anti-inflammatory drugs (nsaids) were excluded from enrollment in studies 1 and 2; therefore, the risk of gastric hemorrhage in cyramza-treated patients with gastric tumors receiving nsaids is unknown.
+
+
+
+    in study 3, the incidence of severe bleeding was 2.4% for cyramza plus docetaxel and 2.3% for placebo plus docetaxel. patients with nsclc receiving therapeutic anticoagulation or chronic therapy with nsaids or other anti-platelet therapy other than once daily aspirin or with radiographic evidence of major airway or blood vessel invasion or intratumor cavitation were excluded from study 3; therefore the risk of pulmonary hemorrhage in these groups of patients is unknown.
+
+
+
+    in study 4, the incidence of severe bleeding was 2.5% for cyramza plus folfiri and 1.7% for placebo plus folfiri.
+
+
+
+    permanently discontinue cyramza in patients who experience severe bleeding [see dosage and administration (  2.3  )]  .
+
+
+
+    5.2 arterial thromboembolic events
+
+
+
+  serious, sometimes fatal, arterial thromboembolic events (ates) including myocardial infarction, cardiac arrest, cerebrovascular accident, and cerebral ischemia occurred in clinical trials including 1.7% of 236 patients who received cyramza as a single agent for gastric cancer in study 1. permanently discontinue cyramza in patients who experience a severe ate [see dosage and administration (  2.3  )]  .
+
+
+
+       5.3 hypertension
+
+
+
+     an increased incidence of severe hypertension occurred in patients receiving cyramza as a single agent (8%) as compared to placebo (3%), in patients receiving cyramza plus paclitaxel (15%) as compared to placebo plus paclitaxel (3%), in patients receiving cyramza plus docetaxel (6%) as compared to placebo plus docetaxel (2%), and in patients receiving cyramza plus folfiri (11%) as compared to placebo plus folfiri (3%).
+
+
+
+ control hypertension prior to initiating treatment with cyramza. monitor blood pressure every two weeks or more frequently as indicated during treatment.
+
+
+
+ temporarily suspend cyramza for severe hypertension until medically controlled. permanently discontinue cyramza if medically significant hypertension cannot be controlled with antihypertensive therapy or in patients with hypertensive crisis or hypertensive encephalopathy [see dosage and administration (  2.3  )]  .
+
+
+
+    5.4 infusion-related reactions
+
+
+
+  prior to the institution of premedication recommendations across clinical trials of cyramza, irrs occurred in 6 out of 37 patients (16%), including two severe events. the majority of irrs across trials occurred during or following a first or second cyramza infusion. symptoms of irrs included rigors/tremors, back pain/spasms, chest pain and/or tightness, chills, flushing, dyspnea, wheezing, hypoxia, and paresthesia. in severe cases, symptoms included bronchospasm, supraventricular tachycardia, and hypotension.
+
+
+
+ monitor patients during the infusion for signs and symptoms of irrs in a setting with available resuscitation equipment. immediately and permanently discontinue cyramza for grade 3 or 4 irrs [see dosage and administration (  2.3  )]  .
+
+
+
+       5.5 gastrointestinal perforations
+
+
+
+     cyramza is an antiangiogenic therapy that can increase the risk of gastrointestinal perforation, a potentially fatal event. four of 570 patients (0.7%) who received cyramza as a single agent in clinical trials experienced gastrointestinal perforation. in study 2, the incidence of gastrointestinal perforation was also increased in patients that received cyramza plus paclitaxel (1.2%) as compared to patients receiving placebo plus paclitaxel (0.3%). in study 3, the incidence of gastrointestinal perforation was 1% for cyramza plus docetaxel and 0.3% for placebo plus docetaxel. in study 4, the incidence of gastrointestinal perforation was 1.7% for cyramza plus folfiri and 0.6% for placebo plus folfiri. permanently discontinue cyramza in patients who experience a gastrointestinal perforation [see dosage and administration (  2.3  )]  .
+
+
+
+       5.6 impaired wound healing
+
+
+
+     impaired wound healing can occur with antibodies inhibiting the vegf pathway. cyramza has not been studied in patients with serious or non-healing wounds. cyramza, an antiangiogenic therapy, has the potential to adversely affect wound healing. discontinue cyramza therapy in patients with impaired wound healing.
+
+
+
+    withhold cyramza prior to surgery. resume following the surgical intervention based on clinical judgment of adequate wound healing. if a patient develops wound healing complications during therapy, discontinue cyramza until the wound is fully healed [see dosage and administration (  2.3  )]  .
+
+
+
+    5.7 clinical deterioration in patients with child-pugh b or c cirrhosis
+
+
+
+  clinical deterioration, manifested by new onset or worsening encephalopathy, ascites, or hepatorenal syndrome was reported in patients with child-pugh b or c cirrhosis who received single-agent cyramza. use cyramza in patients with child-pugh b or c cirrhosis only if the potential benefits of treatment are judged to outweigh the risks of clinical deterioration.
+
+
+
+    5.8 reversible posterior leukoencephalopathy syndrome
+
+
+
+  reversible posterior leukoencephalopathy syndrome (rpls) has been reported with a rate of <0.1% in clinical studies with cyramza. confirm the diagnosis of rpls with mri and discontinue cyramza in patients who develop rpls. symptoms may resolve or improve within days, although some patients with rpls can experience ongoing neurologic sequelae or death.
+
+
+
+       5.9 proteinuria including nephrotic syndrome
+
+
+
+     in study 4, severe proteinuria occurred more frequently in patients treated with cyramza plus folfiri compared to patients receiving placebo plus folfiri. severe proteinuria was reported in 3% of patients treated with cyramza plus folfiri (including 3 cases [0.6%] of nephrotic syndrome) compared to 0.2% of patients treated with placebo plus folfiri.
+
+
+
+    monitor proteinuria by urine dipstick and/or urinary protein creatinine ratio for the development of worsening of proteinuria during cyramza therapy.
+
+
+
+    withhold cyramza for urine protein levels that are 2 or more grams over 24 hours. reinitiate cyramza at a reduced dose once the urine protein level returns to less than 2 grams over 24 hours. permanently discontinue cyramza for urine protein levels greater than 3 grams over 24 hours or in the setting of nephrotic syndrome [see dosage and administration (  2.3  )].  
+
+
+
+       5.10 thyroid dysfunction
+
+
+
+     monitor thyroid function during treatment with cyramza. in study 4, the incidence of hypothyroidism reported as an adverse event was 2.6% in the cyramza plus folfiri treated patients and 0.9% in the placebo plus folfiri treated patients.
+
+
+
+       5.11 embryofetal toxicity
+
+
+
+     based on its mechanism of action, cyramza can cause fetal harm when administered to pregnant women. animal models link angiogenesis, vegf and vegf receptor 2 (vegfr2) to critical aspects of female reproduction, embryofetal development, and postnatal development. advise pregnant women of the potential risk to a fetus. advise females of reproductive potential to use effective contraception during treatment with cyramza and for at 3 least months after the last dose of cyramza [see use in specific populations (  8.1  ,  8.3  )]  .

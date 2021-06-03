@@ -1,0 +1,185 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *  bone marrow suppression [see warnings and precautions (  5.1  )]  
+ *  mucositis [see warnings and precautions (  5.2  )]  
+ *  dermatologic reactions [see warnings and precautions (  5.3  )]  
+ *  tumor lysis syndrome [see warnings and precautions (  5.4  )]  
+ *  hepatic toxicity [see warnings and precautions (  5.5  )]  
+    the most common adverse reactions observed in patients with peripheral t-cell lymphoma (ptcl) treated with folotyn were mucositis, thrombocytopenia, nausea, and fatigue.
+ 
+
+   excerpt:   most common adverse reactions (>35%) are mucositis, thrombocytopenia, nausea, and fatigue. most common serious adverse reactions are pyrexia, mucositis, sepsis, febrile neutropenia, dehydration, dyspnea, and thrombocytopenia. (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact allos therapeutics, inc at 1-888-allos88 (1-888-255-6788) or    www.folotyn.com    or fda at 1-800-fda-1088 or    www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+
+
+ the safety of folotyn was evaluated in 111 ptcl patients in a single-arm clinical study in which patients received a starting dose of 30 mg/m  2  once weekly for 6 weeks in 7-week cycles. the median duration of treatment was 70 days (range 1-540 days).
+
+
+
+     most frequent adverse reactions  
+
+
+
+   table 4  summarizes the most frequent adverse reactions, regardless of causality, using the national cancer institute-common terminology criteria for adverse events (nci ctcae, version 3.0).
+
+
+
+ table 4 adverse reactions occurring in ptcl patients (incidence >= 10% of patients) 
+                                                                n=111     
+   total                                                        grade 3      grade 4     
+   preferred term                                               n       %       n       %       n       %      
+  
+  astomatitis or mucosal inflammation of the gastrointestinal and genitourinary tracts.    
+  bfive patients with platelets < 10,000/mcl                   
+  calanine aminotransferase, aspartate aminotransferase, and transaminases increased    
+  
+ any adverse event                                            111     100     48      43      34      31       
+        mucositis  a                                          78      70      19      17      4       4        
+        thrombocytopenia  b                                   45      41      15      14      21      19  b     
+        nausea                                                44      40      4       4       0       0        
+        fatigue                                               40      36      5       5       2       2        
+        anemia                                                38      34      17      15      2       2        
+        constipation                                          37      33      0       0       0       0        
+        pyrexia                                               36      32      1       1       1       1        
+        edema                                                 33      30      1       1       0       0        
+        cough                                                 31      28      1       1       0       0        
+        epistaxis                                             29      26      0       0       0       0        
+        vomiting                                              28      25      2       2       0       0        
+        neutropenia                                           27      24      14      13      8       7        
+        diarrhea                                              23      21      2       2       0       0        
+        dyspnea                                               21      19      8       7       0       0        
+        anorexia                                              17      15      3       3       0       0        
+        hypokalemia                                           17      15      4       4       1       1        
+        rash                                                  17      15      0       0       0       0        
+        pruritus                                              16      14      2       2       0       0        
+        pharyngolaryngeal pain                                15      14      1       1       0       0        
+        liver function test abnormal  c                       14      13      6       5       0       0        
+        abdominal pain                                        13      12      4       4       0       0        
+        pain in extremity                                     13      12      0       0       0       0        
+        back pain                                             12      11      3       3       0       0        
+        leukopenia                                            12      11      3       3       4       4        
+        night sweats                                          12      11      0       0       0       0        
+        asthenia                                              11      10      1       1       0       0        
+        tachycardia                                           11      10      0       0       0       0        
+        upper respiratory tract infection                     11      10      1       1       0       0        
+                 serious adverse events  
+ 
+
+ forty-four percent of patients (n = 49) experienced a serious adverse event while on study or within 30 days after their last dose of folotyn. the most common serious adverse events (> 3%), regardless of causality, were pyrexia, mucositis, sepsis, febrile neutropenia, dehydration, dyspnea, and thrombocytopenia. one death from cardiopulmonary arrest in a patient with mucositis and febrile neutropenia was reported in this trial. deaths from mucositis, febrile neutropenia, sepsis, and pancytopenia occurred in 1.2% of patients treated on all folotyn trials at doses ranging from 30 to 325 mg/m  2  .
+
+
+
+     discontinuations  
+
+
+
+ twenty-three percent of patients (n = 25) discontinued treatment with folotyn due to adverse reactions. the adverse reactions reported most frequently as the reason for discontinuation of treatment were mucositis (6%, n = 7) and thrombocytopenia (5%, n = 5).
+
+
+
+     dose modifications  
+
+
+
+ the target dose of folotyn was 30 mg/m  2  once weekly for 6 weeks in 7-week cycles. the majority of patients (69%, n = 77) remained at the target dose for the duration of treatment. overall, 85% of scheduled doses were administered.
+
+
+
+   6.2 post marketing experience
+
+  because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+     dermatologic reactions  
+
+
+
+ toxic epidermal necrolysis, sometimes fatal, has been reported during post-marketing use of folotyn. fatal cases have been reported following the first dose of folotyn, including when a reduced dose is given, and have been reported in patients with end-stage renal disease undergoing dialysis [  see warnings and precautions (  5.3  ), use in specific populations (  8.7  ), and clinical pharmacology (  12.3  )  ].
+    5 warnings and precautions
+
+
+
+   excerpt:    *  thrombocytopenia, neutropenia, and anemia: monitor blood counts and omit and/or reduce dose for hematologic toxicities. (  2.2  ,  5.1  ) 
+ *  mucositis: monitor at least weekly. if >= grade 2 mucositis is observed, omit and/or reduce dose. (  2.2  ,  5.2  ) 
+ *  dermatologic reactions: reactions, including fatal reactions, have occurred and may be progressive and increase in severity with further treatment. monitor closely, and omit and/or reduce dose or discontinue folotyn. (  2.2  ,  5.3  ) 
+ *  tumor lysis syndrome: anticipate, monitor, and treat promptly. (  5.4  ) 
+ *  hepatic toxicity: monitor for toxicity. for liver function test abnormalities grade 3 or greater, omit until recovery then reduce dose or discontinue therapy as required. (  2.2  ,  5.5  ) 
+ *  risk of increased toxicity with renal impairment: patients with moderate to severe renal function impairment may be at greater risk for increased exposure and toxicity. monitor patients for renal function and systemic toxicity and adjust dosing accordingly. avoid folotyn use in patients with end stage renal disease including those undergoing dialysis unless the potential benefit justifies the potential risk. (  2.2  ,  5.6  ,  6.2  ) 
+ *  embryo-fetal toxicity: women should avoid becoming pregnant while being treated with folotyn. inform pregnant women of the potential harm to the fetus. (  5.7  ,  8.1  ) 
+    
+ 
+
+   5.1 bone marrow suppression
+
+
+
+  folotyn can cause bone marrow suppression, manifested by thrombocytopenia, neutropenia, and/or anemia. monitor complete blood counts and omit and/or reduce the dose based on anc and platelet count prior to each dose as outlined in section  2.2     table 2  . administer vitamin b12and instruct patients to take folic acid to reduce the risk of treatment-related hematological toxicity [ see dosage and administration (  2.1  )(  2.2  ) and adverse reactions (  6.1  )  ].
+
+
+
+    5.2 mucositis
+
+
+
+  folotyn can cause mucositis. monitor for mucositis weekly and if >= grade 2 mucositis is observed, omit and/or reduce the dose as outlined in section  2.2     table 1  . administer vitamin b12and instruct patients to take folic acid to reduce the risk of mucositis [ see dosage and administration (  2.1  )(2.2  ) and adverse reactions (  6.1  )  ].
+
+
+
+    5.3 dermatologic reactions
+
+
+
+  folotyn can cause severe dermatologic reactions, which may result in death. these dermatologic reactions have been reported in clinical studies (14/663 patients [2.1%]) and post marketing experience, and have included skin exfoliation, ulceration, and toxic epidermal necrolysis (ten).  they may be progressive and increase in severity with further treatment, and may involve skin and subcutaneous sites of known lymphoma.  monitor patients with dermatologic reactions closely, and if severe, withhold or discontinue folotyn [ see adverse reactions (  6.2  ) and use in specific populations (  8.7  )  ].
+
+
+
+    5.4 tumor lysis syndrome
+
+
+
+  folotyn can cause tumor lysis syndrome (tls). monitor patients who are at increased risk of tls and treat promptly.
+
+
+
+    5.5 hepatic toxicity
+
+
+
+  folotyn can cause hepatic toxicity and liver function test abnormalities. persistent liver function test abnormalities may be indicators of hepatic toxicity and require dose modification or discontinuation. monitor liver function tests. omit dose until recovery, adjust or discontinue therapy based on the severity of the hepatic toxicity [ see dosage and administration (  2.2  ) and use in specific populations (  8.6  )  ].
+
+
+
+       5.6 risk of increased toxicity in the presence of impaired renal function
+
+
+
+     patients with moderate to severe renal function impairment may be at greater risk for increased exposure and toxicity. monitor patients for renal function and systemic toxicity and adjust dosing accordingly.
+
+
+
+    serious adverse drug reactions including toxic epidermal necrolysis and mucositis were reported in patients with end stage renal disease (esrd) undergoing dialysis who were administered folotyn therapy. avoid folotyn use in patients with end stage renal disease including those undergoing dialysis unless the potential benefit justifies the potential risk [ see dosage and administration (  2.2  ), adverse reactions (  6.2  ), use in specific populations (  8.7  ), and clinical pharmacology (  12.3  )  ].
+
+
+
+    5.7 embryo-fetal toxicity
+
+
+
+  folotyn can cause fetal harm when administered to a pregnant woman. folotyn was embryotoxic and fetotoxic in rats and rabbits. if this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus [ see use in specific populations (  8.1  )  ].

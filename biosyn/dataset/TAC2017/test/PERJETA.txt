@@ -1,0 +1,423 @@
+    6 adverse reactions
+
+  the following adverse reactions are discussed in greater detail in other sections of the label:
+
+
+
+ *  left ventricular dysfunction [see  warnings and precautions (5.1)  ]  
+ *  embryo-fetal toxicity [see  warnings and precautions (5.2)  ]  
+ *  infusion-related reactions [see  warnings and precautions (5.3)  ]  
+ *  hypersensitivity reactions/anaphylaxis [see  warnings and precautions (5.4)  ]  
+      excerpt:   metastatic breast cancer
+ 
+
+ *  the most common adverse reactions (> 30%) with perjeta in combination with trastuzumab and docetaxel were diarrhea, alopecia, neutropenia, nausea, fatigue, rash, and peripheral neuropathy. (  6.1  ) 
+    neoadjuvant treatment of breast cancer
+ 
+
+ *  the most common adverse reactions (> 30%) with perjeta in combination with trastuzumab and docetaxel were alopecia, diarrhea, nausea, and neutropenia. (  6.1  ) 
+ *  the most common adverse reactions (>30%) with perjeta in combination with trastuzumab and docetaxel when given for 3 cycles following 3 cycles of fec were fatigue, alopecia, diarrhea, nausea, vomiting, and neutropenia. (  6.1  ) 
+ *  the most common adverse reactions (>30%) with perjeta in combination with docetaxel, carboplatin, and trastuzumab (tch) were fatigue, alopecia, diarrhea, nausea, vomiting, neutropenia, thrombocytopenia, and anemia. (  6.1  ) 
+      to report suspected adverse reactions, contact genentech at 1-888-835-2555 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch  .  
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+     metastatic breast cancer (mbc)  
+
+
+
+ the adverse reactions described in  table 1  were identified in 804 patients with her2-positive metastatic breast cancer treated in study 1. patients were randomized to receive either perjeta in combination with trastuzumab and docetaxel or placebo in combination with trastuzumab and docetaxel. the median duration of study treatment was 18.1 months for patients in the perjeta-treated group and 11.8 months for patients in the placebo-treated group. no dose adjustment was permitted for perjeta or trastuzumab. the rates of adverse events resulting in permanent discontinuation of all study therapy were 6.1% for patients in the perjeta-treated group and 5.3% for patients in the placebo-treated group. adverse events led to discontinuation of docetaxel alone in 23.6% of patients in the perjeta-treated group and 23.2% of patients in the placebo-treated group.  table 1  reports the adverse reactions that occurred in at least 10% of patients in the perjeta-treated group. the safety profile of perjeta remained unchanged with an additional 2.75 years of follow-up (median total follow-up of 50 months) in study 1.
+
+
+
+ the most common adverse reactions (> 30%) seen with perjeta in combination with trastuzumab and docetaxel were diarrhea, alopecia, neutropenia, nausea, fatigue, rash, and peripheral neuropathy. the most common nci - ctcae v3.0 grade 3 - 4 adverse reactions (> 2%) were neutropenia, febrile neutropenia, leukopenia, diarrhea, peripheral neuropathy, anemia, asthenia, and fatigue. an increased incidence of febrile neutropenia was observed for asian patients in both treatment arms compared with patients of other races and from other geographic regions. among asian patients, the incidence of febrile neutropenia was higher in the pertuzumab-treated group (26%) compared with the placebo-treated group (12%).
+
+
+
+ table 1 summary of adverse reactions occurring in >= 10% of patients on the perjeta treatment arm in study 1 
+ body system/adverse reactions                     perjeta + trastuzumab + docetaxeln=407frequency rate%  placebo + trastuzumab + docetaxeln=397frequency rate%   
+                                                    all grades%   grades 3 - 4%   all grades%   grades 3 - 4%   
+  
+   general disorders and administration site conditions                    
+ fatigue                                               37.6            2.2           36.8            3.3        
+ asthenia                                              26.0            2.5           30.2            1.5        
+ edema peripheral                                      23.1            0.5           30.0            0.8        
+ mucosal inflammation                                  27.8            1.5           19.9            1.0        
+ pyrexia                                               18.7            1.2           17.9            0.5        
+   skin and subcutaneous tissue disorders                          
+ alopecia                                              60.9            0.0           60.5            0.3        
+ rash                                                  33.7            0.7           24.2            0.8        
+ nail disorder                                         22.9            1.2           22.9            0.3        
+ pruritus                                              14.0            0.0           10.1            0.0        
+ dry skin                                              10.6            0.0            4.3            0.0        
+   gastrointestinal disorders                                      
+ diarrhea                                              66.8            7.9           46.3            5.0        
+ nausea                                                42.3            1.2           41.6            0.5        
+ vomiting                                              24.1            1.5           23.9            1.5        
+ constipation                                          15.0            0.0           24.9            1.0        
+ stomatitis                                            18.9            0.5           15.4            0.3        
+   blood and lymphatic system disorders                            
+ neutropenia                                           52.8           48.9           49.6           45.8        
+ anemia                                                23.1            2.5           18.9            3.5        
+ leukopenia                                            18.2           12.3           20.4           14.6        
+ febrile neutropenia                                   13.8           13.0            7.6            7.3        
+   nervous system disorders                                        
+ neuropathy peripheral                                 32.4            3.2           33.8            2.0        
+ headache                                              20.9            1.2           16.9            0.5        
+ dysgeusia                                             18.4            0.0           15.6            0.0        
+ dizziness                                             12.5            0.5           12.1            0.0        
+   musculoskeletal and connective tissue disorders                    
+ myalgia                                               22.9            1.0           23.9            0.8        
+ arthralgia                                            15.5            0.2           16.1            0.8        
+   infections and infestations                                     
+ upper respiratory tract infection                     16.7            0.7           13.4            0.0        
+ nasopharyngitis                                       11.8            0.0           12.8            0.3        
+   respiratory, thoracic, and mediastinal disorders                    
+ dyspnea                                               14.0            1.0           15.6            2.0        
+   metabolism and nutrition disorders                              
+ decreased appetite                                    29.2            1.7           26.4            1.5        
+   eye disorders                                                   
+ lacrimation increased                                 14.0            0.0           13.9            0.0        
+   psychiatric disorders                                           
+ insomnia                                              13.3            0.0           13.4            0.0        
+             the following clinically relevant adverse reactions were reported in < 10% of patients in the perjeta-treated group in study 1:  
+ 
+
+   skin and subcutaneous tissue disorders:  paronychia (7.1% in the perjeta-treated group vs. 3.5% in the placebo-treated group)
+
+
+
+   respiratory, thoracic and mediastinal disorders:  pleural effusion (5.2% in the perjeta-treated group vs. 5.8% in the placebo-treated group)
+
+
+
+   cardiac disorders:  left ventricular dysfunction (4.4% in the perjeta-treated group vs. 8.3% in the placebo-treated group) including symptomatic left ventricular systolic dysfunction (chf) (1.0% in the perjeta-treated group vs. 1.8% in the placebo-treated group)
+
+
+
+   immune system disorders:  hypersensitivity (10.1% in the perjeta-treated group vs. 8.6% in placebo-treated group)
+
+
+
+     adverse reactions reported in patients receiving perjeta and trastuzumab after discontinuation of docetaxel  
+
+
+
+ in study 1, adverse reactions were reported less frequently after discontinuation of docetaxel treatment. all adverse reactions in the perjeta and trastuzumab treatment group occurred in < 10% of patients with the exception of diarrhea (19.1%), upper respiratory tract infection (12.8%), rash (11.7%), headache (11.4%), and fatigue (11.1%).
+
+
+
+     neoadjuvant treatment of breast cancer (study 2)  
+
+
+
+ in study 2, the most common adverse reactions seen with perjeta in combination with trastuzumab and docetaxel administered for 4 cycles were similar to those seen in the perjeta-treated group in study 1. the most common adverse reactions (> 30%) were alopecia, neutropenia, diarrhea, and nausea. the most common nci - ctcae v3.0 grade 3 - 4 adverse reactions (> 2%) were neutropenia, febrile neutropenia, leukopenia, and diarrhea. in this group, one patient permanently discontinued neoadjuvant treatment due to an adverse event.  table 2  reports the adverse reactions that occurred in patients who received neoadjuvant treatment with perjeta for breast cancer in study 2.
+
+
+
+ table 2 summary of adverse reactions occurring in >= 10% in the neoadjuvant setting for patients receiving perjeta in study 2 
+ body system/ adverse reactions  trastuzumab + docetaxeln=107frequency rate%  perjeta + trastuzumab + docetaxeln=107frequency rate%  perjeta + trastuzumabn=108frequency rate%  perjeta + docetaxeln=108frequency rate%   
+                       all grades%  grades 3 - 4%  all grades%  grades 3 - 4%  all grades%  grades 3 - 4%  all grades%  grades 3 - 4%   
+  
+   general disorders and administration site conditions                                                                                                     
+ fatigue                  27.1        0.0         26.2        0.9         12.0        0.0         25.5        1.1       
+ asthenia                 17.8        0.0         20.6        1.9         2.8         0.0         16.0        2.1       
+ edema peripheral         10.3        0.0         2.8         0.0         0.9         0.0         5.3         0.0       
+ mucosal inflammation     21.5        0.0         26.2        1.9         2.8         0.0         25.5        0.0       
+ pyrexia                  10.3        0.0         16.8        0.0         8.3         0.0         8.5         0.0       
+   skin and subcutaneous tissue disorders                                                                                                     
+ alopecia                 66.4        0.0         65.4        0.0         2.8         0.0         67.0        0.0       
+ rash                     21.5        1.9         26.2        0.9         11.1        0.0         28.7        1.1       
+   gastrointestinal disorders                                                                                                     
+ diarrhea                 33.6        3.7         45.8        5.6         27.8        0.0         54.3        4.3       
+ nausea                   36.4        0.0         39.3        0.0         13.9        0.0         36.2        1.1       
+ vomiting                 12.1        0.0         13.1        0.0         4.6         0.0         16.0        2.1       
+ stomatitis               7.5         0.0         17.8        0.0         4.6         0.0         9.6         0.0       
+   blood and lymphatic system disorders                                                                                                     
+ neutropenia              63.6        58.9        50.5        44.9        0.9         0.9         64.9        57.4      
+ leukopenia               21.5        11.2        9.3         4.7         0.0         0.0         13.8        8.5       
+   nervous system disorders                                                                                                     
+ headache                 11.2        0.0         11.2        0.0         13.9        0.0         12.8        0.0       
+ dysgeusia                10.3        0.0         15.0        0.0         4.6         0.0         7.4         0.0       
+ peripheral sensory neuropathy     12.1        0.9         8.4         0.9         1.9         0.0         10.6        0.0       
+   musculoskeletal and connective tissue disorders                                                                                                     
+ myalgia                  22.4        0.0         22.4        0.0         9.3         0.0         21.3        0.0       
+ arthralgia               8.4         0.0         10.3        0.0         4.6         0.0         9.6         0.0       
+   metabolism and nutrition disorders                                                                                                     
+ decreased appetite       6.5         0.0         14.0        0.0         1.9         0.0         14.9        0.0       
+   psychiatric disorders                                                                                                     
+ insomnia                 11.2        0.0         8.4         0.0         3.7         0.0         8.5         0.0       
+                 the following adverse reactions were reported in < 10% of patients receiving neoadjuvant treatment and occurred more frequently in perjeta-treated groups in study 2: (ptz=pertuzumab; t=trastuzumab; d=docetaxel)  
+ 
+
+   blood and lymphatic system disorders:  anemia (6.5% in the t+d arm, 2.8% in the ptz+t+d arm, 4.6% in the ptz+t arm and 8.5% in the ptz+d arm), febrile neutropenia (6.5% in the t+d arm, 8.4% in the ptz+t+d arm, 0.0% in the ptz+t arm and 7.4% in the ptz+d arm)
+
+
+
+   immune system disorders:  hypersensitivity (1.9% in the t+d arm, 5.6% in the ptz+t+d arm, 5.6% in the ptz+t arm and 5.3% in the ptz+d arm)
+
+
+
+   nervous system disorders:  dizziness (3.7% in the t+d arm, 2.8% in the ptz+t+d arm, 5.6% in the ptz+t arm and 3.2% in the ptz+d arm)
+
+
+
+   infections and infestations:  upper respiratory tract infection (2.8% in the t+d arm, 4.7% in the ptz+t+d arm, 1.9% in the ptz+t arm and 7.4% in the ptz+d arm)
+
+
+
+   respiratory, thoracic and mediastinal disorders:  dyspnea (3.7% in the t+d arm, 4.7% in the ptz+t+d arm, 2.8% in the ptz+t arm and 2.1% in the ptz+d arm)
+
+
+
+   cardiac disorders:  left ventricular dysfunction (0.9% in the t+d arm, 2.8% in the ptz+t+d arm, 0.0% in the ptz+t arm, and 1.1% in the ptz+d arm) including symptomatic left ventricular dysfunction (chf) (0.9% in the ptz+t arm and 0.0% in the t+d arm, ptz+t+d arm, and ptz+d arm)
+
+
+
+   eye disorders:  lacrimation increased (1.9% in the t+d arm, 3.7% in the ptz+t+d arm, 0.9% in the ptz+t arm, and 4.3% in the ptz+d arm)
+
+
+
+     neoadjuvant treatment of breast cancer (study 3)  
+
+
+
+ in study 3, when perjeta was administered in combination with trastuzumab and docetaxel for 3 cycles following 3 cycles of fec, the most common adverse reactions (> 30%) were diarrhea, nausea, alopecia, neutropenia, vomiting, and fatigue. the most common nci-ctcae (version 3) grade 3 - 4 adverse reactions (> 2%) were neutropenia, leukopenia, febrile neutropenia, diarrhea, left ventricular dysfunction, anemia, dyspnea, nausea, and vomiting.
+
+
+
+ similarly, when perjeta was administered in combination with docetaxel, carboplatin, and trastuzumab (tch) for 6 cycles, the most common adverse reactions (> 30%) were diarrhea, alopecia, neutropenia, nausea, fatigue, vomiting, anemia, and thrombocytopenia. the most common nci-ctcae (version 3) grade 3 - 4 adverse reactions (> 2%) were neutropenia, febrile neutropenia, anemia, leukopenia, diarrhea, thrombocytopenia, vomiting, fatigue, alt increased, hypokalemia, and hypersensitivity.
+
+
+
+ the rates of adverse events resulting in permanent discontinuation of any component of neoadjuvant treatment were 6.7% for patients receiving perjeta in combination with trastuzumab and docetaxel following fec and 7.9% for patients receiving perjeta in combination with tch.  table 3  reports the adverse reactions that occurred in patients who received neoadjuvant treatment with perjeta for breast cancer in study 3.
+
+
+
+ table 3 summary of adverse reactions occurring in >= 10% of patients receiving neoadjuvant treatment with perjeta in study 3 
+                         perjeta + trastuzumab + fec followed by perjeta + trastuzumab + docetaxel   perjeta + trastuzumab + docetaxel following fec  perjeta + tch   
+ body system/adverse reactions  n=72frequency rate%  n=75frequency rate%  n=76frequency rate%   
+                          all grades%   grades 3 - 4%   all grades%   grades 3 - 4%   all grades%   grades 3 - 4%   
+  
+ fec=5-fluorouracil, epirubicin, cyclophosphamide, tch=docetaxel, carboplatin, trastuzumab   
+  
+   general disorders and administration site conditions                    
+ fatigue                     36.1            0.0           36.0            0.0           42.1            3.9        
+ asthenia                     9.7            0.0           14.7            1.3           13.2            1.3        
+ edema peripheral            11.1            0.0            4.0            0.0            9.2            0.0        
+ mucosal inflammation        23.6            0.0           20.0            0.0           17.1            1.3        
+ pyrexia                     16.7            0.0            9.3            0.0           15.8            0.0        
+   skin and subcutaneous tissue disorders                    
+ alopecia                    48.6            0.0           52.0            0.0           55.3            0.0        
+ rash                        19.4            0.0           10.7            0.0           21.1            1.3        
+ dry skin                     5.6            0.0            9.3            0.0           10.5            0.0        
+ palmar-plantar erythrodysaesthesia syndrome       6.9            0.0           10.7            0.0            7.9            0.0        
+   gastrointestinal disorders                    
+ diarrhea                    61.1            4.2           61.3            5.3           72.4           11.8        
+ dyspepsia                   25.0            1.4             8             0.0           22.4            0.0        
+ nausea                      52.8            0.0           53.3            2.7           44.7            0.0        
+ vomiting                    40.3            0.0           36.0            2.7           39.5            5.3        
+ constipation                18.1            0.0           22.7            0.0           15.8            0.0        
+ stomatitis                  13.9            0.0           17.3            0.0           11.8            0.0        
+   blood and lymphatic system disorders                    
+ neutropenia                 51.4           47.2           46.7           42.7           48.7           46.1        
+ anemia                      19.4            1.4            9.3            4.0           38.2           17.1        
+ leukopenia                  22.2           19.4           16.0           12.0           17.1           11.8        
+ febrile neutropenia         18.1           18.1            9.3            9.3           17.1           17.1        
+ thrombocytopenia             6.9            0.0            1.3            0.0           30.3           11.8        
+   immune system disorders                    
+ hypersensitivity             9.7            2.8            1.3            0.0           11.8            2.6        
+   nervous system disorders                    
+ neuropathy peripheral        5.6            0.0            1.3            0.0           10.5            0.0        
+ headache                    22.2            0.0           14.7            0.0           17.1            0.0        
+ dysgeusia                   11.1            0.0           13.3            0.0           21.1            0.0        
+ dizziness                    8.3            0.0            8.0            1.3           15.8            0.0        
+   musculoskeletal and connective tissue disorders                    
+ myalgia                     16.7            0.0           10.7            1.3           10.5            0.0        
+ arthralgia                  11.1            0.0           12.0            0.0            6.6            0.0        
+   respiratory, thoracic, and mediastinal disorders                    
+ cough                        9.7            0.0            5.3            0.0           11.8            0.0        
+ dyspnea                     12.5            0.0            8.0            2.7           10.5            1.3        
+ epistaxis                   11.1            0.0           10.7            0.0           15.8            1.3        
+ oropharyngeal pain           8.3            0.0            6.7            0.0           11.8            0.0        
+   metabolism and nutrition disorders                    
+ decreased appetite          20.8            0.0           10.7            0.0           21.1            0.0        
+   eye disorders                         
+ lacrimation increased       12.5            0.0            5.3            0.0            7.9            0.0        
+   psychiatric disorders                    
+ insomnia                    11.1            0.0           13.3            0.0           21.1            0.0        
+   investigations                        
+ alt increased                6.9            0.0            2.7            0.0           10.5            3.9        
+               the following selected adverse reactions were reported in < 10% of patients receiving neoadjuvant treatment in study 3: (ptz=pertuzumab; t=trastuzumab; d=docetaxel; fec= fluorouracil, epirubicin, and cyclophosphamide; tch=docetaxel, carboplatin, and trastuzumab)  
+ 
+
+   skin and subcutaneous tissue disorders:  nail disorder (9.7% in the ptz+t+fec/ptz+t+d arm, 6.7% in the fec/ptz+t+d arm, and 9.2% in the ptz+tch arm), paronychia (0% in the ptz+t+fec/ptz+t+d and 1.3% in both the fec/ptz+t+d and ptz+tch arms), pruritis (2.8% in the ptz+t+fec/ptz+t+d arm, 4.0% in the fec/ptz+t+d arm, and 3.9% in the ptz+tch arm)
+
+
+
+   infections and infestations:  upper respiratory tract infection (8.3% in the ptz+t+fec/ptz+t+d arm, 4.0% in the fec/ptz+t+d arm, and 2.6% in the ptz+tch arm), nasopharyngitis (6.9% in the ptz+t+fec/ptz+t+d arm, 6.7% in the fec/ptz+t+d arm, and 7.9% in the ptz+tch arm)
+
+
+
+   respiratory, thoracic, and mediastinal disorders:  pleural effusion (1.4% in the ptz+t+fec/ptz+t+d arm and 0% in the fec/ptz+t+d and ptz+tch arm)
+
+
+
+   cardiac disorders:  left ventricular dysfunction (5.6% in the ptz+t+fec/ptz+t+d arm, 4.0% in the fec/ptz+t+d arm, and 2.6% in the ptz+tch arm) including symptomatic left ventricular systolic dysfunction (chf) (2.7% in the fec/ptz+t+d arm and 0% in the ptz+t+fec/ptz+t+d and ptz+tch arms)
+
+
+
+   6.2 immunogenicity
+
+  as with all therapeutic proteins, there is the potential for an immune response to perjeta.
+
+
+
+ patients in study 1 were tested at multiple time-points for antibodies to perjeta. approximately 2.8% (11/386) of patients in the perjeta-treated group and 6.2% (23/372) of patients in the placebo-treated group tested positive for anti-perjeta antibodies. of these 34 patients, none experienced anaphylactic/hypersensitivity reactions that were clearly related to the anti-therapeutic antibodies (ata). the presence of pertuzumab in patient serum at the levels expected at the time of ata sampling can interfere with the ability of this assay to detect anti-pertuzumab antibodies. in addition, the assay may be detecting antibodies to trastuzumab. as a result, data may not accurately reflect the true incidence of anti-pertuzumab antibody development.
+
+
+
+ immunogenicity data are highly dependent on the sensitivity and specificity of the test methods used. additionally, the observed incidence of a positive result in a test method may be influenced by several factors, including sample handling, timing of sample collection, drug interference, concomitant medication, and the underlying disease. for these reasons, comparison of the incidence of antibodies to perjeta with the incidence of antibodies to other products may be misleading.
+
+
+    boxed warning: warning:  left ventricular dysfunction and embryo-fetal toxicity
+
+    warning:  left ventricular dysfunction and embryo-fetal toxicity  
+
+  excerpt:     warning:  left ventricular dysfunction and embryo-fetal toxicity  
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+   left ventricular dysfunction:  perjeta can result in subclinical and clinical cardiac failure manifesting as chf, and decreased lvef.  evaluate cardiac function prior to and during treatment.  discontinue perjeta treatment for a confirmed clinically significant decrease in left ventricular function. (  2.2  ,   5.1  ,   6.1  )  
+
+
+
+   embryo-fetal toxicity:  exposure to perjeta can result in embryo-fetal death and birth defects.  studies in animals have resulted in oligohydramnios, delayed renal development, and death.  advise patients of these risks and the need for effective contraception. (  5.2  ,   8.1  ,   8.6  )  
+
+
+
+ 
+
+
+
+    left ventricular dysfunction  
+
+
+
+   perjeta administration can result in subclinical and clinical cardiac failure.  evaluate left ventricular function in all patients prior to and during treatment with perjeta.  discontinue perjeta treatment for a confirmed clinically significant decrease in left ventricular function. (  2.2  ,   5.1  ,   6.1  )  
+
+
+
+     embryo-fetal toxicity  
+
+
+
+   exposure to perjeta can result in embryo-fetal death and birth defects.  studies in animals have resulted in oligohydramnios, delayed renal development, and death.  advise patients of these risks and the need for effective contraception. (  5.2  ,   8.1  ,   8.6  )  
+    5 warnings and precautions
+
+
+
+   excerpt:    *  left ventricular dysfunction: monitor lvef and withhold dosing as appropriate. (  5.1  ,  6.1  ) 
+ *  embryo-fetal toxicity: fetal harm can occur when administered to a pregnant woman. (  5.2  ,  8.1  ) 
+ *  infusion-related reactions: monitor for signs and symptoms. if a significant infusion-associated reaction occurs, slow or interrupt the infusion and administer appropriate medical therapies. (  5.3  ) 
+ *  hypersensitivity reactions/anaphylaxis: monitor for signs and symptoms. if a severe hypersensitivity reaction/anaphylaxis occurs, discontinue the infusion immediately and administer appropriate medical therapies. (  5.4  ) 
+ *  her2 testing: perform using fda-approved tests by laboratories with demonstrated proficiency. (  5.5  ) 
+    
+ 
+
+   5.1 left ventricular dysfunction
+
+
+
+  decreases in lvef have been reported with drugs that block her2 activity, including perjeta. in study 1, for patients with mbc, perjeta in combination with trastuzumab and docetaxel was not associated with increases in the incidence of symptomatic left ventricular systolic dysfunction (lvsd) or decreases in lvef compared with placebo in combination with trastuzumab and docetaxel [see  clinical studies (14.1)  ]  . left ventricular dysfunction occurred in 4.4% of patients in the perjeta-treated group and 8.3% of patients in the placebo-treated group. symptomatic left ventricular systolic dysfunction (congestive heart failure) occurred in 1.0% of patients in the perjeta-treated group and 1.8% of patients in the placebo-treated group [see  adverse reactions (6.1)  ]  . patients who have received prior anthracyclines or prior radiotherapy to the chest area may be at higher risk of decreased lvef.
+
+
+
+ in patients receiving neoadjuvant treatment in study 2, the incidence of lvsd was higher in the perjeta-treated groups compared to the trastuzumab- and docetaxel-treated group. an increased incidence of lvef declines was observed in patients treated with perjeta in combination with trastuzumab and docetaxel. in the overall treatment period, lvef decline > 10% and a drop to less than 50% occurred in 1.9% of patients treated with neoadjuvant trastuzumab and docetaxel as compared to 8.4% of patients treated with neoadjuvant perjeta in combination with trastuzumab and docetaxel. symptomatic lvsd occurred in 0.9% of patients treated with neoadjuvant perjeta in combination with trastuzumab and no patients in the other 3 arms. lvef recovered to >= 50% in all patients.
+
+
+
+ in patients receiving neoadjuvant perjeta in study 3, in the overall treatment period, lvef decline > 10% and a drop to less than 50% occurred in 6.9% of patients treated with perjeta plus trastuzumab and fec followed by perjeta plus trastuzumab and docetaxel, 16.0% of patients treated with perjeta plus trastuzumab and docetaxel following fec, and 10.5% of patients treated with perjeta in combination with tch. symptomatic lvsd occurred in 4.0% of patients treated with perjeta plus trastuzumab and docetaxel following fec, 1.3% of patients treated with perjeta in combination with tch, and none of the patients treated with perjeta plus trastuzumab and fec followed by perjeta plus trastuzumab and docetaxel. lvef recovered to >= 50% in all but one patient.
+
+
+
+ perjeta has not been studied in patients with a pretreatment lvef value of <= 50%, a prior history of chf, decreases in lvef to < 50% during prior trastuzumab therapy, or conditions that could impair left ventricular function such as uncontrolled hypertension, recent myocardial infarction, serious cardiac arrhythmia requiring treatment or a cumulative prior anthracycline exposure to > 360 mg/m  2  of doxorubicin or its equivalent.
+
+
+
+ assess lvef prior to initiation of perjeta and at regular intervals (e.g., every three months in the metastatic setting and every six weeks in the neoadjuvant setting) during treatment to ensure that lvef is within the institution's normal limits. if lvef is < 45%, or is 45% to 49% with a 10% or greater absolute decrease below the pretreatment value, withhold perjeta and trastuzumab and repeat lvef assessment within approximately 3 weeks. discontinue perjeta and trastuzumab if the lvef has not improved or has declined further, unless the benefits for the individual patient outweigh the risks [see  dosage and administration (2.2)  ]  .
+
+
+
+    5.2 embryo-fetal toxicity
+
+
+
+   perjeta can cause fetal harm when administered to a pregnant woman. treatment of pregnant cynomolgus monkeys with pertuzumab resulted in oligohydramnios, delayed fetal kidney development, and embryo-fetal death. if perjeta is administered during pregnancy, or if the patient becomes pregnant while receiving this drug or within 7 months following the last dose of perjeta in combination with trastuzumab, the patient should be apprised of the potential hazard to a fetus [see  use in specific populations (8.1)  ]  .  
+
+
+
+  verify pregnancy status prior to the initiation of perjeta. advise patients of the risks of embryo-fetal death and birth defects and the need for contraception during and after treatment. advise patients to contact their healthcare provider immediately if they suspect they may be pregnant. if perjeta is administered during pregnancy or if a patient becomes pregnant while receiving perjeta or within 7 months following the last dose of perjeta in combination with trastuzumab, immediately report exposure to the genentech adverse event line at 1-888-835-2555. encourage women who may be exposed during pregnancy or within 7 months for perjeta in combination with trastuzumab prior to conception, to enroll in the mother pregnancy registry by contacting 1-800-690-6720 [see  patient counseling information (17)  ].    
+
+
+
+ monitor patients who become pregnant during perjeta therapy for oligohydramnios. if oligohydramnios occurs, perform fetal testing that is appropriate for gestational age and consistent with community standards of care. the efficacy of intravenous hydration in the management of oligohydramnios due to perjeta exposure is not known.
+
+
+
+    5.3 infusion-related reactions
+
+
+
+  perjeta has been associated with infusion reactions [see  adverse reactions (6.1)  ].  an infusion reaction was defined in study 1 as any event described as hypersensitivity, anaphylactic reaction, acute infusion reaction, or cytokine release syndrome occurring during an infusion or on the same day as the infusion. the initial dose of perjeta was given the day before trastuzumab and docetaxel to allow for the examination of perjeta-associated reactions. on the first day, when only perjeta was administered, the overall frequency of infusion reactions was 13.0% in the perjeta-treated group and 9.8% in the placebo-treated group. less than 1% were grade 3 or 4. the most common infusion reactions (>= 1.0%) were pyrexia, chills, fatigue, headache, asthenia, hypersensitivity, and vomiting.
+
+
+
+ during the second cycle when all drugs were administered on the same day, the most common infusion reactions in the perjeta-treated group (>= 1.0%) were fatigue, dysgeusia, hypersensitivity, myalgia, and vomiting.
+
+
+
+ in study 2 and study 3, perjeta was administered on the same day as the other study treatment drugs. infusion reactions were consistent with those observed in study 1, with a majority of reactions being national cancer institute - common terminology criteria for adverse events (nci - ctcae v3.0) grade 1 - 2.
+
+
+
+ observe patients closely for 60 minutes after the first infusion and for 30 minutes after subsequent infusions of perjeta. if a significant infusion-related reaction occurs, slow or interrupt the infusion, and administer appropriate medical therapies. monitor patients carefully until complete resolution of signs and symptoms. consider permanent discontinuation in patients with severe infusion reactions [see  dosage and administration (2.2)  ].  
+
+
+
+    5.4 hypersensitivity reactions/anaphylaxis
+
+
+
+  in study 1, the overall frequency of hypersensitivity/anaphylaxis reactions was 10.8% in the perjeta-treated group and 9.1% in the placebo-treated group. the incidence of grade 3 - 4 hypersensitivity/anaphylaxis reactions was 2.0% in the perjeta-treated group and 2.5% in the placebo-treated group according to nci - ctcae v3.0. overall, 4 patients in perjeta-treated group and 2 patients in the placebo-treated group experienced anaphylaxis.
+
+
+
+ in study 2 and study 3, hypersensitivity/anaphylaxis events were consistent with those observed in study 1. in study 2, two patients in the perjeta- and docetaxel-treated group experienced anaphylaxis. in study 3, the overall frequency of hypersensitivity/anaphylaxis was highest in the perjeta plus tch treated group (13.2%), of which 2.6% were nci-ctcae (version 3) grade 3 - 4.
+
+
+
+ patients should be observed closely for hypersensitivity reactions. severe hypersensitivity, including anaphylaxis, has been observed in clinical trials with treatment of perjeta [see  clinical trials experience (6.1)  ]  . medications to treat such reactions, as well as emergency equipment, should be available for immediate use. perjeta is contraindicated in patients with known hypersensitivity to pertuzumab or to any of its excipients [see  contraindications (4)  ].  
+
+
+
+    5.5 her2 testing
+
+
+
+  detection of her2 protein overexpression is necessary for selection of patients appropriate for perjeta therapy because these are the only patients studied and for whom benefit has been shown [see  indications and usage (1)  and  clinical studies (14)  ]  . patients with breast cancer were required to have evidence of her2 overexpression defined as 3+ ihc or fish amplification ratio >= 2.0 in the clinical studies. only limited data were available for patients whose breast cancer was positive by fish, but did not demonstrate protein overexpression by ihc.
+
+
+
+ assessment of her2 status should be performed by laboratories using fda-approved tests with demonstrated proficiency in the specific technology being utilized. improper assay performance, including use of sub-optimally fixed tissue, failure to utilize specified reagents, deviation from specific assay instructions, and failure to include appropriate controls for assay validation, can lead to unreliable results.

@@ -1,0 +1,443 @@
+    6 adverse reactions
+
+    laba, such as vilanterol, one of the active ingredients in breo ellipta, increase the risk of asthma-related death. currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from laba. available data from controlled clinical trials suggest that laba increase the risk of asthma-related hospitalization in pediatric and adolescent patients. data from a large placebo-controlled us trial that compared the safety of another laba (salmeterol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in subjects receiving salmeterol.  [see warnings and precautions (5.1).]    
+
+
+
+ systemic and local corticosteroid use may result in the following:
+
+
+
+ *     candida albicans infection [see warnings and precautions (5.4)]  
+ *    increased risk of pneumonia in copd [see warnings and precautions (5.5)]  
+ *    immunosuppression [see warnings and precautions (5.6)]  
+ *    hypercorticism and adrenal suppression [see warnings and precautions (5.8)]  
+ *    reduction in bone mineral density [see warnings and precautions (5.13)]  
+    because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+ 
+
+    excerpt:    *    copd: most common adverse reactions (incidence greater than or equal to 3%) are nasopharyngitis, upper respiratory tract infection, headache, and oral candidiasis. (  6.1  ) 
+ *    asthma: most common adverse reactions (incidence greater than or equal to 2%) are nasopharyngitis, oral candidiasis, headache, influenza, upper respiratory tract infection, bronchitis, sinusitis, oropharyngeal pain, dysphonia, and cough. (  6.2  ) 
+      to report suspected adverse reactions, contact glaxosmithkline at 1-888-825-5249 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 clinical trials experience in chronic obstructive pulmonary disease
+
+  the clinical program for breo ellipta included 7,700 subjects with copd in two 6-month lung function trials, two 12-month exacerbation trials, and 6 other trials of shorter duration. a total of 2,034 subjects with copd received at least 1 dose of breo ellipta 100/25, and 1,087 subjects received a higher strength of fluticasone furoate/vilanterol. the safety data described below are based on the confirmatory 6- and 12-month trials. adverse reactions observed in the other trials were similar to those observed in the confirmatory trials.
+
+
+
+   6-month trials  
+
+
+
+ the incidence of adverse reactions associated with breo ellipta 100/25 in table 1 is based on 2 placebo-controlled, 6-month clinical trials (trials 1 and 2; n = 1,224 and n = 1,030, respectively). of the 2,254 subjects, 70% were male and 84% were white. they had a mean age of 62 years and an average smoking history of 44 pack-years, with 54% identified as current smokers. at screening, the mean postbronchodilator percent predicted fev1was 48% (range: 14% to 87%), the mean postbronchodilator fev1/forced vital capacity (fvc) ratio was 47% (range: 17% to 88%), and the mean percent reversibility was 14% (range: -41% to 152%).
+
+
+
+ subjects received 1 inhalation once daily of the following: breo ellipta 100/25, breo ellipta 200/25, fluticasone furoate/vilanterol 50 mcg/25 mcg, fluticasone furoate 100 mcg, fluticasone furoate 200 mcg, vilanterol 25 mcg, or placebo.
+
+
+
+   table 1. adverse reactions with breo ellipta 100/25 with >=3% incidence and more common than placebo in subjects with chronic obstructive pulmonary disease  
+
+
+
+
+  adverse reaction                         breo ellipta  100/25  (n = 410)  %    vilanterol  25 mcg  (n = 408)  %    fluticasone furoate  100 mcg  (n = 410)  %    placebo  (n = 412)  %    
+  infections and infestations                                                                                    
+                                          nasopharyngitis                         
+                                                                                    9                    10            8                      8           
+                                          upper respiratory tract infection       
+                                                                                    7                    5             4                      3           
+                                          oropharyngeal candidiasis  a            
+                                                                                    5                    2             3                      2           
+  nervous system disorders                                                                                       
+                                          headache                                
+                                                                                    7                    9             7                      5           
+             a  includes oral candidiasis, oropharyngeal candidiasis, candidiasis, and fungal oropharyngitis.
+ 
+
+   12-month trials  
+
+
+
+ long-term safety data is based on two 12-month trials (trials 3 and 4; n = 1,633 and n = 1,622, respectively). trials 3 and 4 included 3,255 subjects, of which 57% were male and 85% were white. they had a mean age of 64 years and an average smoking history of 46 pack-years, with 44% identified as current smokers. at screening, the mean postbronchodilator percent predicted fev1was 45% (range: 12% to 91%), and the mean postbronchodilator fev1/fvc ratio was 46% (range: 17% to 81%), indicating that the subject population had moderate to very severely impaired airflow obstruction. subjects received 1 inhalation once daily of the following: breo ellipta 100/25, breo ellipta 200/25, fluticasone furoate/vilanterol 50 mcg/25 mcg, or vilanterol 25 mcg. in addition to the reactions shown in table 1, adverse reactions occurring in greater than or equal to 3% of the subjects treated with breo ellipta 100/25 (n = 806) for 12 months included back pain, pneumonia  [see warnings and precautions (5.5)]  , bronchitis, sinusitis, cough, oropharyngeal pain, arthralgia, influenza, pharyngitis, and pyrexia.
+
+
+
+   6.2 clinical trials experience in asthma
+
+  breo ellipta for the treatment of asthma was studied in 18 double-blind, parallel-group, controlled trials (11 with placebo) of 4 to 76 weeks' duration, which enrolled 9,969 subjects with asthma. breo ellipta 100/25 was studied in 2,369 subjects and breo ellipta 200/25 was studied in 956 subjects. while subjects aged 12 to 17 years were included in these trials, breo ellipta is not approved for use in this age-group  [see use in specific populations (8.4)]  . the safety data described below are based on two 12-week efficacy trials, one 24-week efficacy trial, and two long-term trials.
+
+
+
+   12-week trials  
+
+
+
+ trial 1 was a 12-week trial that evaluated the efficacy of breo ellipta 100/25 in adolescent and adult subjects with asthma compared with fluticasone furoate 100 mcg and placebo. of the 609 subjects, 58% were female and 84% were white; the mean age was 40 years. the incidence of adverse reactions associated with breo ellipta 100/25 is shown in table 2.
+
+
+
+   table 2. adverse reactions with breo ellipta 100/25 with >=2% incidence and more common than placebo in subjects with asthma (trial 1)  
+
+
+
+
+  adverse reaction                                 breo ellipta  100/25  (n = 201)  %    fluticasone furoate  100 mcg  (n = 205)  %    placebo  (n = 203)  %    
+  infections and infestations                                                                                 
+                                                  nasopharyngitis                                 
+                                                                                                    10                    7                       7            
+                                                  oral candidiasis  a                             
+                                                                                                    2                     2                       0            
+  nervous system disorders                                                                                    
+                                                  headache                                        
+                                                                                                    5                     4                       4            
+  respiratory, thoracic, and mediastinal disorders                                                               
+                                                  oropharyngeal pain                              
+                                                                                                    2                     2                       1            
+                                                  dysphonia                                       
+                                                                                                    2                     1                       0            
+            a  includes oral candidiasis and oropharyngeal candidiasis.
+ 
+
+ trial 2 was a 12-week trial that evaluated the efficacy of breo ellipta 100/25, breo ellipta 200/25, and fluticasone furoate 100 mcg in adolescent and adult subjects with asthma. this trial did not have a placebo arm. of the 1,039 subjects, 60% were female and 88% were white; the mean age was 46 years. the incidence of adverse reactions associated with breo ellipta 100/25 and breo ellipta 200/25 is shown in table 3.
+
+
+
+   table 3. adverse reactions with breo ellipta 100/25 and breo ellipta 200/25 with >=2% incidence in subjects with asthma (trial 2)  
+
+
+
+
+  adverse reaction                             breo ellipta  200/25  (n = 346)  %    breo ellipta  100/25  (n = 346)  %    fluticasone furoate  100 mcg  (n = 347)  %    
+  nervous system disorders                                                                                    
+                                              headache                                    
+                                                                                            8                   8                   9                      
+  infections and infestations                                                                                 
+                                              nasopharyngitis                             
+                                                                                            7                   6                   7                      
+                                              influenza                                   
+                                                                                            3                   3                   1                      
+                                              upper respiratory tract infection           
+                                                                                            2                   2                   3                      
+                                              sinusitis                                   
+                                                                                            2                   1                   <1                     
+                                              bronchitis                                  
+                                                                                            2                   <1                  2                      
+  respiratory, thoracic and mediastinal disorders                                                                   
+                                              oropharyngeal pain                          
+                                                                                            2                   2                   1                      
+                                              cough                                       
+                                                                                            1                   2                   1                      
+            24-week trial  
+ 
+
+ trial 3 was a 24-week trial that evaluated the efficacy of breo ellipta 200/25 once daily, fluticasone furoate 200 mcg once daily, and fluticasone propionate 500 mcg twice daily in adolescent and adult subjects with asthma. of the 586 subjects, 59% were female and 84% were white; the mean age was 46 years. this trial did not have a placebo arm. in addition to the reactions shown in tables 2 and 3, adverse reactions occurring in greater than or equal to 2% of subjects treated with breo ellipta 200/25 included viral respiratory tract infection, pharyngitis, pyrexia, and arthralgia.
+
+
+
+   12-month trial  
+
+
+
+ long-term safety data is based on a 12-month trial that evaluated the safety of breo ellipta 100/25 once daily (n = 201), breo ellipta 200/25 once daily (n = 202), and fluticasone propionate 500 mcg twice daily (n = 100) in adolescent and adult subjects with asthma (trial 4). overall, 63% were female and 67% were white. the mean age was 39 years; adolescents (aged 12 to 17 years) made up 16% of the population. in addition to the reactions shown in tables 2 and 3, adverse reactions occurring in greater than or equal to 2% of the subjects treated with breo ellipta 100/25 or breo ellipta 200/25 for 12 months included pyrexia, back pain, extrasystoles, upper abdominal pain, respiratory tract infection, allergic rhinitis, pharyngitis, rhinitis, arthralgia, supraventricular extrasystoles, ventricular extrasystoles, acute sinusitis, and pneumonia.
+
+
+
+   exacerbation trial  
+
+
+
+ in a 24- to 76-week trial, subjects received breo ellipta 100/25 (n = 1,009) or fluticasone furoate 100 mcg (n = 1,010) (trial 5). subjects participating in this trial had a history of one or more asthma exacerbations that required treatment with oral/systemic corticosteroids or emergency department visit or in-patient hospitalization for the treatment of asthma in the year prior to trial entry. overall, 67% were female and 73% were white; the mean age was 42 years (adolescents aged 12 to 17 years made up 14% of the population). while subjects aged 12 to 17 years were included in this trial, breo ellipta is not approved for use in this age-group  [see use in specific populations (8.4)]  . asthma-related hospitalizations occurred in 10 subjects (1%) treated with breo ellipta 100/25 compared with 7 subjects (0.7%) treated with fluticasone furoate 100 mcg. among subjects aged 12 to 17 years, asthma-related hospitalizations occurred in 4 subjects (2.6%) treated with breo ellipta 100/25 (n = 151) compared with 0 subjects treated with fluticasone furoate 100 mcg (n = 130). there were no asthma-related deaths or asthma-related intubations observed in this trial.
+
+
+
+   6.3 postmarketing experience
+
+  in addition to adverse reactions reported from clinical trials, the following adverse reactions have been identified during postapproval use of breo ellipta. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. these events have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to breo ellipta or a combination of these factors.
+
+
+
+   cardiac disorders  
+
+
+
+ palpitations, tachycardia.
+
+
+
+   immune system disorders  
+
+
+
+ hypersensitivity reactions, including anaphylaxis, angioedema, rash, and urticaria.
+
+
+
+   musculoskeletal and connective tissue disorders  
+
+
+
+ muscle spasms.
+
+
+
+   nervous system disorders  
+
+
+
+ tremor.
+
+
+
+   psychiatric disorders  
+
+
+
+ nervousness.
+
+
+    boxed warning: warning: asthma-related death
+
+  warning: asthma-related death
+
+    long-acting beta2-adrenergic agonists (laba), such as vilanterol, one of the active ingredients in breo ellipta, increase the risk of asthma-related death. data from a large placebo-controlled us trial that compared the safety of another laba (salmeterol) with placebo added to usual asthma therapy showed an increase in asthma-related deaths in subjects receiving salmeterol. this finding with salmeterol is considered a class effect of laba. currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids (ics) or other long-term asthma control drugs mitigates the increased risk of asthma-related death from laba. available data from controlled clinical trials suggest that laba increase the risk of asthma-related hospitalization in pediatric and adolescent patients.  
+
+
+
+   therefore, when treating patients with asthma, physicians should only prescribe breo ellipta for patients not adequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid, or whose disease severity clearly warrants initiation of treatment with both an inhaled corticosteroid and a laba. once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue breo ellipta) if possible without loss of asthma control and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid. do not use breo ellipta for patients whose asthma is adequately controlled on low- or medium-dose inhaled corticosteroids   [see warnings and precautions (5.1)]  .  
+
+
+
+   excerpt:   warning: asthma-related death
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  long-acting beta2-adrenergic agonists (laba), such as vilanterol, increase the risk of asthma-related death. a placebo-controlled trial with another laba (salmeterol) showed an increase in asthma-related deaths. this finding with salmeterol is considered a class effect of all laba. currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids (ics) or other long-term asthma control drugs mitigates the increased risk of asthma-related death from laba. available data from controlled clinical trials suggest that laba increase the risk of asthma-related hospitalization in pediatric and adolescent patients. (5.1) 
+ *  when treating patients with asthma, only prescribe breo ellipta for patients not adequately controlled on a long-term asthma control medication, such as an ics, or whose disease severity clearly warrants initiation of treatment with both an ics and a laba. once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue breo ellipta) if possible without loss of asthma control and maintain the patient on a long-term asthma control medication, such as an ics. do not use breo ellipta for patients whose asthma is adequately controlled on low- or medium-dose ics.(1.2, 5.1) 
+    5 warnings and precautions
+
+
+
+   excerpt:    *    laba increase the risk of asthma-related death and asthma-related hospitalizations. prescribe only for recommended patient populations. (  5.1  ) 
+ *    do not initiate in acutely deteriorating copd or asthma. do not use to treat acute symptoms. (  5.2  ) 
+ *    do not use in combination with an additional medicine containing a laba because of risk of overdose. (  5.3  ) 
+ *     candida albicans infection of the mouth and pharynx may occur. monitor patients periodically. advise the patient to rinse his/her mouth with water without swallowing after inhalation to help reduce the risk. (  5.4  ) 
+ *    increased risk of pneumonia in patients with copd. monitor patients for signs and symptoms of pneumonia. (  5.5  ) 
+ *    potential worsening of infections (e.g., existing tuberculosis; fungal, bacterial, viral, or parasitic infections; ocular herpes simplex). use with caution in patients with these infections. more serious or even fatal course of chickenpox or measles can occur in susceptible patients. (  5.6  ) 
+ *    risk of impaired adrenal function when transferring from systemic corticosteroids. taper patients slowly from systemic corticosteroids if transferring to breo ellipta. (  5.7  ) 
+ *    hypercorticism and adrenal suppression may occur with very high dosages or at the regular dosage in susceptible individuals. if such changes occur, discontinue breo ellipta slowly. (  5.8  ) 
+ *    if paradoxical bronchospasm occurs, discontinue breo ellipta and institute alternative therapy. (  5.10  ) 
+ *    use with caution in patients with cardiovascular disorders because of beta-adrenergic stimulation. (  5.12  ) 
+ *    assess for decrease in bone mineral density initially and periodically thereafter. (  5.13  ) 
+ *    close monitoring for glaucoma and cataracts is warranted. (  5.14  ) 
+ *    use with caution in patients with convulsive disorders, thyrotoxicosis, diabetes mellitus, and ketoacidosis. (  5.15  ) 
+ *    be alert to hypokalemia and hyperglycemia. (  5.16  ) 
+    
+ 
+
+   5.1 asthma-related death
+
+
+
+   laba, such as vilanterol, one of the active ingredients in breo ellipta, increase the risk of asthma-related death. currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from laba. available data from controlled clinical trials suggest that laba increase the risk of asthma-related hospitalization in pediatric and adolescent patients. therefore, when treating patients with asthma, physicians should only prescribe breo ellipta for patients not adequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid, or whose disease severity clearly warrants initiation of treatment with both an inhaled corticosteroid and a laba. once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue breo ellipta) if possible without loss of asthma control and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid. do not use breo ellipta for patients whose asthma is adequately controlled on low- or medium-dose inhaled corticosteroids.  
+
+
+
+ a 28-week, placebo-controlled, us trial that compared the safety of another laba (salmeterol) with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol vs. 3/13,179 in subjects treated with placebo; relative risk: 4.37 [95% ci: 1.25, 15.34]). the increased risk of asthma-related death is considered a class effect of laba, including vilanterol, one of the active ingredients in breo ellipta. no trial adequate to determine whether the rate of asthma-related death is increased in subjects treated with breo ellipta has been conducted.
+
+
+
+ data are not available to determine whether the rate of death in patients with copd is increased by laba.
+
+
+
+    5.2 deterioration of disease and acute episodes
+
+
+
+  breo ellipta should not be initiated in patients during rapidly deteriorating or potentially life-threatening episodes of copd or asthma. breo ellipta has not been studied in subjects with acutely deteriorating copd or asthma. the initiation of breo ellipta in this setting is not appropriate.
+
+
+
+ copd may deteriorate acutely over a period of hours or chronically over several days or longer. if breo ellipta 100/25 no longer controls symptoms of bronchoconstriction; the patient's inhaled, short-acting, beta2-agonist becomes less effective; or the patient needs more short-acting beta2-agonist than usual, these may be markers of deterioration of disease. in this setting a reevaluation of the patient and the copd treatment regimen should be undertaken at once. for copd, increasing the daily dose of breo ellipta 100/25 is not appropriate in this situation.
+
+
+
+ increasing use of inhaled, short-acting beta2-agonists is a marker of deteriorating asthma. in this situation, the patient requires immediate reevaluation with reassessment of the treatment regimen, giving special consideration to the possible need for replacing the current strength of breo ellipta with a higher strength, adding additional inhaled corticosteroid, or initiating systemic corticosteroids. patients should not use more than 1 inhalation once daily of breo ellipta.
+
+
+
+ breo ellipta should not be used for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of bronchospasm. breo ellipta has not been studied in the relief of acute symptoms and extra doses should not be used for that purpose. acute symptoms should be treated with an inhaled, short-acting beta2-agonist.
+
+
+
+ when beginning treatment with breo ellipta, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs and to use them only for symptomatic relief of acute respiratory symptoms. when prescribing breo ellipta, the healthcare provider should also prescribe an inhaled, short-acting beta2-agonist and instruct the patient on how it should be used.
+
+
+
+    5.3 excessive use of breo ellipta and use with other long-acting beta2-agonists
+
+
+
+  breo ellipta should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medicines containing laba, as an overdose may result. clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs. patients using breo ellipta should not use another medicine containing a laba (e.g., salmeterol, formoterol fumarate, arformoterol tartrate, indacaterol) for any reason.
+
+
+
+    5.4 local effects of inhaled corticosteroids
+
+
+
+  in clinical trials, the development of localized infections of the mouth and pharynx with candida albicans  has occurred in subjects treated with breo ellipta. when such an infection develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while treatment with breo ellipta continues, but at times therapy with breo ellipta may need to be interrupted. advise the patient to rinse his/her mouth with water without swallowing following inhalation to help reduce the risk of oropharyngeal candidiasis.
+
+
+
+    5.5 pneumonia
+
+
+
+  an increase in the incidence of pneumonia has been observed in subjects with copd receiving breo ellipta 100/25 in clinical trials. there was also an increased incidence of pneumonias resulting in hospitalization. in some incidences these pneumonia events were fatal. physicians should remain vigilant for the possible development of pneumonia in patients with copd as the clinical features of such infections overlap with the symptoms of copd exacerbations.
+
+
+
+ in replicate 12-month trials in 3,255 subjects with copd who had experienced a copd exacerbation in the previous year, there was a higher incidence of pneumonia reported in subjects receiving fluticasone furoate/vilanterol 50 mcg/25 mcg: 6% (48 of 820 subjects); breo ellipta 100/25: 6% (51 of 806 subjects); or breo ellipta 200/25: 7% (55 of 811 subjects) than in subjects receiving vilanterol 25 mcg: 3% (27 of 818 subjects). there was no fatal pneumonia in subjects receiving vilanterol or fluticasone furoate/vilanterol 50 mcg/25 mcg. there was fatal pneumonia in 1 subject receiving breo ellipta 100/25 and in 7 subjects receiving breo ellipta 200/25 (less than 1% for each treatment group).
+
+
+
+    5.6 immunosuppression
+
+
+
+  persons who are using drugs that suppress the immune system are more susceptible to infections than healthy individuals. chickenpox and measles, for example, can have a more serious or even fatal course in susceptible children or adults using corticosteroids. in such children or adults who have not had these diseases or been properly immunized, particular care should be taken to avoid exposure. how the dose, route, and duration of corticosteroid administration affect the risk of developing a disseminated infection is not known. the contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known. if a patient is exposed to chickenpox, prophylaxis with varicella zoster immune globulin (vzig) may be indicated. if a patient is exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (ig) may be indicated. (see the respective package inserts for complete vzig and ig prescribing information.) if chickenpox develops, treatment with antiviral agents may be considered.
+
+
+
+ inhaled corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
+
+
+
+    5.7 transferring patients from systemic corticosteroid therapy
+
+
+
+  particular care is needed for patients who have been transferred from systemically active corticosteroids to inhaled corticosteroids because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids. after withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic-pituitary-adrenal (hpa) function.
+
+
+
+ patients who have been previously maintained on 20 mg or more of prednisone (or its equivalent) may be most susceptible, particularly when their systemic corticosteroids have been almost completely withdrawn. during this period of hpa suppression, patients may exhibit signs and symptoms of adrenal insufficiency when exposed to trauma, surgery, or infection (particularly gastroenteritis) or other conditions associated with severe electrolyte loss. although breo ellipta may control copd or asthma symptoms during these episodes, in recommended doses it supplies less than normal physiological amounts of glucocorticoid systemically and does not provide the mineralocorticoid activity that is necessary for coping with these emergencies.
+
+
+
+ during periods of stress, a severe copd exacerbation, or a severe asthma attack, patients who have been withdrawn from systemic corticosteroids should be instructed to resume oral corticosteroids (in large doses) immediately and to contact their physicians for further instruction. these patients should also be instructed to carry a warning card indicating that they may need supplementary systemic corticosteroids during periods of stress, a severe copd exacerbation, or a severe asthma attack.
+
+
+
+ patients requiring oral corticosteroids should be weaned slowly from systemic corticosteroid use after transferring to breo ellipta. prednisone reduction can be accomplished by reducing the daily prednisone dose by 2.5 mg on a weekly basis during therapy with breo ellipta. lung function (fev1or peak expiratory flow), beta-agonist use, and copd or asthma symptoms should be carefully monitored during withdrawal of oral corticosteroids. in addition, patients should be observed for signs and symptoms of adrenal insufficiency, such as fatigue, lassitude, weakness, nausea and vomiting, and hypotension.
+
+
+
+ transfer of patients from systemic corticosteroid therapy to breo ellipta may unmask allergic conditions previously suppressed by the systemic corticosteroid therapy (e.g., rhinitis, conjunctivitis, eczema, arthritis, eosinophilic conditions).
+
+
+
+ during withdrawal from oral corticosteroids, some patients may experience symptoms of systemically active corticosteroid withdrawal (e.g., joint and/or muscular pain, lassitude, depression) despite maintenance or even improvement of respiratory function.
+
+
+
+    5.8 hypercorticism and adrenal suppression
+
+
+
+  inhaled fluticasone furoate is absorbed into the circulation and can be systemically active. effects of fluticasone furoate on the hpa axis are not observed with the therapeutic doses of breo ellipta. however, exceeding the recommended dosage or coadministration with a strong cytochrome p450 3a4 (cyp3a4) inhibitor may result in hpa dysfunction [see warnings and precautions (5.9), drug interactions (7.1)]  .
+
+
+
+ because of the possibility of significant systemic absorption of inhaled corticosteroids in sensitive patients, patients treated with breo ellipta should be observed carefully for any evidence of systemic corticosteroid effects. particular care should be taken in observing patients postoperatively or during periods of stress for evidence of inadequate adrenal response.
+
+
+
+ it is possible that systemic corticosteroid effects such as hypercorticism and adrenal suppression (including adrenal crisis) may appear in a small number of patients who are sensitive to these effects. if such effects occur, breo ellipta should be reduced slowly, consistent with accepted procedures for reducing systemic corticosteroids, and other treatments for management of copd or asthma symptoms should be considered.
+
+
+
+    5.9 drug interactions with strong cytochrome p450 3a4 inhibitors
+
+
+
+  caution should be exercised when considering the coadministration of breo ellipta with long-term ketoconazole and other known strong cyp3a4 inhibitors (e.g., ritonavir, clarithromycin, conivaptan, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, saquinavir, telithromycin, troleandomycin, voriconazole) because increased systemic corticosteroid and increased cardiovascular adverse effects may occur [see drug interactions (7.1), clinical pharmacology (12.3)].  
+
+
+
+    5.10 paradoxical bronchospasm
+
+
+
+  as with other inhaled medicines, breo ellipta can produce paradoxical bronchospasm, which may be life threatening. if paradoxical bronchospasm occurs following dosing with breo ellipta, it should be treated immediately with an inhaled, short-acting bronchodilator; breo ellipta should be discontinued immediately; and alternative therapy should be instituted.
+
+
+
+    5.11 hypersensitivity reactions, including anaphylaxis
+
+
+
+  hypersensitivity reactions such as anaphylaxis, angioedema, rash, and urticaria may occur after administration of breo ellipta. discontinue breo ellipta if such reactions occur. there have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder medications containing lactose; therefore, patients with severe milk protein allergy should not use breo ellipta [see contraindications (4)]  .
+
+
+
+    5.12 cardiovascular effects
+
+
+
+  vilanterol, like other beta2-agonists, can produce a clinically significant cardiovascular effect in some patients as measured by increases in pulse rate, systolic or diastolic blood pressure, and also cardiac arrhythmias, such as supraventricular tachycardia and extrasystoles. if such effects occur, breo ellipta may need to be discontinued. in addition, beta-agonists have been reported to produce electrocardiographic changes, such as flattening of the t wave, prolongation of the qtc interval, and st segment depression, although the clinical significance of these findings is unknown. fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.
+
+
+
+ in healthy subjects, large doses of inhaled fluticasone furoate/vilanterol (4 times the recommended dose of vilanterol, representing a 12- or 10-fold higher systemic exposure than seen in subjects with copd or asthma, respectively) have been associated with clinically significant prolongation of the qtc interval, which has the potential for producing ventricular arrhythmias. therefore, breo ellipta, like other sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension.
+
+
+
+    5.13 reduction in bone mineral density
+
+
+
+  decreases in bone mineral density (bmd) have been observed with long-term administration of products containing inhaled corticosteroids. the clinical significance of small changes in bmd with regard to long-term consequences such as fracture is unknown. patients with major risk factors for decreased bone mineral content, such as prolonged immobilization, family history of osteoporosis, postmenopausal status, tobacco use, advanced age, poor nutrition, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants, oral corticosteroids) should be monitored and treated with established standards of care. since patients with copd often have multiple risk factors for reduced bmd, assessment of bmd is recommended prior to initiating breo ellipta and periodically thereafter. if significant reductions in bmd are seen and breo ellipta is still considered medically important for that patient's copd therapy, use of medicine to treat or prevent osteoporosis should be strongly considered.
+
+
+
+    5.14 glaucoma and cataracts
+
+
+
+  glaucoma, increased intraocular pressure, and cataracts have been reported in patients with copd or asthma following the long-term administration of inhaled corticosteroids. therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts.
+
+
+
+    5.15 coexisting conditions
+
+
+
+  breo ellipta, like all medicines containing sympathomimetic amines, should be used with caution in patients with convulsive disorders or thyrotoxicosis and in those who are unusually responsive to sympathomimetic amines. doses of the related beta2-adrenoceptor agonist albuterol, when administered intravenously, have been reported to aggravate preexisting diabetes mellitus and ketoacidosis.
+
+
+
+    5.16 hypokalemia and hyperglycemia
+
+
+
+  beta-adrenergic agonist medicines may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects. the decrease in serum potassium is usually transient, not requiring supplementation. beta-agonist medications may produce transient hyperglycemia in some patients. in clinical trials evaluating breo ellipta in subjects with copd or asthma, there was no evidence of a treatment effect on serum glucose or potassium.
+
+
+
+    5.17 effect on growth
+
+
+
+  orally inhaled corticosteroids may cause a reduction in growth velocity when administered to children and adolescents. [see use in specific populations (8.4).]  

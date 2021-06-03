@@ -1,0 +1,44 @@
+      6            adverse reactions  
+
+  exclusive of an uncommon, mild injection site reaction, no adverse reactions to  11  c-choline have been reported.
+
+
+
+   excerpt:   exclusive of an uncommon, mild injection site reaction, no other adverse reactions have been reported (  6  ).
+
+
+
+   to report suspected adverse reactions, contact division of nuclear medicine, department of radiology, mayo clinic at 507-284-2511 or fda at 1-800-fda-1088 or www.fda.gov/medwatch  
+     5          warnings and precautions  
+
+
+
+   excerpt:    *  imaging errors have been reported; blood psa levels < 2 ng/ml have been associated with poor imaging performance (  5.1  ). 
+ *  allergic reactions: have emergency resuscitation equipment and personnel readily available (  5.2  ). 
+ *  radiation risk: choline c 11 injection contributes to a patient's long-term cumulative radiation exposure. ensure safe handling to protect the patient and health care worker (  5.3  ). 
+    
+ 
+
+    5.1             imaging   errors  
+
+
+
+  imaging errors have been reported with  11  c-choline pet and pet/ct imaging. a negative image does not rule out the presence of recurrent prostate cancer and a positive image does not confirm the presence of recurrent cancer.  11  c-choline uptake is not specific for prostate cancer and may occur with other types of cancer (such as lung carcinoma and brain tumors). clinical correlation, including histopathological evaluation of the suspected recurrence site, is essential to proper use of the pet imaging information.
+
+
+
+ *  blood psa levels < 2 ng/ml have been associated with poor performance of  11  c-choline pet imaging (higher numbers of false positive and false negative results) [ see clinical studies (14) ]. 
+ *  tissue inflammation as well as prostatic hyperplasia have been associated with false positive  11  c-choline pet images. 
+ *  concomitant colchicine or androgen-deprivation therapeutic drugs (such as luteinizing hormone-releasing analogs and anti-androgen drugs) may interfere with  11  c-choline pet imaging. one published report of  18  f-methylcholine pet imaging indicated that discontinuation of colchicine for two weeks resolved the colchicine effect. the impact of discontinuation of androgen-deprivation therapy upon  11  c-choline pet imaging has not been established [ see drug interactions   (7) ]. 
+        5.2             allergic reactions  
+ 
+
+  as with any injectable drug product, allergic reactions and anaphylaxis may occur. emergency resuscitation equipment and personnel should be immediately available.
+
+
+
+     5.3             radiation risks  
+
+
+
+  choline c 11 injection contributes to a patient's overall long-term cumulative radiation exposure. long-term cumulative radiation exposure is associated with an increased risk for cancer. safe handling should be ensured to minimize radiation exposure to the patient and health care workers [ see    dosage and administration   (   2.   1   )  ].

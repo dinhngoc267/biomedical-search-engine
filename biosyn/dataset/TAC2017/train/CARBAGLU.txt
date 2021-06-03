@@ -1,0 +1,100 @@
+    excerpt:   the most common adverse reactions in >=13% of patients are: infections, vomiting, abdominal pain, pyrexia, tonsilitis, anemia, ear infection, diarrhea, nasopharyngitis, and headache. (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact accredo health group inc. at 1-888-454-8860,or fda at 1-800-fda-1088 or      www.fda.gov/medwatch.    
+
+
+
+ 
+
+
+
+    6 adverse reactions
+
+    6.1    retrospective case series experience  
+
+
+
+     
+
+
+
+   the most common adverse reactions (occurring in >= 13% of patients), regardless of causality, are: infections, vomiting, abdominal pain, pyrexia, tonsilitis, anemia, ear infection, diarrhea, nasopharyngitis, and headache.   table 1 summarizes adverse reactions occurring in 2 or more patients treated with carbaglu in the retrospective case series.  because these reactions were reported retrospectively, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   table 1:  adverse reactions reported in  >  2 patients in the retrospective case series treated with carbaglu  
+
+
+
+  
+ system organ class        preferred term                                          number of patients (n)(%)   
+  
+   total                                                                                 23 (100)         
+   blood and lymphatic system disorders                                                                   
+   anemia                                                                                 3 (13)          
+   ear and labyrinth disorders                                                                            
+   ear infection                                                                          3 (13)          
+   gastrointestinal disorders                                                                             
+   abdominal pain                                                                         4 (17)          
+   diarrhea                                                                               3 (13)          
+   vomiting                                                                               6 (26)          
+   dysgeusia                                                                              2 (9)           
+   general disorders and administration site conditions                                                   
+   asthenia                                                                               2 (9)           
+   hyperhidrosis                                                                          2 (9)           
+   pyrexia                                                                                4 (17)          
+   infections and infestations                                                                            
+   infection                                                                              3 (13)          
+   influenza                                                                              2 (9)           
+   nasopharyngitis                                                                        3 (13)          
+   pneumonia                                                                              2 (9)           
+   tonsillitis                                                                            4 (17)          
+   investigations                                                                                         
+   hemoglobin decreased                                                                   3 (13)          
+   weight decreased                                                                       2 (9)           
+   metabolism and nutrition disorders                                                                     
+   anorexia                                                                               2 (9)           
+   nervous system disorders                                                                               
+   headache                                                                               3 (13)          
+   somnolence                                                                             2 (9)           
+   skin and subcutaneous tissue disorders                                                                 
+   rash                                                                                   2 (9)           
+   excerpt:    hyperammonemia  : monitor plasma ammonia levels during treatment. prolonged exposure to elevated plasma ammonia levels can rapidly result in injury to the brain or death.  prompt use of all therapies necessary to reduce plasma ammonia levels is essential. (  5.1  ) therapeutic monitoring  :  plasma ammonia levels should be maintained within normal range for age via individual dose adjustment. (  5.2  ) nutritional management  : in the initial treatment of nags deficiency, protein restriction is recommended.  when plasma ammonia level is normalized, dietary protein intake can usually be reintroduced.(  5.3  )
+
+
+
+ 
+
+
+
+      5 warnings and precautions
+
+
+
+   5.1    hyperammonemia  
+
+
+
+  any episode of acute symptomatic hyperammonemia should be treated as a life-threatening emergency.  treatment of hyperammonemia may require dialysis, preferably hemodialysis, to remove a large burden of ammonia.  uncontrolled hyperammonemia can rapidly result in brain injury/damage or death, and prompt use of all therapies necessary to reduce plasma ammonia levels is essential.  
+
+
+
+  management of hyperammonemia due to nags deficiency should be done in coordination with medical personnel experienced in metabolic disorders.  ongoing monitoring of plasma ammonia levels, neurological status, laboratory tests and clinical responses in patients receiving carbaglu is crucial to assess patient response to treatment.  
+
+
+
+  5.2    therapeutic monitoring  
+
+
+
+ plasma ammonia levels should be maintained within normal range for age via individual dose adjustment.
+
+
+
+  5.3    nutritional management  
+
+
+
+ since hyperammonemia is the result of protein catabolism, complete protein restriction is recommended to be maintained for 24 to 48 hours and caloric supplementation should be maximized to reverse catabolism and nitrogen turnover.

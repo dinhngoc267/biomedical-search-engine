@@ -1,0 +1,376 @@
+    6 adverse reactions
+
+  the following adverse reactions are described in detail in other labeling sections:
+
+
+
+ *  fetal risk [see   boxed warnings  , warnings and precautions (  5.1,    5.2  ) ] 
+ *  venous and arterial thromboembolism [see   boxed warnings  , warnings and precautions (  5.3  ) ] 
+ *  hematologic toxicity [see warnings and precautions (  5.4  ) ] 
+ *  hepatotoxicity [see warnings and precautions (  5.5  ) ] 
+ *  hypersensitivity reactions [see warnings and precautions (  5.6  ) ] 
+ *  dizziness and confusional state [see warnings and precautions (  5.7  ) ] 
+ *  neuropathy [see warnings and precautions (  5.8  ) ] 
+ *  risk of second primary malignancies [see warnings and precautions (  5.9  ) ] 
+ *  tumor lysis syndrome [see warnings and precautions (  5.10  )]  
+      excerpt:   most common adverse reactions (>=30%) included fatigue and asthenia, neutropenia, anemia, constipation, nausea, diarrhea, dyspnea, upper-respiratory tract infections, back pain and pyrexia (  6.1  ).
+ 
+
+   
+
+
+
+   to report suspected adverse reactions, contact celgene corporation at 1-888-423-5436 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+    multiple myeloma  
+
+
+
+ because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ in trial 1, data were evaluated from 219 patients (safety population) who received treatment with pomalyst + low-dose dex (112 patients) or pomalyst alone (107 patients). median number of treatment cycles was 5. sixty-seven percent of patients in the study had a dose interruption of either drug due to adverse reactions. forty-two percent of patients in the study had a dose reduction of either drug due to adverse reactions. the discontinuation rate due to adverse reactions was 11%.
+
+
+
+ in trial 2, data were evaluated from 450 patients (safety population) who received treatment with pomalyst + low-dose dex (300 patients) or high-dose dexamethasone (high-dose dex) (150 patients). the median number of treatment cycles for the pomalyst + low-dose dex arm was 5. in the pomalyst + low-dose dex arm, 67% of patients had a dose interruption of pomalyst, the median time to the first dose interruption of pomalyst was 4.1 weeks. twenty-seven percent of patients had a dose reduction of pomalyst, the median time to the first dose reduction of pomalyst was 4.5 weeks. eight percent of patients discontinued pomalyst due to adverse reactions.
+
+
+
+   tables 2  and  3  summarize the adverse reactions reported in trials 1 and 2, respectively.
+
+
+
+ table 2: adverse reactions in any pomalyst treatment arm in trial 1* 
+   *  regardless of attribution of relatedness to pomalyst.   
+   a  pomalyst alone arm includes all patients randomized to the pomalyst alone arm who took study drug; 61 of the 107 patients had dexamethasone added during the treatment period.   
+   b  serious adverse reactions were reported in at least 2 patients in any pomalyst treatment arm.data cutoff: 01 march 2013   
+  
+                                   all adverse reactions >=10% ineither arm      grade 3 or 4 >=5% in either arm     
+   system organ class/preferred term      pomalyst  a  (n=107)      pomalyst +low-dose dex(n=112)      pomalyst(n=107)      pomalyst +low-dose dex(n=112)     
+ number (%) of patients with at least one adverse reaction  107 (100)        112 (100)        98 (91.6)        102 (91.1)        
+   blood and lymphatic system disorders                                                                         
+      neutropenia  b             57 (53.3)        55 (49.1)        51 (47.7)        46 (41.1)         
+      anemia  b                  41 (38.3)        47 (42.0)        25 (23.4)        24 (21.4)         
+      thrombocytopenia  b        28 (26.2)        26 (23.2)        24 (22.4)        21 (18.8)         
+      leukopenia                 14 (13.1)        22 (19.6)        7 (6.5)          11 (9.8)          
+      febrile neutropenia  b     <10%             <10%             6 (5.6)          3 (2.7)           
+      lymphopenia                4 (3.7)          17 (15.2)        2 (1.9)          8 (7.1)           
+   general disorders and administration site conditions                                                                         
+      fatigue and asthenia  b    62 (57.9)        70 (62.5)        13 (12.1)        19 (17.0)         
+      edema peripheral           27 (25.2)        19 (17.0)        0 (0.0)          0 (0.0)           
+      pyrexia  b                 25 (23.4)        36 (32.1)        <5%              <5%               
+      chills                     11 (10.3)        14 (12.5)        0 (0.0)          0 (0.0)           
+   gastrointestinal disorders                                                                         
+      nausea  b                  39 (36.4)        27 (24.1)        <5%              <5%               
+      constipation  b            38 (35.5)        41 (36.6)        <5%              <5%               
+      diarrhea                   37 (34.6)        40 (35.7)        <5%              <5%               
+      vomiting  b                15 (14.0)        16 (14.3)        <5%              0 (0.0)           
+   musculoskeletal and connective tissue disorders                                                                         
+      back pain  b               37 (34.6)        36 (32.1)        15 (14.0)        11 (9.8)          
+      musculoskeletal chest pain  25 (23.4)        22 (19.6)        <5%              0 (0.0)           
+      muscle spasms              23 (21.5)        22 (19.6)        <5%              <5%               
+      arthralgia                 18 (16.8)        17 (15.2)        <5%              <5%               
+      muscular weakness          15 (14.0)        15 (13.4)        6 (5.6)          4 (3.6)           
+      bone pain                  13 (12.1)        8 (7.1)          <5%              <5%               
+      musculoskeletal pain       13 (12.1)        19 (17.0)        <5%              <5%               
+      pain in extremity          8 (7.5)          16 (14.3)        0 (0.0)          <5%               
+   infections and infestations                                                                         
+      upper respiratory tract infection  40 (37.4)        32 (28.6)        <5%              <5%               
+      pneumonia  b               30 (28.0)        38 (33.9)        21 (19.6)        32 (28.6)         
+      urinary tract infection  b    11 (10.3)        19 (17.0)        2 (1.9)          10 (8.9)          
+      sepsis  b                  <10%             <10%             6 (5.6)          5 (4.5)           
+   metabolism and nutrition disorders                                                                         
+      decreased appetite         25 (23.4)        21 (18.8)        <5%              0 (0.0)           
+      hypercalcemia  b           23 (21.5)        13 (11.6)        11 (10.3)        1 (0.9)           
+      hypokalemia                13 (12.1)        13 (11.6)        <5%              <5%               
+      hyperglycemia              12 (11.2)        17 (15.2)        <5%              <5%               
+      hyponatremia               12 (11.2)        14 (12.5)        <5%              <5%               
+      dehydration  b             <10%             <10%             5 (4.7)          6 (5.4)           
+      hypocalcemia               6 (5.6)          13 (11.6)        0 (0.0)          <5%               
+   respiratory, thoracic and mediastinal disorders                                                                         
+      dyspnea  b                 38 (35.5)        50 (44.6)        8 (7.5)          14 (12.5)         
+      cough                      18 (16.8)        25 (22.3)        0 (0.0)          0 (0.0)           
+      epistaxis                  18 (16.8)        12 (10.7)        <5%              0 (0.0)           
+      productive cough           10 (9.3)         14 (12.5)        0 (0.0)          0 (0.0)           
+      oropharyngeal pain         6 (5.6)          12 (10.7)        0 (0.0)          0 (0.0)           
+   nervous system disorders                                                                           
+      dizziness                  24 (22.4)        20 (17.9)        <5%              <5%               
+      peripheral neuropathy      23 (21.5)        20 (17.9)        0 (0.0)          0 (0.0)           
+      headache                   16 (15.0)        15 (13.4)        0 (0.0)          <5%               
+      tremor                     11 (10.3)        15 (13.4)        0 (0.0)          0 (0.0)           
+   skin and subcutaneous tissue disorders                                                                         
+      rash                       22 (20.6)        18 (16.1)        0 (0.0)          <5%               
+      pruritus                   16 (15.0)        10 (8.9)         0 (0.0)          0 (0.0)           
+      dry skin                   10 (9.3)         12 (10.7)        0 (0.0)          0 (0.0)           
+      hyperhidrosis              8 (7.5)          18 (16.1)        0 (0.0)          0 (0.0)           
+      night sweats               5 (4.7)          14 (12.5)        0 (0.0)          0 (0.0)           
+   investigations                                                                                     
+      blood creatinine increased  b    20 (18.7)        11 (9.8)         6 (5.6)          3 (2.7)           
+      weight decreased           16 (15.0)        10 (8.9)         0 (0.0)          0 (0.0)           
+      weight increased           1 (0.9)          12 (10.7)        0 (0.0)          0 (0.0)           
+   psychiatric disorders                                                                              
+      anxiety                    14 (13.1)        8 (7.1)          0 (0.0)          0 (0.0)           
+      confusional state  b       13 (12.1)        15 (13.4)        6 (5.6)          3 (2.7)           
+      insomnia                   7 (6.5)          18 (16.1)        0 (0.0)          0 (0.0)           
+   renal and urinary disorders                                                                         
+      renal failure  b           16 (15.0)        11 (9.8)         9 (8.4)          8 (7.1)           
+           table 3: adverse reactions in trial 2 
+   a  percentage did not meet the criteria to be considered as an adverse reaction for pomalyst for that category of event (i.e., all adverse events or grade 3 or 4 adverse events).   
+   b  serious adverse reactions were reported in at least 3 patients in the pom + low-dose dex arm, and at least 1% higher than the high-dose-dex arm percentage.data cutoff: 01 march 2013   
+  
+                                     all adverse reactions(>=5% in pomalyst + low-dosedex arm, and at least 2% pointhigher than the high-dose-dex arm)      grade 3 or 4(>=1% in pomalyst + low-dose dexarm, and at least 1% point higher thanthe high-dose-dex arm)     
+   system organ class/preferred term      pomalyst +low-dose dex(n=300)      high-dose dex(n=150)      pomalyst +low-dose dex(n=300)      high-dose dex(n=150)     
+ number (%) of patients with at least one adverse reaction  297 (99.0)       149 (99.3)       259 (86.3)       127 (84.7)        
+   blood and lymphatic system disorders                                                                         
+      neutropenia  b               154 (51.3)       31 (20.7)        145 (48.3)       24 (16.0)         
+      thrombocytopenia             89 (29.7)  a     44 (29.3)  a     66 (22.0)  a     39 (26.0)  a      
+      leukopenia                   38 (12.7)        8 (5.3)          27 (9.0)         5 (3.3)           
+      febrile neutropenia  b       28 (9.3)         0 (0.0)          28 (9.3)         0 (0.0)           
+   general disorders and administration site conditions                                                                         
+      fatigue and asthenia         140 (46.7)       64 (42.7)        26 (8.7)  a      18 (12.0)  a      
+      pyrexia  b                   80 (26.7)        35 (23.3)        9 (3.0)  a       7 (4.7)  a        
+      edema peripheral             52 (17.3)        17 (11.3)        4 (1.3)  a       3 (2.0)  a        
+      pain                         11 (3.7)  a      3 (2.0)  a       5 (1.7)          1 (0.7)           
+   infections and infestations                                                                          
+      upper respiratory tract infection  b    93 (31.0)        19 (12.7)        9 (3.0)          1 (0.7)           
+      pneumonia  b                 58 (19.3)        20 (13.3)        47 (15.7)        15 (10.0)         
+      neutropenic sepsis  b        3 (1.0)  a       0 (0.0)  a       3 (1.0)          0 (0.0)           
+   gastrointestinal disorders                                                                           
+      diarrhea                     66 (22.0)        28 (18.7)        3 (1.0)  a       2 (1.3)  a        
+      constipation                 65 (21.7)        22 (14.7)        7 (2.3)          0 (0.0)           
+      nausea                       45 (15.0)        17 (11.3)        3 (1.0)  a       2 (1.3)  a        
+      vomiting                     23 (7.7)         6 (4.0)          3 (1.0)          0 (0.0)           
+   musculoskeletal and connective tissue disorders                                                                         
+      back pain  b                 59 (19.7)        24 (16.0)        15 (5.0)         6 (4.0)           
+      bone pain  b                 54 (18.0)        21 (14.0)        22 (7.3)         7 (4.7)           
+      muscle spasms                46 (15.3)        11 (7.3)         1 (0.3)  a       1 (0.7)  a        
+      arthralgia                   26 (8.7)         7 (4.7)          2 (0.7)  a       1 (0.7)  a        
+      pain in extremity            20 (6.7)  a      9 (6.0)  a       6 (2.0)          0 (0.0)           
+   respiratory, thoracic and mediastinal disorders                                                                         
+      dyspnea  b                   76 (25.3)        25 (16.7)        17 (5.7)         7 (4.7)           
+      cough                        60 (20.0)        15 (10.0)        2 (0.7)  a       1 (0.7)  a        
+      chronic obstructive pulmonary disease  b    5 (1.7)  a       0 (0.0)  a       4 (1.3)          0 (0.0)           
+   nervous system disorders                                                                             
+      peripheral neuropathy        52 (17.3)        18 (12.0)        5 (1.7)  a       2 (1.3)  a        
+      dizziness                    37 (12.3)        14 (9.3)         4 (1.3)  a       2 (1.3)  a        
+      headache                     23 (7.7)         8 (5.3)          1 (0.3)  a       0 (0.0)  a        
+      tremor                       17 (5.7)         2 (1.3)          2 (0.7)  a       0 (0.0)  a        
+      depressed level of consciousness  5 (1.7)  a       0 (0.0)  a       3 (1.0)          0 (0.0)           
+   metabolism and nutrition disorders                                                                         
+      decreased appetite           38 (12.7)        12 (8.0)         3 (1.0)  a       2 (1.3)  a        
+      hypokalemia                  28 (9.3)  a      12 (8.0)  a      12 (4.0)         4 (2.7)           
+      hypocalcemia                 12 (4.0)  a      9 (6.0)  a       5 (1.7)          1 (0.7)           
+   skin and subcutaneous tissue disorders                                                                         
+      rash                         23 (7.7)         2 (1.3)          3 (1.0)          0 (0.0)           
+      pruritus                     22 (7.3)         5 (3.3)          0 (0.0)  a       0 (0.0)  a        
+      hyperhidrosis                15 (5.0)         1 (0.7)          0 (0.0)  a       0 (0.0)  a        
+   investigations                                                                                       
+      neutrophil count decreased   15 (5.0)         1 (0.7)          14 (4.7)         1 (0.7)           
+      platelet count decreased     10 (3.3)  a      3 (2.0)  a       8 (2.7)          2 (1.3)           
+      white blood cell count decreased  8 (2.7)  a       1 (0.7)  a       8 (2.7)          0 (0.0)           
+      alanine aminotransferase increased  7 (2.3)  a       2 (1.3)  a       5 (1.7)          0 (0.0)           
+      aspartate aminotransferase increased  4 (1.3)  a       2 (1.3)  a       3 (1.0)          0 (0.0)           
+      lymphocyte count decreased   3 (1.0)  a       1 (0.7)  a       3 (1.0)          0 (0.0)           
+   renal and urinary disorders                                                                          
+      renal failure                31 (10.3)  a     18 (12.0)  a     19 (6.3)         8 (5.3)           
+   injury, poisoning and procedural complications                                                                         
+      femur fracture  b            5 (1.7)  a       1 (0.7)  a       5 (1.7)          1 (0.7)           
+   reproductive system and breast disorders                                                                         
+      pelvic pain                  6 (2.0)  a       3 (2.0)  a       4 (1.3)          0 (0.0)           
+             other adverse reactions  other adverse reactions of pomalyst in patients with multiple myeloma, not described above, and considered important:
+ 
+
+   cardiac disorders:  myocardial infarction, atrial fibrillation, angina pectoris, cardiac failure congestive  ear and labyrinth disorders:  vertigo  gastrointestinal disorders:  abdominal pain  general disorders and administration site conditions:  general physical health deterioration, non-cardiac chest pain, multi-organ failure  hepatobiliary disorders:  hyperbilirubinemia  infections and infestations:  pneumocystis jiroveci pneumonia, respiratory syncytial virus infection, neutropenic sepsis, bacteremia, pneumonia respiratory syncytial viral, cellulitis, urosepsis, septic shock, clostridium difficile colitis, pneumonia streptococcal, lobar pneumonia, viral infection, lung infection  investigations:  alanine aminotransferase increased, hemoglobin decreased  injury, poisoning and procedural complications:  fall, compression fracture, spinal compression fracture  metabolism and nutritional disorders:  hyperkalemia, failure to thrive  nervous system disorders:  depressed level of consciousness, syncope  psychiatric disorders:  mental status change  renal and urinary disorders:  urinary retention, hyponatremia  reproductive system and breast disorders:  pelvic pain  respiratory, thoracic, and mediastinal disorders:  interstitial lung disease, pulmonary embolism, respiratory failure, bronchospasm  vascular disorders:  hypotension
+
+
+
+   6.2 postmarketing experience
+
+  the following adverse drug reactions have been identified from the worldwide postmarketing experience with pomalyst: pancytopenia, tumor lysis syndrome, allergic reactions (e.g., angioedema, urticaria), elevated liver enzymes, hepatic failure (including fatal cases).
+
+
+
+ because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+    boxed warning: warning: embryo-fetal toxicity and venous and arterial thromboembolism
+
+    warning: embryo-fetal toxicity and venous and arterial thromboembolism  
+
+      embryo-fetal toxicity    
+
+
+
+ *  pomalyst is contraindicated in pregnancy. pomalyst is a thalidomide analogue. thalidomide is a known human teratogen that causes severe birth defects or embryo-fetal death. in females of reproductive potential, obtain 2 negative pregnancy tests before starting pomalyst treatment. 
+ *  females of reproductive potential must use 2 forms of contraception or continuously abstain from heterosexual sex during and for 4 weeks after stopping pomalyst treatment [see contraindications (4), warnings and precautions (5.1), and use in specific populations (8.1, 8.6)]. 
+        pomalyst is only available through a restricted distribution program called pomalyst rems [see   warnings and precautions (  5.2  )  ].    
+ 
+
+     venous and arterial thromboembolism    
+
+
+
+ *  deep venous thrombosis (dvt), pulmonary embolism (pe), myocardial infarction, and stroke occur in patients with multiple myeloma treated with pomalyst. prophylactic antithrombotic measures were employed in clinical trials. thromboprophylaxis is recommended, and the choice of regimen should be based on assessment of the patient's underlying risk factors [see warnings and precautions (5.3)]. 
+      excerpt:   
+ 
+
+ 
+
+
+
+   warning: embryo-fetal toxicity and venous and arterial thromboembolism  
+
+
+
+   see full prescribing information for complete boxed warning  
+
+
+
+   embryo-fetal toxicity  
+
+
+
+ *  pomalyst is contraindicated in pregnancy. pomalyst is a thalidomide analogue. thalidomide is a known human teratogen that causes severe life-threatening birth defects (4, 5.1, 8.1). 
+ *  for females of reproductive potential: exclude pregnancy before start of treatment. prevent pregnancy during treatment by the use of 2 reliable methods of contraception (5.1, 8.6). 
+      pomalyst is available only through a restricted program called pomalyst rems  (r)   (  5.2  ).  
+ 
+
+   venous and arterial thromboembolism  
+
+
+
+ *  deep venous thrombosis (dvt), pulmonary embolism (pe), myocardial infarction, and stroke occur in patients with multiple myeloma treated with pomalyst. antithrombotic prophylaxis is recommended (5.3). 
+    5 warnings and precautions
+
+
+
+   excerpt:    *  hematologic toxicity: neutropenia was the most frequently reported grade 3/4 adverse event. monitor patients for hematologic toxicities, especially neutropenia (  5.4  ). 
+ *  hepatotoxicity: hepatic failure including fatalities; monitor liver function tests monthly (  5.5  ). 
+ *  hypersensitivity reactions: angioedema and severe dermatologic reactions have been reported. discontinue pomalyst for angioedema and severe dermatologic reactions (  5.6  ). 
+ *  tumor lysis syndrome (tls): monitor patients at risk of tls (i.e., those with high tumor burden) and take appropriate precautions (  5.10  ). 
+    
+ 
+
+   5.1 embryo-fetal toxicity
+
+
+
+  pomalyst is a thalidomide analogue and is contraindicated for use during pregnancy. thalidomide is a known human teratogen that causes severe birth defects or embryo-fetal death [see use in specific populations (  8.1  )  ]. pomalyst is only available through the pomalyst rems program [see warnings and precautions (  5.2  )  ].
+
+
+
+  females of reproductive potential  females of reproductive potential must avoid pregnancy while taking pomalyst and for at least 4 weeks after completing therapy.
+
+
+
+ females must commit either to abstain continuously from heterosexual sexual intercourse or to use 2 methods of reliable birth control, beginning 4 weeks prior to initiating treatment with pomalyst, during therapy, during dose interruptions, and continuing for 4 weeks following discontinuation of pomalyst therapy.
+
+
+
+ two negative pregnancy tests must be obtained prior to initiating therapy. the first test should be performed within 10-14 days and the second test within 24 hours prior to prescribing pomalyst therapy and then weekly during the first month, then monthly thereafter in women with regular menstrual cycles, or every 2 weeks in women with irregular menstrual cycles [see use in specific populations (  8.6  )  ].
+
+
+
+  males  pomalidomide is present in the semen of patients receiving the drug. therefore, males must always use a latex or synthetic condom during any sexual contact with females of reproductive potential while taking pomalyst and for up to 28 days after discontinuing pomalyst, even if they have undergone a successful vasectomy. male patients taking pomalyst must not donate sperm [see use in specific populations (  8.6  )  ].
+
+
+
+  blood donation  patients must not donate blood during treatment with pomalyst and for 1 month following discontinuation of the drug because the blood might be given to a pregnant female patient whose fetus must not be exposed to pomalyst.
+
+
+
+    5.2 pomalyst rems program
+
+
+
+  because of the embryo-fetal risk [see warnings and precautions (  5.1  )  ], pomalyst is available only through a restricted program under a risk evaluation and mitigation strategy (rems) called " pomalyst rems  ."
+
+
+
+ required components of the pomalyst rems  program include the following:
+
+
+
+ *  prescribers must be certified with the pomalyst rems program by enrolling and complying with the rems requirements. 
+ *  patients must sign a patient-physician agreement form and comply with the rems requirements. in particular, female patients of reproductive potential who are not pregnant must comply with the pregnancy testing and contraception requirements [see use in specific populations (  8.6  ) ] and males must comply with contraception requirements [see use in specific populations (  8.6  ) ]. 
+ *  pharmacies must be certified with the pomalyst rems program, must only dispense to patients who are authorized to receive pomalyst, and comply with rems requirements. 
+    further information about the pomalyst rems  program is available at www.celgeneriskmanagement.com or by telephone at 1-888-423-5436.
+ 
+
+     5.3 venous and arterial thromboembolism  
+
+
+
+   venous thromboembolic events (deep venous thrombosis and pulmonary embolism) and arterial thromboembolic events (myocardial infarction and stroke) have been observed in patients treated with pomalyst. in trial 2, where anticoagulant therapies were mandated, thromboembolic events occurred in 8.0% of patients treated with pomalyst and low dose-dexamethasone (low-dose dex), and 3.3% of patients treated with high-dose dexamethasone. venous thromboembolic events (vte) occurred in 4.7% of patients treated with pomalyst and low-dose dex, and 1.3% of patients treated with high-dose dexamethasone. arterial thromboembolic events include terms for arterial thromboembolic events, ischemic cerebrovascular conditions, and ischemic heart disease. arterial thromboembolic events occurred in 3.0% of patients treated with pomalyst and low-dose dex, and 1.3% of patients treated with high-dose dexamethasone.  
+
+
+
+  patients with known risk factors, including prior thrombosis, may be at greater risk, and actions should be taken to try to minimize all modifiable factors (e.g., hyperlipidemia, hypertension, smoking). thromboprophylaxis is recommended, and the choice of regimen should be based on assessment of the patient's underlying risk factors.  
+
+
+
+     5.4 hematologic toxicity  
+
+
+
+   in trials 1 and 2 in patients who received pomalyst + low-dose dex, neutropenia was the most frequently reported grade 3/4 adverse reaction, followed by anemia and thrombocytopenia. neutropenia of any grade was reported in 51% of patients in both trials. the rate of grade 3/4 neutropenia was 46%. the rate of febrile neutropenia was 8%.  
+
+
+
+ monitor patients for hematologic toxicities, especially neutropenia. monitor complete blood counts weekly for the first 8 weeks and monthly thereafter. patients may require dose interruption and/or modification [see dosage and administration (  2.2  )  ].
+
+
+
+     5.5 hepatotoxicity  
+
+
+
+   hepatic failure, including fatal cases, has occurred in patients treated with pomalyst. elevated levels of alanine aminotransferase and bilirubin have also been observed in patients treated with pomalyst. monitor liver function tests monthly. stop pomalyst upon elevation of liver enzymes and evaluate. after return to baseline values, treatment at a lower dose may be considered.  
+
+
+
+    5.6 hypersensitivity reactions
+
+
+
+   angioedema and severe dermatologic reactions have been reported. discontinue pomalyst for angioedema, skin exfoliation, bullae, or any other severe dermatologic reactions, and do not resume therapy [see dosage and administration (  2.2  )  ].  
+
+
+
+     5.7 dizziness and confusional state  
+
+
+
+   in trials 1 and 2 in patients who received pomalyst + low-dose dex, 14% of patients experienced dizziness and 7% of patients experienced a confusional state; 1% of patients experienced grade 3 or 4 dizziness, and 3% of patients experienced grade 3 or 4 confusional state. instruct patients to avoid situations where dizziness or confusional state may be a problem and not to take other medications that may cause dizziness or confusional state without adequate medical advice.  
+
+
+
+     5.8 neuropathy  
+
+
+
+   in trials 1 and 2 in patients who received pomalyst + low-dose dex, 18% of patients experienced neuropathy, with approximately 12% of the patients experiencing peripheral neuropathy. two percent of patients experienced grade 3 neuropathy in trial 2. there were no cases of grade 4 neuropathy adverse reactions reported in either trial.  
+
+
+
+    5.9 risk of second primary malignancies
+
+
+
+  cases of acute myelogenous leukemia have been reported in patients receiving pomalyst as an investigational therapy outside of multiple myeloma.
+
+
+
+    5.10 tumor lysis syndrome
+
+
+
+   tumor lysis syndrome (tls) may occur in patients treated with pomalidomide. patients at risk for tls are those with high tumor burden prior to treatment. these patients should be monitored closely and appropriate precautions taken.  

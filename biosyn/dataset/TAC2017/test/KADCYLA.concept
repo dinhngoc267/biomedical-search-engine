@@ -1,0 +1,109 @@
+-1||-1|-1||-1||hepatotoxicity||10019851
+-1||-1|-1||-1||left ventricular dysfunction||10049694
+-1||-1|-1||-1||embryo-fetal toxicity||10026923
+-1||-1|-1||-1||pulmonary toxicity||10061924
+-1||-1|-1||-1||infusion-related reactions||10051792
+-1||-1|-1||-1||hypersensitivity reactions||10020751
+-1||-1|-1||-1||hemorrhage||10055798
+-1||-1|-1||-1||thrombocytopenia||10043554
+-1||-1|-1||-1||neurotoxicity||10029350
+-1||-1|-1||-1||fatigue||10016256
+-1||-1|-1||-1||nausea||10028813
+-1||-1|-1||-1||musculoskeletal pain||10028391
+-1||-1|-1||-1||headache||10019211
+-1||-1|-1||-1||increased transaminases||10054889
+-1||-1|-1||-1||constipation||10010774
+-1||-1|-1||-1||epistaxis||10015090
+-1||-1|-1||-1||peripheral neuropathy||10029331
+-1||-1|-1||-1||neutropenia||10029354
+-1||-1|-1||-1||leukopenia||10024384
+-1||-1|-1||-1||pyrexia||10037660
+-1||-1|-1||-1||anemia||10002034
+-1||-1|-1||-1||hypokalemia||10021015
+-1||-1|-1||-1||lacrimation increased||10023644
+-1||-1|-1||-1||dry eye||10013774
+-1||-1|-1||-1||vision blurred||10047513
+-1||-1|-1||-1||conjunctivitis||10010741
+-1||-1|-1||-1||dyspepsia||10013946
+-1||-1|-1||-1||stomatitis||10042128
+-1||-1|-1||-1||dry mouth||10013781
+-1||-1|-1||-1||abdominal pain||10000081
+-1||-1|-1||-1||vomiting||10047700
+-1||-1|-1||-1||diarrhea||10012735
+-1||-1|-1||-1||peripheral edema||10030124
+-1||-1|-1||-1||chills||10008531
+-1||-1|-1||-1||asthenia||10003549
+-1||-1|-1||-1||nodular regenerative hyperplasia||10051081
+-1||-1|-1||-1||portal hypertension||10036200
+-1||-1|-1||-1||drug hypersensitivity||10013700
+-1||-1|-1||-1||infusion-related reaction||10051792
+-1||-1|-1||-1||urinary tract infection||10046571
+-1||-1|-1||-1||blood alkaline phosphatase increased||10059570
+-1||-1|-1||-1||myalgia||10028411
+-1||-1|-1||-1||arthralgia||10003239
+-1||-1|-1||-1||dysgeusia||10013911
+-1||-1|-1||-1||dizziness||10013573
+-1||-1|-1||-1||insomnia||10022437
+-1||-1|-1||-1||pneumonitis||10035742
+-1||-1|-1||-1||dyspnea||10013968
+-1||-1|-1||-1||cough||10011224
+-1||-1|-1||-1||pruritus||10037087
+-1||-1|-1||-1||rash||10037844
+-1||-1|-1||-1||hypertension||10020772
+-1||-1|-1||-1||increased bilirubin||10005364
+-1||-1|-1||-1||increased ast||10003481
+-1||-1|-1||-1||increased alt||10001551
+-1||-1|-1||-1||decreased platelet count||10035528
+-1||-1|-1||-1||decreased hemoglobin||10018884
+-1||-1|-1||-1||decreased neutrophils||10029366
+-1||-1|-1||-1||decreased potassium||10005724
+-1||-1|-1||-1||hepatic failure||10019663
+-1||-1|-1||-1||cardiac toxicity||10048610
+-1||-1|-1||-1||liver failure||10019663
+-1||-1|-1||-1||death||10011906
+-1||-1|-1||-1||reductions in left ventricular ejection fraction||10050528
+-1||-1|-1||-1||reductions in lvef||10050528
+-1||-1|-1||-1||embryo-fetal death||10055690
+-1||-1|-1||-1||birth defects||10010356
+-1||-1|-1||-1||fetal harm||10016852
+-1||-1|-1||-1||fatal||10011906
+-1||-1|-1||-1||increases in serum transaminases||10054889
+-1||-1|-1||-1||hepatobiliary disorders||10062000
+-1||-1|-1||-1||liver injury||10067125
+-1||-1|-1||-1||hepatic encephalopathy||10019660
+-1||-1|-1||-1||nodular regenerative hyperplasia of the liver||10051081|10052285
+-1||-1|-1||-1||nrh of the liver||10051081|10052285
+-1||-1|-1||-1||nrh||10051081
+-1||-1|-1||-1||decrease of lvef||10050528
+-1||-1|-1||-1||oligohydramnios||10030289
+-1||-1|-1||-1||pulmonary hypoplasia||10037407
+-1||-1|-1||-1||skeletal abnormalities||10062344
+-1||-1|-1||-1||neonatal death||10011912
+-1||-1|-1||-1||interstitial lung disease||10022611
+-1||-1|-1||-1||ild||10022611
+-1||-1|-1||-1||acute respiratory distress syndrome||10001052
+-1||-1|-1||-1||fatal outcome||10011906
+-1||-1|-1||-1||pulmonary infiltrates||10025102
+-1||-1|-1||-1||infusion reactions||10051792
+-1||-1|-1||-1||irr||10051792
+-1||-1|-1||-1||hypersensitivity||10020751
+-1||-1|-1||-1||flushing||10016825
+-1||-1|-1||-1||hypotension||10021097
+-1||-1|-1||-1||wheezing||10047924
+-1||-1|-1||-1||bronchospasm||10006482
+-1||-1|-1||-1||tachycardia||10043071
+-1||-1|-1||-1||irrs||10051792
+-1||-1|-1||-1||allergic -like reaction||10020751
+-1||-1|-1||-1||anaphylactic-like reaction||10002216
+-1||-1|-1||-1||hemorrhagic events||10055798
+-1||-1|-1||-1||central nervous system hemorrhage||10072043
+-1||-1|-1||-1||respiratory hemorrhage||10038727
+-1||-1|-1||-1||gastrointestinal hemorrhage||10017955
+-1||-1|-1||-1||bleeding events||10055798
+-1||-1|-1||-1||fatal outcomes||10011906
+-1||-1|-1||-1||peripheral neuropathy sensory||10034620
+-1||-1|-1||-1||erythema infusion site||10048634
+-1||-1|-1||-1||tenderness infusion site||10053483
+-1||-1|-1||-1||skin irritation infusion site||10065473
+-1||-1|-1||-1||pain infusion site||10053483
+-1||-1|-1||-1||swelling infusion site||10053505

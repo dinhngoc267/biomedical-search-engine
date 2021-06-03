@@ -1,0 +1,262 @@
+    6 adverse reactions
+
+  the following adverse reactions are also discussed elsewhere in the labeling:
+
+
+
+ *    bleeding [ see  warnings and precautions (5.1)   ] 
+ *    dyspnea [ see  warnings and precautions (5.3)   ] 
+      excerpt:   most common adverse reactions are bleeding 12% and dyspnea 14%. (  5.1  ,  5.3  ,  6.1  )
+ 
+
+   to report suspected adverse reactions, contact astrazeneca at 1-800-236-9933 or fda at 1-800-fda-1088 or    www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ brilinta has been evaluated for safety in more than 27000 patients, including more than 13000 patients treated for at least 1 year.
+
+
+
+   bleeding in plato (reduction in risk of thrombotic events in acs)  
+
+
+
+ figure 1 is a plot of time to the first non-cabg major bleeding event.
+
+
+
+   figure 1 - kaplan-meier estimate of time to first non-cabg plato-defined major bleeding event (plato)  
+
+
+
+ frequency of bleeding in plato is summarized in tables 1 and 2. about half of the non-cabg major bleeding events were in the first 30 days.
+
+
+
+ table 1 - non-cabg related bleeds (plato) 
+                                                           brilinta        n=9235      clopidogrel    n=9186     
+  
+                                                          n (%) patients  with event    n (%) patients  with event    
+  plato major + minor                                     713 (7.7)                567 (6.2)                
+  major                                                   362 (3.9)                306 (3.3)                
+  fatal/life-threatening                                  171 (1.9)                151 (1.6)                
+  fatal                                                   15 (0.2)                 16 (0.2)                 
+  intracranial hemorrhage (fatal/life-threatening)        26 (0.3)                 15 (0.2)                 
+  plato minor bleed: requires medical intervention to stop or treat bleeding.  plato major bleed: any one of the following: fatal; intracranial; intrapericardial with cardiac tamponade; hypovolemic shock or severe hypotension requiring intervention; significantly disabling (e.g., intraocular with permanent vision loss); associated with a decrease in hb of at least 3 g/dl (or a fall in hematocrit (hct) of at least 9%); transfusion of 2 or more units.  plato major bleed, fatal/life-threatening: any major bleed as described above and associated with a decrease in hb of more than 5 g/dl (or a fall in hematocrit (hct) of at least 15%); transfusion of 4 or more units.  fatal: a bleeding event that directly led to death within 7 days.    
+         no baseline demographic factor altered the relative risk of bleeding with brilinta compared to clopidogrel.
+ 
+
+ in plato, 1584 patients underwent cabg surgery. the percentages of those patients who bled are shown in figure 2 and table 2.
+
+
+
+   figure 2 - 'major fatal/life-threatening' cabg-related bleeding by days from last dose of study drug to cabg procedure (plato)  
+
+
+
+ x-axis is days from last dose of study drug prior to cabg.
+
+
+
+ the plato protocol recommended a procedure for withholding study drug prior to cabg or other major surgery without unblinding. if surgery was elective or non-urgent, study drug was interrupted temporarily, as follows: if local practice was to allow antiplatelet effects to dissipate before surgery, capsules (blinded clopidogrel) were withheld 5 days before surgery and tablets (blinded ticagrelor) were withheld for a minimum of 24 hours and a maximum of 72 hours before surgery. if local practice was to perform surgery without waiting for dissipation of antiplatelet effects capsules and tablets were withheld 24 hours prior to surgery and use of aprotinin or other haemostatic agents was allowed. if local practice was to use ipa monitoring to determine when surgery could be performed both the capsules and tablets were withheld at the same time and the usual monitoring procedures followed.
+
+
+
+ t ticagrelor; c clopidogrel
+
+
+
+ table 2 - cabg-related bleeding (plato) 
+                                              brilinta90 mg bid  n=770       clopidogrel  n=814            
+  plato total major                           626 (81.3)                     666 (81.8)                    
+  fatal/life-threatening                      337 (43.8)                     350 (43.0)                    
+  fatal                                       6 (0.8)                        7 (0.9)                       
+  plato major bleed: any one of the following: fatal; intracranial; intrapericardial with cardiac tamponade; hypovolemic shock or severe hypotension requiring intervention; significantly disabling (e.g., intraocular with permanent vision loss); associated with a decrease in hb of at least 3 g/dl (or a fall in hematocrit (hct) of at least 9%); transfusion of 2 or more units.  plato major bleed, fatal/life-threatening: any major bleed as described above and associated with a decrease in hb of more than 5 g/dl (or a fall in hematocrit (hct) of at least 15%); transfusion of 4 or more units.    
+         when antiplatelet therapy was stopped 5 days before cabg, major bleeding occurred in 75% of brilinta treated patients and 79% on clopidogrel.
+ 
+
+   other adverse reactions in plato  
+
+
+
+ adverse reactions that occurred at a rate of 4% or more in plato are shown in table 3.
+
+
+
+ table 3 - percentage of patients reporting non-hemorrhagic adverse reactions at least 4% or more in either group and more frequently on brilinta (plato) 
+                     brilintan=9235      clopidogreln=9186     
+  
+  dyspnea           13.8             7.8               
+  dizziness         4.5              3.9               
+  nausea            4.3              3.8               
+           bleeding in pegasus (secondary prevention in patients with a history of myocardial infarction)  
+ 
+
+ overall outcome of bleeding events in the pegasus study are shown in table 4.
+
+
+
+ table 4 - bleeding events (pegasus) 
+                                brilinta60 mg bid + aspirin  n=6958    aspirin alone  n=6996    
+                                n (%)  patients  with event    events  /100 pt yrs    n patients  with event    events  /100 pt yrs    
+  timi major                    115 (1.7)           0.78              54 (0.8)               0.34             
+       fatal                    11 (0.2)            0.08              12 (0.2)               0.08             
+       intracranial hemorrhage    28 (0.4)            0.19              23 (0.3)               0.14             
+  timi major or minor           168 (2.4)           1.15              72 (1.0)               0.45             
+  timi major: fatal bleeding, or any intracranial bleeding, or clinically overt signs of hemorrhage associated with a drop in hemoglobin (hgb) of >=5 g/dl, or a fall in hematocrit (hct) of 15%.  fatal: a bleeding event that directly led to death within 7 days.  timi minor: clinically apparent with 3-5 g/dl decrease in hemoglobin.    
+           the bleeding profile of brilinta 60 mg compared to aspirin alone was consistent across multiple pre-defined subgroups (e.g., by age, gender, weight, race, geographic region, concurrent conditions, concomitant therapy, stent, and medical history) for timi major and timi major or minor bleeding events.
+ 
+
+   other adverse reactions in pegasus  
+
+
+
+ adverse reactions that occurred in pegasus at rates of 3% or more are shown in table 5.
+
+
+
+ table 5 - non-hemorrhagic adverse reactions reported in >3.0% of patients in the ticagrelor 60 mg treatment group (pegasus) 
+                brilinta    n=6958      clopidogreln=6996     
+  
+  dyspnea      14.2            5.5             
+  dizziness    4.5             4.1             
+  diarrhea     3.3             2.5             
+           bradycardia  
+ 
+
+ in a holter substudy of about 3000 patients in plato, more patients had ventricular pauses with brilinta (6.0%) than with clopidogrel (3.5%) in the acute phase; rates were 2.2% and 1.6% respectively after 1 month. plato and pegasus excluded patients at increased risk of bradycardic events (e.g., patients who have sick sinus syndrome, 2  nd  or 3  rd  degree av block, or bradycardic-related syncope and not protected with a pacemaker). in plato, syncope, pre-syncope and loss of consciousness were reported by 1.7% and 1.5% of brilinta 90 mg and clopidogrel patients, respectively. in pegasus, syncope was reported by 1.2% and 0.9% of patients on brilinta 60 mg and aspirin alone, respectively.
+
+
+
+     lab abnormalities    
+
+
+
+ serum uric acid:
+
+
+
+ in plato, serum uric acid levels increased approximately 0.6 mg/dl from baseline on brilinta 90 mg and approximately 0.2 mg/dl on clopidogrel. the difference disappeared within 30 days of discontinuing treatment. reports of gout did not differ between treatment groups in plato (0.6% in each group).
+
+
+
+ in pegasus, serum uric acid levels increased approximately 0.2 mg/dl from baseline on brilinta 60 mg and no elevation was observed on aspirin alone. gout occurred more commonly in patients on brilinta than in patients on aspirin alone (1.5%,1.1%). mean serum uric acid concentrations decreased after treatment was stopped.
+
+
+
+ serum creatinine:
+
+
+
+ in plato, a >50% increase in serum creatinine levels was observed in 7.4% of patients receiving brilinta 90 mg compared to 5.9% of patients receiving clopidogrel. the increases typically did not progress with ongoing treatment and often decreased with continued therapy. evidence of reversibility upon discontinuation was observed even in those with the greatest on treatment increases. treatment groups in plato did not differ for renal-related serious adverse events such as acute renal failure, chronic renal failure, toxic nephropathy, or oliguria.
+
+
+
+ in pegasus, serum creatinine concentration increased by >50% in approximately 4% of patients receiving brilinta 60 mg, similar to aspirin alone. the frequency of renal related adverse events was similar for ticagrelor and aspirin alone regardless of age and baseline renal function.
+
+
+
+  figure 1 - kaplan-meier graph  figure 2 - bar graph 
+
+
+    boxed warning: warning:  (a) bleeding risk, (b) aspirin dose and brilinta effectiveness
+
+  warning:  (a) bleeding risk, (b) aspirin dose and brilinta effectiveness
+
+    a.  bleeding risk  
+
+
+
+ *  brilinta, like other antiplatelet agents, can cause significant, sometimes fatal bleeding (5.1, 6.1). 
+ *  do not use brilinta in patients with active pathological bleeding or a history of intracranial hemorrhage (4.1, 4.2). 
+ *  do not start brilinta in patients undergoing urgent coronary artery bypass graft surgery (cabg) (5.1, 6.1). 
+ *  if possible, manage bleeding without discontinuing brilinta. stopping brilinta increases the risk of subsequent cardiovascular events (5.4). 
+      b.  aspirin dose and brilinta effectiveness  
+ 
+
+ *  maintenance doses of aspirin above 100 mg reduce the effectiveness of brilinta and should be avoided (2.1, 5.2, 14.1). 
+      excerpt:   warning:  (a) bleeding risk, and (b) aspirin dose and brilinta effectiveness
+ 
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+   bleeding risk  
+
+
+
+ *  brilinta, like other antiplatelet agents, can cause significant, sometimes fatal bleeding (5.1, 6.1). 
+ *  do not use brilinta in patients with active pathological bleeding or a history of intracranial hemorrhage (4.1, 4.2). 
+ *  do not start brilinta in patients undergoing urgent coronary artery bypass graft surgery (cabg) (5.1, 6.1). 
+ *  if possible, manage bleeding without discontinuing brilinta. stopping brilinta increases the risk of subsequent cardiovascular events (5.4). 
+      aspirin dose and brilinta effectiveness  
+ 
+
+ *  maintenance doses of aspirin above 100 mg reduce the effectiveness of brilinta and should be avoided. (2.1, 5.2, 14.1). 
+    5 warnings and precautions
+
+
+
+   excerpt:    *    dyspnea was reported more frequently with brilinta than with control agents in clinical trials. dyspnea resulting from brilinta is self-limiting.  (5.3)   
+ *    severe hepatic impairment: likely increase in exposure to ticagrelor.  (5.5)   
+    
+ 
+
+    5.1 general risk of bleeding  
+
+
+
+   drugs that inhibit platelet function including brilinta increase the risk of bleeding [see   adverse reactions (6.1)    ].  
+
+
+
+  if possible, manage bleeding without discontinuing brilinta. stopping brilinta increases the risk of subsequent cardiovascular events [ see        warnings and precautions (5.4)        and  adverse reactions (6.1)    ].  
+
+
+
+    5.2 concomitant aspirin maintenance dose
+
+
+
+  in plato the use of brilinta with maintenance doses of aspirin above 100 mg decreased the effectiveness of brilinta. therefore, after the initial loading dose of aspirin, use brilinta with a maintenance dose of aspirin of 75-100 mg [ see     dosage and administration (2.1)     and     clinical studies (14.1)    ] .  
+
+
+
+     5.3 dyspnea  
+
+
+
+   in clinical trials, about 14% of patients treated with brilinta developed dyspnea. dyspnea was usually mild to moderate in intensity and often resolved during continued treatment, but led to study drug discontinuation in 0.9% of brilinta and 0.1% of clopidogrel patients in plato and 4.3% of brilinta 60 mg and 0.7% on aspirin alone patients in pegasus.  
+
+
+
+  in a substudy of plato, 199 subjects underwent pulmonary function testing irrespective of whether they reported dyspnea. there was no indication of an adverse effect on pulmonary function assessed after one month or after at least 6 months of chronic treatment.  
+
+
+
+  if a patient develops new, prolonged, or worsened dyspnea that is determined to be related to brilinta, no specific treatment is required; continue brilinta without interruption if possible. in the case of intolerable dyspnea requiring discontinuation of brilinta, consider prescribing another antiplatelet agent.  
+
+
+
+     5.4 discontinuation of brilinta  
+
+
+
+   discontinuation of brilinta will increase the risk of myocardial infarction, stroke, and death. if brilinta must be temporarily discontinued (e.g., to treat bleeding or for significant surgery), restart it as soon as possible. when possible, interrupt therapy with brilinta for five days prior to surgery that has a major risk of bleeding. resume brilinta as soon as hemostasis is achieved.  
+
+
+
+     5.5 severe hepatic impairment  
+
+
+
+   avoid use of brilinta in patients with severe hepatic impairment. severe hepatic impairment is likely to increase serum concentration of ticagrelor. there are no studies of brilinta patients with severe hepatic impairment [see   clinical pharmacology (12.3)    ].  

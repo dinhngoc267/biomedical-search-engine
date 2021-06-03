@@ -1,0 +1,242 @@
+    6 adverse reactions
+
+  the following adverse drug reactions (adverse events assessed as causally related by the investigator or adrs) are discussed in other sections of the labeling:
+
+
+
+ *    hypersensitivity reactions [see warnings and precautions (5.1)] . 
+ *    effects on serum liver biochemistries in patients with hepatitis b or c co-infection [see warnings and precautions (5.2)] . 
+ *    fat redistribution [see warnings and precautions (5.3)] . 
+ *    immune reconstitution syndrome [see warnings and precautions (5.4)] . 
+    because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+ 
+
+   excerpt:   the most common adverse reactions of moderate to severe intensity and incidence at least 2% (in those receiving tivicay in any one adult trial) are insomnia, fatigue, and headache. (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact viiv healthcare at 1-877-844-8872 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 clinical trials experience in adult subjects
+
+    treatment  -  emergent adverse drug reactions (adrs)  
+
+
+
+   treatment-naive subjects  : the safety assessment of tivicay in hiv-1-infected treatment-naive subjects is based on the analyses of 96-week data from 2 international, multicenter, double-blind trials, spring-2 (ing113086) and single (ing114467) and 48-week data from the international, multicenter, open-label flamingo (ing114915) trial.
+
+
+
+ in spring-2, 822 subjects were randomized and received at least 1 dose of either tivicay 50 mg once daily or raltegravir 400 mg twice daily, both in combination with fixed-dose dual nucleoside reverse transcriptase inhibitor (nrti) treatment (either abacavir sulfate and lamivudine [epzicom  (r)  ] or emtricitabine/tenofovir [truvada  (r)  ]). there were 808 subjects included in the efficacy and safety analyses. through 96 weeks, the rate of adverse events leading to discontinuation was 2% in both treatment arms.
+
+
+
+ in single, 833 subjects were randomized and received at least 1 dose of either tivicay 50 mg with fixed-dose abacavir sulfate and lamivudine (epzicom) once daily or fixed-dose efavirenz/emtricitabine/tenofovir (atripla  (r)  ) once daily. through 96 weeks, the rates of adverse events leading to discontinuation were 3% in subjects receiving tivicay 50 mg once daily + epzicom and 12% in subjects receiving atripla once daily.
+
+
+
+ treatment-emergent adrs of moderate to severe intensity observed in at least 2% of subjects in either treatment arm in spring-2 and single trials are provided in table 2. side-by-side tabulation is to simplify presentation; direct comparisons across trials should not be made due to differing trial designs.
+
+
+
+ table 2. treatment-emergent adverse drug reactions of at least moderate intensity (grades 2 to 4) and at least 2% frequency in treatment-naive subjects in spring-2 and single trials (week 96 analysis) 
+  system organ class/ preferred term    spring-2               single              
+  tivicay 50 mg once daily + 2 nrtis (n = 403)    raltegravir  400 mg twice daily + 2 nrtis(n = 405)    tivicay 50 mg + epzicom once daily(n = 414)    atripla once daily(n = 419)    
+  psychiatric                                                                                                   
+  insomnia                 <1%                    <1%                 3%                       2%               
+  depression               <1%                    <1%                 1%                       2%               
+  abnormal dreams          <1%                    <1%                 <1%                      2%               
+  nervous system                                                                                                
+  dizziness                <1%                    <1%                 <1%                      5%               
+  headache                 <1%                    <1%                 2%                       2%               
+  gastrointestinal                                                                                              
+  nausea                   1%                     1%                  <1%                      3%               
+  diarrhea                 <1%                    <1%                 <1%                      2%               
+  skin and subcutaneous tissue                                                                                         
+  rasha                    0                      <1%                 <1%                      6%               
+  general disorders                                                                                             
+  fatigue                  <1%                    <1%                 2%                       2%               
+  ear and labyrinth                                                                                             
+  vertigo                  0                      <1%                 0                        2%               
+             a  includes pooled terms: rash, rash generalized, rash macular, rash maculo-papular, rash pruritic, and drug eruption.
+ 
+
+ in addition, grade 1 insomnia was reported by 1% and less than 1% of subjects receiving tivicay and raltegravir, respectively, in spring-2; whereas in single the rates were 7% and 4% for tivicay and atripla, respectively. these events were not treatment limiting.
+
+
+
+ in a multicenter, open-label trial (flamingo), 243 subjects received tivicay 50 mg once daily versus 242 subjects who received darunavir 800 mg/ritonavir 100 mg once daily, both in combination with investigator-selected nrti background regimen (either epzicom or truvada). there were 484 subjects included in the efficacy and safety analyses. through 48 weeks, the rates of adverse events leading to discontinuation were 2% in subjects receiving tivicay and 4% in subjects receiving darunavir/ritonavir. the adrs observed in flamingo were generally consistent with those seen in spring-2 and single.
+
+
+
+   treatment-experienced, integrase strand transfer inhibitor-naive subjects  : in an international, multicenter, double-blind trial (ing111762, sailing), 719 hiv-1-infected, antiretroviral treatment-experienced adults were randomized and received either tivicay 50 mg once daily or raltegravir 400 mg twice daily with investigator-selected background regimen consisting of up to 2 agents, including at least one fully active agent. at 48 weeks, the rates of adverse events leading to discontinuation were 3% in subjects receiving tivicay 50 mg once daily + background regimen and 4% in subjects receiving raltegravir 400 mg twice daily + background regimen.
+
+
+
+ the only treatment-emergent adr of moderate to severe intensity with at least 2% frequency in either treatment group was diarrhea, 2% (6 of 354) in subjects receiving tivicay 50 mg once daily + background regimen and 1% (5 of 361) in subjects receiving raltegravir 400 mg twice daily + background regimen.
+
+
+
+   treatment-experienced, integrase strand transfer inhibitor-experienced subjects  : in a multicenter, open-label, single-arm trial (ing112574, viking-3), 183 hiv-1-infected, antiretroviral treatment-experienced adults with virological failure and current or historical evidence of raltegravir and/or elvitegravir resistance received tivicay 50 mg twice daily with the current failing background regimen for 7 days and with optimized background therapy from day 8. the rate of adverse events leading to discontinuation was 4% of subjects at week 48.
+
+
+
+ treatment-emergent adrs in viking-3 were generally similar compared with observations with the 50-mg once-daily dose in adult phase 3 trials.
+
+
+
+   less common adverse reactions observed in treatment-naive and treatment-experienced trials  
+
+
+
+ the following adrs occurred in less than 2% of treatment-naive or treatment-experienced subjects receiving tivicay in a combination regimen in any one trial. these events have been included because of their seriousness and assessment of potential causal relationship.
+
+
+
+   gastrointestinal disorders:  abdominal pain, abdominal discomfort, flatulence, upper abdominal pain, vomiting.
+
+
+
+   hepatobiliary disorders:  hepatitis.
+
+
+
+   musculoskeletal disorders:  myositis.
+
+
+
+   psychiatric disorders:  suicidal ideation, attempt, behavior, or completion. these events were observed primarily in subjects with a pre-existing history of depression or other psychiatric illness.
+
+
+
+   renal and urinary disorders  : renal impairment.
+
+
+
+   skin and subcutaneous tissue disorders:  pruritus.
+
+
+
+   laboratory abnormalities  
+
+
+
+   treatment-naive subjects  : selected laboratory abnormalities (grades 2 to 4) with a worsening grade from baseline and representing the worst-grade toxicity in at least 2% of subjects are presented in table 3. the mean change from baseline observed for selected lipid values is presented in table 4. side-by-side tabulation is to simplify presentation; direct comparisons across trials should not be made due to differing trial designs.
+
+
+
+ table 3. selected laboratory abnormalities (grades 2 to 4) in treatment-naive subjects in spring-2 and single trials (week 96 analysis) 
+  laboratory parameter  preferred term    spring-2              single                
+  tivicay 50 mg once daily +  2 nrtis  (n = 403)    raltegravir  400 mg twice daily + 2 nrtis  (n = 405)    tivicay 50 mg + epzicom once daily  (n = 414)    atripla  once daily  (n = 419)    
+  alt                                                                                                           
+                            4%                    4%                    2%                         5%           
+                            2%                    2%                    <1%                        <1%          
+  ast                                                                                                           
+                            5%                    3%                    3%                         3%           
+                            3%                    2%                    <1%                        3%           
+                                                                                                                
+                            3%                    2%                    <1%                        0            
+                            <1%                   <1%                   <1%                        0            
+  creatine kinase                                                                                               
+                            2%                    5%                    4%                         1%           
+                            7%                    4%                    5%                         7%           
+  hyperglycemia                                                                                                 
+                            6%                    6%                    7%                         5%           
+                            <1%                   2%                    2%                         <1%          
+  lipase                                                                                                        
+                            7%                    7%                    9%                         9%           
+                            2%                    5%                    4%                         3%           
+  total neutrophils                                                                                             
+                            4%                    3%                    3%                         5%           
+                            2%                    2%                    2%                         3%           
+           uln = upper limit of normal.
+ 
+
+ table 4. mean change from baseline in fasted lipid values in treatment-naive subjects in spring-2 and single trials (week 96 analysisa) 
+  laboratory parameter  preferred term    spring-2                 single                     
+  tivicay 50 mg once daily + 2 nrtis  (n = 403)    raltegravir 400 mg twice daily + 2 nrtis  (n = 405)    tivicay 50 mg + epzicom once daily  (n = 414)    atripla  once daily  (n = 419)    
+  cholesterol (mg/dl)    8.1                      10.1                       23.2                      28.0         
+  hdl cholesterol (mg/dl)    2.0                      2.3                        5.2                       7.4          
+  ldl cholesterol (mg/dl)    5.1                      6.1                        14.5                      18.0         
+  triglycerides (mg/dl)    6.7                      6.6                        17.2                      17.4         
+             a  subjects on lipid-lowering agents at baseline were excluded from these analyses (19 subjects in each arm in spring-2, and in single: tivicay n = 30 and atripla n = 27). seventy-seven subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless if they discontinued the agent (spring-2: tivicay n = 9, raltegravir n = 13; single: tivicay n = 25 and atripla: n = 30).
+ 
+
+ laboratory abnormalities observed in the flamingo trial were generally consistent with observations in spring-2 and single.
+
+
+
+   treatment-experienced, integrase strand transfer inhibitor-naive subjects  : laboratory abnormalities observed in sailing were generally similar compared with observations seen in the treatment-naive (spring-2 and single) trials.
+
+
+
+   treatment-experienced, integrase strand transfer inhibitor-experienced subjects  : the most common treatment-emergent laboratory abnormalities (greater than 5% for grades 2 to 4 combined) observed in viking-3 at week 48 were elevated alt (9%), ast (8%), cholesterol (10%), creatine kinase (6%), hyperglycemia (14%), and lipase (10%). two percent (4 of 183) of subjects had a grade 3 to 4 treatment-emergent hematology laboratory abnormality, with neutropenia (2% [3 of 183]) being the most frequently reported.
+
+
+
+   hepatitis b and/or hepatitis c virus co-infection  : in phase 3 trials, subjects with hepatitis b and/or c virus co-infection were permitted to enroll provided that baseline liver chemistry tests did not exceed 5 times the upper limit of normal. overall, the safety profile in subjects with hepatitis b and/or c virus co-infection was similar to that observed in subjects without hepatitis b or c co-infection, although the rates of ast and alt abnormalities were higher in the subgroup with hepatitis b and/or c virus co-infection for all treatment groups. grades 2 to 4 alt abnormalities in hepatitis b and/or c co-infected compared with hiv mono-infected subjects receiving tivicay were observed in 18% vs. 3% with the 50-mg once-daily dose and 13% vs. 8% with the 50-mg twice-daily dose. liver chemistry elevations consistent with immune reconstitution syndrome were observed in some subjects with hepatitis b and/or c at the start of therapy with tivicay, particularly in the setting where anti-hepatitis therapy was withdrawn  [see warnings and precautions (5.2)]  .
+
+
+
+   changes in serum creatinine  
+
+
+
+ dolutegravir has been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine without affecting renal glomerular function  [see clinical pharmacology (12.2)]  . increases in serum creatinine occurred within the first 4 weeks of treatment and remained stable through 48 to 96 weeks. in treatment-naive subjects, a mean change from baseline of 0.15 mg per dl (range: -0.32 mg per dl to 0.65 mg per dl) was observed after 96 weeks of treatment. creatinine increases were comparable by background nrtis and were similar in treatment-experienced subjects.
+
+
+
+   6.2 clinical trials experience in pediatric subjects
+
+  impaact p1093 is an ongoing multicenter, open-label, non-comparative trial of approximately 160 hiv-1-infected pediatric subjects aged 6 weeks to less than 18 years, of which 23 treatment-experienced, insti-naive subjects aged 12 to less than 18 years were enrolled  [see use in specific populations (8.4), clinical studies (14.2)].  
+
+
+
+ the adverse reaction profile was similar to that for adults. grade 2 adrs reported in at least 1 subject were rash (n = 1), abdominal pain (n = 1), and diarrhea (n = 1). no grade 3 or 4 adrs were reported. the grade 3 laboratory abnormalities were elevated total bilirubin and lipase reported in 1 subject each. no grade 4 laboratory abnormalities were reported. the changes in mean serum creatinine were similar to those observed in adults.
+    5 warnings and precautions
+
+
+
+   excerpt:    *    hypersensitivity reactions characterized by rash, constitutional findings, and sometimes organ dysfunction, including liver injury, have been reported. discontinue tivicay and other suspect agents immediately if signs or symptoms of hypersensitivity reactions develop, as a delay in stopping treatment may result in a life-threatening reaction. (  5.1  ) 
+ *    patients with underlying hepatitis b or c may be at increased risk for worsening or development of transaminase elevations with use of tivicay. appropriate laboratory testing prior to initiating therapy and monitoring for hepatotoxicity during therapy with tivicay is recommended in patients with underlying hepatic disease such as hepatitis b or c. (  5.2  ) 
+ *    redistribution/accumulation of body fat and immune reconstitution syndrome have been reported in patients treated with combination antiretroviral therapy. (  5.3  ,  5.4  ) 
+    
+ 
+
+   5.1 hypersensitivity reactions
+
+
+
+  hypersensitivity reactions have been reported and were characterized by rash, constitutional findings, and sometimes organ dysfunction, including liver injury. the events were reported in less than 1% of subjects receiving tivicay in phase 3 clinical trials. discontinue tivicay and other suspect agents immediately if signs or symptoms of hypersensitivity reactions develop (including, but not limited to, severe rash or rash accompanied by fever, general malaise, fatigue, muscle or joint aches, blisters or peeling of the skin, oral blisters or lesions, conjunctivitis, facial edema, hepatitis, eosinophilia, angioedema, difficulty breathing). clinical status, including liver aminotransferases, should be monitored and appropriate therapy initiated. delay in stopping treatment with tivicay or other suspect agents after the onset of hypersensitivity may result in a life-threatening reaction. tivicay is contraindicated in patients who have experienced a previous hypersensitivity reaction to dolutegravir.
+
+
+
+    5.2 effects on serum liver biochemistries in patients with hepatitis b or c co-infection
+
+
+
+  patients with underlying hepatitis b or c may be at increased risk for worsening or development of transaminase elevations with use of tivicay [see adverse reactions (6.1)]  . in some cases the elevations in transaminases were consistent with immune reconstitution syndrome or hepatitis b reactivation particularly in the setting where anti-hepatitis therapy was withdrawn. appropriate laboratory testing prior to initiating therapy and monitoring for hepatotoxicity during therapy with tivicay are recommended in patients with underlying hepatic disease such as hepatitis b or c.
+
+
+
+    5.3 fat redistribution
+
+
+
+  redistribution/accumulation of body fat, including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy. the mechanism and long-term consequences of these events are currently unknown. a causal relationship has not been established.
+
+
+
+    5.4 immune reconstitution syndrome
+
+
+
+  immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including tivicay. during the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as mycobacterium avium  infection, cytomegalovirus, pneumocystis jirovecii  pneumonia [pcp], or tuberculosis), which may necessitate further evaluation and treatment.
+
+
+
+ autoimmune disorders (such as graves' disease, polymyositis, and guillain-barre syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable and can occur many months after initiation of treatment.

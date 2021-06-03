@@ -1,0 +1,253 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *    infusion reactions [see warnings and precautions (5.1)]  
+ *    hepatitis b virus reactivation [see warnings and precautions (5.2)]  
+ *    hepatitis b virus infection [see warnings and precautions (5.3)]  
+ *    progressive multifocal leukoencephalopathy [see warnings and precautions (5.4)]  
+ *    tumor lysis syndrome [see warnings and precautions (5.5)]  
+ *    cytopenias [see warnings and precautions (5.6)]  
+      previously untreated cll:  the most common adverse reactions (  >=  10%) were infusion reactions and neutropenia (table 3).
+ 
+
+   refractory cll:  the most common adverse reactions (  >=  10%) were neutropenia, pneumonia, pyrexia, cough, diarrhea, anemia, fatigue, dyspnea, rash, nausea, bronchitis, and upper respiratory tract infections (table 5). the most common serious adverse reactions were infections (including pneumonia and sepsis), neutropenia, and pyrexia. infections were the most common adverse reactions leading to drug discontinuation.
+
+
+
+    excerpt:    *    previously untreated cll: common adverse reactions (>=10%) were infusion reactions and neutropenia. (  6  ) 
+ *    refractory cll: common adverse reactions (>=10%) were neutropenia, pneumonia, pyrexia, cough, diarrhea, anemia, fatigue, dyspnea, rash, nausea, bronchitis, and upper respiratory tract infections. (  6  ) 
+      to report suspected adverse reactions, contact glaxosmithkline at 1-888-825-5249 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+   previously untreated cll:  the safety of arzerra was evaluated in an open-label, parallel-arm, randomized trial (study 1) in 444 patients with previously untreated cll. patients were randomized to receive either arzerra as an intravenous infusion every 28 days in combination with chlorambucil (n = 217) or chlorambucil as a single agent (n = 227). in both arms, patients received chlorambucil 10 mg/m2 orally on days 1 to 7 every 28 days. the infusion schedule for arzerra was 300 mg administered on cycle 1 day 1, 1,000 mg administered on cycle 1 day 8, and 1,000 mg administered on day 1 of subsequent 28-day cycles. the median number of cycles of arzerra completed was 6.
+
+
+
+ the data described in table 3 include relevant adverse reactions occurring up to 60 days after the last dose of study medication; table 4 includes relevant hematologic laboratory abnormalities.
+
+
+
+ table 3. adverse reactions with >=5% incidence in patients receiving arzerra plus chlorambucil and also >=2% more than patients receiving chlorambucil 
+  adverse reactions                           arzerra plus chlorambucil  (n = 217)    chlorambucil  (n = 227)    
+  all grades  %                               grade >=3  %       all grades  %      grade >=3  %       
+  infusion reactionsa                         67                 10                 0                  0                  
+  neutropenia                                 27                 26                 18                 14                 
+  asthenia                                    8                  <1                 5                  0                  
+  headache                                    7                  <1                 3                  0                  
+  leukopenia                                  6                  3                  2                  <1                 
+  herpes simplexb                             6                  0                  4                  <1                 
+  lower respiratory tract infection           5                  1                  3                  <1                 
+  arthralgia                                  5                  <1                 3                  0                  
+  upper abdominal pain                        5                  0                  3                  0                  
+             a  includes events which occurred on the day of an infusion or within 24 hours of the end of an infusion and resulted in an interruption or discontinuation of treatment. infusion reactions may include, but are not limited to, chills, dyspnea, flushing, hypotension, nausea, pain, pruritus, pyrexia, rash, and urticaria.
+ 
+
+   b  includes oral herpes, herpes, herpes virus infection, genital herpes, and herpes simplex.
+
+
+
+ table 4. post-baseline hematologic laboratory abnormalities occurring with >=5% incidence in patients receiving arzerra plus chlorambucil and also >=2% more than patients receiving chlorambucil 
+                                arzerra plus chlorambucil  (n = 217)    chlorambucil  (n = 227)    
+  all grades  %                 grade >=3  %        all grades  %       grade >=3  %        
+  leukopenia                    67                  23                  28                  4                   
+  neutropenia                   66                  29                  56                  24                  
+  lymphopenia                   52                  29                  20                  7                   
+             infusion reactions:  overall, 67% of patients who received arzerra in combination with chlorambucil experienced one or more symptoms of infusion reactions (10% were grade 3 or greater; none were fatal). infusion reactions that were either grade 3 or greater, serious, or led to treatment interruption or discontinuation occurred most frequently during cycle 1 (56% on day 1 [6% were grade 3 or greater] and 23% on day 8 [3% were grade 3 or greater]) and decreased with subsequent infusions. infusion reactions led to discontinuation of treatment in 3% of patients. serious adverse events of infusion reactions occurred in 2% of patients.
+ 
+
+   neutropenia:  overall, 3% of patients had neutropenia as a serious adverse event, reported up to 60 days after the last dose. one patient died with neutropenic sepsis and agranulocytosis. prolonged neutropenia occurred in 6% of patients receiving arzerra in combination with chlorambucil compared with 4% of patients receiving chlorambucil. late-onset neutropenia occurred in 6% of patients receiving arzerra in combination with chlorambucil compared with 1% of patients receiving chlorambucil alone.
+
+
+
+   refractory cll:  the safety of monotherapy with arzerra was evaluated in 181 patients with relapsed or refractory cll in 2 open-label, non-randomized, single-arm studies. in these studies, arzerra was administered at 2,000 mg beginning with the second dose for 11 doses (study 2 [n = 154]) or 3 doses (study 3 [n = 27]).
+
+
+
+ the data described in table 5 and other sections below are derived from 154 patients in study 2. all patients received 2,000 mg weekly from the second dose onward. ninety percent of patients received at least 8 infusions of arzerra and 55% received all 12 infusions. the median age was 63 years (range: 41 to 86 years), 72% were male, and 97% were white.
+
+
+
+ table 5. incidence of all adverse reactions occurring in >=5% of patients and in the fludarabine- and alemtuzumab-refractory subset 
+  adverse reaction                      total population  (n = 154)    fludarabine- and alemtuzumab-refractory  (n = 59)    
+  all grades  %                         grade >=3  %      all grades  %     grade >=3  %      
+  pneumoniaa                            23                14                25                15                
+  pyrexia                               20                3                 25                5                 
+  cough                                 19                0                 19                0                 
+  diarrhea                              18                0                 19                0                 
+  anemia                                16                5                 17                8                 
+  fatigue                               15                0                 15                0                 
+  dyspnea                               14                2                 19                5                 
+  rashb                                 14                <1                17                2                 
+  bronchitis                            11                <1                19                2                 
+  nausea                                11                0                 12                0                 
+  upper respiratory tract infection     11                0                 3                 0                 
+  edema peripheral                      9                 <1                8                 2                 
+  back pain                             8                 1                 12                2                 
+  chills                                8                 0                 10                0                 
+  nasopharyngitis                       8                 0                 8                 0                 
+  sepsisc                               8                 8                 10                10                
+  urticaria                             8                 0                 5                 0                 
+  insomnia                              7                 0                 10                0                 
+  headache                              6                 0                 7                 0                 
+  herpes zoster                         6                 1                 7                 2                 
+  hyperhidrosis                         5                 0                 5                 0                 
+  hypertension                          5                 0                 8                 0                 
+  hypotension                           5                 0                 3                 0                 
+  muscle spasms                         5                 0                 3                 0                 
+  sinusitis                             5                 2                 3                 2                 
+  tachycardia                           5                 <1                7                 2                 
+             a  includes pneumonia, lung infection, lobar pneumonia, and bronchopneumonia.
+ 
+
+   b  includes rash, rash macular, and rash vesicular.
+
+
+
+   c  includes sepsis, neutropenic sepsis, bacteremia, and septic shock.
+
+
+
+   infusion reactions:  infusion reactions occurred in 44% of patients on the day of the first infusion (300 mg), 29% on the day of the second infusion (2,000 mg), and less frequently during subsequent infusions.
+
+
+
+   infections  : a total of 108 patients (70%) experienced bacterial, viral, or fungal infections. a total of 45 patients (29%) experienced grade 3 or greater infections, of which 19 (12%) were fatal. the proportion of fatal infections in the fludarabine- and alemtuzumab-refractory group was 17%.
+
+
+
+   neutropenia:  of 108 patients with normal neutrophil counts at baseline, 45 (42%) developed grade 3 or greater neutropenia. nineteen (18%) developed grade 4 neutropenia. some patients experienced new onset grade 4 neutropenia >2 weeks in duration.
+
+
+
+   6.2 immunogenicity
+
+  there is a potential for immunogenicity with therapeutic proteins such as ofatumumab. serum samples from more than 300 patients with cll were tested during and after treatment for antibodies to arzerra. there was no formation of anti-ofatumumab antibodies in patients with cll after treatment with ofatumumab.
+
+
+
+ immunogenicity assay results are highly dependent on several factors including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of incidence of antibodies to arzerra with the incidence of antibodies to other products may be misleading.
+
+
+
+   6.3 postmarketing experience
+
+  the following adverse reactions have been identified during post-approval use of arzerra. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   infusion-related cardiac events:  cardiac arrest.
+
+
+
+   mucocutaneous reactions:  stevens-johnson syndrome, porphyria cutanea tarda.
+
+
+    boxed warning: warning: hepatitis b virus (hbv) reactivation and progressive multifocal leukoencephalopathy
+
+  warning: hepatitis b virus (hbv) reactivation and progressive multifocal leukoencephalopathy
+
+    *  hepatitis b virus reactivation can occur in patients receiving cd20-directed cytolytic antibodies, including arzerra(r), in some cases resulting in fulminant hepatitis, hepatic failure, and death [see warnings and precautions (5.2)]. 
+ *  progressive multifocal leukoencephalopathy (pml) resulting in death can occur in patients receiving cd20-directed cytolytic antibodies, including arzerra [see warnings and precautions (5.4)]. 
+      excerpt:   warning: hepatitis b virus reactivation and progressive multifocal leukoencephalopathy
+ 
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  hepatitis b virus (hbv) reactivation, in some cases resulting in fulminant hepatitis, hepatic failure, and death. (5.2) 
+ *  progressive multifocal leukoencephalopathy(pml) resulting in death. (5.4) 
+    5 warnings and precautions
+
+
+
+   excerpt:    *    infusion reactions: premedicate with corticosteroid, acetaminophen, and an antihistamine. monitor patients during infusions. interrupt infusion if infusion reactions occur. (  2.3  ,  2.4  ,  5.1  ) 
+ *    tumor lysis syndrome: anticipate tls in high-risk patients; premedicate with anti-hyperuricemics and hydration. (  5.5  ) 
+ *    cytopenias: neutropenia, anemia, and thrombocytopenia occur. late-onset and prolonged neutropenia can also occur. monitor complete blood counts at regular intervals. (  5.6  ) 
+    
+ 
+
+   5.1 infusion reactions
+
+
+
+  arzerra can cause serious, including fatal, infusion reactions manifesting as bronchospasm, dyspnea, laryngeal edema, pulmonary edema, flushing, hypertension, hypotension, syncope, cardiac events (e.g., myocardial ischemia/infarction, acute coronary syndrome, arrhythmia, bradycardia), back pain, abdominal pain, pyrexia, rash, urticaria, angioedema, cytokine release syndrome, and anaphylactoid/anaphylactic reactions. infusion reactions occur more frequently with the first 2 infusions. these reactions may result in temporary interruption or withdrawal of treatment [see adverse reactions (6.1)]  .
+
+
+
+ premedicate with acetaminophen, an antihistamine, and a corticosteroid [see dosage and administration (2.1, 2.4)]  . infusion reactions may occur despite premedication. interrupt infusion with arzerra for infusion reactions of any severity. institute medical management for severe infusion reactions including angina or other signs and symptoms of myocardial ischemia [see dosage and administration (2.3)]  . if an anaphylactic reaction occurs, immediately and permanently discontinue arzerra and initiate appropriate medical treatment.
+
+
+
+     5.2 hepatitis b virus reactivation  
+
+
+
+   hepatitis b virus (hbv) reactivation, in some cases resulting in fulminant hepatitis, hepatic failure, and death, has occurred in patients treated with arzerra. cases have been reported in patients who are hepatitis b surface antigen (hbsag) positive and also in patients who are hbsag negative but are hepatitis b core antibody (anti-hbc) positive. reactivation also has occurred in patients who appear to have resolved hepatitis b infection (i.e., hbsag negative, anti-hbc positive, and hepatitis b surface antibody [anti-hbs] positive).  
+
+
+
+  hbv reactivation is defined as an abrupt increase in hbv replication manifesting as a rapid increase in serum hbv dna level or detection of hbsag in a person who was previously hbsag negative and anti-hbc positive. reactivation of hbv replication is often followed by hepatitis, i.e., increase in transaminase levels and, in severe cases, increase in bilirubin levels, liver failure, and death.  
+
+
+
+  screen all patients for hbv infection by measuring hbsag and anti-hbc before initiating treatment with arzerra. for patients who show evidence of hepatitis b infection (hbsag positive [regardless of antibody status] or hbsag negative but anti-hbc positive), consult physicians with expertise in managing hepatitis b regarding monitoring and consideration for hbv antiviral therapy.  
+
+
+
+  monitor patients with evidence of current or prior hbv infection for clinical and laboratory signs of hepatitis or hbv reactivation during and for several months following treatment with arzerra. hbv reactivation has been reported for at least 12 months following completion of therapy.  
+
+
+
+  in patients who develop reactivation of hbv while receiving arzerra, immediately discontinue arzerra and any concomitant chemotherapy, and institute appropriate treatment. resumption of arzerra in patients whose hbv reactivation resolves should be discussed with physicians with expertise in managing hepatitis b. insufficient data exist regarding the safety of resuming arzerra in patients who develop hbv reactivation.  
+
+
+
+     5.3 hepatitis b virus infection  
+
+
+
+   fatal infection due to hepatitis b in patients who have not been previously infected has been observed with arzerra. monitor patients for clinical and laboratory signs of hepatitis.  
+
+
+
+     5.4 progressive multifocal leukoencephalopathy  
+
+
+
+   progressive multifocal leukoencephalopathy (pml) resulting in death has occurred with arzerra. consider pml in any patient with new onset of or changes in pre-existing neurological signs or symptoms. if pml is suspected, discontinue arzerra and initiate evaluation for pml including neurology consultation  .
+
+
+
+     5.5 tumor lysis syndrome  
+
+
+
+   tumor lysis syndrome (tls), including the need for hospitalization, has occurred in patients treated with arzerra. patients with high tumor burden and/or high circulating lymphocyte counts (>25 x 10  9  /l) are at greater risk for developing tls. consider tumor lysis prophylaxis with anti-hyperuricemics and hydration beginning 12 to 24 hours prior to infusion of arzerra. for treatment of tls, administer aggressive intravenous hydration and anti-hyperuricemic agents, correct electrolyte abnormalities, and monitor renal function  .
+
+
+
+    5.6 cytopenias
+
+
+
+  severe cytopenias, including neutropenia, thrombocytopenia, and anemia, can occur with arzerra. pancytopenia, agranulocytosis, and fatal neutropenic sepsis have occurred in patients who received arzerra in combination with chlorambucil. grade 3 or 4 late-onset neutropenia (onset at least 42 days after last treatment dose) and/or prolonged neutropenia (not resolved between 24 and 42 days after last treatment dose) were reported in patients who received arzerra [see adverse reactions (6.1)].  monitor complete blood counts at regular intervals during and after conclusion of therapy, and increase the frequency of monitoring in patients who develop grade 3 or 4 cytopenias.
+
+
+
+    5.7 immunizations
+
+
+
+  the safety of immunization with live viral vaccines during or following administration of arzerra has not been studied. do not administer live viral vaccines to patients who have recently received arzerra. the ability to generate an immune response to any vaccine following administration of arzerra has not been studied.

@@ -1,0 +1,306 @@
+    6 adverse reactions
+
+  the following adverse reactions are discussed in greater detail in other sections of the label:
+
+
+
+ *  new primary malignancies [see  warnings and precautions (5.1)  ]  
+ *  hypersensitivity reactions [see  warnings and precautions (5.3)  ]  
+ *  dermatologic reactions [see  warnings and precautions (5.4)  ]  
+ *  qt prolongation [see  warnings and precautions (5.5)  ]  
+ *  hepatotoxicity [see  warnings and precautions (5.6)  ]  
+ *  photosensitivity [see  warnings and precautions (5.7)  ]  
+ *  ophthalmologic reactions [see  warnings and precautions (5.8)  ]  
+ *  radiation sensitization and radiation recall [see  warnings and precautions (5.10)  ]  
+      excerpt:   most common adverse reactions (>= 30%) are arthralgia, rash, alopecia, fatigue, photosensitivity reaction, nausea, pruritus, and skin papilloma. (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact genentech at 1-888-835-2555 or fda at 1-800-fda-1088 or www.fda.gov/medwatch  .
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not predict the rates observed in a broader patient population in clinical practice.
+
+
+
+ this section describes adverse drug reactions (adrs) identified from analyses of trial 1 and trial 2  [see  clinical studies (14)  ]  . trial 1 randomized (1:1) 675 treatment-naive patients with unresectable or metastatic melanoma to receive zelboraf 960 mg orally twice daily or dacarbazine 1000 mg/m  2  intravenously every 3 weeks. in trial 2, 132 patients with metastatic melanoma and failure of at least one prior systemic therapy received treatment with zelboraf 960 mg orally twice daily.
+
+
+
+   table 1  presents adverse reactions reported in at least 10% of patients treated with zelboraf. the most common adverse reactions of any grade (>= 30% in either study) in zelboraf-treated patients were arthralgia, rash, alopecia, fatigue, photosensitivity reaction, nausea, pruritus, and skin papilloma. the most common (>= 5%) grade 3 adverse reactions were cuscc and rash. the incidence of grade 4 adverse reactions was <= 4% in both studies.
+
+
+
+ the incidence of adverse events resulting in permanent discontinuation of study medication in trial 1 was 7% for the zelboraf arm and 4% for the dacarbazine arm. in trial 2, the incidence of adverse events resulting in permanent discontinuation of study medication was 3% in zelboraf-treated patients. the median duration of study treatment was 4.2 months for zelboraf and 0.8 months for dacarbazine in trial 1, and 5.7 months for zelboraf in trial 2.
+
+
+
+ table 1 adverse reactions reported in >= 10% of patients treated with zelborafadverse drug reactions, reported using meddra and graded using nci-ctc-ae v 4.0 (nci common toxicity criteria) for assessment of toxicity. 
+ adrs                                      trial 1: treatment naive patients  trial 2: patients with failure of at least one prior systemic therapy   
+ zelborafn=336                             dacarbazinen=287  zelborafn=132   
+ all grades (%)                            grade 3(%)  all grades (%)  grade 3 (%)  all grades (%)  grade 3(%)   
+  
+   skin and subcutaneous tissue disorders                                         
+ rash                                          37          8           2           0           52          7        
+ photosensitivity reaction                     33          3           4           0           49          3        
+ alopecia                                      45         < 1          2           0           36          0        
+ pruritus                                      23          1           1           0           30          2        
+ hyperkeratosis                                24          1          < 1          0           28          0        
+ rash maculo-papular                           9           2          < 1          0           21          6        
+ actinic keratosis                             8           0           3           0           17          0        
+ dry skin                                      19          0           1           0           16          0        
+ rash papular                                  5          < 1          0           0           13          0        
+ erythema                                      14          0           2           0           8           0        
+   musculoskeletal and connective tissue disorders                                         
+ arthralgia                                    53          4           3          < 1          67          8        
+ myalgia                                       13         < 1          1           0           24         < 1       
+ pain in extremity                             18         < 1          6           2           9           0        
+ musculoskeletal pain                          8           0           4          < 1          11          0        
+ back pain                                     8          < 1          5          < 1          11         < 1       
+   general disorders and administration site conditions                                         
+ fatigue                                       38          2           33          2           54          4        
+ edema peripheral                              17         < 1          5           0           23          0        
+ pyrexia                                       19         < 1          9          < 1          17          2        
+ asthenia                                      11         < 1          9          < 1          2           0        
+   gastrointestinal disorders                                                   
+ nausea                                        35          2           43          2           37          2        
+ diarrhea                                      28         < 1          13         < 1          29         < 1       
+ vomiting                                      18          1           26          1           26          2        
+ constipation                                  12         < 1          24          0           16          0        
+   nervous system disorders                                                     
+ headache                                      23         < 1          10          0           27          0        
+ dysgeusia                                     14          0           3           0           11          0        
+   neoplasms benign, malignant and unspecified (includes cysts and polyps)                                         
+ skin papilloma                                21         < 1          0           0           30          0        
+ cutaneous scc                                 24          22         < 1         < 1          24          24       
+ seborrheic keratosis                          10         < 1          1           0           14          0        
+   investigations                                                               
+ gamma-glutamyltransferase increased           5           3           1           0           15          6        
+   metabolism and nutrition disorders                                           
+ decreased appetite                            18          0           8          < 1          21          0        
+   respiratory, thoracic and mediastinal disorders                                         
+ cough                                         8           0           7           0           12          0        
+   injury, poisoning and procedural complications                                         
+ sunburn                                       10          0           0           0           14          0        
+               clinically relevant adverse reactions reported in < 10% of patients treated with zelboraf in the phase 2 and phase 3 studies include:
+ 
+
+   skin  and  subcutaneous tissue disorders:  palmar-plantar erythrodysesthesia syndrome, keratosis pilaris, panniculitis, erythema nodosum, stevens-johnson syndrome, toxic epidermal necrolysis
+
+
+
+   musculoskeletal and connective tissue disorders:  arthritis
+
+
+
+   nervous system disorders:  neuropathy peripheral, vii  th  nerve paralysis
+
+
+
+   neoplasms benign, malignant and unspecified (includes cysts and polyps):  basal cell carcinoma, oropharyngeal squamous cell carcinoma
+
+
+
+   infections and infestations:  folliculitis
+
+
+
+   eye disorders:  retinal vein occlusion
+
+
+
+   vascular disorders:  vasculitis
+
+
+
+   cardiac disorders:  atrial fibrillation
+
+
+
+   table 2  shows the incidence of worsening liver laboratory abnormalities in trial 1 summarized as the proportion of patients who experienced a shift from baseline to grade 3 or 4.
+
+
+
+ table 2 change from baseline to grade 3/4 liver laboratory abnormalitiesfor alt, alkaline phosphatase, and bilirubin, there were no patients with a change to grade 4 in either treatment arm. 
+ parameter                           change from baseline to grade 3/4   
+ zelboraf (%)                                 dacarbazine (%)            
+  
+ ggt                                               11.5                                8.6                  
+ ast                                                0.9                                0.4                  
+ alt                                                2.8                                1.9                  
+ alkaline phosphatase                               2.9                                0.4                  
+ bilirubin                                          1.9                                 0                   
+           6.2 postmarketing experience
+   the following adverse reactions have been identified during postapproval use of zelboraf. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   neoplasms benign, malignant and unspecified (incl. cysts and polyps):  progression of pre-existing chronic myelomonocytic leukemia with nras mutation  [see  warnings and precautions (5.1)  ]  .
+
+
+
+   skin and subcutaneous tissue disorders:  drug reaction with eosinophilia and systemic symptoms (dress syndrome)  [see  warnings and precautions (5.3)  ]  .
+
+
+
+   blood and lymphatic systems disorder:  neutropenia
+
+
+
+   injury, poisoning and procedural complications:  radiation sensitization and recall  [see  warnings and precautions (5.10)  ].  
+
+
+
+   gastrointestinal disorders:  pancreatitis
+    5 warnings and precautions
+
+
+
+   excerpt:    *  new primary cutaneous malignancies: perform dermatologic evaluations prior to initiation of therapy, every 2 months while on therapy, and for up to 6 months following discontinuation of zelboraf. manage with excision and continue treatment without dose adjustment. (  5.1  ) 
+ *  new non-cutaneous squamous cell carcinoma: evaluate for symptoms or clinical signs of new non-cutaneous scc before initiation of treatment and periodically during treatment. (  5.1  ) 
+ *  other malignancies: monitor patients receiving zelboraf closely for signs or symptoms of other malignancies (  5.1  ). 
+ *  tumor promotion in braf wild-type melanoma: increased cell proliferation can occur with braf inhibitors (  5.2  ). 
+ *  serious hypersensitivity reactions including anaphylaxis and drug reaction with eosinophilia and systemic symptoms (dress syndrome): discontinue zelboraf for severe hypersensitivity reactions. (  5.3  ) 
+ *  severe dermatologic reactions, including stevens-johnson syndrome and toxic epidermal necrolysis: discontinue zelboraf for severe dermatologic reactions. (  5.4  ) 
+ *  qt prolongation: monitor ecg and electrolytes before and during treatment. withhold zelboraf for qtc of 500 ms or greater. correct electrolyte abnormalities and control for cardiac risk factors for qt prolongation. (  5.5  ) 
+ *  hepatotoxicity: monitor liver enzymes and bilirubin before initiating zelboraf and monthly during treatment. (  5.6  ) 
+ *  photosensitivity: advise patients to avoid sun exposure. (  5.7  ) 
+ *  serious ophthalmologic reactions: monitor for signs and symptoms of uveitis. (  5.8  ) 
+ *  embryo-fetal toxicity: may cause fetal harm. advise women of potential risk to the fetus. (  5.9  ,  8.1  ) 
+ *  radiation sensitization and radiation recall: severe cases have been reported. (  5.10  ). 
+    
+ 
+
+   5.1 new primary malignancies
+
+
+
+   cutaneous malignancies  
+
+
+
+ cutaneous squamous cell carcinoma, keratoacanthoma, and melanoma occurred at a higher incidence in patients receiving zelboraf compared to those in the control arm in trial 1. the incidence of cutaneous squamous cell carcinomas (cuscc) and keratoacanthomas in the zelboraf arm was 24% compared to < 1% in the dacarbazine arm [see  adverse reactions (6.1)  ]  . the median time to the first appearance of cuscc was 7 to 8 weeks; approximately 33% of patients who developed a cuscc while receiving zelboraf experienced at least one additional occurrence with median time between occurrences of 6 weeks. potential risk factors associated with cuscc observed in clinical studies using zelboraf included age (>= 65 years), prior skin cancer, and chronic sun exposure.
+
+
+
+ in trial 1, new primary malignant melanoma occurred in 2.1% (7/336) of patients receiving zelboraf compared to none of the patients receiving dacarbazine.
+
+
+
+ perform dermatologic evaluations prior to initiation of therapy and every 2 months while on therapy. manage suspicious skin lesions with excision and dermatopathologic evaluation. consider dermatologic monitoring for 6 months following discontinuation of zelboraf.
+
+
+
+    non-cutaneous squamous cell carcinoma  
+
+
+
+ non-cutaneous squamous cell carcinomas (scc) of the head and neck can occur in patients receiving zelboraf [see  adverse reactions (6.1)  ]  . monitor patients receiving zelboraf closely for signs or symptoms of new non-cutaneous scc.
+
+
+
+    other malignancies  
+
+
+
+ based on mechanism of action, zelboraf may promote malignancies associated with activation of ras through mutation or other mechanisms [see  warnings and precautions (5.2)  ]  . monitor patients receiving zelboraf closely for signs or symptoms of other malignancies.
+
+
+
+    5.2 tumor promotion in braf wild-type melanoma
+
+
+
+  in vitro experiments have demonstrated paradoxical activation of map-kinase signaling and increased cell proliferation in braf wild-type cells that are exposed to braf inhibitors. confirm evidence of braf v600e mutation in tumor specimens prior to initiation of zelboraf [see  indications and usage (1)  and  dosage and administration (2.1)  ]  .
+
+
+
+    5.3 hypersensitivity reactions
+
+
+
+  anaphylaxis and other serious hypersensitivity reactions can occur during treatment and upon re-initiation of treatment with zelboraf. severe hypersensitivity reactions included generalized rash and erythema, hypotension, and drug reaction with eosinophilia and systemic symptoms (dress syndrome). permanently discontinue zelboraf in patients who experience a severe hypersensitivity reaction [see  adverse reactions (6.2)  ]  .
+
+
+
+    5.4 dermatologic reactions
+
+
+
+  severe dermatologic reactions, including stevens-johnson syndrome and toxic epidermal necrolysis, can occur in patients receiving zelboraf. permanently discontinue zelboraf in patients who experience a severe dermatologic reaction [see  adverse reactions (6.1)  ].  
+
+
+
+    5.5 qt prolongation
+
+
+
+  concentration-dependent qt prolongation occurred in an uncontrolled, open-label qt sub-study in previously treated patients with braf v600e mutation-positive metastatic melanoma [see clinical pharmacology (12.6)]  . qt prolongation may lead to an increased risk of ventricular arrhythmias, including torsade de pointes.
+
+
+
+ do not start treatment in patients with uncorrectable electrolyte abnormalities, qtc > 500 ms, or long qt syndrome, or in patients who are taking medicinal products known to prolong the qt interval. prior to and following treatment initiation or after dose modification of zelboraf for qtc prolongation, evaluate ecg and electrolytes (including potassium, magnesium, and calcium) after 15 days, monthly during the first 3 months, and then every 3 months thereafter or more often as clinically indicated.
+
+
+
+ withhold zelboraf in patients who develop qtc > 500 ms (grade 3). upon recovery to qtc <= 500 ms (grade <= 2), restart at a reduced dose. permanently discontinue zelboraf treatment if the qtc interval remains > 500 ms and increased > 60 ms from pre-treatment values after controlling cardiac risk factors for qt prolongation (e.g., electrolyte abnormalities, congestive heart failure, and bradyarrhythmias) [see  dosage and administration (2.3)  ]  .
+
+
+
+    5.6 hepatotoxicity
+
+
+
+   liver injury leading to functional hepatic impairment, including coagulopathy or other organ dysfunction, can occur with zelboraf [see  adverse reactions (6.1)  ]  . monitor transaminases, alkaline phosphatase, and bilirubin before initiation of treatment and monthly during treatment, or as clinically indicated. manage laboratory abnormalities with dose reduction, treatment interruption, or treatment discontinuation [see  dosage and administration (2.3)  ]  .  
+
+
+
+    concurrent administration with ipilimumab  
+
+
+
+ the safety and effectiveness of zelboraf in combination with ipilimumab have not been established [see  indications and usage (1)  ]  . in a dose-finding trial, grade 3 increases in transaminases and bilirubin occurred in a majority of patients who received concurrent ipilimumab (3 mg/kg) and vemurafenib (960 mg bid or 720 mg bid) [see  drug interactions (7.3)  ].  
+
+
+
+    5.7 photosensitivity
+
+
+
+  mild to severe photosensitivity can occur in patients treated with zelboraf [see  adverse reactions (6.1)  ]  . advise patients to avoid sun exposure, wear protective clothing and use a broad spectrum uva/uvb sunscreen and lip balm (spf >= 30) when outdoors.
+
+
+
+ institute dose modifications for intolerable grade 2 or greater photosensitivity [see  dosage and administration (2.2)  ]  .
+
+
+
+    5.8 ophthalmologic reactions
+
+
+
+  uveitis, blurry vision, and photophobia can occur in patients treated with zelboraf. in trial 1, uveitis, including iritis, occurred in 2.1% (7/336) of patients receiving zelboraf compared to no patients in the dacarbazine arm. treatment with steroid and mydriatic ophthalmic drops may be required to manage uveitis. monitor patients for signs and symptoms of uveitis.
+
+
+
+    5.9 embryo-fetal toxicity
+
+
+
+  zelboraf can cause fetal harm when administered to a pregnant woman based on its mechanism of action. there are no adequate and well-controlled studies in pregnant women. if this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see  use in specific populations (8.1)  ]  .
+
+
+
+    5.10 radiation sensitization and radiation recall
+
+
+
+   radiation sensitization and recall, in some cases severe, involving cutaneous and visceral organs have been reported in patients treated with radiation prior to, during, or subsequent to vemurafenib treatment [see  adverse reactions (6.2)  ].    
+
+
+
+  monitor patients closely when vemurafenib is administered concomitantly or sequentially with radiation treatment.  

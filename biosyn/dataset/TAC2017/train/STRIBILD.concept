@@ -1,0 +1,135 @@
+-1||-1|-1||-1||lactic acidosis||10023676
+-1||-1|-1||-1||hepatomegaly||10019842
+-1||-1|-1||-1||steatosis||10019708
+-1||-1|-1||-1||acute exacerbations of hepatitis b||10059193
+-1||-1|-1||-1||new onset renal impairment||10062237
+-1||-1|-1||-1||worsening renal impairment||10062237
+-1||-1|-1||-1||bone effects||10005956
+-1||-1|-1||-1||immune reconstitution syndrome||10065042
+-1||-1|-1||-1||nausea||10028813
+-1||-1|-1||-1||diarrhea||10012735
+-1||-1|-1||-1||ocular icterus||10058117
+-1||-1|-1||-1||flatulence||10016766
+-1||-1|-1||-1||fatigue||10016256
+-1||-1|-1||-1||jaundice||10023126
+-1||-1|-1||-1||somnolence||10041349
+-1||-1|-1||-1||headache||10019211
+-1||-1|-1||-1||dizziness||10013573
+-1||-1|-1||-1||insomnia||10022437
+-1||-1|-1||-1||abnormal dreams||10000125
+-1||-1|-1||-1||rash||10037844
+-1||-1|-1||-1||renal adverse reactions||10062237
+-1||-1|-1||-1||suicidal ideation||10042458
+-1||-1|-1||-1||suicide attempt||10042464
+-1||-1|-1||-1||depression||10012378
+-1||-1|-1||-1||abdominal pain||10000081
+-1||-1|-1||-1||dyspepsia||10013946
+-1||-1|-1||-1||vomiting||10047700
+-1||-1|-1||-1||fever||10037660
+-1||-1|-1||-1||pain||10033371
+-1||-1|-1||-1||nasopharyngitis||10028810
+-1||-1|-1||-1||pneumonia||10035664
+-1||-1|-1||-1||sinusitis||10040753
+-1||-1|-1||-1||upper respiratory tract infection||10046306
+-1||-1|-1||-1||arthralgia||10003239
+-1||-1|-1||-1||back pain||10003988
+-1||-1|-1||-1||myalgia||10028411
+-1||-1|-1||-1||paresthesia||10033775
+-1||-1|-1||-1||peripheral neuropathy||10029331
+-1||-1|-1||-1||peripheral neuritis||10029331
+-1||-1|-1||-1||anxiety||10002855
+-1||-1|-1||-1||increased cough||10011224
+-1||-1|-1||-1||rhinitis||10039083
+-1||-1|-1||-1||skin discoloration||10040829
+-1||-1|-1||-1||hyperpigmentation on the palms||10040865
+-1||-1|-1||-1||hyperpigmentation on the soles||10040865
+-1||-1|-1||-1||ast >5.0 * uln||10003481
+-1||-1|-1||-1||alt >3.0 * uln||10001551
+-1||-1|-1||-1||amylase >2.0 * uln||10002016
+-1||-1|-1||-1||creatine kinase >= 10.0 * uln||10005470
+-1||-1|-1||-1||urine rbc||10050676
+-1||-1|-1||-1||hematuria||10018867
+-1||-1|-1||-1||decreases in bmd||10049470
+-1||-1|-1||-1||bone fractures||10017076
+-1||-1|-1||-1||proteinuria||10037032
+-1||-1|-1||-1||increase serum creatinine||10005483
+-1||-1|-1||-1||decrease estimated creatinine clearance||10011372
+-1||-1|-1||-1||increases in serum creatinine||10005483
+-1||-1|-1||-1||decreases in estimated creatinine clearance||10011372
+-1||-1|-1||-1||elevations in serum creatinine||10005483
+-1||-1|-1||-1||elevated serum creatinine||10005483
+-1||-1|-1||-1||abnormalities of alt||10001547
+-1||-1|-1||-1||abnormalities of alkaline phosphatase||10059571
+-1||-1|-1||-1||abnormalities of bilirubin||10058477
+-1||-1|-1||-1||abnormalities of serum glucose||10005554
+-1||-1|-1||-1||abnormalities of glycosuria||10018473
+-1||-1|-1||-1||abnormalities of neutrophils||10061313
+-1||-1|-1||-1||abnormalities of fasting cholesterol||10005423
+-1||-1|-1||-1||abnormalities of fasting triglycerides||10005837
+-1||-1|-1||-1||allergic reaction||10020751
+-1||-1|-1||-1||angioedema||10002424
+-1||-1|-1||-1||hypokalemia||10021015
+-1||-1|-1||-1||hypophosphatemia||10021058
+-1||-1|-1||-1||dyspnea||10013968
+-1||-1|-1||-1||pancreatitis||10033645
+-1||-1|-1||-1||increased amylase||10002016
+-1||-1|-1||-1||hepatic steatosis||10019708
+-1||-1|-1||-1||hepatitis||10019717
+-1||-1|-1||-1||increased liver enzymes||10060795
+-1||-1|-1||-1||increased ast||10003481
+-1||-1|-1||-1||increased alt||10001551
+-1||-1|-1||-1||increased gamma gt||10017693
+-1||-1|-1||-1||rhabdomyolysis||10039020
+-1||-1|-1||-1||osteomalacia||10031250
+-1||-1|-1||-1||bone pain||10006002
+-1||-1|-1||-1||fractures||10017076
+-1||-1|-1||-1||muscular weakness||10028372
+-1||-1|-1||-1||myopathy||10028641
+-1||-1|-1||-1||acute renal failure||10069339
+-1||-1|-1||-1||renal failure||10038435
+-1||-1|-1||-1||acute tubular necrosis||10038540
+-1||-1|-1||-1||fanconi syndrome||10016219
+-1||-1|-1||-1||proximal renal tubulopathy||10038537
+-1||-1|-1||-1||interstitial nephritis||10048302
+-1||-1|-1||-1||interstitial nephritis acute||10048302
+-1||-1|-1||-1||nephrogenic diabetes insipidus||10029147
+-1||-1|-1||-1||renal insufficiency||10038435
+-1||-1|-1||-1||increased creatinine||10005483
+-1||-1|-1||-1||polyuria||10036142
+-1||-1|-1||-1||asthenia||10003549
+-1||-1|-1||-1||acute exacerbation of hepatitis b||10059193
+-1||-1|-1||-1||fatal||10011906
+-1||-1|-1||-1||decreases in bone mineral density||10049470
+-1||-1|-1||-1||redistribution of body fat||10048474
+-1||-1|-1||-1||accumulation of body fat||10055164
+-1||-1|-1||-1||exacerbations of hepatitis b||10019731
+-1||-1|-1||-1||liver decompensation||10019663
+-1||-1|-1||-1||liver failure||10019663
+-1||-1|-1||-1||renal impairment||10062237
+-1||-1|-1||-1||renal tubular injury||10038537
+-1||-1|-1||-1||renal adverse reaction||10062237
+-1||-1|-1||-1||proximal renal tubular dysfunction||10038537
+-1||-1|-1||-1||declines in estimated creatinine clearance||10011372
+-1||-1|-1||-1||increases in biochemical markers of bone metabolism||-1
+-1||-1|-1||-1||increased bone turnover||10062624
+-1||-1|-1||-1||pain in extremities||10033425
+-1||-1|-1||-1||arthralgias||10003239
+-1||-1|-1||-1||muscle pain||10028411
+-1||-1|-1||-1||muscle weakness||10028372
+-1||-1|-1||-1||body fat peripheral wasting||10024604
+-1||-1|-1||-1||central obesity||10065941
+-1||-1|-1||-1||dorsocervical fat enlargement||10062315
+-1||-1|-1||-1||buffalo hump||10062315
+-1||-1|-1||-1||facial wasting||10056866
+-1||-1|-1||-1||breast enlargement||10006242
+-1||-1|-1||-1||cushingoid appearance||10011655
+-1||-1|-1||-1||residual opportunistic infections||10030901
+-1||-1|-1||-1||mycobacterium avium infection||10058806
+-1||-1|-1||-1||cytomegalovirus||10011831
+-1||-1|-1||-1||pneumocystis jirovecii pneumonia||10073755
+-1||-1|-1||-1||pcp||10073755
+-1||-1|-1||-1||tuberculosis||10044755
+-1||-1|-1||-1||autoimmune disorders||10061664
+-1||-1|-1||-1||graves' disease||10004161
+-1||-1|-1||-1||polymyositis||10036102
+-1||-1|-1||-1||guillain-barre syndrome||10018767

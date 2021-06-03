@@ -1,0 +1,212 @@
+    6 adverse reactions
+
+  laba, such as vilanterol, one of the active ingredients in anoro ellipta, increase the risk of asthma-related death. anoro ellipta is not indicated for the treatment of asthma.  [see boxed warning and warnings and precautions (5.1).]  
+
+
+
+ the following adverse reactions are described in greater detail in other sections:
+
+
+
+ *    paradoxical bronchospasm [see warnings and precautions (5.5)]  
+ *    cardiovascular effects [see warnings and precautions (5.7)]  
+ *    worsening of narrow-angle glaucoma [see warnings and precautions (5.9)]  
+ *    worsening of urinary retention [see warnings and precautions (5.10)]  
+      excerpt:   most common adverse reactions (incidence >=1% and more common than placebo) include pharyngitis, sinusitis, lower respiratory tract infection, constipation, diarrhea, pain in extremity, muscle spasms, neck pain, and chest pain. (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact glaxosmithkline at 1-888-825-5249 or fda at 1-800-fda-1088 or  http://www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the clinical program for anoro ellipta included 8,138 subjects with copd in four 6-month lung function trials, one 12-month long-term safety study, and 9 other trials of shorter duration. a total of 1,124 subjects have received at least 1 dose of anoro ellipta (umeclidinium/vilanterol 62.5 mcg/25 mcg), and 1,330 subjects have received a higher dose of umeclidinium/vilanterol (125 mcg/25 mcg). the safety data described below are based on the four 6-month and the one 12-month trials. adverse reactions observed in the other trials were similar to those observed in the confirmatory trials.
+
+
+
+   6-month trials:  the incidence of adverse reactions associated with anoro ellipta in table 1 is based on four 6-month trials: 2 placebo-controlled trials (trials 1 and 2; n = 1,532 and n = 1,489, respectively) and 2 active-controlled trials (trials 3 and 4; n = 843 and n = 869, respectively). of the 4,733 subjects, 68% were male and 84% were caucasian. they had a mean age of 63 years and an average smoking history of 45 pack-years, with 50% identified as current smokers. at screening, the mean post-bronchodilator percent predicted forced expiratory volume in 1 second (fev1) was 48% (range: 13% to 76%), the mean post-bronchodilator fev1/forced vital capacity (fvc) ratio was 0.47 (range: 0.13 to 0.78), and the mean percent reversibility was 14% (range: -45% to 109%).
+
+
+
+ subjects received 1 dose once daily of the following: anoro ellipta, umeclidinium/vilanterol 125 mcg/25 mcg, umeclidinium 62.5 mcg, umeclidinium 125 mcg, vilanterol 25 mcg, active control, or placebo.
+
+
+
+   table 1. adverse reactions with anoro ellipta with >=1% incidence and more common than with placebo in subjects with chronic obstructive pulmonary disease  
+
+
+
+
+  adverse reaction                               placebo  (n = 555)  %    anoro ellipta  (n = 842)  %    umeclidinium  62.5 mcg  (n = 418)  %    vilanterol  25 mcg  (n = 1,034)  %    
+  infections and infestations                                                                                   
+                                                pharyngitis                                   
+                                                                                                <1          2                    1                2            
+                                                sinusitis                                     
+                                                                                                <1          1                    <1               1            
+                                                lower respiratory tract infection             
+                                                                                                <1          1                    <1               <1           
+  gastrointestinal disorders                                                                                    
+                                                constipation                                  
+                                                                                                <1          1                    <1               <1           
+                                                diarrhea                                      
+                                                                                                1           2                    <1               2            
+  musculoskeletal and connective tissue disorders                                                                   
+                                                pain in extremity                             
+                                                                                                1           2                    <1               2            
+                                                muscle spasms                                 
+                                                                                                <1          1                    <1               <1           
+                                                neck pain                                     
+                                                                                                <1          1                    <1               <1           
+  general disorders and administration site conditions                                                                   
+                                                chest pain                                    
+                                                                                                <1          1                    <1               <1           
+           other adverse reactions with anoro ellipta observed with an incidence less than 1% but more common than with placebo included the following: productive cough, dry mouth, dyspepsia, abdominal pain, gastroesophageal reflux disease, vomiting, musculoskeletal chest pain, chest discomfort, asthenia, atrial fibrillation, ventricular extrasystoles, supraventricular extrasystoles, myocardial infarction, pruritus, rash, and conjunctivitis.
+ 
+
+   12-month trial:  in a long-term safety trial, 335 subjects were treated for up to 12 months with umeclidinium/vilanterol 125 mcg/25 mcg or placebo. the demographic and baseline characteristics of the long-term safety trial were similar to those of the placebo-controlled efficacy trials described above. adverse reactions that occurred with a frequency of greater than or equal to 1% in the group receiving umeclidinium/vilanterol 125 mcg/25 mcg that exceeded that in placebo in this trial were: headache, back pain, sinusitis, cough, urinary tract infection, arthralgia, nausea, vertigo, abdominal pain, pleuritic pain, viral respiratory tract infection, toothache, and diabetes mellitus.
+
+
+    boxed warning: warning: asthma-related death
+
+  warning: asthma-related death
+
+    long-acting beta2-adrenergic agonists (laba) increase the risk of asthma-related death. data from a large placebo-controlled us trial that compared the safety of another laba (salmeterol) with placebo added to usual asthma therapy showed an increase in asthma-related deaths in subjects receiving salmeterol. this finding with salmeterol is considered a class effect of all laba, including vilanterol, one of the active ingredients in anorotm ellipta  (r)     [see warnings and precautions (5.1)]  .  
+
+
+
+   the safety and efficacy of anoro ellipta in patients with asthma have not been established. anoro ellipta is not indicated for the treatment of asthma.  
+
+
+
+   excerpt:   warning: asthma-related death
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  long-acting beta2-adrenergic agonists (laba), such as vilanterol, one of the active ingredients in anoro ellipta, increase the risk of asthma-related death. a placebo-controlled trial with another laba (salmeterol) showed an increase in asthma-related deaths in subjects receiving salmeterol. this finding with salmeterol is considered a class effect of all laba, including vilanterol. (5.1) 
+ *  the safety and efficacy of anoro ellipta in patients with asthma have not been established. anoro ellipta is not indicated for the treatment of asthma. (5.1) 
+    5 warnings and precautions
+
+
+
+   excerpt:    *    laba increase the risk of asthma-related death. (  5.1  ) 
+ *    do not initiate in acutely deteriorating copd or to treat acute symptoms. (  5.2  ) 
+ *    do not use in combination with an additional medicine containing laba because of risk of overdose. (  5.3  ) 
+ *    if paradoxical bronchospasm occurs, discontinue anoro ellipta and institute alternative therapy. (  5.5  ) 
+ *    use with caution in patients with cardiovascular disorders (  5.7  ) 
+ *    use with caution in patients with convulsive disorders, thyrotoxicosis, diabetes mellitus, and ketoacidosis. (  5.8  ) 
+ *    worsening of narrow-angle glaucoma may occur. use with caution in patients with narrow-angle glaucoma and instruct patients to contact a physician immediately if symptoms occur. (  5.9  ) 
+ *    worsening of urinary retention may occur. use with caution in patients with prostatic hyperplasia or bladder-neck obstruction and instruct patients to contact a physician immediately if symptoms occur. (  5.10  ) 
+ *    be alert to hypokalemia and hyperglycemia. (  5.11  ) 
+    
+ 
+
+   5.1 asthma-related death
+
+
+
+    *    data from a large placebo-controlled trial in subjects with asthma showed that laba may increase the risk of asthma-related death. data are not available to determine whether the rate of death in patients with copd is increased by laba. 
+ *    a 28-week, placebo-controlled, us trial comparing the safety of another laba (salmeterol) with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol vs. 3/13,179 in subjects treated with placebo; relative risk: 4.37 [95% ci: 1.25, 15.34]). the increased risk of asthma-related death is considered a class effect of laba, including vilanterol, one of the active ingredients in anoro ellipta. 
+ *    no trial adequate to determine whether the rate of asthma-related death is increased in subjects treated with anoro ellipta has been conducted. the safety and efficacy of anoro ellipta in patients with asthma have not been established. anoro ellipta is not indicated for the treatment of asthma. 
+       5.2 deterioration of disease and acute episodes
+ 
+
+  anoro ellipta should not be initiated in patients during rapidly deteriorating or potentially life-threatening episodes of copd. anoro ellipta has not been studied in subjects with acutely deteriorating copd. the initiation of anoro ellipta in this setting is not appropriate.
+
+
+
+ anoro ellipta should not be used for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of bronchospasm. anoro ellipta has not been studied in the relief of acute symptoms and extra doses should not be used for that purpose. acute symptoms should be treated with an inhaled, short-acting beta2-agonist.
+
+
+
+ when beginning treatment with anoro ellipta, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs and to use them only for symptomatic relief of acute respiratory symptoms. when prescribing anoro ellipta, the healthcare provider should also prescribe an inhaled, short-acting beta2-agonist and instruct the patient on how it should be used. increasing inhaled, short-acting beta2-agonist use is a signal of deteriorating disease for which prompt medical attention is indicated.
+
+
+
+ copd may deteriorate acutely over a period of hours or chronically over several days or longer. if anoro ellipta no longer controls symptoms of bronchoconstriction; the patient's inhaled, short-acting beta2-agonist becomes less effective; or the patient needs more short-acting beta2-agonist than usual, these may be markers of deterioration of disease. in this setting a re-evaluation of the patient and the copd treatment regimen should be undertaken at once. increasing the daily dose of anoro ellipta beyond the recommended dose is not appropriate in this situation.
+
+
+
+    5.3 excessive use of anoro ellipta and use with other long-acting beta2-agonists
+
+
+
+  anoro ellipta should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medicines containing laba, as an overdose may result. clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs. patients using anoro ellipta should not use another medicine containing a laba (e.g., salmeterol, formoterol fumarate, arformoterol tartrate, indacaterol) for any reason.
+
+
+
+    5.4 drug interactions with strong cytochrome p450 3a4 inhibitors
+
+
+
+  caution should be exercised when considering the coadministration of anoro ellipta with long-term ketoconazole and other known strong cytochrome p450 3a4 (cyp3a4) inhibitors (e.g., ritonavir, clarithromycin, conivaptan, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, saquinavir, telithromycin, troleandomycin, voriconazole) because increased cardiovascular adverse effects may occur [see drug interactions (7.1), clinical pharmacology (12.3)]  .
+
+
+
+    5.5 paradoxical bronchospasm
+
+
+
+  as with other inhaled medicines, anoro ellipta can produce paradoxical bronchospasm, which may be life threatening. if paradoxical bronchospasm occurs following dosing with anoro ellipta, it should be treated immediately with an inhaled, short-acting bronchodilator; anoro ellipta should be discontinued immediately; and alternative therapy should be instituted.
+
+
+
+    5.6 hypersensitivity reactions
+
+
+
+  hypersensitivity reactions may occur after administration of anoro ellipta. there have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of other powder products containing lactose; therefore, patients with severe milk protein allergy should not use anoro ellipta [see contraindications (4)]  .
+
+
+
+    5.7 cardiovascular effects
+
+
+
+  vilanterol, like other beta2-agonists, can produce a clinically significant cardiovascular effect in some patients as measured by increases in pulse rate, systolic or diastolic blood pressure, or symptoms [see clinical pharmacology (12.2)]  . if such effects occur, anoro ellipta may need to be discontinued. in addition, beta-agonists have been reported to produce electrocardiographic changes, such as flattening of the t wave, prolongation of the qtc interval, and st segment depression, although the clinical significance of these findings is unknown.
+
+
+
+ therefore, anoro ellipta should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension.
+
+
+
+    5.8 coexisting conditions
+
+
+
+  anoro ellipta, like all medicines containing sympathomimetic amines, should be used with caution in patients with convulsive disorders or thyrotoxicosis and in those who are unusually responsive to sympathomimetic amines. doses of the related beta2-adrenoceptor agonist albuterol, when administered intravenously, have been reported to aggravate preexisting diabetes mellitus and ketoacidosis.
+
+
+
+    5.9 worsening of narrow-angle glaucoma
+
+
+
+  anoro ellipta should be used with caution in patients with narrow-angle glaucoma. prescribers and patients should be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema). instruct patients to consult a physician immediately if any of these signs or symptoms develops.
+
+
+
+    5.10 worsening of urinary retention
+
+
+
+  anoro ellipta should be used with caution in patients with urinary retention. prescribers and patients should be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination), especially in patients with prostatic hyperplasia or bladder-neck obstruction. instruct patients to consult a physician immediately if any of these signs or symptoms develops .  
+
+
+
+    5.11 hypokalemia and hyperglycemia
+
+
+
+  beta-adrenergic agonist medicines may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects. the decrease in serum potassium is usually transient, not requiring supplementation. beta-agonist medicines may produce transient hyperglycemia in some patients. in 4 clinical trials of 6-month duration evaluating anoro ellipta in subjects with copd, there was no evidence of a treatment effect on serum glucose or potassium.

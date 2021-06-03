@@ -1,0 +1,85 @@
+    6 adverse reactions
+
+  excerpt:   most commonly reported adverse reactions were flushing (2%), headache (1%), increased blood pressure (2%), nausea (1%), and dizziness (1%).
+
+
+
+   to report suspected adverse reactions, contact ge healthcare at 1-800-654-0118 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  (  6  )
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  clinical trials are conducted under widely varying conditions and adverse reaction rates observed in the clinical trials of vizamyl cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ in clinical trials, 761 adults (367 men and 394 women, 91% caucasian) with a mean age of 62 years (range 18-93 years) received vizamyl. most subjects (530, 70%) received a dose of 185 mbq (5 mci).
+
+
+
+ one subject out of 761 administered vizamyl experienced a serious hypersensitivity reaction with flushing, dyspnea and chest pressure within minutes following vizamyl administration and recovered with treatment.
+
+
+
+ most adverse reactions were mild to moderate in intensity and resolved spontaneously. the most commonly reported adverse reactions (occurring in at least 1% of subjects) in vizamyl-treated subjects are shown in table 2.
+
+
+
+ table 2: adverse reactions reported in clinical trials of vizamyl (n = 761 subjects) 
+ adverse reaction                                                 n (percent of patients)                 
+  
+ flushing                                                                 16 (2%)                         
+ increased blood pressure                                                 13 (2%)                         
+ headache                                                                 10 (1%)                         
+ nausea                                                                    8 (1%)                         
+ dizziness                                                                 8 (1%)                         
+    5 warnings and precautions
+
+
+
+   excerpt:    *  hypersensitivity reactions: ask patients about prior reactions to vizamyl. observe for hypersensitivity signs and symptoms following vizamyl administration. have resuscitation equipment and trained personnel available at time of vizamyl administration (  5.1  ) 
+ *  image interpretation errors (especially false positives) have been observed (  5.2  ) 
+ *  radiation risk: vizamyl, similar to all radiopharmaceuticals, contributes to a patient's long-term cumulative radiation exposure. ensure safe handling to protect patients and health care workers from unintentional radiation exposure (  2.1  ,  5.3  ) 
+    
+ 
+
+   5.1 hypersensitivity reactions
+
+
+
+  hypersensitivity reactions such as flushing and dyspnea have been observed within minutes following vizamyl administration. these reactions may occur in patients with no history of prior exposure to vizamyl.
+
+
+
+ before administering vizamyl, ask patients about prior reactions to drugs, especially those containing polysorbate 80.
+
+
+
+ have resuscitation equipment and trained personnel immediately available at the time of vizamyl administration [ see  contraindications (4)    ].
+
+
+
+    5.2 risk for image misinterpretation and other errors
+
+
+
+  errors may occur while using vizamyl pet images to estimate brain neuritic plaque density [ see  clinical studies (14)    ].
+
+
+
+ image interpretation is performed independently of the patient's clinical information. the use of clinical information in the interpretation of vizamyl images has not been evaluated and may lead to errors. extensive brain atrophy may limit the ability to distinguish grey and white matter on a vizamyl scan [ see  dosage and administration (2.5)    ]. motion artifacts may distort the image [ see  dosage and administration (2.3)    ].
+
+
+
+ vizamyl scan results are indicative of the brain neuritic amyloid plaque content only at the time of image acquisition and a negative scan result does not preclude the development of brain amyloid in the future.
+
+
+
+    5.3 radiation risk
+
+
+
+  vizamyl, similar to other radiopharmaceuticals, contributes to a patient's overall long-term cumulative radiation exposure. long-term cumulative radiation exposure is associated with an increased risk of cancer. ensure safe handling to protect patients and health care workers from unintentional radiation exposure [ see  dosage and administration (2.1)    ] .  

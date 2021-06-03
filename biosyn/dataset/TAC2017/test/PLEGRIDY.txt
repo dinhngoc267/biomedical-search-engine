@@ -1,0 +1,229 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are discussed in more detail in other sections of labeling:
+
+
+
+ *  hepatic injury [ see warnings and precautions (  5.1  ) ] 
+ *  depression and suicide [ see warnings and precautions (  5.2  ) ] 
+ *  seizures [ see warnings and precautions (  5.3  ) ] 
+ *  anaphylaxis and other allergic reactions [ see warnings and precautions (  5.4  ) ] 
+ *  injection site reactions [ see warnings and precautions (  5.5  ) ] 
+ *  congestive heart failure [ see warnings and precautions (  5.6  ) ] 
+ *  decreased peripheral blood counts [ see warnings and precautions (  5.7  ) ] 
+ *  autoimmune disorders [ see warnings and precautions (  5.8  ) ] 
+      excerpt:   the most common adverse reactions (incidence >=10% and at least 2% more frequent on plegridy than on placebo) were injection site erythema, influenza-like illness, pyrexia, headache, myalgia, chills, injection site pain, asthenia, injection site pruritus, and arthralgia (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact biogen idec at 1-800-456-2255 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of plegridy cannot be directly compared to rates in clinical trials of other drugs and may not reflect the rates observed in practice.
+
+
+
+ in clinical studies (study 1 and study 2), a total of 1468 patients with relapsing multiple sclerosis received plegridy for up to 177 weeks (41 months), with an overall exposure equivalent to 1932 person-years. a total of 1093 patients received at least 1 year, and 415 patients at least 2 years of treatment with plegridy. a total of 512 and 500 patients, respectively, received plegridy 125 micrograms every 14 days or every 28 days during the placebo-controlled phase of study 1 (year 1). the experience in year 2 of study 1 and in the 2-year safety extension study (study 2) was consistent with the experience in the 1-year placebo-controlled phase of study 1.
+
+
+
+ in the placebo-controlled phase of study 1, the most common adverse drug reactions for plegridy 125 micrograms subcutaneously every 14 days were injection site erythema, influenza-like illness, pyrexia, headache, myalgia, chills, injection site pain, asthenia, injection site pruritus, and arthralgia (all had incidence more than 10% and at least 2% more than placebo). the most commonly reported adverse event leading to discontinuation in patients treated with plegridy 125 micrograms subcutaneously every 14 days was influenza-like illness (in less than 1% of patients).
+
+
+
+   table 2  summarizes adverse reactions reported over 48 weeks from patients treated in the placebo-controlled phase of study 1 who received subcutaneous plegridy 125 micrograms (n=512), or placebo (n=500), every 14 days.
+
+
+
+ table 2: adverse reactions in the 48-week placebo-controlled phase of study 1 with an incidence 2% higher for plegridy than for placebo 
+                                                    plegridy    (n=512)    %      placebo    (n=500)    %     
+  
+   nervous system disorders                                                                               
+ headache                                         44                         33                           
+   gastrointestinal disorders                                                                             
+ nausea                                           9                          6                            
+ vomiting                                         5                          2                            
+   musculoskeletal and connective tissue disorders                                                            
+ myalgia                                          19                         6                            
+ arthralgia                                       11                         7                            
+   general disorders and administration site conditions                                                            
+ injection site erythema                          62                         7                            
+ influenza like illness                           47                         13                           
+ pyrexia                                          45                         15                           
+ chills                                           17                         5                            
+ injection site pain                              15                         3                            
+ asthenia                                         13                         8                            
+ injection site pruritus                          13                         1                            
+ hyperthermia                                     4                          1                            
+ pain                                             5                          3                            
+ injection site edema                             3                          0                            
+ injection site warmth                            3                          0                            
+ injection site hematoma                          3                          1                            
+ injection site rash                              2                          0                            
+   investigations                                                                                         
+ body temperature increased                       6                          3                            
+ alanine aminotransferase increased               6                          3                            
+ aspartate aminotransferase increased             4                          2                            
+ gamma-glutamyl-transferase increased             3                          1                            
+   skin and subcutaneous tissue disorder                                                                  
+ pruritus                                         4                          1                            
+             immunogenicity  
+ 
+
+ for therapeutic proteins, there is a potential for immunogenicity. in study 1, fewer than 1% of patients treated with plegridy every 14 days for 1 year developed neutralizing antibodies. approximately 7% of plegridy-treated patients developed antibodies to peg.
+
+
+
+ the detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of the incidence of antibodies to plegridy with the incidence of antibodies to other products may be misleading.
+
+
+
+   flu-like symptoms  
+
+
+
+ influenza-like illness was experienced by 47% of patients receiving plegridy 125 micrograms every 14 days and 13% of patients receiving placebo. fewer than 1% of plegridy-treated patients in study 1 discontinued treatment due to flu-like symptoms.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  hepatic injury: monitor liver function tests; monitor patients for signs and symptoms of hepatic injury; consider discontinuation of plegridy if hepatic injury occurs (  5.1  ) 
+ *  depression and suicide: advise patients to report immediately any symptom of depression or suicidal ideation to their healthcare provider; consider discontinuation of plegridy if depression occurs (  5.2  ) 
+ *  seizure: seizures are associated with the use of interferon beta. exercise caution when administering plegridy to patients with a seizure disorder (  5.3  ) 
+ *  anaphylaxis and other allergic reactions: serious allergic reactions have been reported as a rare complication of treatment with interferon beta. discontinue plegridy if a serious allergic reaction occurs (  5.4  ) 
+ *  injection site reactions: change injection site or consider discontinuation of plegridy if there is necrosis (  5.5  ) 
+ *  congestive heart failure: monitor patients with pre-existing significant cardiac disease for worsening of cardiac symptoms (  5.6  ) 
+ *  decreased peripheral blood counts: monitor complete blood counts (  5.7  ) 
+ *  autoimmune disorders: consider discontinuation of plegridy if a new autoimmune disorder occurs (  5.8  ) 
+    
+ 
+
+   5.1 hepatic injury
+
+
+
+  severe hepatic injury, including hepatitis, autoimmune hepatitis, and rare cases of severe hepatic failure, have been reported with interferon beta. asymptomatic elevation of hepatic transaminases has also been reported, and in some patients has recurred upon rechallenge with interferon beta.
+
+
+
+ elevations in hepatic enzymes and hepatic injury have been observed with the use of plegridy in clinical studies. the incidence of increases in hepatic transaminases was greater in patients taking plegridy than in those taking placebo. the incidence of elevations of alanine aminotransferase above 5 times the upper limit of normal was 1% in placebo-treated patients and 2% in plegridy-treated patients. the incidence of elevations of aspartate aminotransferase above 5 times the upper limit of normal was less than 1% in placebo-treated patients and less than 1% in plegridy-treated patients. elevations of serum hepatic transaminases combined with elevated bilirubin occurred in 2 patients. both cases resolved following discontinuation of plegridy.
+
+
+
+ monitor patients for signs and symptoms of hepatic injury.
+
+
+
+    5.2 depression and suicide
+
+
+
+  depression, suicidal ideation, and suicide occur more frequently in patients receiving interferon beta than in patients receiving placebo.
+
+
+
+ in clinical studies, the overall incidence of adverse events related to depression and suicidal ideation in multiple sclerosis patients was 8% in both the plegridy and placebo groups. the incidence of serious events related to depression and suicidal ideation was similar and less than 1% in both groups.
+
+
+
+ advise patients to report immediately any symptom of depression or suicidal ideation to their healthcare provider. if a patient develops depression or other severe psychiatric symptoms, consider stopping treatment with plegridy.
+
+
+
+    5.3 seizures
+
+
+
+  seizures are associated with the use of interferon beta.
+
+
+
+ the incidence of seizures in multiple sclerosis clinical studies was less than 1% in patients receiving plegridy and placebo.
+
+
+
+ exercise caution when administering plegridy to patients with a seizure disorder.
+
+
+
+    5.4 anaphylaxis and other allergic reactions
+
+
+
+  anaphylaxis and other serious allergic reactions are rare complications of treatment with interferon beta.
+
+
+
+ less than 1% of plegridy-treated patients experienced a serious allergic reaction such as angioedema or urticaria. those who did have serious allergic reactions recovered promptly after treatment with antihistamines or corticosteroids.
+
+
+
+ discontinue plegridy if a serious allergic reaction occurs.
+
+
+
+    5.5 injection site reactions
+
+
+
+  injection site reactions, including injection site necrosis, can occur with the use of subcutaneous interferon beta.
+
+
+
+ in clinical studies, the incidence of injection site reactions (e.g., injection site erythema, pain, pruritus, or edema) was 66% in the plegridy group and 11% in the placebo group; the incidence of severe injection site reactions was 3% in the plegridy group and 0% in the placebo group. one patient out of 1468 patients who received plegridy in clinical studies experienced injection site necrosis. the injury resolved with standard medical treatment.
+
+
+
+ decisions to discontinue therapy following necrosis at a single injection site should be based on the extent of the necrosis. for patients who continue therapy with plegridy after injection site necrosis has occurred, avoid administration of plegridy near the affected area until it is fully healed. if multiple lesions occur, discontinue plegridy until healing occurs.
+
+
+
+    5.6 congestive heart failure
+
+
+
+  congestive heart failure, cardiomyopathy, and cardiomyopathy with congestive heart failure occur in patients receiving interferon beta.
+
+
+
+ in clinical studies, the incidence of cardiovascular events was 7% in both plegridy and placebo treatment groups. no serious cardiovascular events were reported in the plegridy group.
+
+
+
+ monitor patients with significant cardiac disease for worsening of their cardiac condition during initiation and continuation of treatment with plegridy.
+
+
+
+    5.7 decreased peripheral blood counts
+
+
+
+  interferon beta can cause decreased peripheral blood counts in all cell lines, including rare instances of pancytopenia and severe thrombocytopenia.
+
+
+
+ in clinical studies, decreases in white blood cell counts below 3.0 x 10  9  /l occurred in 7% of patients receiving plegridy and in 1% receiving placebo. there is no apparent association between decreases in white blood cell counts and an increased risk of infections or serious infections. the incidence of clinically significant decreases in lymphocyte counts (below 0.5 x 10  9  /l), neutrophil counts (below 1.0 x 10  9  /l), and platelet counts (below 100 x 10  9  /l) were all less than 1% and similar in both placebo and plegridy groups. two serious cases were reported in patients treated with plegridy: one patient (less than 1%) experienced severe thrombocytopenia (defined as a platelet count less than or equal to 10 x 10  9  /l), and another patient (less than 1%) experienced severe neutropenia (defined as a neutrophil count less than or equal to 0.5 x 10  9  /l). in both patients, cell counts recovered after discontinuation of plegridy. compared to placebo, there were no significant differences in red blood cell counts in patients treated with plegridy.
+
+
+
+ monitor patients for infections, bleeding, and symptoms of anemia. monitor complete blood cell counts, differential white blood cell counts, and platelet counts during treatment with plegridy. patients with myelosuppression may require more intensive monitoring of blood cell counts.
+
+
+
+    5.8 autoimmune disorders
+
+
+
+  autoimmune disorders of multiple target organs including idiopathic thrombocytopenia, hyper- and hypothyroidism, and autoimmune hepatitis have been reported with interferon beta.
+
+
+
+ in clinical studies, the incidence of autoimmune disorders was less than 1% in both plegridy and placebo treatment groups.
+
+
+
+ if patients develop a new autoimmune disorder, consider stopping plegridy.

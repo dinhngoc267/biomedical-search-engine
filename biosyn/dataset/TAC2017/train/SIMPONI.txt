@@ -1,0 +1,427 @@
+    6 adverse reactions
+
+  the most serious adverse reactions were:
+
+
+
+ *  serious infections [see  warnings and precautions (5.1)  ]  
+ *  malignancies [see  warnings and precautions (5.2)  ]  
+      excerpt:   most common adverse reactions (incidence >=3%) are: upper respiratory tract infection, viral infection, bronchitis, hypertension, and rash (  6.1  ).
+ 
+
+   to report suspected adverse reactions, contactjanssen biotech, inc. at 1-800-janssen (1-800-526-7736) or fda at 1-800-fda-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ the safety data described below are based on one, randomized, double-blind, controlled phase 3 trial in patients with ra receiving simponi aria by intravenous infusion (trial 1). the protocol included provisions for patients taking placebo to receive treatment with simponi aria at week 16 or week 24 either by patient response (based on uncontrolled disease activity) or by design, so that adverse events cannot always be unambiguously attributed to a given treatment. comparisons between placebo and simponi aria were based on the first 24 weeks of exposure.
+
+
+
+ trial 1 included 197 control-treated patients and 463 simponi aria-treated patients (which includes control-treated patients who switched to simponi aria at week 16). the proportion of patients who discontinued treatment due to adverse reactions in the controlled phase of trial 1 through week 24 was 3.5% for simponi aria-treated patients and 0.5% for placebo-treated patients. upper respiratory tract infection was the most common adverse reaction reported in the trial through week 24 occurring in 6.5% of simponi aria-treated patients as compared with 7.6% of control-treated patients, respectively.
+
+
+
+     infections  
+
+
+
+ serious infections observed in simponi aria-treated patients included sepsis, pneumonia, cellulitis, abscess, opportunistic infections, tuberculosis (tb), and invasive fungal infections. cases of tb included pulmonary and extrapulmonary tb. the majority of the tb cases occurred in countries with a high incidence rate of tb  [see  warnings and precautions (5.1)  ]  .
+
+
+
+ in the controlled phase of trial 1 through week 24, infections were observed in 27% of simponi aria-treated patients compared with 24% of control-treated patients, and serious infections were observed in 0.9% of simponi aria-treated patients and 0.0% of control-treated patients. through week 24, the incidence of serious infections per 100 patient-years of follow-up was 2.2 (95% ci 0.61, 5.71) for the simponi aria group, and 0 (0.00, 3.79) for the placebo group. in the controlled and uncontrolled portions of trial 1, 958 total patient-years of follow-up with a median follow-up of approximately 92 weeks, the incidence per 100 patient-years of all serious infections was 4.07 (ci: 2.90, 5.57) in patients receiving simponi aria  [see  warnings and precautions (5.1)  ]  . in the controlled and uncontrolled portions of trial 1, in simponi aria treated patients, the incidence of active tb per 100 patient-years was 0.31 (95% ci: 0.06; 0.92) and the incidence of other opportunistic infections per 100 patient-years was 0.42 (95% ci: 0.11, 1.07).
+
+
+
+     malignancies  
+
+
+
+ one case of malignancy other than lymphoma and nmsc with simponi aria was reported through week 24 during the controlled phase of trial 1. in the controlled and uncontrolled portions through approximately 92 weeks, the incidence of malignancies per 100 patient-years, other than lymphoma and nmsc, in simponi aria-treated patients was 0.31 (ci: 0.06, 0.92) and the incidence of nmsc was 0.1 (95% ci: 0.00, 0.58).
+
+
+
+     liver enzyme elevations  
+
+
+
+ there have been reports of severe hepatic reactions including acute liver failure in patients receiving tnf-blockers.
+
+
+
+ in the controlled phase of trial 1, through week 24, alt elevations >= 5 * uln occurred in 0.8% of simponi aria-treated patients and 0% of control-treated patients and alt elevations >= 3 * uln occurred in 2.3% of simponi aria-treated patients and 2.5% of control-treated patients.
+
+
+
+ since many of the patients in the phase 3 trial were also taking medications that cause liver enzyme elevations (e.g., nonsteroidal anti-inflammatory drugs [nsaids], methotrexate [mtx], or isoniazid prophylaxis), the relationship between simponi aria and liver enzyme elevation is not clear.
+
+
+
+     autoimmune disorders and autoantibodies  
+
+
+
+ the use of tnf-blockers, of which simponi aria is a member, has been associated with the formation of autoantibodies and, rarely, with the development of a lupus-like syndrome.
+
+
+
+ at week 20 in trial 1, 17% of simponi aria-treated patients and 13% of control patients were newly ana-positive (at titers of 1:160 or greater). of these patients, one simponi aria-treated patient and no control-treated patients had newly positive anti-dsdna antibodies.
+
+
+
+     administration reactions  
+
+
+
+ in the controlled phase of trial 1 through week 24, 1.1% of simponi aria infusions were associated with an infusion reaction compared with 0.2% of infusions in the control group. the most common infusion reaction in simponi aria treated patients was rash. no serious infusion reactions were reported.
+
+
+
+     immunogenicity  
+
+
+
+ antibodies to simponi aria were detected in 13 (3%) golimumab-treated patients following iv administration of simponi aria in combination with mtx through week 24 of trial 1.
+
+
+
+ all patients who were positive for antibodies to golimumab had neutralizing antibodies based on an in vitro cell-based assay. the small number of patients positive for antibodies to simponi aria limits the ability to draw definitive conclusions regarding the relationship between antibodies to golimumab and clinical efficacy or safety measures.
+
+
+
+ the data above reflect the percentage of patients whose test results were considered positive for antibodies to simponi aria in an elisa assay. the elisa assay is subject to interference by co-present golimumab and thus the results are an underestimate of the rate of product immunogenicity and are in addition highly dependent on the sensitivity and specificity of the assay. additionally, the observed incidence of antibody positivity in an assay may be influenced by several factors including sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of the incidence of antibodies to simponi aria with the incidence of antibodies to other products may be misleading.
+
+
+
+     other adverse reactions  
+
+
+
+ table 1 summarizes the adverse drug reactions that occurred at a rate of at least 1% in the simponi aria + mtx group with a higher incidence than in the placebo + mtx group during the controlled period of trial 1 through week 24.
+
+
+
+ table 1: adverse drug reactions reported by >= 1% of simponi aria-treated patients and with a higher incidence than placebo-treated patients in trial 1 through week 24 
+                                                           placebo + mtx           simponi aria + mtx       
+  
+ patients treated                                               197                        463              
+ adverse reaction                                     
+   infections and infestations                                                                              
+    upper respiratory tract infection (such as upper respiratory tract infection, nasopharyngitis, pharyngitis, laryngitis, and rhinitis)             12%                        13%              
+    viral infections (such as influenza and herpes)             3%                         4%               
+    bacterial infections                                        0%                         1%               
+    bronchitis                                                  1%                         3%               
+   vascular disorders                                                                                       
+    hypertension                                                2%                         3%               
+   skin and subcutaneous disorders                                                                          
+    rash                                                        1%                         3%               
+   general disorders and administration site conditions                                                           
+    pyrexia                                                     1%                         2%               
+   blood and lymphatic disorders                                                                            
+    leukopenia                                                  0%                         1%               
+             other and less common clinical trial adverse drug reactions  
+ 
+
+ adverse drug reactions that do not appear in table 1 or that occurred <1% in simponi aria-treated patients during trial 1 through week 24 that do not appear in the warnings and precautions section included the following events listed by system organ class:
+
+
+
+   infections and infestations  : superficial fungal infection, sinusitis, abscess, lower respiratory tract infection (pneumonia), pyelonephritis
+
+
+
+   investigations  : alanine aminotransferase increased, aspartate aminotransferase increased, neutrophil count decreased
+
+
+
+   nervous system disorders  : dizziness, paresthesia
+
+
+
+   gastrointestinal disorders  : constipation
+
+
+
+   6.2 post-marketing experience
+
+  there is no post-marketing experience available for simponi aria. the following adverse reactions have been identified during post-approval use of the subcutaneous formulation of golimumab. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to golimumab exposure.
+
+
+
+   neoplasm benign and malignant  : melanoma  [see  warnings and precautions (5.2)  ]  
+
+
+
+   immune system disorders  : serious systemic hypersensitivity reactions (including anaphylactic reaction)  [see  warnings and precautions (5.10)  ]  , sarcoidosis
+
+
+
+   respiratory, thoracic and mediastinal disorders  : interstitial lung disease
+
+
+
+   skin and subcutaneous tissue disorders  : skin exfoliation, bullous skin reactions
+
+
+    boxed warning: warning: serious infections and malignancy
+
+    warning: serious infections and malignancy  
+
+  excerpt:   warning:  serious infections and malignancy
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  serious infections leading to hospitalization or death including tuberculosis (tb), bacterial sepsis, invasive fungal (such as histoplasmosis), and other opportunistic infections have occurred in patients receiving simponi aria (5.1). 
+ *  discontinue simponi aria if a patient develops a serious infection or sepsis (5.1). 
+ *  perform test for latent tb; if positive, start treatment for tb prior to starting simponi aria (5.1). 
+ *  monitor all patients for active tb during treatment, even if initial latent tb test is negative (5.1). 
+ *  lymphoma and other malignancies, some fatal, have been reported in children and adolescent patients treated with tnf blockers, of which simponi aria is a member (5.2). 
+    
+ 
+
+    serious infections  
+
+
+
+   patients treated with simponi aria are at increased risk for developing serious infections that may lead to hospitalization or death   [see   warnings and precautions (5.1)  ]  .  most patients who developed these infections were taking concomitant immunosuppressants such as methotrexate or corticosteroids.  
+
+
+
+   discontinue simponi aria if a patient develops a serious infection.  
+
+
+
+   reported infections with tnf-blockers, of which simponi aria is a member, include:  
+
+
+
+ *  active tuberculosis, including reactivation of latent tuberculosis. patients with tuberculosis have frequently presented with disseminated or extrapulmonary disease. test patients for latent tuberculosis before simponi aria use and during therapy. initiate treatment for latent tuberculosis prior to simponi aria use. 
+ *  invasive fungal infections, including histoplasmosis, coccidioidomycosis, candidiasis, aspergillosis, blastomycosis and pneumocystosis. patients with histoplasmosis or other invasive fungal infections may present with disseminated, rather than localized, disease. antigen and antibody testing for histoplasmosis may be negative in some patients with active infection. consider empiric anti-fungal therapy in patients at risk for invasive fungal infections who develop severe systemic illness. 
+ *  bacterial, viral, and other infections due to opportunistic pathogens, including legionella and listeria. 
+      consider the risks and benefits of treatment with simponi aria prior to initiating therapy in patients with chronic or recurrent infection.  
+ 
+
+   monitor patients closely for the development of signs and symptoms of infection during and after treatment with simponi aria, including the possible development of tuberculosis in patients who tested negative for latent tuberculosis infection prior to initiating therapy   [see   warnings and precautions (5.1)  ]  .  
+
+
+
+     malignancy  
+
+
+
+   lymphoma and other malignancies, some fatal, have been reported in children and adolescent patients treated with tnf blockers, of which simponi aria is a member   [see   warnings and precautions (5.2)  ]  .  
+    5 warnings and precautions
+
+
+
+   excerpt:    *  serious infections - do not start simponi aria during an active infection. if an infection develops, monitor carefully, and stop simponi aria if infection becomes serious (  5.1  ). 
+ *  invasive fungal infections - for patients who develop a systemic illness on simponi aria, consider empiric antifungal therapy for those who reside in or travel to regions where mycoses are endemic (  5.1  ). 
+ *  hepatitis b reactivation - monitor hbv carriers during and several months after therapy. if reactivation occurs, stop simponi aria and begin anti-viral therapy (  5.1  ). 
+ *  malignancies - more cases of lymphoma have been observed among patients receiving tnf-blockers compared with patients in the control groups. cases of other malignancies have been observed among patients receiving tnf-blockers (  5.2  ). 
+ *  heart failure - worsening, or new onset, may occur. stop simponi aria if new or worsening symptoms occur (  5.3  ). 
+ *  demyelinating disease, exacerbation or new onset, may occur (  5.4  ). 
+ *  hypersensitivity reactions: serious systemic hypersensitivity reactions including anaphylaxis may occur (  5.10  ). 
+    
+ 
+
+   5.1 serious infections
+
+
+
+  patients treated with simponi aria are at increased risk for developing serious infections involving various organ systems and sites that may lead to hospitalization or death.
+
+
+
+ opportunistic infections due to bacterial, mycobacterial, invasive fungal, viral, or parasitic organisms including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, histoplasmosis, legionellosis, listeriosis, pneumocystosis, and tuberculosis have been reported with tnf-blockers. patients have frequently presented with disseminated rather than localized disease. the concomitant use of a tnf-blocker and abatacept or anakinra was associated with a higher risk of serious infections; therefore, the concomitant use of simponi aria and these biologic products is not recommended [see  warnings and precautions (5.5  ,  5.6  ) and  drug interactions (7.2)  ]  .
+
+
+
+ treatment with simponi aria should not be initiated in patients with an active infection, including clinically important localized infections. patients greater than 65 years of age, patients with co-morbid conditions and/or patients taking concomitant immunosuppressants such as corticosteroids or methotrexate may be at greater risk of infection. consider the risks and benefits of treatment prior to initiating simponi aria in patients:
+
+
+
+ *  with chronic or recurrent infection; 
+ *  who have been exposed to tuberculosis; 
+ *  with a history of an opportunistic infection; 
+ *  who have resided or traveled in areas of endemic tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis; or 
+ *  with underlying conditions that may predispose them to infection. 
+       monitoring  
+ 
+
+ closely monitor patients for the development of signs and symptoms of infection during and after treatment with simponi aria. discontinue simponi aria if a patient develops a serious infection, an opportunistic infection, or sepsis. for patients who develop a new infection during treatment with simponi aria, perform a prompt and complete diagnostic workup appropriate for an immunocompromised patient and initiate appropriate antimicrobial therapy and closely monitor them.
+
+
+
+    tuberculosis  
+
+
+
+ cases of reactivation of tuberculosis or new tuberculosis infections have been observed in patients receiving tnf-blockers, including patients who have previously received treatment for latent or active tuberculosis. evaluate patients for tuberculosis risk factors and test for latent infection prior to initiating simponi aria and periodically during therapy.
+
+
+
+ treatment of latent tuberculosis infection prior to therapy with tnf-blockers has been shown to reduce the risk of tuberculosis reactivation during therapy. prior to initiating simponi aria, assess if treatment for latent tuberculosis is needed; an induration of 5 mm or greater is a positive tuberculin skin test, even for patients previously vaccinated with bacille calmette-guerin (bcg).
+
+
+
+ consider anti-tuberculosis therapy prior to initiation of simponi aria in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but having risk factors for tuberculosis infection. consultation with a physician with expertise in the treatment of tuberculosis is recommended to aid in the decision whether initiating anti-tuberculosis therapy is appropriate for an individual patient.
+
+
+
+  cases of active tuberculosis have occurred in patients treated with the subcutaneous formulation of golimumab during and after treatment for latent tuberculosis. monitor patients for the development of signs and symptoms of tuberculosis including patients who tested negative for latent tuberculosis infection prior to initiating therapy, patients who are on treatment for latent tuberculosis, or patients who were previously treated for tuberculosis infection.  
+
+
+
+ consider tuberculosis in the differential diagnosis in patients who develop a new infection during simponi aria treatment, especially in patients who have previously or recently traveled to countries with a high prevalence of tuberculosis, or who have had close contact with a person with active tuberculosis.
+
+
+
+    invasive fungal infections  
+
+
+
+ if patients develop a serious systemic illness and they reside or travel in regions where mycoses are endemic, consider invasive fungal infection in the differential diagnosis. consider appropriate empiric antifungal therapy and take into account both the risk for severe fungal infection and the risks of antifungal therapy while a diagnostic workup is being performed. antigen and antibody testing for histoplasmosis may be negative in some patients with active infection. to aid in the management of such patients, consider consultation with a physician with expertise in the diagnosis and treatment of invasive fungal infections.
+
+
+
+    hepatitis b virus reactivation  
+
+
+
+ the use of tnf-blockers, of which simponi aria is a member, has been associated with reactivation of hepatitis b virus (hbv) in patients who are chronic hepatitis b carriers (i.e., surface antigen positive). in some instances, hbv reactivation occurring in conjunction with tnf-blocker therapy has been fatal. the majority of these reports have occurred in patients who received concomitant immunosuppressants.
+
+
+
+ all patients should be tested for hbv infection before initiating tnf-blocker therapy. for patients who test positive for hepatitis b surface antigen, consultation with a physician with expertise in the treatment of hepatitis b is recommended before initiating tnf-blocker therapy. the risks and benefits of treatment should be considered prior to prescribing tnf-blockers, including simponi aria, to patients who are carriers of hbv. adequate data are not available on whether anti-viral therapy can reduce the risk of hbv reactivation in hbv carriers who are treated with tnf-blockers. patients who are carriers of hbv and require treatment with tnf-blockers should be closely monitored for clinical and laboratory signs of active hbv infection throughout therapy and for several months following termination of therapy.
+
+
+
+ in patients who develop hbv reactivation, tnf-blockers should be stopped and antiviral therapy with appropriate supportive treatment should be initiated. the safety of resuming tnf-blockers after hbv reactivation has been controlled is not known. therefore, prescribers should exercise caution when considering resumption of tnf-blockers in this situation and monitor patients closely.
+
+
+
+    5.2 malignancies
+
+
+
+   malignancies in pediatric patients  
+
+
+
+ malignancies, some fatal, have been reported among children, adolescents, and young adults who received treatment with tnf-blocking agents (initiation of therapy <= 18 years of age), of which simponi aria is a member. approximately half the cases were lymphomas, including hodgkin's and non-hodgkin's lymphoma. the other cases represented a variety of malignancies, including rare malignancies that are usually associated with immunosuppression, and malignancies that are not usually observed in children and adolescents. the malignancies occurred after a median of 30 months (range 1 to 84 months) after the first dose of tnf-blocker therapy. most of the patients were receiving concomitant immunosuppressants. these cases were reported post-marketing and are derived from a variety of sources, including registries and spontaneous post-marketing reports. use of simponi aria in patients under 18 years of age has not been established.
+
+
+
+    malignancies in adult patients  
+
+
+
+ the risks and benefits of tnf-blocker treatment including simponi aria should be considered prior to initiating therapy in patients with a known malignancy other than a successfully treated non-melanoma skin cancer (nmsc) or when considering continuing a tnf-blocker in patients who develop a malignancy.
+
+
+
+ in the controlled portions of clinical trials of tnf-blockers including the subcutaneous formulation of golimumab more cases of lymphoma have been observed among patients receiving anti-tnf treatment compared with patients in the control groups. patients with ra and other chronic inflammatory diseases, particularly patients with highly active disease and/or chronic exposure to immunosuppressant therapies, may be at higher risk (up to several fold) than the general population for the development of lymphoma, even in the absence of tnf-blocking therapy. cases of acute and chronic leukemia have been reported with post-marketing tnf-blocker use in rheumatoid arthritis and other indications. even in the absence of tnf-blocker therapy, patients with rheumatoid arthritis may be at a higher risk (approximately 2-fold) than the general population for the development of leukemia.
+
+
+
+  rare post-marketing cases of hepatosplenic t-cell lymphoma (hstcl) have been reported in patients treated with tnf-blocking agents. this rare type of t-cell lymphoma has a very aggressive disease course and is usually fatal. nearly all of the reported tnf-blocker associated cases have occurred in patients with crohn's disease or ulcerative colitis. the majority were in adolescent and young adult males. almost all these patients had received treatment with azathioprine (aza) or 6-mercaptopurine (6-mp) concomitantly with a tnf-blocker at or prior to diagnosis. a risk for the development for hepatosplenic t-cell lymphoma in patients treated with tnf-blockers cannot be excluded.  
+
+
+
+ melanoma has been reported in patients treated with tnf-blocking agents, including the subcutaneous formulation of golimumab. merkel cell carcinoma has been reported in patients treated with tnf-blocking agents. periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
+
+
+
+ in controlled trials of other tnf-blockers in patients at higher risk for malignancies (e.g., patients with copd, patients with wegener's granulomatosis treated with concomitant cyclophosphamide) a greater portion of malignancies occurred in the tnf-blocker group compared to the controlled group. in an exploratory clinical trial evaluating the use of the subcutaneous formulation of golimumab in patients with severe persistent asthma, more patients treated with golimumab reported malignancies compared with control patients. the significance of this finding is unknown.
+
+
+
+ during the controlled portion of the phase 3 trial in ra for simponi aria, the incidence of malignancies other than lymphoma and nmsc per 100-patient-years of follow-up was 0.56 (95% ci: 0.01, 3.11) in the simponi aria group compared with an incidence of 0 (95% ci: 0.00, 3.79) in the placebo group.
+
+
+
+    5.3 congestive heart failure
+
+
+
+  cases of worsening congestive heart failure (chf) and new onset chf have been reported with tnf-blockers, including simponi aria. in several exploratory trials of other tnf-blockers in the treatment of chf, there were greater proportions of tnf-blocker treated patients who had chf exacerbations requiring hospitalization or increased mortality. simponi aria has not been studied in patients with a history of chf and simponi aria should be used with caution in patients with chf. if a decision is made to administer simponi aria to ra patients with chf, these patients should be closely monitored during therapy, and simponi aria should be discontinued if new or worsening symptoms of chf appear.
+
+
+
+    5.4 demyelinating disorders
+
+
+
+  use of tnf-blockers, of which simponi aria is a member, has been associated with rare cases of new onset or exacerbation of central nervous system (cns) demyelinating disorders, including multiple sclerosis (ms) and peripheral demyelinating disorders, including guillain-barre syndrome. cases of central demyelination, ms, optic neuritis, and peripheral demyelinating polyneuropathy have rarely been reported in patients treated with the subcutaneous formulation of golimumab. prescribers should exercise caution in considering the use of tnf-blockers, including simponi aria, in patients with central or peripheral nervous system demyelinating disorders. discontinuation of simponi aria should be considered if these disorders develop.
+
+
+
+    5.5 use with abatacept
+
+
+
+  in controlled trials, the concurrent administration of another tnf-blocker and abatacept was associated with a greater proportion of serious infections than the use of a tnf-blocker alone; and the combination therapy, compared to the use of a tnf-blocker alone, has not demonstrated improved clinical benefit in the treatment of ra. therefore, the combination of tnf-blockers including simponi aria and abatacept is not recommended [see  drug interactions (7.2)  ]  .
+
+
+
+    5.6 use with anakinra
+
+
+
+  concurrent administration of anakinra (an interleukin-1 antagonist) and another tnf-blocker, was associated with a greater portion of serious infections and neutropenia and no additional benefits compared with the tnf-blocker alone. therefore, the combination of anakinra with tnf-blockers, including simponi aria, is not recommended [see  drug interactions (7.2)  ]  .
+
+
+
+    5.7 switching between biological disease modifying antirheumatic drugs (dmards)
+
+
+
+  care should be taken when switching from one biologic product to another biologic product since overlapping biological activity may further increase the risk of infection.
+
+
+
+    5.8 hematologic cytopenias
+
+
+
+  there have been post-marketing reports of pancytopenia, leukopenia, neutropenia, aplastic anemia, and thrombocytopenia in patients receiving tnf-blockers. in clinical studies, cases of pancytopenia, leukopenia, neutropenia, and thrombocytopenia have also occurred in simponi aria-treated patients. caution should be exercised when using tnf-blockers, including simponi aria, in patients who have or have had significant cytopenias.
+
+
+
+    5.9 vaccinations/therapeutic infectious agents
+
+
+
+    live vaccines    
+
+
+
+  patients treated with simponi aria may receive vaccinations, except for live vaccines. in patients receiving anti-tnf therapy, limited data are available on the response to live vaccination, or on the secondary transmission of infection by live vaccines. use of live vaccines could result in clinical infections, including disseminated infections.  
+
+
+
+     therapeutic infectious agents    
+
+
+
+  other uses of therapeutic infectious agents such as live attenuated bacteria (e.g., bcg bladder instillation for the treatment of cancer) could result in clinical infections, including disseminated infections. it is recommended that therapeutic infectious agents not be given concurrently with simponi aria.  
+
+
+
+    5.10 hypersensitivity reactions
+
+
+
+  in post-marketing experience, serious systemic hypersensitivity reactions (including anaphylactic reaction) have been reported following administration of the subcutaneous formulation of golimumab. some of these reactions occurred after the first administration of golimumab. if an anaphylactic or other serious allergic reaction occurs, administration of simponi aria should be discontinued immediately and appropriate therapy instituted.

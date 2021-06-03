@@ -1,0 +1,212 @@
+    6  adverse reactions
+
+  the following important adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *  hypotension [see warnings and precautions (  5.1  )]  
+ *  impairment in renal function [see warnings and precautions (  5.2  )]  
+ *  hypoglycemia with concomitant use with insulin and insulin secretagogues [see warnings and precautions (  5.3  )]  
+ *  genital mycotic infections [see warnings and precautions (  5.4  )]  
+ *  urinary tract infections [see warnings and precautions (  5.5  )]  
+ *  increased low-density lipoprotein cholesterol (ldl-c) [see warnings and precautions (  5.6  )]  
+   *  the most common adverse reactions associated with jardiance (5% or greater incidence) were urinary tract infections and female genital mycotic infections (  6.1  ) 
+      excerpt:     to report suspected adverse reactions, contact boehringer ingelheim pharmaceuticals, inc. at 1-800-542-6257 or 1-800-459-9906 tty, or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+   pool of placebo-controlled trials evaluating jardiance 10 and 25 mg  the data in table 1 are derived from a pool of four 24-week placebo-controlled trials and 18-week data from a placebo-controlled trial with insulin. jardiance was used as monotherapy in one trial and as add-on therapy in four trials  [see clinical studies (  14  )]  .
+
+
+
+ these data reflect exposure of 1976 patients to jardiance with a mean exposure duration of approximately 23 weeks. patients received placebo (n=995), jardiance 10 mg (n=999), or jardiance 25 mg (n=977) once daily. the mean age of the population was 56 years and 3% were older than 75 years of age. more than half (55%) of the population was male; 46% were white, 50% were asian, and 3% were black or african american. at baseline, 57% of the population had diabetes more than 5 years and had a mean hemoglobin a1c (hba1c) of 8%. established microvascular complications of diabetes at baseline included diabetic nephropathy (7%), retinopathy (8%), or neuropathy (16%). baseline renal function was normal or mildly impaired in 91% of patients and moderately impaired in 9% of patients (mean egfr 86.8 ml/min/1.73 m  2  ).
+
+
+
+ table 1 shows common adverse reactions (excluding hypoglycemia) associated with the use of jardiance. the adverse reactions were not present at baseline, occurred more commonly on jardiance than on placebo and occurred in greater than or equal to 2% of patients treated with jardiance 10 mg or jardiance 25 mg.
+
+
+
+ table 1 adverse reactions reported in >=2% of patients treated with jardiance and greater than placebo in pooled placebo-controlled clinical studies of jardiance monotherapy or combination therapy 
+   a  predefined adverse event grouping, including, but not limited to, urinary tract infection, asymptomatic bacteriuria, cystitis   
+   b  female genital mycotic infections include the following adverse reactions: vulvovaginal mycotic infection, vaginal infection, vulvitis, vulvovaginal candidiasis, genital infection, genital candidiasis, genital infection fungal, genitourinary tract infection, vulvovaginitis, cervicitis, urogenital infection fungal, vaginitis bacterial. percentages calculated with the number of female subjects in each group as denominator: placebo (n=481), jardiance 10 mg (n=443), jardiance 25 mg (n=420).   
+   c  predefined adverse event grouping, including, but not limited to, polyuria, pollakiuria, and nocturia   
+   d  male genital mycotic infections include the following adverse reactions: balanoposthitis, balanitis, genital infections fungal, genitourinary tract infection, balanitis candida, scrotal abscess, penile infection. percentages calculated with the number of male subjects in each group as denominator: placebo (n=514), jardiance 10 mg (n=556), jardiance 25 mg (n=557).   
+  
+                                       number (%) of patients     
+   placebon=995                        jardiance 10 mgn=999      jardiance 25 mgn=977     
+ urinary tract infection  a          7.6%                    9.3%                    7.6%                     
+ female genital mycotic infections  b    1.5%                    5.4%                    6.4%                     
+ upper respiratory tract infection   3.8%                    3.1%                    4.0%                     
+ increased urination  c              1.0%                    3.4%                    3.2%                     
+ dyslipidemia                        3.4%                    3.9%                    2.9%                     
+ arthralgia                          2.2%                    2.4%                    2.3%                     
+ male genital mycotic infections  d    0.4%                    3.1%                    1.6%                     
+ nausea                              1.4%                    2.3%                    1.1%                     
+      thirst (including polydipsia) was reported in 0%, 1.7%, and 1.5% for placebo, jardiance 10 mg, and jardiance 25 mg, respectively.
+ 
+
+   volume depletion  jardiance causes an osmotic diuresis, which may lead to intravascular volume contraction and adverse reactions related to volume depletion. in the pool of five placebo-controlled clinical trials, adverse reactions related to volume depletion (e.g., blood pressure (ambulatory) decreased, blood pressure systolic decreased, dehydration, hypotension, hypovolemia, orthostatic hypotension, and syncope) were reported by 0.3%, 0.5%, and 0.3% of patients treated with placebo, jardiance 10 mg, and jardiance 25 mg respectively. jardiance may increase the risk of hypotension in patients at risk for volume contraction  [see warnings and precautions (  5.1  ) and use in specific populations (  8.5  ,  8.6  )].  
+
+
+
+   increased urination  in the pool of five placebo-controlled clinical trials, adverse reactions of increased urination (e.g., polyuria, pollakiuria, and nocturia) occurred more frequently on jardiance than on placebo (see table 1). specifically, nocturia was reported by 0.4%, 0.3%, and 0.8% of patients treated with placebo, jardiance 10 mg, and jardiance 25 mg, respectively.
+
+
+
+   impairment in renal function  use of jardiance was associated with increases in serum creatinine and decreases in egfr (see table 2). patients with moderate renal impairment at baseline had larger mean changes  [see warnings and precautions (  5.2  ) and use in specific populations (  8.5  ,  8.6  )]  .
+
+
+
+ table 2 changes from baseline in serum creatinine and egfr in the pool of four 24-week placebo-controlled studies and renal impairment study 
+   a  subset of patients from renal impairment study with egfr 30 to less than 60 ml/min/1.73 m  2     
+  
+                         pool of 24-week placebo-controlled studies     
+   placebo               jardiance 10 mg       jardiance 25 mg      
+ baseline mean         n                     825                   830                   822                    
+ creatinine (mg/dl)    0.84                  0.85                  0.85                   
+ egfr (ml/min/1.73 m  2  )  87.3                  87.1                  87.8                   
+ week 12 change        n                     771                   797                   783                    
+ creatinine (mg/dl)    0.00                  0.02                  0.01                   
+ egfr (ml/min/1.73 m  2  )  -0.3                  -1.3                  -1.4                   
+ week 24 change        n                     708                   769                   754                    
+ creatinine (mg/dl)    0.00                  0.01                  0.01                   
+ egfr (ml/min/1.73 m  2  )  -0.3                  -0.6                  -1.4                   
+                         moderate renal impairment  a       
+   placebo                                     jardiance 25 mg      
+ baseline              n                     187                   --                    187                    
+ creatinine (mg/dl)    1.49                  --                    1.46                   
+ egfr (ml/min/1.73 m  2  )  44.3                  --                    45.4                   
+ week 12 change        n                     176                   --                    179                    
+ creatinine (mg/dl)    0.01                  --                    0.12                   
+ egfr (ml/min/1.73 m  2  )  0.1                   --                    -3.8                   
+ week 24 change        n                     170                   --                    171                    
+ creatinine (mg/dl)    0.01                  --                    0.10                   
+ egfr (ml/min/1.73 m  2  )  0.2                   --                    -3.2                   
+ week 52 change        n                     164                   --                    162                    
+ creatinine (mg/dl)    0.02                  --                    0.11                   
+ egfr (ml/min/1.73 m  2  )  -0.3                  --                    -2.8                   
+        hypoglycemia  the incidence of hypoglycemia by study is shown in table 3. the incidence of hypoglycemia increased when jardiance was administered with insulin or sulfonylurea  [see warnings and precautions (  5.3  )]  .
+ 
+
+ table 3 incidence of overalla and severeb hypoglycemic events in placebo-controlled clinical studies 
+   a  overall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dl   
+   b  severe hypoglycemic events: requiring assistance regardless of blood glucose   
+   c  insulin dose could not be adjusted during the initial 18 week treatment period   
+  
+   monotherapy(24 weeks)            placebo(n=229)           jardiance 10 mg(n=224)      jardiance 25 mg(n=223)     
+ overall (%)                      0.4%                     0.4%                     0.4%                      
+ severe (%)                       0%                       0%                       0%                        
+   in combination withmetformin(24 weeks)      placebo + metformin(n=206)      jardiance 10 mg + metformin(n=217)      jardiance 25 mg + metformin(n=214)     
+ overall (%)                      0.5%                     1.8%                     1.4%                      
+ severe (%)                       0%                       0%                       0%                        
+   in combination withmetformin + sulfonylurea(24 weeks)      placebo(n=225)           jardiance 10 mg + metformin + sulfonylurea(n=224)      jardiance 25 mg + metformin + sulfonylurea(n=217)     
+ overall (%)                      8.4%                     16.1%                    11.5%                     
+ severe (%)                       0%                       0%                       0%                        
+   in combination withpioglitazone +/- metformin(24 weeks)      placebo(n=165)           jardiance 10 mg + pioglitazone +/- metformin(n=165)      jardiance 25 mg + pioglitazone +/- metformin(n=168)     
+ overall (%)                      1.8%                     1.2%                     2.4%                      
+ severe (%)                       0%                       0%                       0%                        
+   in combination with basal insulin(18 weeks  c  )      placebo(n=170)           jardiance 10 mg(n=169)      jardiance 25 mg(n=155)     
+ overall (%)                      20.6%                    19.5%                    28.4%                     
+ severe (%)                       0%                       0%                       1.3%                      
+   in combination with mdi insulin +/- metformin(18 weeks  c  )      placebo(n=188)           jardiance 10 mg(n=186)      jardiance 25 mg(n=189)     
+ overall (%)                      37.2%                    39.8%                    41.3%                     
+ severe (%)                       0.5%                     0.5%                     0.5%                      
+        genital mycotic infections  in the pool of five placebo-controlled clinical trials, the incidence of genital mycotic infections (e.g., vaginal mycotic infection, vaginal infection, genital infection fungal, vulvovaginal candidiasis, and vulvitis) was increased in patients treated with jardiance compared to placebo, occurring in 0.9%, 4.1%, and 3.7% of patients randomized to placebo, jardiance 10 mg, and jardiance 25 mg, respectively. discontinuation from study due to genital infection occurred in 0% of placebo-treated patients and 0.2% of patients treated with either jardiance 10 or 25 mg.
+ 
+
+ genital mycotic infections occurred more frequently in female than male patients (see table 1).
+
+
+
+ phimosis occurred more frequently in male patients treated with jardiance 10 mg (less than 0.1%) and jardiance 25 mg (0.1%) than placebo (0%).
+
+
+
+   urinary tract infections  in the pool of five placebo-controlled clinical trials, the incidence of urinary tract infections (e.g., urinary tract infection, asymptomatic bacteriuria, and cystitis) was increased in patients treated with jardiance compared to placebo (see table 1). patients with a history of chronic or recurrent urinary tract infections were more likely to experience a urinary tract infection. the rate of treatment discontinuation due to urinary tract infections was 0.1%, 0.2%, and 0.1% for placebo, jardiance 10 mg, and jardiance 25 mg, respectively.
+
+
+
+ urinary tract infections occurred more frequently in female patients. the incidence of urinary tract infections in female patients randomized to placebo, jardiance 10 mg, and jardiance 25 mg was 16.6%, 18.4%, and 17.0%, respectively. the incidence of urinary tract infections in male patients randomized to placebo, jardiance 10 mg, and jardiance 25 mg was 3.2%, 3.6%, and 4.1%, respectively  [see warnings and precautions (  5.5  ) and use in specific populations (  8.5  )]  .
+
+
+
+   laboratory tests    increase in low-density lipoprotein cholesterol (ldl-c)  dose-related increases in low-density lipoprotein cholesterol (ldl-c) were observed in patients treated with jardiance. ldl-c increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, jardiance 10 mg, and jardiance 25 mg, respectively  [see warnings and precautions (  5.6  )]  . the range of mean baseline ldl-c levels was 90.3 to 90.6 mg/dl across treatment groups.
+
+
+
+   increase in hematocrit  in a pool of four placebo-controlled studies, median hematocrit decreased by 1.3% in placebo and increased by 2.8% in jardiance 10 mg and 2.8% in jardiance 25 mg treated patients. at the end of treatment, 0.6%, 2.7%, and 3.5% of patients with hematocrits initially within the reference range had values above the upper limit of the reference range with placebo, jardiance 10 mg, and jardiance 25 mg, respectively.
+    5  warnings and precautions
+
+
+
+   excerpt:    *   hypotension: before initiating jardiance assess and correct volume status in patients with renal impairment, the elderly, in patients with low systolic blood pressure, and in patients on diuretics. monitor for signs and symptoms during therapy. (  5.1  ) 
+ *   impairment in renal function: monitor renal function during therapy. more frequent monitoring is recommended in patients with egfr below 60 ml/min/1.73 m  2  (  5.2  ) 
+ *   hypoglycemia: consider lowering the dose of insulin secretagogue or insulin to reduce the risk of hypoglycemia when initiating jardiance (  5.3  ) 
+ *   genital mycotic infections: monitor and treat as appropriate (  5.4  ) 
+ *   urinary tract infections: monitor and treat as appropriate (  5.5  ) 
+ *   increased ldl-c: monitor and treat as appropriate (  5.6  ) 
+ *   macrovascular outcomes: there have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with jardiance (  5.7  ) 
+    
+ 
+
+   5.1 hypotension
+
+
+
+  jardiance causes intravascular volume contraction. symptomatic hypotension may occur after initiating jardiance [see adverse reactions (  6.1  )]  particularly in patients with renal impairment, the elderly, in patients with low systolic blood pressure, and in patients on diuretics. before initiating jardiance, assess for volume contraction and correct volume status if indicated. monitor for signs and symptoms of hypotension after initiating therapy and increase monitoring in clinical situations where volume contraction is expected [see use in specific populations (  8.5  )]  .
+
+
+
+    5.2 impairment in renal function
+
+
+
+  jardiance increases serum creatinine and decreases egfr [see adverse reactions (  6.1  )]  . the risk of impaired renal function with jardiance is increased in elderly patients and patients with moderate renal impairment. more frequent monitoring of renal function is recommended in these patients [see use in specific populations (  8.5  ,  8.6  )]  . renal function should be evaluated prior to initiating jardiance and periodically thereafter.
+
+
+
+    5.3 hypoglycemia with concomitant use with insulin and insulin secretagogues
+
+
+
+  insulin and insulin secretagogues are known to cause hypoglycemia. the risk of hypoglycemia is increased when jardiance is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin [see adverse reactions (  6.1  )]  . therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with jardiance.
+
+
+
+    5.4 genital mycotic infections
+
+
+
+  jardiance increases the risk for genital mycotic infections [see adverse reactions (  6.1  )]  . patients with a history of chronic or recurrent genital mycotic infections were more likely to develop mycotic genital infections. monitor and treat as appropriate.
+
+
+
+    5.5 urinary tract infections
+
+
+
+  jardiance increases the risk for urinary tract infections [see adverse reactions (  6.1  )]  . monitor and treat as appropriate.
+
+
+
+    5.6 increased low-density lipoprotein cholesterol (ldl-c)
+
+
+
+  increases in ldl-c can occur with jardiance [see adverse reactions (  6.1  )]  . monitor and treat as appropriate.
+
+
+
+    5.7 macrovascular outcomes
+
+
+
+  there have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with jardiance or any other antidiabetic drug.

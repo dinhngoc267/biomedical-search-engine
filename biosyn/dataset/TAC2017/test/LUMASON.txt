@@ -1,0 +1,143 @@
+    6  adverse reactions
+
+  the following serious adverse reactions are discussed elsewhere in the labeling:
+
+
+
+ *  severe cardiopulmonary reactions [see warnings and precautions (  5.1  )]  
+ *  hypersensitivity reactions [see warnings and precautions (  5.2  )]  
+      excerpt:   most common adverse reactions (incidence >= 0.5%) are headache and nausea (  6.1  ).
+ 
+
+   to report suspected adverse reactions, contact bracco diagnostics inc at 1-800-257-5181 or fda at 1-800-fda-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1  clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ in completed clinical trials, a total of 6307 adult subjects (128 healthy volunteers and 6179 patients) received lumason at cumulative doses ranging from 0.2 to 161 ml (mean 10.5 ml). lumason was administered mainly as single or multiple injections; however, some subjects received infusion dosing. the majority (73%) of subjects received lumason at cumulative doses of 10 ml or less. there were 65% men and 35% women, with an average age of 59 years (range 17 to 99 years). a total of 4993 (79%) subjects were caucasian; 192 (3%) were black; 1053 (17%) were asian; 33 (< 1%) were hispanic; and 36 (<1%) were in other racial groups or race was not reported.
+
+
+
+ in the clinical trials, serious adverse reactions were observed in 2 subjects; one who experienced a hypersensitivity-type rash and near syncope symptoms and another who experienced anaphylactic shock shortly following lumason administration.
+
+
+
+ the most commonly reported adverse reactions among patients (occurring among at least 0.2% of patients) are listed below (table 1). most adverse reactions were mild to moderate in intensity and resolved spontaneously.
+
+
+
+
+   *  occurring in at least 0.2% of patients   
+  
+   table 1. adverse reactions in patients*n = 6179     
+ number (%) of patients with adverse reactions  302 (4.9%)        
+ headache         56 (0.9%)         
+ nausea           34 (0.6%)         
+ dysgeusia        19 (0.3%)         
+ injection site pain  18 (0.3%)         
+ chest discomfort  16 (0.3%)         
+ feeling hot      16 (0.3%)         
+ chest pain       11 (0.2%)         
+ injection site warmth  11 (0.2%)         
+        6.2  postmarketing experience
+   in the international postmarketing clinical experience and on-going clinical trials, serious adverse reactions have uncommonly been reported following administration of lumason. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. the serious adverse reactions include fatalities, especially in a pattern of symptoms suggestive of anaphylactoid/hypersensitivity reactions. other serious reactions included arrhythmias and hypertensive episodes. these reactions typically occurred within 30 minutes of lumason administration.
+
+
+
+ the risk for serious cardiopulmonary reactions may be increased among patients with unstable cardiopulmonary conditions (acute myocardial infarction, acute coronary artery syndromes, worsening or unstable congestive heart failure, or serious ventricular arrhythmias  [see warnings and precautions (  5.1  ]  ).
+
+
+    boxed warning: warning: serious cardiopulmonary reactions
+
+  warning: serious cardiopulmonary reactions
+
+    serious cardiopulmonary reactions, including
+
+fatalities, have occurred uncommonly during or following the injection
+
+of ultrasound contrast agents, including sulfur hexafluoride lipid
+
+microspheres   [see warnings and precautions (  5.1  )]  . most serious reactions
+
+occur within 30 minutes of administration   [see warnings and
+
+precautions (  5.1  )]  .  
+
+
+
+ *  assess all patients for the presence of any condition that precludes administration [see contraindications (4)]. 
+ *  always have resuscitation equipment and trained personnel readily available [see warnings and precautions (5.1)]. 
+      excerpt:       warning: serious
+ cardiopulmonary reactions    
+
+
+
+     see full prescribing
+
+information for complete boxed warning.    
+
+
+
+   serious cardiopulmonary reactions,
+
+including fatalities, have occurred uncommonly during or following
+
+the injection of ultrasound contrast agents, including sulfur hexafluoride
+
+lipid microspheres (  5.1  ). most serious
+
+reactions occur within 30 minutes of administration (  5.1  ).  
+
+
+
+ *  assess all patients for the presence of any condition that precludes administration (4). 
+ *  always have resuscitation equipment and trained personnel readily available (5.1). 
+    5  warnings and precautions
+
+
+
+   excerpt:    *  cardiopulmonary reactions, including fatalities. always have resuscitation equipment and trained personnel readily available (  5.1  ) 
+ *  anaphylactoid reactions (  5.2  ) 
+    
+ 
+
+   5.1  cardiopulmonary reactions
+
+
+
+  serious cardiopulmonary reactions, including fatalities have occurred uncommonly during or shortly following administration of ultrasound contrast agents, including lumason. these reactions typically occurred within 30 minutes of administration. the risk for these reactions may be increased among patients with unstable cardiopulmonary conditions (acute myocardial infarction, acute coronary artery syndromes, worsening or unstable congestive heart failure, or serious ventricular arrhythmias). always have cardiopulmonary resuscitation personnel and equipment readily available prior to lumason administration and monitor all patients for acute reactions.
+
+
+
+ the reported reactions that may follow the administration of ultrasound contrast agents include: fatal cardiac or respiratory arrest, shock, syncope, symptomatic arrhythmias (atrial fibrillation, tachycardia, bradycardia, supraventricular tachycardia, ventricular fibrillation, and ventricular tachycardia), hypertension, hypotension, dyspnea, hypoxia, chest pain, respiratory distress, stridor, wheezing, loss of consciousness, and convulsions.
+
+
+
+    5.2  anaphylactoid reactions
+
+
+
+  anaphylactoid reactions such as skin erythema, rash, urticaria, flushing, throat tightness, dyspnea, or anaphylactic shock have uncommonly been observed following the injection of lumason. these reactions may occur in patients with no history of prior exposure to sulfur hexafluoride lipid containing microspheres.
+
+
+
+    5.3  systemic embolization
+
+
+
+  in patients with right-to-left, bi-directional, or transient right-to-left cardiac shunts, some intravenously injected sulfur hexafluoride lipid containing microspheres may bypass filtering by the lung and directly enter the arterial circulation. occlusion of the microcirculation by these microspheres may result in tissue ischemia. lumason is only for intravenous administration; do not administer lumason by intra-arterial injection.
+
+
+
+    5.4  high mechanical index
+
+
+
+  high ultrasound mechanical index values may cause microsphere cavitation or rupture and lead to ventricular arrhythmias. additionally, end-systolic triggering with high mechanical indices has been reported to cause ventricular arrhythmias.

@@ -1,0 +1,199 @@
+    6 adverse reactions
+
+  the following adverse reactions are also discussed in the warnings and precautions section of the label:
+
+
+
+ hypersensitivity reactions  [see warnings and precautions (  5.3  )]  
+
+
+
+ infusion related reactions  [see warnings and precautions (  5.4  )]  
+
+
+
+   clostridium difficile  -associated diarrhea  [see warnings and precautions (  5.5  )]  
+
+
+
+ osteomyelitis  [see warnings and precautions (  5.6  )]  
+
+
+
+   excerpt:   the most common adverse reactions (>= 3%) in patients treated with orbactiv were headache, nausea, vomiting, limb and subcutaneous abscesses, and diarrhea. (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact the medicines company at 1-888-977-6326 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of orbactiv cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ orbactiv has been evaluated in two, double-blind, controlled absssi clinical trials, which included 976 adult patients treated with a single 1200 mg intravenous dose of orbactiv and 983 patients treated with intravenous vancomycin for 7 to 10 days. the median age of patients treated with orbactiv was 45.6 years, ranging between 18 and 89 years of age with 8.8% >=65 years of age. patients treated with orbactiv were predominantly male (65.4%), 64.4% were caucasian, 5.8% were african american, and 28.1% were asian. safety was evaluated for up to 60 days after dosing.
+
+
+
+ in the pooled absssi clinical trials, serious adverse reactions were reported in 57/976 (5.8%) patients treated with orbactiv and 58/983 (5.9%) treated with vancomycin. the most commonly reported serious adverse reaction was cellulitis in both treatment groups: 11/976 (1.1%) in orbactiv and 12/983 (1.2%) in the vancomycin arms, respectively.
+
+
+
+ the most commonly reported adverse reactions (>=3%) in patients receiving a single 1200 mg dose of orbactiv in the pooled absssi clinical trials were: headache, nausea, vomiting, limb and subcutaneous abscesses, and diarrhea.
+
+
+
+ in the pooled absssi clinical trials, orbactiv was discontinued due to adverse reactions in 36/976 (3.7%) of patients; the most common reported reactions leading to discontinuation were cellulitis (4/976, 0.4%) and osteomyelitis (3/976, 0.3%).
+
+
+
+   table 1  provides selected adverse reactions occurring in >= 1.5% of patients receiving orbactiv in the pooled absssi clinical trials. there were 540 (55.3%) patients in the orbactiv arm and 559 (56.9%) patients in the vancomycin arm, who reported >=1 adverse reaction.
+
+
+
+ table 1: incidence of selected adverse reactions occurring in >= 1.5% of patients receiving orbactiv in the pooled absssi clinical trials 
+   adverse reactions                               orbactivn=976 (%)             vancomycinn=983 (%)        
+ gastrointestinal disorders                                                                                 
+ diarrhea                                               36 (3.7)                       32 (3.4)             
+ nausea                                                 97 (9.9)                      103 (10.5)            
+ vomiting                                               45 (4.6)                       46 (4.7)             
+ nervous system disorders                                                                                   
+ dizziness                                              26 (2.7)                       26 (2.6)             
+ headache                                               69 (7.1)                       66 (6.7)             
+ general disorders and administration                                                                       
+ infusion site phlebitis                                24 (2.5)                       15 (1.5)             
+ infusion site reaction                                 19 (1.9)                       34 (3.5)             
+ infections and infestations                                                                                
+ abscess (limb and subcutaneous)                        37 (3.8)                       23 (2.3)             
+ investigations                                                                                             
+ alanine aminotransferase increased                     27 (2.8)                       15 (1.5)             
+ aspartate aminotransferase increased                   18 (1.8)                       15 (1.5)             
+ cardiac disorders                                                                                          
+ tachycardia                                            24 (2.5)                       11 (1.1)             
+         the following selected adverse reactions were reported in orbactiv-treated patients at a rate of less than 1.5%:
+ 
+
+   blood and lymphatic system disorders:  anemia, eosinophilia
+
+
+
+   general disorders and administration site conditions:  infusion site erythema, extravasation, induration, pruritis, rash, edema peripheral
+
+
+
+   immune system disorders:  hypersensitivity
+
+
+
+   infections and infestations:  osteomyelitis
+
+
+
+   investigations:  total bilirubin increased, hyperuricemia
+
+
+
+   metabolism and nutrition disorders:  hypoglycemia
+
+
+
+ musculoskeletal and connective tissue disorders: tenosynovitis, myalgia
+
+
+
+   respiratory, thoracic and mediastinal disorders:  bronchospasm, wheezing
+
+
+
+   skin and subcutaneous tissue disorders:  urticaria, angioedema, erythema multiforme, pruritis, leucocytoclastic vasculitis, rash.
+    5 warnings and precautions
+
+
+
+     excerpt:    *  concomitant warfarin use: co-administration of orbactiv and warfarin may result in higher exposure of warfarin, which may increase the risk of bleeding. use orbactiv in patients on chronic warfarin therapy only when the benefits can be expected to outweigh the risk of bleeding.  (  5.1  ) 
+ *  coagulation test interference: orbactiv has been shown to artificially prolong aptt for up to 48 hours, and may prolong pt and inr for up to 24 hours. (  5.2  ) 
+ *  hypersensitivity reactions have been reported with the use of antibacterial agents including orbactiv. discontinue infusion if signs of acute hypersensitivity occur. monitor closely patients with known hypersensitivity to glycopeptides. (  5.3  ) 
+ *  infusion-related reactions have been reported. slow the rate or interrupt infusion if infusion reaction develops. (  5.4  ) 
+ *   clostridium difficile -associated colitis: evaluate patients if diarrhea occurs. (  5.5  ) 
+ *  osteomyelitis: institute appropriate alternate antibacterial therapy in patients with confirmed or suspected osteomyelitis. (  5.6  ) 
+    
+ 
+
+   5.1 potential risk of bleeding with concomitant use of warfarin
+
+
+
+  co-administration of orbactiv and warfarin may result in higher exposure of warfarin, which may increase the risk of bleeding. use orbactiv in patients on chronic warfarin therapy only when the benefits can be expected to outweigh the risk of bleeding. frequently monitor for signs of bleeding. [see drug interactions (  7.1  ), clinical pharmacology (  12.3  )]  .
+
+
+
+ orbactiv has been shown to artificially prolong pt and inr for up to 24 hours, making the monitoring of the anticoagulation effect of warfarin unreliable up to 24 hours after an orbactiv dose. [see warnings and precautions (  5.2  )]  
+
+
+
+    5.2 coagulation test interference
+
+
+
+  orbactiv has been shown to artificially prolong aptt for 48 hours and the pt and inr for 24 hours by binding to and preventing action of the phospholipid reagents which activate coagulation in commonly used laboratory coagulation tests.
+
+
+
+ for patients who require aptt monitoring within 48 hours of orbactiv dosing, a non-phospholipid dependent coagulation test such as a factor xa (chromogenic) assay or an alternative anticoagulant not requiring aptt monitoring may be considered.
+
+
+
+ effects by orbactiv on activated clotting time (act) are expected since the phospholipid reagents are also utilized in this coagulation test. orbactiv has no effect on the coagulation system. [see contraindications (  4.1  ) and drug interactions (  7.2  )]  
+
+
+
+    5.3 hypersensitivity
+
+
+
+  serious hypersensitivity reactions have been reported with the use of orbactiv. if an acute hypersensitivity reaction occurs during orbactiv infusion, discontinue orbactiv immediately and institute appropriate supportive care. before using orbactiv, inquire carefully about previous hypersensitivity reactions to glycopeptides. due to the possibility of cross-sensitivity, carefully monitor for signs of hypersensitivity during orbactiv infusion in patients with a history of glycopeptide allergy. in the phase 3 absssi clinical trials, the median onset of hypersensitivity reactions in orbactiv-treated patients was 1.2 days and the median duration of these reactions was 2.4 days. [see adverse reactions (  6.1  )]  
+
+
+
+    5.4 infusion related reactions
+
+
+
+  infusion related reactions have been reported with orbactiv including pruritus, urticaria or flushing. if reactions do occur, consider slowing or interrupting orbactiv infusion. [see adverse reactions (  6.1  )]  
+
+
+
+    5.5 clostridium difficile  -associated diarrhea
+
+
+
+   clostridium difficile  -associated diarrhea (cdad) has been reported for nearly all systemic antibacterial drugs, including orbactiv, and may range in severity from mild diarrhea to fatal colitis. treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of c. difficile  .
+
+
+
+  c. difficile  produces toxins a and b which contribute to the development of cdad. hypertoxin-producing strains of c. difficile  cause increased morbidity and mortality, as these infections can be refractory to antibacterial therapy and may require colectomy. cdad must be considered in all patients who present with diarrhea following antibacterial use. careful medical history is necessary because cdad has been reported to occur more than 2 months after the administration of antibacterial agents.
+
+
+
+ if cdad is suspected or confirmed, antibacterial use not directed against c. difficile  may need to be discontinued. appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of c. difficile  , and surgical evaluation should be instituted as clinically indicated.
+
+
+
+    5.6 osteomyelitis
+
+
+
+  in phase 3 absssi clinical trials, more cases of osteomyelitis were reported in the orbactiv treated arm than in the vancomycin-treated arm. monitor patients for signs and symptoms of osteomyelitis. if osteomyelitis is suspected or diagnosed, institute appropriate alternate antibacterial therapy [see adverse reactions (  6.1  )]  .
+
+
+
+    5.7 development of drug resistant bacteria
+
+
+
+  prescribing orbactiv in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria [see patient counseling information (  17  )]  .

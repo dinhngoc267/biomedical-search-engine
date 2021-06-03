@@ -1,0 +1,334 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are discussed below and also elsewhere in the labeling:
+
+
+
+ *  hypocalcemia [see warnings and precautions (  5.3  )]  
+ *  serious infections [see warnings and precautions (  5.6  )]  
+ *  dermatologic adverse reactions [see warnings and precautions (  5.7  )]  
+ *  osteonecrosis of the jaw [see warnings and precautions (  5.4  )]  
+ *  atypical subtrochanteric and diaphyseal femoral fractures [see warnings and precautions (  5.5  )]  
+    the most common adverse reactions reported with prolia in patients with postmenopausal osteoporosis are back pain, pain in extremity, musculoskeletal pain, hypercholesterolemia, and cystitis.
+ 
+
+ the most common adverse reactions reported with prolia in men with osteoporosis are back pain, arthralgia, and nasopharyngitis.
+
+
+
+ the most common (per patient incidence >= 10%) adverse reactions reported with prolia in patients with bone loss receiving androgen deprivation therapy for prostate cancer or adjuvant aromatase inhibitor therapy for breast cancer are arthralgia and back pain.  pain in extremity and musculoskeletal pain have also been reported in clinical trials. 
+
+
+
+ the most common adverse reactions leading to discontinuation of prolia in patients with postmenopausal osteoporosis are back pain and constipation.
+
+
+
+ the prolia postmarketing active safety surveillance program is available to collect information from prescribers on specific adverse events.  please see www.proliasafety.com or call 1-800-772-6436 for more information about this program. 
+
+
+
+    excerpt:    *  postmenopausal osteoporosis: most common adverse reactions (> 5% and more common than placebo) were: back pain, pain in extremity, hypercholesterolemia, musculoskeletal pain, and cystitis. pancreatitis has been reported in clinical trials (  6.1  ) 
+ *  male osteoporosis: most common adverse reactions (> 5% and more common than placebo) were: back pain, arthralgia, and nasopharyngitis (  6.1  ) 
+ *  bone loss due to hormone ablation for cancer: most common adverse reactions (>= 10% and more common than placebo) were: arthralgia and back pain. pain in extremity and musculoskeletal pain have also been reported in clinical trials (  6.1  ) 
+      to report suspected adverse reactions, contact amgen inc. at 1-800-77-amgen (1-800-772-6436) or fda at 1-800-fda-1088 or    www.fda.gov/medwatch      .      
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice. 
+
+
+
+   treatment of postmenopausal women with osteoporosis  
+
+
+
+ the safety of prolia in the treatment of postmenopausal osteoporosis was assessed in a 3-year, randomized, double-blind, placebo-controlled, multinational study of 7808 postmenopausal women aged 60 to 91 years. a total of 3876 women were exposed to placebo and 3886 women were exposed to prolia administered subcutaneously once every 6 months as a single 60 mg dose. all women were instructed to take at least 1000 mg of calcium and 400 iu of vitamin d supplementation per day.
+
+
+
+ the incidence of all-cause mortality was 2.3% (n = 90) in the placebo group and 1.8% (n = 70) in the prolia group. the incidence of nonfatal serious adverse events was 24.2% in the placebo group and 25.0% in the prolia group. the percentage of patients who withdrew from the study due to adverse events was 2.1% and 2.4% for the placebo and prolia groups, respectively.
+
+
+
+ adverse reactions reported in >= 2% of postmenopausal women with osteoporosis and more frequently in the prolia-treated women than in the placebo-treated women are shown in the table below.
+
+
+
+ table 1. adverse reactions occurring in >= 2% of patients with osteoporosis and more frequently than in placebo-treated patients 
+   system organ class   preferred term       prolia(n = 3886)n (%)       placebo(n = 3876)n (%)     
+    blood and lymphatic system disorders     
+     anemia   129 (3.3)   107 (2.8)   
+    cardiac disorders     
+     angina pectoris   101 (2.6)   87 (2.2)   
+     atrial fibrillation   79 (2.0)   77 (2.0)   
+    ear and labyrinth disorders     
+     vertigo   195 (5.0)   187 (4.8)   
+    gastrointestinal disorders     
+     abdominal pain upper   129 (3.3)   111 (2.9)   
+     flatulence   84 (2.2)   53 (1.4)   
+     gastroesophageal reflux disease   80 (2.1)   66 (1.7)   
+    general disorders and administration site conditions     
+     edema peripheral   189 (4.9)   155 (4.0)   
+     asthenia   90 (2.3)   73 (1.9)   
+    infections and infestations     
+     cystitis   228 (5.9)   225 (5.8)   
+     upper respiratory tract infection   190 (4.9)   167 (4.3)   
+     pneumonia   152 (3.9)   150 (3.9)   
+     pharyngitis   91 (2.3)   78 (2.0)   
+     herpes zoster   79 (2.0)   72 (1.9)   
+    metabolism and nutrition disorders     
+     hypercholesterolemia   280 (7.2)   236 (6.1)   
+    musculoskeletal and connective tissue disorders     
+     back pain   1347 (34.7)   1340 (34.6)   
+     pain in extremity   453 (11.7)   430 (11.1)   
+     musculoskeletal pain   297 (7.6)   291 (7.5)   
+     bone pain   142 (3.7)   117 (3.0)   
+     myalgia   114 (2.9)   94 (2.4)   
+     spinal osteoarthritis   82 (2.1)   64 (1.7)   
+    nervous system disorders     
+     sciatica   178 (4.6)   149 (3.8)   
+    psychiatric disorders     
+     insomnia   126 (3.2)   122 (3.1)   
+    skin and subcutaneous tissue disorders     
+     rash   96 (2.5)   79 (2.0)   
+     pruritus   87 (2.2)   82 (2.1)   
+           hypocalcemia  decreases in serum calcium levels to less than 8.5 mg/dl at any visit were reported in 0.4% women in the placebo group and 1.7% women in the prolia group. the nadir in serum calcium level occurs at approximately day 10 after prolia dosing in subjects with normal renal function.
+ 
+
+ in clinical studies, subjects with impaired renal function were more likely to have greater reductions in serum calcium levels compared to subjects with normal renal function. in a study of 55 subjects with varying degrees of renal function, serum calcium levels < 7.5 mg/dl or symptomatic hypocalcemia were observed in 5 subjects. these included no subjects in the normal renal function group, 10% of subjects in the creatinine clearance 50 to 80 ml/min group, 29% of subjects in the creatinine clearance < 30 ml/min group, and 29% of subjects in the hemodialysis group. these subjects did not receive calcium and vitamin d supplementation. in a study of 4550 postmenopausal women with osteoporosis, the mean change from baseline in serum calcium level 10 days after prolia dosing was -5.5% in subjects with creatinine clearance < 30 ml/min vs. -3.1% in subjects with creatinine clearance >= 30 ml/min. 
+
+
+
+   serious infections  receptor activator of nuclear factor kappa-b ligand (rankl) is expressed on activated t and b lymphocytes and in lymph nodes. therefore, a rankl inhibitor such as prolia may increase the risk of infection.  
+
+
+
+ in the clinical study of 7808 postmenopausal women with osteoporosis, the incidence of infections resulting in death was 0.2% in both placebo and prolia treatment groups. however, the incidence of nonfatal serious infections was 3.3% in the placebo and 4.0% in the prolia groups. hospitalizations due to serious infections in the abdomen (0.7% placebo vs. 0.9% prolia), urinary tract (0.5% placebo vs. 0.7% prolia), and ear (0.0% placebo vs. 0.1% prolia) were reported. endocarditis was reported in no placebo patients and 3 patients receiving prolia.
+
+
+
+ skin infections, including erysipelas and cellulitis, leading to hospitalization were reported more frequently in patients treated with prolia (< 0.1% placebo vs. 0.4% prolia).
+
+
+
+ the incidence of opportunistic infections was similar to that reported with placebo.
+
+
+
+   dermatologic reactions  a significantly higher number of patients treated with prolia developed epidermal and dermal adverse events (such as dermatitis, eczema, and rashes), with these events reported in 8.2% of the placebo and 10.8% of the prolia groups (p < 0.0001). most of these events were not specific to the injection site  [see warnings and precautions (  5.7  )].  
+
+
+
+   osteonecrosis of the jaw  onj has been reported in the osteoporosis clinical trial program in patients treated with prolia  [see warnings and precautions (  5.4  )].  
+
+
+
+   atypical subtrochanteric and diaphyseal fractures  in the osteoporosis clinical trial program, atypical femoral fractures were reported in patients treated with prolia. the duration of prolia exposure to time of atypical femoral fracture diagnosis was as early as 21/2 years  [see warnings and precautions (  5.5  )]  .
+
+
+
+   pancreatitis  pancreatitis was reported in 4 patients (0.1%) in the placebo and 8 patients (0.2%) in the prolia groups. of these reports, 1 patient in the placebo group and all 8 patients in the prolia group had serious events, including one death in the prolia group. several patients had a prior history of pancreatitis. the time from product administration to event occurrence was variable.
+
+
+
+   new malignancies  the overall incidence of new malignancies was 4.3% in the placebo and 4.8% in the prolia groups. new malignancies related to the breast (0.7% placebo vs. 0.9% prolia), reproductive system (0.2% placebo vs. 0.5% prolia), and gastrointestinal system (0.6% placebo vs. 0.9% prolia) were reported. a causal relationship to drug exposure has not been established.
+
+
+
+   treatment to increase bone mass in    men with osteoporosis  
+
+
+
+ the safety of prolia in the treatment of men with osteoporosis was assessed in a 1-year randomized, double-blind, placebo-controlled study. a total of 120 men were exposed to placebo and 120 men were exposed to prolia administered subcutaneously once every 6 months as a single 60 mg dose. all men were instructed to take at least 1000 mg of calcium and 800 iu of vitamin d supplementation per day.
+
+
+
+ the incidence of all-cause mortality was 0.8% (n = 1) in the placebo group and 0.8% (n = 1) in the prolia group. the incidence of nonfatal serious adverse events was 7.5% in the placebo group and 8.3% in the prolia group. the percentage of patients who withdrew from the study due to adverse events was 0% and 2.5% for the placebo and prolia groups, respectively.
+
+
+
+ adverse reactions reported in >= 5% of men with osteoporosis and more frequently with prolia than in the placebo-treated patients were: back pain (6.7% placebo vs. 8.3% prolia), arthralgia (5.8% placebo vs. 6.7% prolia), and nasopharyngitis (5.8% placebo vs. 6.7% prolia).
+
+
+
+   serious infections    s  erious infection was reported in 1 patient (0.8%) in the placebo group and no patients in the prolia group.
+
+
+
+   dermatologic reactions  epidermal and dermal adverse events (such as dermatitis, eczema, and rashes) were reported in 4 patients (3.3%) in the placebo group and 5 patients (4.2%) in the prolia group.
+
+
+
+   osteonecrosis of the jaw  no cases of onj were reported.
+
+
+
+   pancreatitis  pancreatitis was reported in 1 patient (0.8%) in the placebo group and 1 patient (0.8%) in the prolia group. 
+
+
+
+   new malignancies  new malignancies were reported in no patients in the placebo group and 4 (3.3%) patients (3 prostate cancers, 1 basal cell carcinoma) in the prolia group.
+
+
+
+   treatment of bone loss in patients receiving androgen deprivation therapy for prostate cancer or adjuvant aromatase inhibitor therapy for breast cancer  
+
+
+
+ the safety of prolia in the treatment of bone loss in men with nonmetastatic prostate cancer receiving androgen deprivation therapy (adt) was assessed in a 3-year, randomized, double-blind, placebo-controlled, multinational study of 1468 men aged 48 to 97 years. a total of 725 men were exposed to placebo and 731 men were exposed to prolia administered once every 6 months as a single 60 mg subcutaneous dose. all men were instructed to take at least 1000 mg of calcium and 400 iu of vitamin d supplementation per day.
+
+
+
+ the incidence of serious adverse events was 30.6% in the placebo group and 34.6% in the prolia group. the percentage of patients who withdrew from the study due to adverse events was 6.1% and 7.0% for the placebo and prolia groups, respectively.
+
+
+
+ the safety of prolia in the treatment of bone loss in women with nonmetastatic breast cancer receiving aromatase inhibitor (ai)  therapy was assessed in a 2-year, randomized, double-blind, placebo-controlled, multinational study of 252 postmenopausal women aged 35 to 84 years. a total of 120 women were exposed to placebo and 129 women were exposed to prolia administered once every 6 months as a single 60 mg subcutaneous dose. all women were instructed to take at least 1000 mg of calcium and 400 iu of vitamin d supplementation per day.
+
+
+
+ the incidence of serious adverse events was 9.2% in the placebo group and 14.7% in the prolia group. the percentage of patients who withdrew from the study due to adverse events was 4.2% and 0.8% for the placebo and prolia groups, respectively.
+
+
+
+ adverse reactions reported in >= 10% of prolia-treated patients receiving adt for prostate cancer or adjuvant ai therapy for breast cancer, and more frequently than in the placebo-treated patients were: arthralgia (13.0% placebo vs. 14.3% prolia) and back pain (10.5% placebo vs. 11.5% prolia). pain in extremity (7.7% placebo vs. 9.9% prolia) and musculoskeletal pain (3.8% placebo vs. 6.0% prolia) have also been reported in clinical trials. additionally in prolia-treated men with nonmetastatic prostate cancer receiving adt, a greater incidence of cataracts was observed (1.2% placebo vs. 4.7% prolia). hypocalcemia (serum calcium < 8.4 mg/dl) was reported only in prolia-treated patients (2.4% vs. 0%) at the month 1 visit.
+
+
+
+   6.2 postmarketing experience
+
+  because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ the following adverse reactions have been identified during post approval use of prolia:
+
+
+
+ *  drug-related hypersensitivity reactions: anaphylaxis, rash, urticaria, facial swelling, and erythema   
+ *  hypocalcemia: severe symptomatic hypocalcemia 
+ *  musculoskeletal pain, including severe cases 
+ *  parathyroid hormone (pth): marked elevation in serum pth in patients with severe renal impairment (creatinine clearance < 30 ml/min) or receiving dialysis. 
+      6.3 immunogenicity
+   denosumab is a human monoclonal antibody. as with all therapeutic proteins, there is potential for immunogenicity. using an electrochemiluminescent bridging immunoassay, less than 1% (55 out of 8113) of patients treated with prolia for up to 5 years tested positive for binding antibodies (including pre-existing, transient, and developing antibodies). none of the patients tested positive for neutralizing antibodies, as was assessed using a chemiluminescent cell-based in vitro biological assay. no evidence of altered pharmacokinetic profile, toxicity profile, or clinical response was associated with binding antibody development.
+
+
+
+ the incidence of antibody formation is highly dependent on the sensitivity and specificity of the assay. additionally, the observed incidence of a positive antibody (including neutralizing antibody) test result may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of antibodies to denosumab with the incidence of antibodies to other products may be misleading.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  same active ingredient: patients receiving prolia should not receive xgeva  (r)  (  5.1  ) 
+ *  hypersensitivity including anaphylactic reactions may occur. discontinue permanently if a clinically significant reaction occurs (  5.2  ) 
+ *  hypocalcemia: must be corrected before initiating prolia. may worsen, especially in patients with renal impairment. adequately supplement patients with calcium and vitamin d (  5.3  ) 
+ *  osteonecrosis of the jaw: has been reported with prolia. monitor for symptoms (  5.4  ) 
+ *  atypical femoral fractures: have been reported. evaluate patients with thigh or groin pain to rule out a femoral fracture (  5.5  ) 
+ *  serious infections including skin infections: may occur, including those leading to hospitalization. advise patients to seek prompt medical attention if they develop signs or symptoms of infection, including cellulitis (  5.6  ) 
+ *  dermatologic reactions: dermatitis, rashes, and eczema have been reported. consider discontinuing prolia if severe symptoms develop (  5.7  ) 
+ *  severe bone, joint, muscle pain may occur. discontinue use if severe symptoms develop (  5.8  ) 
+ *  suppression of bone turnover: significant suppression has been demonstrated. monitor for consequences of bone oversuppression (  5.9  ) 
+    
+ 
+
+   5.1 drug products with same active ingredient
+
+
+
+  prolia contains the same active ingredient (denosumab) found in xgeva. patients receiving prolia should not receive xgeva.
+
+
+
+    5.2 hypersensitivity
+
+
+
+  clinically significant hypersensitivity including anaphylaxis has been reported with prolia. symptoms have included hypotension, dyspnea, throat tightness, facial and upper airway edema, pruritus, and urticaria. if an anaphylactic or other clinically significant allergic reaction occurs, initiate appropriate therapy and discontinue further use of prolia [see contraindications (  4.3  ), adverse reactions (  6.2  )]  .
+
+
+
+    5.3 hypocalcemia and mineral metabolism
+
+
+
+   hypocalcemia may be exacerbated by the use of prolia. pre-existing hypocalcemia must be corrected prior to initiating therapy with prolia. in patients predisposed to hypocalcemia and disturbances of mineral metabolism (e.g. history of hypoparathyroidism, thyroid surgery, parathyroid surgery, malabsorption syndromes, excision of small intestine, severe renal impairment [creatinine clearance < 30 ml/min] or receiving dialysis), clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended within 14 days of prolia injection. in some postmarketing cases, hypocalcemia persisted for weeks or months and required frequent monitoring and intravenous and/or oral calcium replacement, with or without vitamin d.  
+
+
+
+ hypocalcemia following prolia administration is a significant risk in patients with severe renal impairment [creatinine clearance < 30 ml/min] or receiving dialysis. these patients may also develop marked elevations of serum parathyroid hormone (pth).   instruct all patients with severe renal impairment, including those receiving dialysis, about the symptoms of hypocalcemia and the importance of maintaining calcium levels with adequate calcium and vitamin d supplementation.
+
+
+
+ adequately supplement all patients with calcium and vitamin d [see dosage and administration (  2.1  ), contraindications (  4.1  ), adverse reactions (  6.1  ), and patient counseling information (  17.3  )]  .
+
+
+
+    5.4 osteonecrosis of the jaw
+
+
+
+   osteonecrosis of the jaw (onj), which can occur spontaneously, is generally associated with tooth extraction and/or local infection with delayed healing. onj has been reported in patients receiving denosumab [see adverse reactions (  6.1  )].  a routine oral exam should be performed by the prescriber prior to initiation of prolia treatment. a dental examination with appropriate preventive dentistry is recommended prior to treatment with prolia in patients with risk factors for onj such as invasive dental procedures (e.g. tooth extraction, dental implants, oral surgery), diagnosis of cancer, concomitant therapies (e.g. chemotherapy, corticosteroids, angiogenesis inhibitors), poor oral hygiene, and co-morbid disorders (e.g. periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures). good oral hygiene practices should be maintained during treatment with prolia. concomitant administration of drugs associated with onj may increase the risk of developing onj.  
+
+
+
+ for patients requiring invasive dental procedures, clinical judgment of the treating physician and/or oral surgeon should guide the management plan of each patient based on individual benefit-risk assessment.
+
+
+
+ patients who are suspected of having or who develop onj while on prolia should receive care by a dentist or an oral surgeon. in these patients, extensive dental surgery to treat onj may exacerbate the condition. discontinuation of prolia therapy should be considered based on individual benefit-risk assessment.
+
+
+
+    5.5 atypical subtrochanteric and diaphyseal femoral fractures
+
+
+
+  atypical low-energy or low trauma fractures of the shaft have been reported in patients receiving prolia [see adverse reactions (  6.1  )]  . these fractures can occur anywhere in the femoral shaft from just below the lesser trochanter to above the supracondylar flare and are transverse or short oblique in orientation without evidence of comminution. causality has not been established as these fractures also occur in osteoporotic patients who have not been treated with anti-resorptive agents.
+
+
+
+ atypical femoral fractures most commonly occur with minimal or no trauma to the affected area. they may be bilateral and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.  a number of reports note that patients were also receiving treatment with glucocorticoids (e.g. prednisone) at the time of fracture.
+
+
+
+ during prolia treatment, patients should be advised to report new or unusual thigh, hip, or groin pain. any patient who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture. patient presenting with an atypical femur fracture should also be assessed for symptoms and signs of fracture in the contralateral limb. interruption of prolia therapy should be considered, pending a risk/benefit assessment, on an individual basis.
+
+
+
+    5.6 serious infections
+
+
+
+  in a clinical trial of over 7800 women with postmenopausal osteoporosis, serious infections leading to hospitalization were reported more frequently in the prolia group than in the placebo group [see adverse reactions (  6.1  )]  . serious skin infections, as well as infections of the abdomen, urinary tract, and ear, were more frequent in patients treated with prolia. endocarditis was also reported more frequently in prolia-treated patients. the incidence of opportunistic infections was similar between placebo and prolia groups, and the overall incidence of infections was similar between the treatment groups. advise patients to seek prompt medical attention if they develop signs or symptoms of severe infection, including cellulitis. 
+
+
+
+ patients on concomitant immunosuppressant agents or with impaired immune systems may be at increased risk for serious infections. consider the benefit-risk profile in such patients before treating with prolia. in patients who develop serious infections while on prolia, prescribers should assess the need for continued prolia therapy.
+
+
+
+    5.7 dermatologic adverse reactions
+
+
+
+  in a large clinical trial of over 7800 women with postmenopausal osteoporosis, epidermal and dermal adverse events such as dermatitis, eczema, and rashes occurred at a significantly higher rate in the prolia group compared to the placebo group. most of these events were not specific to the injection site [see adverse reactions (  6.1  )]  . consider discontinuing prolia if severe symptoms develop.
+
+
+
+    5.8 musculoskeletal pain
+
+
+
+   in post-marketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported in patients taking prolia [see adverse reactions (  6.2  )]  . the time to onset of symptoms varied from one day to several months after starting prolia. consider discontinuing use if severe symptoms develop [see patient counseling information (  17.8  )]  .  
+
+
+
+    5.9 suppression of bone turnover
+
+
+
+  in clinical trials in women with postmenopausal osteoporosis, treatment with prolia resulted in significant suppression of bone remodeling as evidenced by markers of bone turnover and bone histomorphometry [see clinical pharmacology (  12.2  ) and clinical studies (  14.1  )]  . the significance of these findings and the effect of long-term treatment with prolia are unknown. the long-term consequences of the degree of suppression of bone remodeling observed with prolia may contribute to adverse outcomes such as osteonecrosis of the jaw, atypical fractures, and delayed fracture healing. monitor patients for these consequences.

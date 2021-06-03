@@ -1,0 +1,253 @@
+    6 adverse reactions
+
+  the following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *  gastrointestinal toxicity [see  dosage and administration (2.3)  and  warnings and precautions (5.1)  ] . 
+ *  myelosuppression [see  dosage and administration (2.4)  and  warnings and precautions (5.2)  ] . 
+ *  hepatic toxicity [see  dosage and administration (2.5)  and  warnings and precautions (5.3)  ] . 
+ *  fluid retention [see  warnings and precautions (5.4)  ] . 
+ *  renal toxicity [see  warnings and precautions (5.5)  ] . 
+      excerpt:   most common adverse reactions (incidence greater than 20%) are diarrhea, nausea, thrombocytopenia, vomiting, abdominal pain, rash, anemia, pyrexia, and fatigue. (  6  )
+ 
+
+ to report suspected adverse reactions, contact pfizer inc. at 1-800-438-1985 or fda at 1-800-fda-1088 or    www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ serious adverse reactions reported include anaphylactic shock  [see  contraindications (4)  ]  , myelosuppression, gastrointestinal toxicity (diarrhea), fluid retention, hepatotoxicity and rash.
+
+
+
+ adverse reactions of any toxicity grade reported for greater than 20% of patients in the phase 1/2 safety population (n=546) were diarrhea (82%), nausea (46%), thrombocytopenia (41%), vomiting (39%), abdominal pain (37%), rash (35%), anemia (27%), pyrexia (26%), and fatigue (24%)  [see  clinical studies (14)  ]  .
+
+
+
+     adverse reactions in patients with imatinib-resistant or -intolerant ph+ chronic phase (cp), accelerated phase (ap), and blast phase (bp) cml  
+
+
+
+ the single-arm phase 1/2 clinical trial (study 1) enrolled patients with ph+ chronic, accelerated, or blast phase chronic myelogenous leukemia (cml) and with resistance or intolerance to prior therapy  [see  clinical studies (14)  ]  . the safety population (received at least 1 dose of bosulif) included 546 cml patients:
+
+
+
+ *  287 patients with cp cml previously treated with imatinib only who had a median duration of bosulif treatment of 24 months, and a median dose intensity of 484 mg/day. 
+ *  119 patients with cp cml previously treated with both imatinib and at least 1 additional tki who had a median duration of bosulif treatment of 9 months and a median dose intensity of 475 mg/day. 
+ *  140 patients with advanced phase cml including 76 patients with ap cml and 64 patients with bp cml. in the patients with ap cml and bp cml, the median duration of bosulif treatment was 10 months and 3 months, respectively. the median dose intensity was 483 mg/day, and 500 mg/day, in the ap cml and bp cml cohorts, respectively. 
+    table 3 identifies adverse reactions greater than or equal to 10% for all grades and grades 3 or 4 for the phase 1/2 cml safety population.
+ 
+
+ table 3: adverse reactions (10% or greater) in patients with cml in study 1 
+                       chronic phase cmln=406  advanced phase cmln=140   
+                          all grades(%)          grade 3/4(%)         all grades(%)          grade 3/4(%)       
+  
+ advanced phase cml includes patients with accelerated phase and blast phase cml   
+  
+ diarrhea                       84                    9                     76                    5             
+ nausea                         46                    1                     47                    2             
+ abdominal pain                 40                    1                     29                    5             
+ thrombocytopenia               40                    26                    42                    37            
+ vomiting                       37                    3                     42                    4             
+ rash                           34                    8                     35                    4             
+ fatigue                        26                    1                     20                    4             
+ anemia                         23                    9                     37                    26            
+ pyrexia                        22                    <1                    36                    3             
+ increased alanine aminotransferase           20                    7                     10                    5             
+ headache                       20                    1                     18                    4             
+ cough                          20                    0                     21                    0             
+ increased aspartate aminotransferase           16                    4                     11                    3             
+ neutropenia                    16                    11                    19                    18            
+ edema                          14                    <1                    14                    1             
+ arthralgia                     14                    <1                    13                    0             
+ decreased appetite             13                    1                     14                    0             
+ respiratory tract infection           12                    <1                    10                    0             
+ nasopharyngitis                12                    0                     5                     0             
+ back pain                      12                    1                     7                     1             
+ asthenia                       11                    1                     10                    1             
+ pruritus                       11                    1                     8                     0             
+ dizziness                      10                    0                     13                    1             
+ dyspnea                        10                    1                     19                    6             
+           in the single-arm phase 1/2 clinical trial, one patient (0.2%) experienced qtcf interval of greater than 500 milliseconds. patients with uncontrolled or significant cardiovascular disease including qt interval prolongation were excluded by protocol.
+ 
+
+ table 4 identifies the clinically relevant or severe grade 3/4 laboratory test abnormalities for the phase 1/2 cml safety population.
+
+
+
+ table 4: number (%) of patients with clinically relevant or severe grade 3/4 laboratory test abnormalities in patients with cml in study 1, safety population 
+                                            chronic phase cml     advanced phase cml   all cp and advp cml    
+                                                  n=406                 n=140                 n=546           
+                                                  n (%)                 n (%)                 n (%)           
+  
+   hematology parameters                    
+   platelet count (low) less than 50*10  9  /l        102 (25)              80 (57)               182 (33)         
+   absolute neutrophil count less than 1*10  9  /l        74 (18)               52 (37)               126 (23)         
+   hemoglobin (low) less than 80 g/l             53 (13)               49 (35)               102 (19)         
+   biochemistry parameters                  
+   sgpt/alt greater than 5.0*uln                 39 (10)                8 (6)                 47 (9)          
+   sgot/ast greater than 5.0*uln                  17 (4)                4 (3)                 21 (4)          
+   lipase greater than 2*uln                      33 (8)                4 (3)                 37 (7)          
+   phosphorus (low) less than 0.6 mmol/l          30 (7)                10 (7)                40 (7)          
+   total bilirubin greater than 3.0*uln           3 (1)                 2 (1)                 5 (1)           
+              additional adverse reactions from multiple clinical trials  
+ 
+
+ the following adverse reactions were reported in patients in clinical trials with bosulif (less than 10% of bosulif-treated patients). they represent an evaluation of the adverse reaction data from 870 patients with ph+ leukemia who received at least 1 dose of single-agent bosulif. these adverse reactions are presented by system organ class and are ranked by frequency. these adverse reactions are included based on clinical relevance and ranked in order of decreasing seriousness within each category.
+
+
+
+   blood and lymphatic system disorders  :  1% and less than 10%  - febrile neutropenia
+
+
+
+   cardiac disorders  :  1% and less than 10%  - pericardial effusion;  0.1% and less than 1%  - pericarditis
+
+
+
+   ear and labyrinth disorders  :  1% and less than 10%  - tinnitus
+
+
+
+   gastrointestinal disorders  :  1% and less than 10%  - gastritis;  0.1% and less than 1%  - acute pancreatitis, gastrointestinal hemorrhage (includes gastrointestinal hemorrhage, gastric hemorrhage, upper gastrointestinal hemorrhage)
+
+
+
+   general disorders and administrative site conditions  :  1% and less than 10%  - chest pain (includes chest pain and chest discomfort), pain
+
+
+
+   hepatobiliary disorders  :  1% and less than 10%  - hepatotoxicity (includes hepatotoxicity, toxic hepatitis, and cytolytic hepatitis), abnormal hepatic function (includes abnormal hepatic function, liver disorder);  0.1% and less than 1%  - liver injury
+
+
+
+   immune system disorders  :  1% and less than 10%  - drug hypersensitivity;  0.1% and less than 1%  - anaphylactic shock
+
+
+
+   infections and infestations  :  1% and less than 10%  - pneumonia (includes pneumonia, bronchopneumonia, lobar pneumonia, primary atypical pneumonia), influenza, bronchitis
+
+
+
+   investigations  :  1% and less than 10%  - electrocardiogram qt prolonged, increased blood creatine phosphokinase, increased blood creatinine
+
+
+
+   metabolism and nutrition disorder  :  1% and less than 10%  - hyperkalemia, dehydration
+
+
+
+   musculoskeletal and connective tissue disorder  :  1% and less than 10%  - myalgia
+
+
+
+   nervous system disorders  :  1% and less than 10%  - dysgeusia
+
+
+
+   renal and urinary disorders  :  1% and less than 10%  - acute renal failure, renal failure
+
+
+
+   respiratory, thoracic and mediastinal disorders  :  1% and less than 10%  - pleural effusion;  0.1% and less than 1%  - acute pulmonary edema, respiratory failure, pulmonary hypertension
+
+
+
+   skin and subcutaneous disorders  :  1% and less than 10%  - urticaria, pruritus, acne;  0.1% and less than 1%  - erythema multiforme, exfoliative rash, drug eruption
+    5 warnings and precautions
+
+
+
+   excerpt:    *  gastrointestinal toxicity: monitor and manage as necessary. withhold, dose reduce, or discontinue bosulif. (  2.3  ,  5.1  ) 
+ *  myelosuppression: monitor blood counts and manage as necessary. (  2.4  ,  5.2  ) 
+ *  hepatic toxicity: monitor liver enzymes at least monthly for the first three months and as needed. withhold, dose reduce, or discontinue bosulif. (  2.3  ,  5.3  ) 
+ *  fluid retention: monitor patients and manage using standard of care treatment. withhold, dose reduce, or discontinue bosulif. (  2.3  ,  5.4  ) 
+ *  renal toxicity monitor patients for renal function at baseline and during therapy with bosulif (  5.5  ) 
+ *  embryofetal toxicity: may cause fetal harm. females of reproductive potential should avoid becoming pregnant while being treated with bosulif. (  5.6  ) 
+    
+ 
+
+   5.1 gastrointestinal toxicity
+
+
+
+  diarrhea, nausea, vomiting, and abdominal pain occur with bosulif treatment. monitor and manage patients using standards of care, including antidiarrheals, antiemetics, and fluid replacement. in the single-arm phase 1/2 clinical trial, the median time to onset for diarrhea (all grades) was 2 days and the median duration per event was 1 day. among the patients who experienced diarrhea, the median number of episodes of diarrhea per patient during treatment with bosulif was 3 (range 1-221). to manage gastrointestinal toxicity, withhold, dose reduce, or discontinue bosulif as necessary [see  dosage and administration (2.3)  and  adverse reactions (6)  ]  .
+
+
+
+    5.2 myelosuppression
+
+
+
+  thrombocytopenia, anemia and neutropenia occur with bosulif treatment. perform complete blood counts weekly for the first month of therapy and then monthly thereafter, or as clinically indicated. to manage myelosuppression, withhold, dose reduce, or discontinue bosulif as necessary [see  dosage and administration (2.4)  and  adverse reactions (6)  ]  .
+
+
+
+    5.3 hepatic toxicity
+
+
+
+  one case consistent with drug induced liver injury (defined as concurrent elevations in alt or ast greater than or equal to 3*uln with total bilirubin greater than 2*uln and alkaline phosphatase less than 2*uln) occurred in a trial of bosulif in combination with letrozole. the patient recovered fully following discontinuation of bosulif. this case represented 1 out of 1209 patients in bosulif clinical trials.
+
+
+
+ in the 546 patients from the safety population, the incidence of alt elevation was 17% and ast elevation was 14%. twenty percent of the patients experienced an increase in either alt or ast. most cases of transaminase elevations occurred early in treatment; of patients who experienced transaminase elevations of any grade, more than 80% experienced their first event within the first 3 months. the median time to onset of increased alt and ast was 30 and 33 days, respectively, and the median duration for each was 21 days.
+
+
+
+ perform hepatic enzyme tests monthly for the first three months of bosulif treatment and as clinically indicated. in patients with transaminase elevations, monitor liver enzymes more frequently. withhold, dose reduce, or discontinue bosulif as necessary [see  dosage and administration (2.3)  and  adverse reactions (6)  ]  .
+
+
+
+    5.4 fluid retention
+
+
+
+  fluid retention occurs with bosulif and may manifest as pericardial effusion, pleural effusion, pulmonary edema, and/or peripheral edema.
+
+
+
+ in the single-arm phase 1/2 clinical trial in 546 patients with cml treated with prior therapy, severe fluid retention was reported in 14 patients (3%). specifically, 9 patients had a grade 3 or 4 pleural effusion, 3 patients experienced both grade 3 or grade 4 pleural and pericardial effusions, 1 patient experienced grade 3 peripheral and pulmonary edema, and 1 patient had a grade 3 edema.
+
+
+
+ monitor and manage patients using standards of care. interrupt, dose reduce or discontinue bosulif as necessary [see  dosage and administration (2.3)  and  adverse reactions (6)  ]  .
+
+
+
+    5.5 renal toxicity
+
+
+
+   an on-treatment decline in estimated glomerular filtration rate (egfr) has occurred in patients treated with bosulif. table 2 identifies the shift from baseline to lowest observed estimated glomerular filtration rate (egfr) during bosulif therapy for patients in the global ph+ leukemia studies. the median duration of therapy with bosulif was approximately 17 months (range, 0.03 to 95) for patients in these studies.  
+
+
+
+ table 2: shift from baseline to lowest observed egfr group during treatment safety population in clinical studies (n=818)among the 818 patients, egfr was missing in 5 patients at baseline or on-therapy. there were no patients with kidney failure at baseline. 
+  baseline             follow up    
+  renal function status        n       normaln (%)  mildn (%)   mild to moderaten (%)  moderate to severen (%)  severen (%)  kidney failuren (%)   
+  
+ notes: grading is based on modification in diet in renal disease method (mdrd).kdigo classification by egfr: normal: greater than or equal to 90, mild: 60 to less than 90, mild to moderate: 45 to less than 60, moderate to severe: 30 to less than 45, severe: 15 to less than 30, kidney failure: less than 15 ml/min/1.73 m  2  .   
+  
+  normal                  274       53 (19)     174 (64)     30 (11)        14 (5)        1 (<1)        1 (<1)        
+ mild                     438        10 (2)     170 (39)     177 (40)       63 (14)       14 (3)         2 (1)        
+ mild to moderate          79          0         4 (5)       28 (35)        37 (47)      10 (13)           0          
+ moderate to severe        24          0         1 (4)        1 (4)         6 (25)       15 (63)         1 (4)        
+ severe                    1           0           0            0              0            0           1 (100)       
+ total                    816        63 (8)     349 (43)     236 (29)      120 (15)       40 (5)         5 (1)        
+               monitor renal function at baseline and during therapy with bosulif, with particular attention to those patients who have preexisting renal impairment or risk factors for renal dysfunction. consider dose adjustment in patients with baseline and treatment emergent renal impairment [see  dosage and administration (2.7)  ].    
+ 
+
+    5.6 embryofetal toxicity
+
+
+
+  there are no adequate and well controlled studies of bosulif in pregnant women. bosulif can cause fetal harm when administered to a pregnant woman. bosutinib caused embryofetal toxicities in rabbits at maternal exposures that were greater than the clinical exposure at the recommended bosutinib dose of 500 mg/day. females of reproductive potential should be advised to avoid pregnancy while being treated with bosulif. if this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus [see  use in specific populations (8.1)  ]  .

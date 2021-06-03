@@ -1,0 +1,152 @@
+    6 adverse reactions
+
+  excerpt:   most commonly reported adverse reactions (> 2% and > placebo) were hypertension, nasopharyngitis, urinary tract infection and headache (  6.1  ).
+
+
+
+   to report suspected adverse reactions, contact astellas pharma us, inc. at 1-800-727-7003 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ in three, 12 week, double-blind, placebo-controlled, safety and efficacy studies in patients with overactive bladder (studies 1, 2, and 3), myrbetriq  (r)  was evaluated for safety in 2736 patients  [see  clinical studies  (  14  )]  . study 1 also included an active control. for the combined studies 1, 2, and 3, 432 patients received myrbetriq  (r)  25 mg, 1375 received myrbetriq  (r)  50 mg, and 929 received myrbetriq  (r)  100 mg once daily. in these studies, the majority of the patients were caucasian (94%), and female (72%) with a mean age of 59 years (range 18 to 95 years).
+
+
+
+ myrbetriq  (r)  was also evaluated for safety in 1632 patients who received myrbetriq  (r)  50 mg once daily (n=812 patients) or myrbetriq  (r)  100 mg (n=820 patients) in a 1 year, randomized, fixed dose, double-blind, active controlled, safety study in patients with overactive bladder (study 4). of these patients, 731 received myrbetriq  (r)  in a previous 12 week study. in study 4, 1385 patients received myrbetriq  (r)  continuously for at least 6 months, 1311 patients received myrbetriq  (r)  for at least 9 months, and 564 patients received myrbetriq  (r)  for at least 1 year.
+
+
+
+ the most frequent adverse events (0.2%) leading to discontinuation in studies 1, 2 and 3 for the 25 mg or 50 mg dose were nausea, headache, hypertension, diarrhea, constipation, dizziness and tachycardia.
+
+
+
+ atrial fibrillation (0.2%) and prostate cancer (0.1%) were reported as serious adverse events by more than 1 patient and at a rate greater than placebo.
+
+
+
+   table 1  lists adverse reactions, derived from all adverse events, that were reported in studies 1, 2 and 3 at an incidence greater than placebo and in 1% or more of patients treated with myrbetriq  (r)  25 mg or 50 mg once daily for up to 12 weeks. the most commonly reported adverse reactions (greater than 2% of myrbetriq  (r)  patients and greater than placebo) were hypertension, nasopharyngitis, urinary tract infection and headache.
+
+
+
+ table 1: percentages of patients with adverse reactions, derived from all adverse events, exceeding placebo rate and reported by 1% or more patients treated with myrbetriq(r) 25 mg or 50 mg once daily in studies 1, 2, and 3 
+                                 placebo  (%)           myrbetriq(r) 25 mg  (%)    myrbetriq(r) 50 mg  (%)    
+  number of patients             1380                   432                        1375                       
+  hypertensionincludes reports of blood pressure above the normal range, and bp increased from baseline, occurring predominantly in subjects with baseline hypertension.    7.6                    11.3                       7.5                        
+  nasopharyngitis                2.5                    3.5                        3.9                        
+  urinary tract infection        1.8                    4.2                        2.9                        
+  headache                       3.0                    2.1                        3.2                        
+  constipation                   1.4                    1.6                        1.6                        
+  upper respiratory tract infection    1.7                    2.1                        1.5                        
+  arthralgia                     1.1                    1.6                        1.3                        
+  diarrhea                       1.3                    1.2                        1.5                        
+  tachycardia                    0.6                    1.6                        1.2                        
+  abdominal pain                 0.7                    1.4                        0.6                        
+  fatigue                        1.0                    1.4                        1.2                        
+          other adverse reactions reported by less than 1% of patients treated with myrbetriq  (r)  in studies 1, 2, or 3 included:
+ 
+
+   cardiac disorders:  palpitations, blood pressure increased  [see  clinical pharmacology  (  12.2  )]eye disorders:  glaucoma  [see  clinical pharmacology  (  12.2  )]gastrointestinal disorders:  dyspepsia, gastritis, abdominal distension  infections and infestations:  sinusitis, rhinitis  investigations:  ggt increased, ast increased, alt increased, ldh increased  renal and urinary disorders  : nephrolithiasis, bladder pain  reproductive system and breast disorders:  vulvovaginal pruritus, vaginal infection  skin and subcutaneous tissue disorders:  urticaria, leukocytoclastic vasculitis, rash, pruritus, purpura, lip edema
+
+
+
+   table 2  lists the rates of the most commonly reported adverse reactions, derived from all adverse events in patients treated with myrbetriq  (r)  50 mg for up to 52 weeks in study 4. the most commonly reported adverse reactions (>3% of myrbetriq  (r)  patients) were hypertension, urinary tract infection, headache, and nasopharyngitis.
+
+
+
+ table 2: percentages of patients with adverse reactions, derived from all adverse events, reported by greater than 2% of patients treated with myrbetriq(r) 50 mg once daily in study 4 
+                                     myrbetriq(r) 50 mg  (%)            active control  (%)                
+  number of patients                 812                                812                                
+  hypertension                       9.2                                9.6                                
+  urinary tract infection            5.9                                6.4                                
+  headache                           4.1                                2.5                                
+  nasopharyngitis                    3.9                                3.1                                
+  back pain                          2.8                                1.6                                
+  constipation                       2.8                                2.7                                
+  dry mouth                          2.8                                8.6                                
+  dizziness                          2.7                                2.6                                
+  sinusitis                          2.7                                1.5                                
+  influenza                          2.6                                3.4                                
+  arthralgia                         2.1                                2.0                                
+  cystitis                           2.1                                2.3                                
+         in study 4, in patients treated with myrbetriq  (r)  50 mg once daily, adverse reactions leading to discontinuation reported by more than 2 patients and at a rate greater than active control included: constipation (0.9%), headache (0.6%), dizziness (0.5%), hypertension (0.5%), dry eyes (0.4%), nausea (0.4%), vision blurred (0.4%), and urinary tract infection (0.4%). serious adverse events reported by at least 2 patients and exceeding active control included cerebrovascular accident (0.4%) and osteoarthritis (0.2%). serum alt/ast increased from baseline by greater than 10-fold in 2 patients (0.3%) taking myrbetriq  (r)  50 mg, and these markers subsequently returned to baseline while both patients continued myrbetriq  (r)  .
+ 
+
+ in study 4, serious adverse events of neoplasm were reported by 0.1%, 1.3%, and 0.5% of patients treated with myrbetriq  (r)  50 mg, myrbetriq  (r)  100 mg and active control once daily, respectively. neoplasms reported by 2 patients treated with myrbetriq  (r)  100 mg included breast cancer, lung neoplasm malignant and prostate cancer.
+
+
+
+ in a separate clinical study in japan, a single case was reported as stevens-johnson syndrome with increased serum alt, ast and bilirubin in a patient taking myrbetriq  (r)  100 mg as well as an herbal medication (kyufu gold).
+
+
+
+   6.2 postmarketing experience
+
+  because these spontaneously reported events are from the worldwide postmarketing experience, from a population of uncertain size, the frequency of events and the role of mirabegron in their causation cannot be reliably determined.
+
+
+
+ the following events have been reported in association with mirabegron use in worldwide postmarketing experience:
+
+
+
+   skin and subcutaneous tissue:  angioedema of the face, lips, tongue, and larynx, with or without respiratory symptoms  [see  warnings and precautions  (  5.3  )]  
+
+
+
+   urologic:  urinary retention  [see  warnings and precautions  (  5.2  )]  
+    5 warnings and precautions
+
+
+
+   excerpt:    *     increases in blood pressure: myrbetriq  (r)  can increase blood pressure. periodic blood pressure determinations are recommended, especially in hypertensive patients. myrbetriq  (r)  is not recommended for use in severe uncontrolled hypertensive patients (  5.1  ). 
+ *     urinary retention in patients with bladder outlet obstruction and in patients taking antimuscarinic drugs for overactive bladder: administer with caution in these patients because of risk of urinary retention (  5.2  ). 
+ *     angioedema: angioedema of the face, lips, tongue and/or larynx has been reported with myrbetriq  (r)  (  5.3  ,  6.2  ). 
+ *     patients taking drugs metabolized by cyp2d6: myrbetriq  (r)  is a moderate inhibitor of cyp2d6. appropriate monitoring is recommended and dose adjustment may be necessary for narrow therapeutic index cyp2d6 substrates (  5.4  ,  7.1  ,  12.3  ). 
+    
+ 
+
+   5.1 increases in blood pressure
+
+
+
+  myrbetriq  (r)  can increase blood pressure. periodic blood pressure determinations are recommended, especially in hypertensive patients. myrbetriq  (r)  is not recommended for use in patients with severe uncontrolled hypertension (defined as systolic blood pressure greater than or equal to 180 mm hg and/or diastolic blood pressure greater than or equal to 110 mm hg) [see  clinical pharmacology  (  12.2  )].  
+
+
+
+ in two, randomized, placebo-controlled, healthy volunteer studies, myrbetriq  (r)  was associated with dose-related increases in supine blood pressure. in these studies, at the maximum recommended dose of 50 mg, the mean maximum increase in systolic/diastolic blood pressure was approximately 3.5/1.5 mm hg greater than placebo.
+
+
+
+ in contrast, in oab patients in clinical trials, the mean increase in systolic and diastolic blood pressure at the maximum recommended dose of 50 mg was approximately 0.5 - 1 mm hg greater than placebo. worsening of pre-existing hypertension was reported infrequently in myrbetriq  (r)  patients.
+
+
+
+    5.2 urinary retention in patients with bladder outlet obstruction and in patients taking antimuscarinic medications for oab
+
+
+
+  urinary retention in patients with bladder outlet obstruction (boo) and in patients taking antimuscarinic medications for the treatment of oab has been reported in postmarketing experience in patients taking mirabegron. a controlled clinical safety study in patients with boo did not demonstrate increased urinary retention in myrbetriq  (r)  patients; however, myrbetriq  (r)  should be administered with caution to patients with clinically significant boo. myrbetriq  (r)  should also be administered with caution to patients taking antimuscarinic medications for the treatment of oab [see  clinical pharmacology  (  12.2  )].  
+
+
+
+    5.3 angioedema
+
+
+
+   angioedema of the face, lips, tongue, and/or larynx has been reported with myrbetriq  (r)  . in some cases angioedema occurred after the first dose. cases of angioedema have been reported to occur hours after the first dose or after multiple doses. angioedema associated with upper airway swelling may be life threatening. if involvement of the tongue, hypopharynx, or larynx occurs, promptly discontinue myrbetriq  (r)  and initiate appropriate therapy and/or measures necessary to ensure a patent airway [see  adverse reactions  (  6.2  )].    
+
+
+
+    5.4 patients taking drugs metabolized by cyp2d6
+
+
+
+  since mirabegron is a moderate cyp2d6 inhibitor, the systemic exposure to cyp2d6 substrates such as metoprolol and desipramine is increased when co-administered with mirabegron. therefore, appropriate monitoring and dose adjustment may be necessary, especially with narrow therapeutic index drugs metabolized by cyp2d6, such as thioridazine, flecainide, and propafenone [see  drug interactions  (  7.1  ) and  clinical pharmacology  (  12.3  )]  .

@@ -1,0 +1,92 @@
+    6  adverse reactions
+
+  the following adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *    decreased vision [see warnings and precautions  (5.1)  ]  
+ *    intravitreal injection procedure associated effects [see warnings and precautions  (5.2)  and dosage and administration  (2.4)  ]  
+ *    potential for lens subluxation [see warnings and precautions  (5.3)  ]  
+ *    retinal breaks [see warnings and precautions  (5.4)  and dosage and administration  (2.4)  ]  
+   *  the most commonly reported reactions (>= 5%) in patients treated with jetrea were vitreous floaters, conjunctival hemorrhage, eye pain, photopsia, blurred vision, macular hole, reduced visual acuity, visual impairment, and retinal edema.  (6.1)   
+      excerpt:     to report suspected adverse reactions, contact thrombogenics inc. at 1-855-253-7396 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch  .  
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates in one clinical trial of a drug cannot be directly compared with rates in the clinical trials of the same or another drug and may not reflect the rates observed in practice.
+
+
+
+ approximately 800 patients have been treated with an intravitreal injection of jetrea. of these, 465 patients received an intravitreal injection of ocriplasmin 0.125 mg (187 patients received vehicle) in the 2 vehicle-controlled studies (study 1 and study 2).
+
+
+
+ the most common adverse reactions (incidence 5% - 20% listed in descending order of frequency) in the vehicle-controlled clinical studies were: vitreous floaters, conjunctival hemorrhage, eye pain, photopsia, blurred vision, macular hole, reduced visual acuity, visual impairment, and retinal edema.
+
+
+
+ less common adverse reactions observed in the studies at a frequency of 2% - < 5% in patients treated with jetrea included macular edema, increased intraocular pressure, anterior chamber cell, photophobia, vitreous detachment, ocular discomfort, iritis, cataract, dry eye, metamorphopsia, conjunctival hyperemia, and retinal degeneration.
+
+
+
+ dyschromatopsia was reported in 2% of patients injected with jetrea, with the majority of cases reported from two uncontrolled clinical studies. in approximately half of these dyschromatopsia cases there were also electroretinographic (erg) changes reported (a- and b-wave amplitude decrease).
+
+
+
+   6.2 immunogenicity
+
+  as with all therapeutic proteins, there is potential for immunogenicity. immunogenicity for this product has not been evaluated.
+    5  warnings and precautions
+
+
+
+   excerpt:    *  decreases in vision due to progression of the condition with traction may occur requiring surgical intervention. patients should be monitored and instructed to report any symptoms without delay.  (5.1)   
+ *  intravitreal injection procedure associated effects (intraocular inflammation/infection, intraocular hemorrhage and increased iop) may occur following an intravitreal injection. patients should be monitored and instructed to report any symptoms without delay.  (5.2)   
+ *  potential for lens subluxation.  (5.3)   
+    
+ 
+
+   5.1 decreased vision
+
+
+
+  a decrease of >= 3 line of best corrected visual acuity (bcva) was experienced by 5.6% of patients treated with jetrea and 3.2% of patients treated with vehicle in the controlled trials [see clinical studies  (14)  ]  .
+
+
+
+ the majority of these decreases in vision were due to progression of the condition with traction and many required surgical intervention. patients should be monitored appropriately [see dosage and administration  (2.4)  ]  .
+
+
+
+    5.2 intravitreal injection procedure associated effects
+
+
+
+  intravitreal injections are associated with intraocular inflammation / infection, intraocular hemorrhage and increased intraocular pressure (iop). in the controlled trials, intraocular inflammation occurred in 7.1% of patients injected with jetrea vs. 3.7% of patients injected with vehicle. most of the post-injection intraocular inflammation events were mild and transient. intraocular hemorrhage occurred in 2.4% vs. 3.7% of patients injected with jetrea vs. vehicle, respectively. increased intraocular pressure occurred in 4.1% vs. 5.3% of patients injected with jetrea vs. vehicle, respectively.
+
+
+
+    5.3 potential for lens subluxation
+
+
+
+  one case of lens subluxation was reported in a premature infant who received an intravitreal injection of 0.175 mg (1.4 times higher than the recommended dose) [see pediatric use  (8.4)  ]  . lens subluxation was observed in three animal species (monkey, rabbit, minipig) following a single intravitreal injection that achieved vitreous concentrations of ocriplasmin 1.4 times higher than achieved with the recommended treatment dose. administration of a second intravitreal dose in monkeys, 28 days apart, produced lens subluxation in 100% of the treated eyes [see nonclinical toxicology  (13.2)  ]  .
+
+
+
+    5.4 retinal breaks
+
+
+
+  in the controlled trials, the incidence of retinal detachment was 0.9% in the jetrea group and 1.6% in the vehicle group, while the incidence of retinal tear (without detachment) was 1.1% in the jetrea group and 2.7% in the vehicle group. most of these events occurred during or after vitrectomy in both groups. the incidence of retinal detachment that occurred pre-vitrectomy was 0.4% in the jetrea group and none in the vehicle group, while the incidence of retinal tear (without detachment) that occurred pre-vitrectomy was none in the jetrea group and 0.5% in the vehicle group.
+
+
+
+    5.5 dyschromatopsia
+
+
+
+  dyschromatopsia (generally described as yellowish vision) was reported in 2% of all patients injected with jetrea. in approximately half of these dyschromatopsia cases there were also electroretinographic (erg) changes reported (a- and b-wave amplitude decrease).

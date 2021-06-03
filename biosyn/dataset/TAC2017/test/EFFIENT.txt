@@ -1,0 +1,243 @@
+    6 adverse reactions
+
+  excerpt:   bleeding, including life-threatening and fatal bleeding, is the most commonly reported adverse reaction (  6.1  ).
+
+
+
+   to report suspected adverse reactions, contact eli lilly and company at 1-800-545-5979 or fda at 1-800-fda-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  the following serious adverse reactions are also discussed elsewhere in the labeling:
+
+
+
+ *    bleeding [see  boxed warning  and warnings and precautions (  5.1  ,  5.2  )]  
+ *    thrombotic thrombocytopenic purpura [see warnings and precautions (  5.4  )]  
+    safety in patients with acs undergoing pci was evaluated in a clopidogrel-controlled study, triton-timi 38, in which 6741 patients were treated with effient (60-mg loading dose and 10-mg once daily) for a median of 14.5 months (5802 patients were treated for over 6 months; 4136 patients were treated for more than 1 year). the population treated with effient was 27 to 96 years of age, 25% female, and 92% caucasian. all patients in the triton-timi 38 study were to receive aspirin. the dose of clopidogrel in this study was a 300-mg loading dose and 75-mg once daily.
+ 
+
+ because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials cannot be directly compared with the rates observed in other clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+     drug discontinuation  
+
+
+
+ the rate of study drug discontinuation because of adverse reactions was 7.2% for effient and 6.3% for clopidogrel. bleeding was the most common adverse reaction leading to study drug discontinuation for both drugs (2.5% for effient and 1.4% for clopidogrel).
+
+
+
+     bleeding  
+
+
+
+     bleeding unrelated to cabg surgery  - in triton-timi 38, overall rates of timi major or minor bleeding adverse reactions unrelated to coronary artery bypass graft surgery (cabg) were significantly higher on effient than on clopidogrel, as shown in  table 1  .
+
+
+
+ table 1: non-cabg-related bleedinga (triton-timi 38) 
+   a  patients may be counted in more than one row.  b  see 5.1 for definition.   
+  
+                                               effient(%)(n=6741)             clopidogrel(%)(n=6716)       
+  timi major or minor bleeding                 4.5                            3.4                          
+  timi major bleedingb                         2.2                            1.7                          
+      life-threatening                         1.3                            0.8                          
+            fatal                              0.3                            0.1                          
+            symptomatic intracranial hemorrhage (ich)    0.3                            0.3                          
+            requiring inotropes                0.3                            0.1                          
+            requiring surgical intervention    0.3                            0.3                          
+            requiring transfusion (>=4 units)    0.7                            0.5                          
+  timi minor bleedingb                         2.4                            1.9                          
+           figure 1  demonstrates non-cabg related timi major or minor bleeding. the bleeding rate is highest initially, as shown in  figure 1  (inset: days 0 to 7)  [see warnings and precautions (  5.1  )]  .
+ 
+
+   bleeding by weight and age  - in triton-timi 38, non-cabg-related timi major or minor bleeding rates in patients with the risk factors of age >=75 years and weight <60 kg are shown in  table 2  .
+
+
+
+ table 2: bleeding rates for non-cabg-related bleeding by weight and age (triton-timi 38) 
+   a  10-mg effient maintenance dose   
+   b  75-mg clopidogrel maintenance dose   
+  
+                                    major/minor                      fatal          
+  effienta(%)                       clopidogrelb(%)                  effienta(%)    clopidogrelb(%)    
+  weight <60 kg (n=308 effient, n=356 clopidogrel)    10.1                             6.5            0.0          0.3            
+  weight >=60 kg (n=6373 effient, n=6299 clopidogrel)    4.2                              3.3            0.3          0.1            
+  age <75 years (n=5850 effient, n=5822 clopidogrel)    3.8                              2.9            0.2          0.1            
+  age >=75 years (n=891 effient, n=894 clopidogrel)    9.0                              6.9            1.0          0.1            
+               bleeding related to cabg  - in triton-timi 38, 437 patients who received a thienopyridine underwent cabg during the course of the study. the rate of cabg-related timi major or minor bleeding was 14.1% for the effient group and 4.5% in the clopidogrel group (  see    table 3  ). the higher risk for bleeding adverse reactions in patients treated with effient persisted up to 7 days from the most recent dose of study drug.
+ 
+
+ table 3: cabg-related bleedinga (triton-timi 38) 
+   a  patients may be counted in more than one row.   
+  
+                                            effient (%)(n=213)             clopidogrel (%)(n=224)           
+  timi major or minor bleeding              14.1                           4.5                              
+  timi major bleeding                       11.3                           3.6                              
+            fatal                           0.9                            0                                
+            reoperation                     3.8                            0.5                              
+            transfusion of >=5 units        6.6                            2.2                              
+            intracranial hemorrhage         0                              0                                
+  timi minor bleeding                       2.8                            0.9                              
+             bleeding reported as adverse reactions  - hemorrhagic events reported as adverse reactions in triton-timi 38 were, for effient and clopidogrel, respectively: epistaxis (6.2%, 3.3%), gastrointestinal hemorrhage (1.5%, 1.0%), hemoptysis (0.6%, 0.5%), subcutaneous hematoma (0.5%, 0.2%), post-procedural hemorrhage (0.5%, 0.2%), retroperitoneal hemorrhage (0.3%, 0.2%), pericardial effusion/hemorrhage/tamponade (0.3%, 0.2%), and retinal hemorrhage (0.0%, 0.1%).
+ 
+
+     malignancies  
+
+
+
+ during triton-timi 38, newly-diagnosed malignancies were reported in 1.6% and 1.2% of patients treated with prasugrel and clopidogrel, respectively. the sites contributing to the differences were primarily colon and lung. in another phase 3 clinical study of acs patients not undergoing pci, in which data for malignancies were prospectively collected, newly-diagnosed malignancies were reported in 1.8% and 1.7% of patients treated with prasugrel and clopidogrel, respectively. the site of malignancies was balanced between treatment groups except for colorectal malignancies. the rates of colorectal malignancies were 0.3% prasugrel, 0.1% clopidogrel and most were detected during investigation of gi bleed or anemia. it is unclear if these observations are causally-related, are the result of increased detection because of bleeding, or are random occurrences.
+
+
+
+     other adverse events  
+
+
+
+ in triton-timi 38, common and other important non-hemorrhagic adverse events were, for effient and clopidogrel, respectively: severe thrombocytopenia (0.06%, 0.04%), anemia (2.2%, 2.0%), abnormal hepatic function (0.22%, 0.27%), allergic reactions (0.36%, 0.36%), and angioedema (0.06%, 0.04%).  table 4  summarizes the adverse events reported by at least 2.5% of patients.
+
+
+
+ table 4: non-hemorrhagic treatment emergent adverse events reported by at least 2.5% of patients in either group 
+                                                   effient (%)(n=6741)          clopidogrel (%)(n=6716)     
+  hypertension                                     7.5                          7.1                         
+  hypercholesterolemia/hyperlipidemia              7.0                          7.4                         
+  headache                                         5.5                          5.3                         
+  back pain                                        5.0                          4.5                         
+  dyspnea                                          4.9                          4.5                         
+  nausea                                           4.6                          4.3                         
+  dizziness                                        4.1                          4.6                         
+  cough                                            3.9                          4.1                         
+  hypotension                                      3.9                          3.8                         
+  fatigue                                          3.7                          4.8                         
+  non-cardiac chest pain                           3.1                          3.5                         
+  atrial fibrillation                              2.9                          3.1                         
+  bradycardia                                      2.9                          2.4                         
+  leukopenia (<4 x 109 wbc/l)                      2.8                          3.5                         
+  rash                                             2.8                          2.4                         
+  pyrexia                                          2.7                          2.2                         
+  peripheral edema                                 2.7                          3.0                         
+  pain in extremity                                2.6                          2.6                         
+  diarrhea                                         2.3                          2.6                         
+           6.2 postmarketing experience
+   the following adverse reactions have been identified during post approval use of effient. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+     blood and lymphatic system disorders -    thrombocytopenia, thrombotic thrombocytopenic purpura (ttp)  [see warnings and precautions (  5.4  ) and patient counseling information (  17  )]  
+
+
+
+     immune system disorders -    hypersensitivity reactions including anaphylaxis  [see contraindications (  4.3  )]  
+
+
+    boxed warning: warning: bleeding risk 
+
+  warning: bleeding risk 
+
+    *  effient can cause significant, sometimes fatal, bleeding [see warnings and precautions (5.1, 5.2) and adverse reactions (6.1)]. 
+ *  do not use effient in patients with active pathological bleeding or a history of transient ischemic attack or stroke [see contraindications (4.1, 4.2)]. 
+ *  in patients >=75 years of age, effient is generally not recommended, because of the increased risk of fatal and intracranial bleeding and uncertain benefit, except in high-risk situations (patients with diabetes or a history of prior mi) where its effect appears to be greater and its use may be considered [see use in specific populations (8.5)]. 
+ *  do not start effient in patients likely to undergo urgent coronary artery bypass graft surgery (cabg). when possible, discontinue effient at least 7 days prior to any surgery [see warnings and precautions (5.2)]. 
+ *  additional risk factors for bleeding include: body weight <60 kg; propensity to bleed; concomitant use of medications that increase the risk of bleeding (e.g., warfarin, heparin, fibrinolytic therapy, chronic use of non-steroidal anti-inflammatory drugs [nsaids]) [see warnings and precautions (5.1)]. 
+ *  suspect bleeding in any patient who is hypotensive and has recently undergone coronary angiography, percutaneous coronary intervention (pci), cabg, or other surgical procedures in the setting of effient [see warnings and precautions (5.1)]. 
+ *  if possible, manage bleeding without discontinuing effient. discontinuing effient, particularly in the first few weeks after acute coronary syndrome, increases the risk of subsequent cardiovascular events [see warnings and precautions (5.3)]. 
+      excerpt:   warning: bleeding risk
+ 
+
+     see full prescribing information for complete boxed warning.    
+
+
+
+ *  effient can cause significant, sometimes fatal, bleeding (5.1, 5.2, 6.1). 
+ *  do not use effient in patients with active pathological bleeding or a history of transient ischemic attack or stroke (4.1, 4.2). 
+ *  in patients >=75 years of age, effient is generally not recommended, except in high-risk patients (diabetes or prior mi), where its use may be considered (8.5). 
+ *  do not start effient in patients likely to undergo urgent coronary artery bypass graft surgery (cabg). when possible, discontinue effient at least 7 days prior to any surgery (5.2). 
+ *  additional risk factors for bleeding include: body weight <60 kg; propensity to bleed; concomitant use of medications that increase the risk of bleeding (5.1). 
+ *  suspect bleeding in any patient who is hypotensive and has recently undergone coronary angiography, percutaneous coronary intervention (pci), cabg, or other surgical procedures in the setting of effient (5.1). 
+ *  if possible, manage bleeding without discontinuing effient. stopping effient increases the risk of subsequent cardiovascular events (5.3). 
+    5 warnings and precautions
+
+
+
+   excerpt:    *    cabg-related bleeding: risk increases in patients receiving effient who undergo cabg (  5.2  ). 
+ *    discontinuation of effient: premature discontinuation increases risk of stent thrombosis, mi, and death (  5.3  ). 
+ *    thrombotic thrombocytopenic purpura (ttp): ttp has been reported with effient (  5.4  ). 
+ *    hypersensitivity: hypersensitivity including angioedema has been reported with effient including in patients with a history of hypersensitivity reaction to other thienopyridines (  5.5  ). 
+    
+ 
+
+   5.1 general risk of bleeding
+
+
+
+  thienopyridines, including effient, increase the risk of bleeding. with the dosing regimens used in triton-timi 38, timi (thrombolysis in myocardial infarction) major (clinically overt bleeding associated with a fall in hemoglobin >=5 g/dl, or intracranial hemorrhage) and timi minor (overt bleeding associated with a fall in hemoglobin of >=3 g/dl but <5 g/dl) bleeding events were more common on effient than on clopidogrel [see adverse reactions (  6.1  )]  . the bleeding risk is highest initially, as shown in  figure 1  (events through 450 days; inset shows events through 7 days).
+
+
+
+ figure 1: non-cabg-related timi major or minor bleeding events.   figure 1: non-cabg-related timi major or minor bleeding events.
+ 
+
+ suspect bleeding in any patient who is hypotensive and has recently undergone coronary angiography, pci, cabg, or other surgical procedures even if the patient does not have overt signs of bleeding.
+
+
+
+ do not use effient in patients with active bleeding, prior tia or stroke [see contraindications (  4.1  ,  4.2  )]  .
+
+
+
+ other risk factors for bleeding are:
+
+
+
+ *    age >=75 years. because of the risk of bleeding (including fatal bleeding) and uncertain effectiveness in patients >=75 years of age, use of effient is generally not recommended in these patients, except in high-risk situations (patients with diabetes or history of myocardial infarction) where its effect appears to be greater and its use may be considered [see adverse reactions (  6.1  ), use in specific populations (  8.5  ), clinical pharmacology (  12.3  ), and clinical trials (  14  )] . 
+ *    cabg or other surgical procedure [see warnings and precautions (  5.2  )] . 
+ *    body weight <60 kg. consider a lower (5-mg) maintenance dose [see dosage and administration (  2  ), adverse reactions (  6.1  ), and use in specific populations (  8.6  )] . 
+ *    propensity to bleed (e.g., recent trauma, recent surgery, recent or recurrent gastrointestinal (gi) bleeding, active peptic ulcer disease, severe hepatic impairment, or moderate to severe renal impairment) [see adverse reactions (  6.1  ) and use in specific populations (  8.7  ,  8.8  )] . 
+ *    medications that increase the risk of bleeding (e.g., oral anticoagulants, chronic use of non-steroidal anti-inflammatory drugs [nsaids], and fibrinolytic agents). aspirin and heparin were commonly used in triton-timi 38 [see drug interactions (  7.1  ,  7.2  .  7.3  ), and clinical studies (  14  )] . 
+    thienopyridines inhibit platelet aggregation for the lifetime of the platelet (7-10 days), so withholding a dose will not be useful in managing a bleeding event or the risk of bleeding associated with an invasive procedure. because the half-life of prasugrel's active metabolite is short relative to the lifetime of the platelet, it may be possible to restore hemostasis by administering exogenous platelets; however, platelet transfusions within 6 hours of the loading dose or 4 hours of the maintenance dose may be less effective.
+ 
+
+  figure 1    5.2 coronary artery bypass graft surgery-related bleeding
+
+
+
+  the risk of bleeding is increased in patients receiving effient who undergo cabg. if possible, effient should be discontinued at least 7 days prior to cabg.
+
+
+
+ of the 437 patients who underwent cabg during triton-timi 38, the rates of cabg-related timi major or minor bleeding were 14.1% in the effient group and 4.5% in the clopidogrel group [see adverse reactions (  6.1  )]  . the higher risk for bleeding events in patients treated with effient persisted up to 7 days from the most recent dose of study drug. for patients receiving a thienopyridine within 3 days prior to cabg, the frequencies of timi major or minor bleeding were 26.7% (12 of 45 patients) in the effient group, compared with 5.0% (3 of 60 patients) in the clopidogrel group. for patients who received their last dose of thienopyridine within 4 to 7 days prior to cabg, the frequencies decreased to 11.3% (9 of 80 patients) in the prasugrel group and 3.4% (3 of 89 patients) in the clopidogrel group.
+
+
+
+ do not start effient in patients likely to undergo urgent cabg. cabg-related bleeding may be treated with transfusion of blood products, including packed red blood cells and platelets; however, platelet transfusions within 6 hours of the loading dose or 4 hours of the maintenance dose may be less effective.
+
+
+
+    5.3 discontinuation of effient
+
+
+
+  discontinue thienopyridines, including effient, for active bleeding, elective surgery, stroke, or tia. the optimal duration of thienopyridine therapy is unknown. in patients who are managed with pci and stent placement, premature discontinuation of any antiplatelet medication, including thienopyridines, conveys an increased risk of stent thrombosis, myocardial infarction, and death. patients who require premature discontinuation of a thienopyridine will be at increased risk for cardiac events. lapses in therapy should be avoided, and if thienopyridines must be temporarily discontinued because of an adverse event(s), they should be restarted as soon as possible [see contraindications (  4.1  ,  4.2  ) and warnings and precautions (  5.1  )]  .
+
+
+
+    5.4 thrombotic thrombocytopenic purpura
+
+
+
+  thrombotic thrombocytopenic purpura (ttp) has been reported with the use of effient. ttp can occur after a brief exposure (<2 weeks). ttp is a serious condition that can be fatal and requires urgent treatment, including plasmapheresis (plasma exchange). ttp is characterized by thrombocytopenia, microangiopathic hemolytic anemia (schistocytes [fragment red blood cells] seen on peripheral smear), neurological findings, renal dysfunction, and fever [see adverse reactions (  6.2  )]  .
+
+
+
+    5.5 hypersensitivity including angioedema
+
+
+
+  hypersensitivity including angioedema has been reported in patients receiving effient, including patients with a history of hypersensitivity reaction to other thienopyridines [see contraindications (  4.3  ) and adverse reactions (  6.2  )]  .

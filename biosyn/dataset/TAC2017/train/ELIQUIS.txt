@@ -1,0 +1,390 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are discussed in greater detail in other sections of the prescribing information.
+
+
+
+ *  ?  increased risk of thrombotic events after premature discontinuation [seewarnings and precautions (5.1)]  
+ *  ?  bleeding [seewarnings and precautions (5.2)]  
+ *  ?  spinal/epidural anesthesia or puncture [seewarnings and precautions (5.3)]  
+      excerpt:   most common adverse reactions (>1%) are related to bleeding.(6.1)
+ 
+
+   to report suspected adverse reactions, contact bristol-myers squibb at 1-800-721-5072 or fda at 1-800-fda-1088 or    www.fda.gov/medwatch    .  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ 
+
+
+
+   reduction of risk of stroke and systemic embolism in patients with nonvalvular atrial fibrillation
+
+  the safety of eliquis was evaluated in the aristotle and averroes studies  [seeclinical studies (14)]  , including 11,284 patients exposed to eliquis 5 mg twice daily and 602 patients exposed to eliquis 2.5 mg twice daily. the duration of eliquis exposure was >=12 months for 9375 patients and >=24 months for 3369 patients in the two studies. in aristotle, the mean duration of exposure was 89 weeks (>15,000 patient-years). in averroes, the mean duration of exposure was approximately 59 weeks (>3000 patient-years).
+
+
+
+ the most common reason for treatment discontinuation in both studies was for bleeding-related adverse reactions; in aristotle this occurred in 1.7% and 2.5% of patients treated with eliquis and warfarin, respectively, and in averroes, in 1.5% and 1.3% on eliquis and aspirin, respectively.
+
+
+
+   bleeding in patients with nonvalvular atrial fibrillation in aristotle and averroes
+
+  tables 1 and 2 show the number of patients experiencing major bleeding during the treatment period and the bleeding rate (percentage of subjects with at least one bleeding event per 100 patient-years) in aristotle and averroes.
+
+
+
+ table 1:     bleeding events in patients with nonvalvular atrial fibrillation in aristotle* 
+                            eliquisn=9088n (per 100 pt-year)  warfarinn=9052n (per 100 pt-year)  hazard ratio(95% ci)  p-value           
+  
+ *  bleeding events within each subcategory were counted once per subject, but subjects may have contributed events to multiple endpoints. bleeding events were counted during treatment or within 2 days of stopping study treatment (on-treatment period).       defined as clinically overt bleeding accompanied by one or more of the following: a decrease in hemoglobin of >=2 g/dl, a transfusion of 2 or more units of packed red blood cells, bleeding at a critical site: intracranial, intraspinal, intraocular, pericardial, intra-articular, intramuscular with compartment syndrome, retroperitoneal or with fatal outcome.  ?     intracranial bleed includes intracerebral, intraventricular, subdural, and subarachnoid bleeding. any type of hemorrhagic stroke was adjudicated and counted as an intracranial major bleed.  s     on-treatment analysis based on the safety population, compared to itt analysis presented in section 14.        gi bleed includes upper gi, lower gi, and rectal bleeding.**  fatal bleeding is an adjudicated death with the primary cause of death as intracranial bleeding or non-intracranial bleeding during the on-treatment period.   
+  
+  major                      327 (2.13)             462 (3.09)           0.69 (0.60, 0.80)     <0.0001          
+    intracranial (ich)?      52 (0.33)              125 (0.82)           0.41 (0.30, 0.57)     -                
+      hemorrhagic strokes    38 (0.24)              74 (0.49)            0.51 (0.34, 0.75)     -                
+      other ich              15 (0.10)              51 (0.34)            0.29 (0.16, 0.51)     -                
+    gastrointestinal (gi)     128 (0.83)             141 (0.93)           0.89 (0.70, 1.14)     -                
+    fatal**                  10 (0.06)              37 (0.24)            0.27 (0.13, 0.53)     -                
+      intracranial           4 (0.03)               30 (0.20)            0.13 (0.05, 0.37)     -                
+      non-intracranial       6 (0.04)               7 (0.05)             0.84 (0.28, 2.15)     -                
+           in aristotle, the results for major bleeding were generally consistent across most major subgroups including age, weight, chads2score (a scale from 0 to 6 used to estimate risk of stroke, with higher scores predicting greater risk), prior warfarin use, geographic region, and aspirin use at randomization (figure 1). subjects treated with apixaban with diabetes bled more (3.0% per year) than did subjects without diabetes (1.9% per year).
+ 
+
+ figure 1:     major bleeding hazard ratios by baseline characteristics - aristotle study
+
+
+
+ note: the figure above presents effects in various subgroups, all of which are baseline characteristics and all of which were pre-specified, if not the groupings. the 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors. apparent homogeneity or heterogeneity among groups should not be over-interpreted.
+
+
+
+ table 2:      bleeding events in patients with nonvalvular atrial fibrillation in averroes 
+                            eliquisn=2798n (%/year)  aspirinn=2780n (%/year)  hazard ratio(95% ci)  p-value           
+  
+ events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints.   
+  
+  major                      45 (1.41)             29 (0.92)             1.54 (0.96, 2.45)     0.07             
+      fatal                  5 (0.16)              5 (0.16)              0.99 (0.23, 4.29)     -                
+      intracranial           11 (0.34)             11 (0.35)             0.99 (0.39, 2.51)     -                
+            aristotle major bleeding forest plot   other adverse reactions
+   hypersensitivity reactions (including drug hypersensitivity, such as skin rash, and anaphylactic reactions, such as allergic edema) and syncope were reported in <1% of patients receiving eliquis.
+
+
+
+   prophylaxis of deep vein thrombosis following hip or knee replacement surgery
+
+  the safety of eliquis has been evaluated in 1 phase ii and 3 phase iii studies including 5924 patients exposed to eliquis 2.5 mg twice daily undergoing major orthopedic surgery of the lower limbs (elective hip replacement or elective knee replacement) treated for up to 38 days.
+
+
+
+ in total, 11% of the patients treated with eliquis 2.5 mg twice daily experienced adverse reactions.
+
+
+
+ bleeding results during the treatment period in the phase iii studies are shown in table 3. bleeding was assessed in each study beginning with the first dose of double-blind study drug.
+
+
+
+ table 3:     bleeding during the treatment period in patients undergoing elective hip or knee replacement surgery 
+   bleeding endpoint*      advance-3hip replacement surgery      advance-2knee replacement surgery      advance-1knee replacement surgery     
+  
+ *   all bleeding criteria included surgical site bleeding.       includes 13 subjects with major bleeding events that occurred before the first dose of apixaban (administered 12 to 24 hours post surgery).  ?     includes 5 subjects with major bleeding events that occurred before the first dose of apixaban (administered 12 to 24 hours post surgery).  s     intracranial, intraspinal, intraocular, pericardial, an operated joint requiring re-operation or intervention, intramuscular with compartment syndrome, or retroperitoneal. bleeding into an operated joint requiring re-operation or intervention was present in all patients with this category of bleeding. events and event rates include one enoxaparin-treated patient in advance-1 who also had intracranial hemorrhage.        crnm = clinically relevant nonmajor.   
+  
+                  eliquis2.5 mg po bid35+/-3 days    enoxaparin 40 mg sc qd 35+/-3 days    eliquis 2.5 mg po bid 12+/-2 days    enoxaparin 40 mg sc qd 12+/-2 days    eliquis 2.5 mg po bid 12+/-2 days    enoxaparin 30 mg sc q12h 12+/-2 days    
+  first dose 12 to 24 hours post surgery    first dose 9 to 15 hours prior to surgery    first dose 12 to 24 hours post surgery    first dose 9 to 15 hours prior to surgery    first dose 12 to 24 hours post surgery    first dose 12 to 24 hours post surgery    
+  all treated     n=2673           n=2659          n=1501           n=1508         n=1596           n=1588           
+  major (including surgical site)    22 (0.82%)       18 (0.68%)      9 (0.60%)?       14 (0.93%)     11 (0.69%)       22 (1.39%)       
+    fatal         0                0               0                0              0                1 (0.06%)        
+    hgb decrease >=2 g/dl    13 (0.49%)       10 (0.38%)      8 (0.53%)        9 (0.60%)      10 (0.63%)       16 (1.01%)       
+    transfusion of >=2 units rbc    16 (0.60%)       14 (0.53%)      5 (0.33%)        9 (0.60%)      9 (0.56%)        18 (1.13%)       
+    bleed at critical sites    1 (0.04%)        1 (0.04%)       1 (0.07%)        2 (0.13%)      1 (0.06%)        4 (0.25%)        
+  major+ crnm     129 (4.83%)      134 (5.04%)     53 (3.53%)       72 (4.77%)     46 (2.88%)       68 (4.28%)       
+  all             313 (11.71%)     334 (12.56%)    104 (6.93%)      126 (8.36%)    85 (5.33%)       108 (6.80%)      
+             adverse reactions occurring in >=1% of patients undergoing hip or knee replacement surgery in the 1 phase ii study and the 3 phase iii studies are listed in table 4.
+ 
+
+ table 4:     adverse reactions occurring in >=1% of patients in either group undergoing hip or knee replacement surgery 
+                                                            eliquis, n (%)2.5 mg po bidn=5924      enoxaparin, n (%)40 mg sc qd or30 mg sc q12hn=5904     
+  
+  nausea                                                   153 (2.6)             159 (2.7)                  
+  anemia (including postoperative and hemorrhagic anemia, and respective laboratory parameters)    153 (2.6)             178 (3.0)                  
+  contusion                                                83 (1.4)              115 (1.9)                  
+  hemorrhage (including hematoma, and vaginal and urethral hemorrhage)    67 (1.1)              81 (1.4)                   
+  postprocedural hemorrhage (including postprocedural hematoma, wound hemorrhage, vessel puncture site hematoma and catheter site hemorrhage)    54 (0.9)              60 (1.0)                   
+  transaminases increased (including alanine aminotransferase increased and alanine aminotransferase abnormal)    50 (0.8)              71 (1.2)                   
+  aspartate aminotransferase increased                     47 (0.8)              69 (1.2)                   
+  gamma-glutamyltransferase increased                      38 (0.6)              65 (1.1)                   
+         less common adverse reactions in apixaban-treated patients undergoing hip or knee replacement surgery occurring at a frequency of >=0.1% to <1%:
+ 
+
+   blood and lymphatic system disorders:  thrombocytopenia (including platelet count decreases)
+
+
+
+   vascular disorders:  hypotension (including procedural hypotension)
+
+
+
+   respiratory, thoracic, and mediastinal disorders:  epistaxis
+
+
+
+   gastrointestinal disorders:  gastrointestinal hemorrhage (including hematemesis and melena), hematochezia
+
+
+
+   hepatobiliary disorders:  liver function test abnormal, blood alkaline phosphatase increased, blood bilirubin increased
+
+
+
+   renal and urinary disorders:  hematuria (including respective laboratory parameters)
+
+
+
+   injury, poisoning, and procedural complications:  wound secretion, incision-site hemorrhage (including incision-site hematoma), operative hemorrhage
+
+
+
+ less common adverse reactions in apixaban-treated patients undergoing hip or knee replacement surgery occurring at a frequency of <0.1%:
+
+
+
+ gingival bleeding, hemoptysis, hypersensitivity, muscle hemorrhage, ocular hemorrhage (including conjunctival hemorrhage), rectal hemorrhage
+
+
+
+   treatment of dvt and pe and reduction in the risk of recurrence of dvt or pe
+
+  the safety of eliquis has been evaluated in the amplify and amplify-ext studies, including 2676 patients exposed to eliquis 10 mg twice daily, 3359 patients exposed to eliquis 5 mg twice daily, and 840 patients exposed to eliquis 2.5 mg twice daily.
+
+
+
+ common adverse reactions (>=1%) were gingival bleeding, epistaxis, contusion, hematuria, rectal hemorrhage, hematoma, menorrhagia, and hemoptysis.
+
+
+
+   amplify study
+
+  the mean duration of exposure to eliquis was 154 days and to enoxaparin/warfarin was 152 days in the amplify study. adverse reactions related to bleeding occurred in 417 (15.6%) eliquis-treated patients compared to 661 (24.6%) enoxaparin/warfarin-treated patients. the discontinuation rate due to bleeding events was 0.7% in the eliquis-treated patients compared to 1.7% in enoxaparin/warfarin-treated patients in the amplify study.
+
+
+
+ in the amplify study, eliquis was statistically superior to enoxaparin/warfarin in the primary safety endpoint of major bleeding (relative risk 0.31, 95% ci [0.17, 0.55], p-value <0.0001).
+
+
+
+ bleeding results from the amplify study are summarized in table 5.
+
+
+
+ table 5:     bleeding results in the amplify study 
+                                eliquisn=2676n (%)        enoxaparin/warfarinn=2689n (%)  relative risk (95% ci)      
+  
+ *   crnm = clinically relevant nonmajor bleeding.events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints.   
+  
+  major                          15 (0.6)                  49 (1.8)                 0.31 (0.17, 0.55)p<0.0001    
+  crnm*                          103 (3.9)                 215 (8.0)                                           
+  major + crnm                   115 (4.3)                 261 (9.7)                                           
+  minor                          313 (11.7)                505 (18.8)                                          
+  all                            402 (15.0)                676 (25.1)                                          
+          adverse reactions occurring in >=1% of patients in the amplify study are listed in table 6.
+ 
+
+ table 6:     adverse reactions occurring in >=1% of patients treated for dvt and pe in the amplify study 
+                                    eliquisn=2676n (%)                 enoxaparin/warfarinn=2689n (%)      
+  
+  epistaxis                          77 (2.9)                           146 (5.4)                          
+  contusion                          49 (1.8)                           97 (3.6)                           
+  hematuria                          46 (1.7)                           102 (3.8)                          
+  menorrhagia                        38 (1.4)                           30 (1.1)                           
+  hematoma                           35 (1.3)                           76 (2.8)                           
+  hemoptysis                         32 (1.2)                           31 (1.2)                           
+  rectal hemorrhage                  26 (1.0)                           39 (1.5)                           
+  gingival bleeding                  26 (1.0)                           50 (1.9)                           
+           amplify-ext study
+   the mean duration of exposure to eliquis was approximately 330 days and to placebo was 312 days in the amplify-ext study. adverse reactions related to bleeding occurred in 219 (13.3%) eliquis-treated patients compared to 72 (8.7%) placebo-treated patients. the discontinuation rate due to bleeding events was approximately 1% in the eliquis-treated patients compared to 0.4% in those patients in the placebo group in the amplify-ext study.
+
+
+
+ bleeding results from the amplify-ext study are summarized in table 7.
+
+
+
+ table 7:     bleeding results in the amplify-ext study 
+                               eliquis 2.5 mg bidn=840n (%)  eliquis 5 mg bidn=811n (%)  placebon=826n (%)          
+  
+ *   crnm = clinically relevant nonmajor bleeding.events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints.   
+  
+  major                         2 (0.2)                    1 (0.1)                   4 (0.5)                   
+  crnm*                         25 (3.0)                   34 (4.2)                  19 (2.3)                  
+  major + crnm                  27 (3.2)                   35 (4.3)                  22 (2.7)                  
+  minor                         75 (8.9)                   98 (12.1)                 58 (7.0)                  
+  all                           94 (11.2)                  121 (14.9)                74 (9.0)                  
+          adverse reactions occurring in >=1% of patients in the amplify-ext study are listed in table 8.
+ 
+
+ table 8:     adverse reactions occurring in >=1% of patients undergoing extended treatment for dvt and pe in the amplify-ext study 
+                               eliquis 2.5 mg bidn=840n (%)  eliquis 5 mg bidn=811n (%)  placebon=826n (%)          
+  
+  epistaxis                     13 (1.5)                   29 (3.6)                  9 (1.1)                   
+  hematuria                     12 (1.4)                   17 (2.1)                  9 (1.1)                   
+  hematoma                      13 (1.5)                   16 (2.0)                  10 (1.2)                  
+  contusion                     18 (2.1)                   18 (2.2)                  18 (2.2)                  
+  gingival bleeding             12 (1.4)                   9 (1.1)                   3 (0.4)                   
+            other adverse reactions
+   less common adverse reactions in eliquis-treated patients in the amplify or amplify-ext studies occurring at a frequency of >=0.1% to <1%:
+
+
+
+   blood and lymphatic system disorders:  hemorrhagic anemia
+
+
+
+   gastrointestinal disorders:  hematochezia, hemorrhoidal hemorrhage, gastrointestinal hemorrhage, hematemesis, melena, anal hemorrhage
+
+
+
+   injury, poisoning, and procedural complications:  wound hemorrhage, postprocedural hemorrhage, traumatic hematoma, periorbital hematoma
+
+
+
+   musculoskeletal and connective tissue disorders:  muscle hemorrhage
+
+
+
+   reproductive system and breast disorders:  vaginal hemorrhage, metrorrhagia, menometrorrhagia, genital hemorrhage
+
+
+
+   vascular disorders  : hemorrhage
+
+
+
+   skin and subcutaneous tissue disorders:  ecchymosis, skin hemorrhage, petechiae
+
+
+
+   eye disorders:  conjunctival hemorrhage, retinal hemorrhage, eye hemorrhage
+
+
+
+   investigations:  blood urine present, occult blood positive, occult blood, red blood cells urine positive
+
+
+
+   general disorders and administration-site conditions:  injection-site hematoma, vessel puncture-site hematoma
+
+
+    boxed warning: warning: (a) premature discontinuation of eliquis increases the risk of thrombotic events(b) spinal/epidural hematoma
+
+  warning: (a) premature discontinuation of eliquis increases the risk of thrombotic events(b) spinal/epidural hematoma
+
+    (a) premature discontinuation of eliquis increases the risk of thrombotic events  
+
+
+
+   premature discontinuation of any oral anticoagulant, including eliquis, increases the risk of thrombotic events. if anticoagulation with eliquis is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant  
+
+
+
+     [see dosage and administration (2.4), warnings and precautions (5.1), and clinical studies (14.1)]  .  
+
+
+
+   (b) spinal/epidural hematoma  
+
+
+
+   epidural or spinal hematomas may occur in patients treated with eliquis who are receiving neuraxial anesthesia or undergoing spinal puncture. these hematomas may result in long-term or permanent paralysis. consider these risks when scheduling patients for spinal procedures. factors that can increase the risk of developing epidural or spinal hematomas in these patients include:  
+
+
+
+ *  ?use of indwelling epidural catheters 
+ *  ?concomitant use of other drugs that affect hemostasis, such as nonsteroidal anti-inflammatory drugs (nsaids), platelet inhibitors, other anticoagulants 
+ *  ?a history of traumatic or repeated epidural or spinal punctures 
+ *  ?a history of spinal deformity or spinal surgery 
+ *  ?optimal timing between the administration of eliquis and neuraxial procedures is not known 
+        [see warnings and precautions (5.3)]    
+ 
+
+   monitor patients frequently for signs and symptoms of neurological impairment. if neurological compromise is noted, urgent treatment is necessary   [see warnings and precautions (5.3)]  .  
+
+
+
+   consider the benefits and risks before neuraxial intervention in patients anticoagulated or to be anticoagulated   [see warnings and precautions (5.3)]  .  
+
+
+
+   warning: (a) premature discontinuation of eliquis increases the risk of thrombotic events(b) spinal/epidural hematoma
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+   (a) premature discontinuation of eliquis increases the risk of thrombotic events: premature discontinuation of any oral anticoagulant, including eliquis, increases the risk of thrombotic events. to reduce this risk, consider coverage with another anticoagulant if eliquis is discontinued for a reason other than pathological bleeding or completion of a course of therapy.     (2.4    , 5.1,     14.1)  
+
+
+
+   (b) spinal/epidural hematoma: epidural or spinal hematomas may occur in patients treated with eliquis who are receiving neuraxial anesthesia or undergoing spinal puncture. these hematomas may result in long-term or permanent paralysis. consider these risks when scheduling patients for spinal procedures. (5.3)  
+    5 warnings and precautions
+
+   excerpt:    *  ?  eliquis can cause serious, potentially fatal bleeding. promptly evaluate signs and symptoms of blood loss.(5.2) 
+ *  ?  prosthetic heart valves: eliquis use not recommended.(5.4) 
+    
+   5.1 increased risk of thrombotic events after premature discontinuation
+
+  premature discontinuation of any oral anticoagulant, including eliquis, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events. an increased rate of stroke was observed during the transition from eliquis to warfarin in clinical trials in atrial fibrillation patients. if eliquis is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant  [see    dosage and administration (2.4)    andclinical studies (14.1)]  .
+
+
+
+   5.2 bleeding
+
+  eliquis increases the risk of bleeding and can cause serious, potentially fatal, bleeding  [see    dosage and administration (2.1)    andadverse reactions (6.1)]  .
+
+
+
+ concomitant use of drugs affecting hemostasis increases the risk of bleeding. these include aspirin and other antiplatelet agents, other anticoagulants, heparin, thrombolytic agents, selective serotonin reuptake inhibitors, serotonin norepinephrine reuptake inhibitors, and nonsteroidal anti-inflammatory drugs (nsaids)  [seedrug interactions (7.3)]  .
+
+
+
+ advise patients of signs and symptoms of blood loss and to report them immediately or go to an emergency room. discontinue eliquis in patients with active pathological hemorrhage.
+
+
+
+ there is no established way to reverse the anticoagulant effect of apixaban, which can be expected to persist for at least 24 hours after the last dose, i.e., for about two drug half-lives. a specific antidote for eliquis is not available. hemodialysis does not appear to have a substantial impact on apixaban exposure  [seeclinical pharmacology (12.3)]  . protamine sulfate and vitamin k are not expected to affect the anticoagulant activity of apixaban. there is no experience with antifibrinolytic agents (tranexamic acid, aminocaproic acid) in individuals receiving apixaban. there is neither scientific rationale for reversal nor experience with systemic hemostatics (desmopressin and aprotinin) in individuals receiving apixaban. use of procoagulant reversal agents such as prothrombin complex concentrate, activated prothrombin complex concentrate, or recombinant factor viia may be considered but has not been evaluated in clinical studies. activated oral charcoal reduces absorption of apixaban, thereby lowering apixaban plasma concentration  [seeoverdosage (10)]  .
+
+
+
+   5.3 spinal/epidural anesthesia or puncture
+
+  when neuraxial anesthesia (spinal/epidural anesthesia) or spinal/epidural puncture is employed, patients treated with antithrombotic agents for prevention of thromboembolic complications are at risk of developing an epidural or spinal hematoma which can result in long-term or permanent paralysis.
+
+
+
+ the risk of these events may be increased by the postoperative use of indwelling epidural catheters or the concomitant use of medicinal products affecting hemostasis. indwelling epidural or intrathecal catheters should not be removed earlier than 24 hours after the last administration of eliquis. the next dose of eliquis should not be administered earlier than 5 hours after the removal of the catheter. the risk may also be increased by traumatic or repeated epidural or spinal puncture. if traumatic puncture occurs, delay the administration of eliquis for 48 hours.
+
+
+
+ monitor patients frequently for signs and symptoms of neurological impairment (e.g., numbness or weakness of the legs, bowel, or bladder dysfunction). if neurological compromise is noted, urgent diagnosis and treatment is necessary. prior to neuraxial intervention the physician should consider the potential benefit versus the risk in anticoagulated patients or in patients to be anticoagulated for thromboprophylaxis.
+
+
+
+   5.4 patients with prosthetic heart valves
+
+  the safety and efficacy of eliquis have not been studied in patients with prosthetic heart valves. therefore, use of eliquis is not recommended in these patients.
+
+
+
+   5.5 acute pe in hemodynamically unstable patients or patients who require thrombolysis or pulmonary embolectomy
+
+  initiation of eliquis is not recommended as an alternative to unfractionated heparin for the initial treatment of patients with pe who present with hemodynamic instability or who may receive thrombolysis or pulmonary embolectomy.

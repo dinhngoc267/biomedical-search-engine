@@ -1,0 +1,132 @@
+-1||-1|-1||-1||immune-mediated pneumonitis||10035742
+-1||-1|-1||-1||immune-mediated colitis||10059447
+-1||-1|-1||-1||immune-mediated hepatitis||10003827
+-1||-1|-1||-1||immune-mediated nephritis||10077087
+-1||-1|-1||-1||immune-mediated renal dysfunction||10077087
+-1||-1|-1||-1||immune-mediated hypothyroidism||10076644
+-1||-1|-1||-1||immune-mediated hyperthyroidism||10004161
+-1||-1|-1||-1||immune-mediated adverse reactions||10020751
+-1||-1|-1||-1||rash||10037844
+-1||-1|-1||-1||fatigue||10016256
+-1||-1|-1||-1||dyspnea||10013968
+-1||-1|-1||-1||musculoskeletal pain||10028391
+-1||-1|-1||-1||decreased appetite||10061428
+-1||-1|-1||-1||cough||10011224
+-1||-1|-1||-1||nausea||10028813
+-1||-1|-1||-1||constipation||10010774
+-1||-1|-1||-1||abdominal pain||10000081
+-1||-1|-1||-1||hyponatremia||10021036
+-1||-1|-1||-1||increased aspartate aminotransferase||10003481
+-1||-1|-1||-1||increased lipase||10024574
+-1||-1|-1||-1||maculopapular rash||10037868
+-1||-1|-1||-1||rash erythematous||10037855
+-1||-1|-1||-1||rash pruritic||10037884
+-1||-1|-1||-1||rash follicular||10037857
+-1||-1|-1||-1||rash macular||10037867
+-1||-1|-1||-1||rash papular||10037876
+-1||-1|-1||-1||rash pustular||10037888
+-1||-1|-1||-1||rash vesicular||10037898
+-1||-1|-1||-1||dermatitis acneiform||10012432
+-1||-1|-1||-1||upper respiratory tract infection||10046306
+-1||-1|-1||-1||rhinitis||10039083
+-1||-1|-1||-1||pharyngitis||10034835
+-1||-1|-1||-1||nasopharyngitis||10028810
+-1||-1|-1||-1||pruritus||10037087
+-1||-1|-1||-1||peripheral edema||10030124
+-1||-1|-1||-1||ventricular arrhythmia||10047281
+-1||-1|-1||-1||iridocyclitis||10022941
+-1||-1|-1||-1||infusion-related reactions||10051792
+-1||-1|-1||-1||increased amylase||10002016
+-1||-1|-1||-1||dizziness||10013573
+-1||-1|-1||-1||peripheral neuropathy||10029331
+-1||-1|-1||-1||sensory neuropathy||10034620
+-1||-1|-1||-1||exfoliative dermatitis||10012455
+-1||-1|-1||-1||erythema multiforme||10015218
+-1||-1|-1||-1||vitiligo||10047642
+-1||-1|-1||-1||psoriasis||10037153
+-1||-1|-1||-1||increased ast||10003481
+-1||-1|-1||-1||increased alkaline phosphatase||10059570
+-1||-1|-1||-1||increased alt||10001551
+-1||-1|-1||-1||hyperkalemia||10020646
+-1||-1|-1||-1||pneumonia||10035664
+-1||-1|-1||-1||chronic obstructive pulmonary disease exacerbation||10009033
+-1||-1|-1||-1||pneumonitis||10035742
+-1||-1|-1||-1||hypercalcemia||10020583
+-1||-1|-1||-1||pleural effusion||10035598
+-1||-1|-1||-1||hemoptysis||10018964
+-1||-1|-1||-1||pain||10033371
+-1||-1|-1||-1||face edema||10016029
+-1||-1|-1||-1||local swelling||10024770
+-1||-1|-1||-1||localized edema||10048961
+-1||-1|-1||-1||lymphoedema||10025282
+-1||-1|-1||-1||chest discomfort||10008469
+-1||-1|-1||-1||noncardiac chest pain||10062501
+-1||-1|-1||-1||back pain||10003988
+-1||-1|-1||-1||bone pain||10006002
+-1||-1|-1||-1||musculoskeletal chest pain||10050819
+-1||-1|-1||-1||myalgia||10028411
+-1||-1|-1||-1||neck pain||10028836
+-1||-1|-1||-1||pain in extremity||10033425
+-1||-1|-1||-1||spinal pain||10072005
+-1||-1|-1||-1||arthritis||10003246
+-1||-1|-1||-1||osteoarthritis||10031161
+-1||-1|-1||-1||abdominal pain lower||10000084
+-1||-1|-1||-1||abdominal pain upper||10000087
+-1||-1|-1||-1||gastrointestinal pain||10017999
+-1||-1|-1||-1||erythema||10015150
+-1||-1|-1||-1||dermatitis||10012431
+-1||-1|-1||-1||dermatitis exfoliative||10012455
+-1||-1|-1||-1||lung infection||10061229
+-1||-1|-1||-1||pneumonia aspiration||10035669
+-1||-1|-1||-1||asthenia||10003549
+-1||-1|-1||-1||edema||10030095
+-1||-1|-1||-1||pyrexia||10037660
+-1||-1|-1||-1||chest pain||10008479
+-1||-1|-1||-1||arthralgia||10003239
+-1||-1|-1||-1||vomiting||10047700
+-1||-1|-1||-1||diarrhea||10012735
+-1||-1|-1||-1||decreased weight||10047895
+-1||-1|-1||-1||stomatitis||10042128
+-1||-1|-1||-1||bronchitis||10006451
+-1||-1|-1||-1||increased creatinine||10005483
+-1||-1|-1||-1||hypokalemia||10021015
+-1||-1|-1||-1||hypomagnesemia||10021027
+-1||-1|-1||-1||hypocalcemia||10020947
+-1||-1|-1||-1||lymphopenia||10025327
+-1||-1|-1||-1||anemia||10002034
+-1||-1|-1||-1||thrombocytopenia||10043554
+-1||-1|-1||-1||neutralizing antibodies||10058063
+-1||-1|-1||-1||fetal harm||10016852
+-1||-1|-1||-1||interstitial lung disease||10022611
+-1||-1|-1||-1||fatal||10011906
+-1||-1|-1||-1||pneumonitis immune-mediated||10001890
+-1||-1|-1||-1||colitis||10009887
+-1||-1|-1||-1||liver test abnormalities||10024690
+-1||-1|-1||-1||increases in ast||10003481
+-1||-1|-1||-1||increases in alkaline phosphatase||10059570
+-1||-1|-1||-1||increases in alt||10001551
+-1||-1|-1||-1||increases in total bilirubin||10005364
+-1||-1|-1||-1||hepatitis||10019717
+-1||-1|-1||-1||died||10011906
+-1||-1|-1||-1||disease progression||10061818
+-1||-1|-1||-1||persistent hepatitis||10019759
+-1||-1|-1||-1||increased liver test values||10024690
+-1||-1|-1||-1||increased total bilirubin||10005364
+-1||-1|-1||-1||elevated creatinine||10005483
+-1||-1|-1||-1||renal dysfunction||10062237
+-1||-1|-1||-1||hypothyroidism||10021114
+-1||-1|-1||-1||hyperthyroidism||10020850
+-1||-1|-1||-1||adrenal insufficiency||10001367
+-1||-1|-1||-1||uveitis||10046851
+-1||-1|-1||-1||pancreatitis||10033645
+-1||-1|-1||-1||facial nerve paresis||10033985|10061457
+-1||-1|-1||-1||abducens nerve paresis||10033985|10053646
+-1||-1|-1||-1||demyelination||10012305
+-1||-1|-1||-1||autoimmune neuropathy||10070439
+-1||-1|-1||-1||motor dysfunction||10061296
+-1||-1|-1||-1||vasculitis||10047115
+-1||-1|-1||-1||hypophysitis||10062767
+-1||-1|-1||-1||diabetic ketoacidosis||10012671
+-1||-1|-1||-1||hypopituitarism||10021067
+-1||-1|-1||-1||guillain-barre syndrome||10018767
+-1||-1|-1||-1||myasthenic syndrome||10028424

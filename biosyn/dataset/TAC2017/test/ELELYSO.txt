@@ -1,0 +1,133 @@
+    6 adverse reactions
+
+  excerpt:   the most commonly reported adverse reactions (>=5%) in clinical studies were pruritus, flushing, headache, arthralgia, pain in extremity, abdominal pain, vomiting, fatigue, back pain, dizziness, nausea and rash (  6.1  ).
+
+
+
+   to report suspected adverse reactions, contact pfizer inc. at 1-800-438-1985 or fda at 1-800-fda-1088 or    www.fda.gov/medwatch    .  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ in the clinical trials with elelyso, either as initial therapy or as therapy following a switch from imiglucerase (n=72), the most common (>= 5%) adverse reactions included pruritus, flushing, headache, arthralgia, pain in extremity, abdominal pain, vomiting, fatigue, back pain, dizziness, nausea, and rash.
+
+
+
+     clinical trials of elelyso as initial therapy  
+
+
+
+     *   clinical trial in patients 19 years and older  
+    the safety of elelyso at dosages of either 30 units/kg (n=16) or 60 units/kg (n=16) every other week was assessed in 32 adult treatment-naive patients (aged 19 to 74 years) with type 1 gaucher disease in a 9-month randomized clinical trial.
+ 
+
+ table 1: adverse reactions in >=5% of treatment-naive adult patients treated with elelyso 
+ preferred term                                         treatment-naive adults  (n=32)n (%)               
+  
+ headache                                                            6 (19%)                              
+ arthralgia                                                          4 (13%)                              
+ fatigue                                                              3 (9%)                              
+ nausea                                                               3 (9%)                              
+ dizziness                                                            3 (9%)                              
+ abdominal pain                                                       2 (6%)                              
+ pruritus                                                             2 (6%)                              
+ flushing                                                             2 (6%)                              
+ vomiting                                                             2 (6%)                              
+ urticaria                                                            2 (6%)                              
+        similar adverse reactions were observed in patients who continued elelyso treatment during the extension trial for up to 24 months. one patient experienced a mild and intermittent type iii immune-mediated fixed drug eruption and continued in the study.
+ 
+
+     *   clinical trial in patients 16 years and younger  the safety of elelyso at dosages of either 30 units/kg (n=4) or 60 units/kg (n=5) every other week was assessed in 9 pediatric treatment-naive patients (aged 2 to 13 years) with type 1 gaucher disease in a 12-month randomized clinical trial.
+ 
+    
+
+ the most common adverse reaction (>=10%) was vomiting, which occurred in 4 of 9 patients. two patients developed hypersensitivity reactions; one patient experienced severe vomiting and gastrointestinal inflammation, and 1 experienced mild throat irritation and chest discomfort. both patients responded to treatment with antihistamines and continued elelyso treatment.
+
+
+
+}}     clinical trial in patients switching from imiglucerase treatment to elelyso  
+
+
+
+ the safety of elelyso was assessed in 31 patients (26 adult and 5 pediatric patients), ages 6 to 66 years old, with type 1 gaucher disease who had previously been receiving treatment with imiglucerase for a minimum of 2 years. elelyso was administered for 9 months at the same number of units as each patient's previous imiglucerase dose.
+
+
+
+ table 2: adverse reactions in >=10% of patients switched from imiglucerase to elelyso 
+ preferred term                              patients switched from imiglucerase  (n=31; 26 adults and 5 children)n (%)   
+  
+ arthralgia                                                          4 (13%)                              
+ headache                                                            4 (13%)                              
+ pain in extremity                                                   3 (10%)                              
+          6.2 immunogenicity
+   as with all therapeutic proteins, patients may develop anti-drug antibodies (ada) to elelyso.
+
+
+
+ in clinical trials of treatment-naive adults, 17 (53%) of 32 patients developed ada during treatment with elelyso, and 2 (6%) of 32 patients tested positive for ada at baseline prior to elelyso treatment. of the 17 patients who developed ada during elelyso treatment, 6 patients (35%) developed hypersensitivity reactions, 2 of whom met criteria for anaphylaxis. two of the 17 patients who developed ada during elelyso treatment discontinued treatment due to hypersensitivity reactions, one of whom had met criteria for anaphylaxis. of the 2 patients who tested positive for ada prior to initiation of elelyso treatment, one patient developed a hypersensitivity reaction during the first dose of elelyso and withdrew from the study. the second patient did not experience an adverse reaction.
+
+
+
+ in a clinical trial of treatment-naive pediatric patients, 2 (22%) of 9 patients developed ada during treatment with elelyso, and one of 9 patients was ada-positive prior to initiation of elelyso. two patients (1 who developed ada during treatment and 1 who was ada-positive at baseline) experienced hypersensitivity reactions. both patients continued treatment with elelyso.
+
+
+
+ in a clinical trial of 31 patients (26 adult and 5 pediatric patients) who switched from imiglucerase to elelyso treatment, 4 adults (13% of patients) developed ada during treatment with elelyso. four additional patients (13%, 2 adults and 2 children) tested positive for ada at baseline but became ada-negative after the switch to elelyso. two adult patients (1 patient who developed ada after the switch and 1 who was ada positive at baseline) experienced hypersensitivity reactions. both patients continued treatment with elelyso.
+
+
+
+ the relationship between ada and hypersensitivity reactions is not fully understood. monitoring for ada to elelyso may be useful in ada positive patients or in patients who have experienced hypersensitivity reactions to elelyso or other enzyme replacement therapies.
+
+
+
+ twenty-nine of the 30 adult and pediatric patients who tested positive for ada were tested for neutralizing antibodies capable of inhibiting the enzymatic activity of elelyso. neutralizing antibodies were detected in 3 (10.3%) of 29 patients, 2 treatment-naive adult patients and 1 adult patient who switched from imiglucerase. due to limited available data, it is not possible to determine a relationship between the presence of neutralizing antibodies and therapeutic response with elelyso.
+
+
+
+ immunogenicity assay results are highly dependent on the sensitivity and specificity of the assay and may be influenced by several factors such as: assay methodology, sample handling, timing of sample collection, concomitant medication, and underlying disease. for these reasons, comparison of the incidence of antibodies to elelyso with the incidence of antibodies to other products may be misleading.
+
+
+
+   6.3 postmarketing experience
+
+  the following adverse reactions have been identified during post approval use of elelyso in countries where it is marketed. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ immune system disorders: anaphylaxis  [see  warning and precautions (5.1)  ].  
+    5 warnings and precautions
+
+
+
+   excerpt:    *   hypersensitivity reactions including anaphylaxis: observe patients during and after the infusion; immediately discontinue infusion if anaphylaxis occurs and initiate appropriate treatment. reduction in the infusion rate and/or pre-medication may prevent subsequent reactions (  5.1  ,  6.3  ). 
+    
+ 
+
+   5.1 hypersensitivity reactions including anaphylaxis
+
+
+
+   serious hypersensitivity reactions, including anaphylaxis, have occurred in some patients treated with elelyso. in clinical trials, 2 of 72 (2.8%) patients treated with elelyso experienced signs and symptoms consistent with anaphylaxis. signs and symptoms of these patients included urticaria, hypotension, flushing, wheezing, chest tightness, nausea, vomiting, and dizziness. these reactions occurred during elelyso infusion.  
+
+
+
+  in clinical trials with elelyso, 21 of 72 (29%) patients experienced hypersensitivity reactions, including anaphylaxis. signs and symptoms of hypersensitivity reactions included pruritus, angioedema, flushing, erythema, rash, nausea, vomiting, cough, chest tightness, and throat irritation. these reactions have occurred up to 3 hours after the start of infusion [see  adverse reactions (6.1)  ]  .  
+
+
+
+  due to the potential for anaphylaxis, appropriate medical support should be readily available when elelyso is administered. observe patients closely for an appropriate period of time after administration of elelyso, taking into account the time to onset of anaphylaxis seen in clinical trials. inform patients of the signs and symptoms of anaphylaxis, and instruct them to seek immediate medical care should signs and symptoms occur. if anaphylaxis occurs, elelyso should be immediately discontinued, and appropriate medical treatment should be initiated.  
+
+
+
+  management of hypersensitivity reactions should be based on the severity of the reaction and include slowing or temporary interruption of the infusion and/or administration of antihistamines, antipyretics, and/or corticosteroids for mild reactions. pretreatment with antihistamines and/or corticosteroids may prevent subsequent hypersensitivity reactions. patients were not routinely premedicated prior to infusion of elelyso during clinical studies. if severe hypersensitivity reactions occur, immediately stop the infusion of elelyso and initiate appropriate treatment.  
+
+
+
+  consider the risks and benefits of re-administering elelyso in patients who have experienced a severe reaction associated with elelyso. caution should be exercised upon rechallenge, and appropriate medical support should be readily available [see  adverse reactions (6.3)  ].    

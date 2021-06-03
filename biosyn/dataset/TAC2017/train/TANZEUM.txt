@@ -1,0 +1,277 @@
+    6 adverse reactions
+
+  the following serious reactions are described below or elsewhere in the prescribing information:
+
+
+
+ *    risk of thyroid c-cell tumors [see warnings and precautions (5.1)]  
+ *    acute pancreatitis [see warnings and precautions (5.2)]  
+ *    hypoglycemia with concomitant use of insulin secretagogues or insulin [see warnings and precautions (5.3)]  
+ *    hypersensitivity reactions [see warnings and precautions (5.4)]  
+ *    renal impairment [see warnings and precautions (5.5)]  
+      excerpt:   adverse reactions, reported in >=5% of patients treated with tanzeum and more frequently than in patients on placebo, were upper respiratory tract infection, diarrhea, nausea, injection site reaction, cough, back pain, arthralgia, sinusitis, and influenza. (6.1)
+ 
+
+   to report suspected adverse reactions, contact glaxosmithkline at 1-888-825-5249 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+   pool of placebo-controlled trials  
+
+
+
+ the data in table 1 are derived from 4 placebo-controlled trials. tanzeum was used as monotherapy in 1 trial and as add-on therapy in 3 trials  [see clinical studies (14)]  . these data reflect exposure of 923 patients to tanzeum and a mean duration of exposure to tanzeum of 93 weeks. the mean age of participants was 55 years, 1% of participants were 75 years or older and 53% of participants were male. the population in these studies was 48% white, 13% african/african american, 7% asian, and 29% hispanic/latino. at baseline, the population had type 2 diabetes for an average of 7 years and had a mean hba1c of 8.1%. at baseline, 17% of the population in these studies reported peripheral neuropathy and 4% reported retinopathy. baseline estimated renal function was normal or mildly impaired (egfr >60 ml/min/1.73 m  2  ) in 91% of the study population and moderately impaired (egfr 30 to 60 ml/min/1.73 m  2  ) in 9%.
+
+
+
+ table 1 shows common adverse reactions excluding hypoglycemia associated with the use of tanzeum in the pool of placebo-controlled trials. these adverse reactions were not present at baseline, occurred more commonly on tanzeum than on placebo, and occurred in at least 5% of patients treated with tanzeum.
+
+
+
+   table 1. adverse reactions in placebo-controlled trials reported in >=5% of patients treated with tanzeum  a    
+
+
+
+
+  adverse reaction                                          placebo  (n = 468)  %    tanzeum  (n = 923)  %     
+  upper respiratory tract infection                         13.0                  14.2                      
+  diarrhea                                                  10.5                  13.1                      
+  nausea                                                    9.6                   11.1                      
+  injection site reactionb                                  2.1                   10.5                      
+  cough                                                     6.2                   6.9                       
+  back pain                                                 5.8                   6.7                       
+  arthralgia                                                6.4                   6.6                       
+  sinusitis                                                 5.8                   6.2                       
+  influenza                                                 3.2                   5.2                       
+        *       a  adverse reactions reported includes adverse reactions occurring with the use of glycemic rescue medications which included metformin (17% for placebo and 10% for tanzeum) and insulin (24% for placebo and 14% for tanzeum). 
+ *       b  see below for other events of injection site reactions reported. 
+      gastrointestinal adverse reactions  
+ 
+
+ in the pool of placebo-controlled trials, gastrointestinal complaints occurred more frequently among patients receiving tanzeum (39%) than patients receiving placebo (33%). in addition to diarrhea and nausea (see table 1), the following gastrointestinal adverse reactions also occurred more frequently in patients receiving tanzeum: vomiting (2.6% versus 4.2% for placebo versus tanzeum), gastroesophageal reflux disease (1.9% versus 3.5% for placebo versus tanzeum), and dyspepsia (2.8% versus 3.4% for placebo versus tanzeum). constipation also contributed to the frequently reported reactions. in the group treated with tanzeum, investigators graded the severity of gi reactions as "mild" in 56% of cases, "moderate" in 37% of cases, and "severe" in 7% of cases. discontinuation due to gi adverse reactions occurred in 2% of individuals on tanzeum or placebo.
+
+
+
+   injection site reactions  
+
+
+
+ in the pool of placebo-controlled trials, injection site reactions occurred more frequently on tanzeum (18%) than on placebo (8%). in addition to the term injection site reaction (see table 1), the following other types of injection site reactions also occurred more frequently on tanzeum: injection site hematoma (1.9% versus 2.1% for placebo versus tanzeum ), injection site erythema (0.4% versus 1.7% for placebo versus tanzeum), injection site rash (0% versus 1.4% for placebo versus tanzeum), injection site hypersensitivity (0% versus 0.8% for placebo versus tanzeum), and injection site hemorrhage (0.6% versus 0.7% for placebo versus tanzeum). injection site pruritus also contributed to the frequently reported reactions. the majority of injection site reactions were judged as "mild" by investigators in both groups (73% for tanzeum versus 94% for placebo). more patients on tanzeum than on placebo: discontinued due to an injection site reaction (2% versus 0.2%), experienced more than 2 reactions (38% versus 20%), had a reaction judged by investigators to be "moderate" or "severe" (27% versus 6%) and required local or systemic treatment for the reactions (36% versus 11%).
+
+
+
+   pool of placebo- and active-controlled trials  
+
+
+
+ the occurrence of adverse reactions was also evaluated in a larger pool of patients with type 2 diabetes participating in 7 placebo- and active-controlled trials. these trials evaluated the use of tanzeum as monotherapy, and as add-on therapy to oral antidiabetic agents, and as add-on therapy to basal insulin  [see clinical studies (14)]  . in this pool, a total of 2,116 patients with type 2 diabetes were treated with tanzeum for a mean duration of 75 weeks. the mean age of patients treated with tanzeum was 55 years, 1.5% of the population in these studies was 75 years or older and 51% of participants were male. forty-eight percent of patients were white, 15% african/african american, 9% asian, and 26% were hispanic/latino. at baseline, the population had diabetes for an average of 8 years and had a mean hba1c of 8.2%. at baseline, 21% of the population reported peripheral neuropathy and 5% reported retinopathy. baseline estimated renal function was normal or mildly impaired (egfr >60 ml/min/1.73 m  2  ) in 92% of the population and moderately impaired (egfr 30 to 60 ml/min/1.73 m  2  ) in 8% of the population.
+
+
+
+ in the pool of placebo- and active-controlled trials, the types and frequency of common adverse reactions excluding hypoglycemia were similar to those listed in table 1.
+
+
+
+   other adverse reactions  
+
+
+
+   hypoglycemia  
+
+
+
+ the proportion of patients experiencing at least one documented symptomatic hypoglycemic episode on tanzeum and the proportion of patients experiencing at least one severe hypoglycemic episode on tanzeum in clinical trials  [see clinical studies (14)]  is shown in table 2. hypoglycemia was more frequent when tanzeum was added to sulfonylurea or insulin  [see warnings and precautions (5.3)]  .
+
+
+
+   table 2. incidence (%) of hypoglycemia in clinical trials of tanzeum  a    
+
+
+
+
+                                                                                    tanzeum                 
+  monotherapyb                                           placebo                    30 mg weekly            
+  (52 weeks)                                             n = 101                    n = 101                 
+  documented symptomaticc                                2%                         2%                      
+  severed                                                -                          -                       
+  in combination with metformin trial                    placebo                    tanzeum                 
+  (104 weeks)e                                           n = 101                    n = 302                 
+  documented symptomatic                                 4%                         3%                      
+  severe                                                 -                          -                       
+  in combination with pioglitazone +/-                   placebo                    tanzeum                 
+  metformin (52 weeks)                                   n = 151                    n = 150                 
+  documented symptomatic                                 1%                         3%                      
+  severe                                                 -                          1%                      
+  in combination with metformin and                      placebo                    tanzeum                 
+  sulfonylurea (52 weeks)                                n = 115                    n = 271                 
+  documented symptomatic                                 7%                         13%                     
+  severe                                                 -                          0.4%                    
+  in combination with                                    insulin lispro             tanzeum                 
+  insulin glargine (26 weeks)                            n = 281                    n = 285                 
+  documented symptomatic                                 30%                        16%                     
+  severe                                                 0.7%                       -                       
+  in combination with                                    insulin glargine           tanzeum                 
+  metformin +/- sulfonylurea (52 weeks)                  n = 241                    n = 504                 
+  documented symptomatic                                 27%                        17%                     
+  severe                                                 0.4%                       0.4%                    
+  in combination with oads in renal                      sitagliptin                tanzeum                 
+  impairment (26 weeks)                                  n = 246                    n = 249                 
+  documented symptomatic                                 6%                         10%                     
+  severe                                                 0.8%                       -                       
+        *     oad = oral antidiabetic agents. 
+ *       a  data presented are to the primary endpoint and include only events occurring on-therapy with randomized medications and excludes events occurring after use of glycemic rescue medications (i.e., primarily metformin or insulin). 
+ *       b  in this trial, no documented symptomatic or severe hypoglycemia were reported for tanzeum 50 mg and these data are omitted from the table. 
+ *       c  plasma glucose concentration <=70 mg/dl and presence of hypoglycemic symptoms. 
+ *       d  event requiring another person to administer a resuscitative action. 
+ *       e  rate of documented symptomatic hypoglycemia for active controls 18% (glimepiride) and 2% (sitagliptin). 
+      pneumonia  
+ 
+
+ in the pool of 7 placebo- and active-controlled trials, the adverse reaction of pneumonia was reported more frequently in patients receiving tanzeum (1.8%) than in patients in the all-comparators group (0.8%). more cases of pneumonia in the group receiving tanzeum were serious (0.4% for tanzeum versus 0.1% for all comparators).
+
+
+
+   atrial fibrillation/flutte  r
+
+
+
+ in the pool of 7 placebo- and active-controlled trials, adverse reactions of atrial fibrillation (1.0%) and atrial flutter (0.2%) were reported more frequently for tanzeum than for all comparators (0.5% and 0%, respectively). in both groups, patients with events were generally male, older, and had underlying renal impairment or cardiac disease (e.g., history of arrhythmia, palpitations, congestive heart failure, cardiomyopathy, etc.).
+
+
+
+   appendicitis  
+
+
+
+ in the pool of placebo- and active-controlled trials, serious events of appendicitis occurred in 0.3% of patients treated with tanzeum compared with 0% among all comparators.
+
+
+
+   immunogenicity  
+
+
+
+ in the pool of 7 placebo- and active-controlled trials, 116 (5.5%) of 2,098 patients exposed to tanzeum tested positive for anti-albiglutide antibodies at any time during the trials. none of these antibodies were shown to neutralize the activity of albiglutide in an in vitro bioassay. presence of antibody did not correlate with reduced efficacy as measured by hba1c and fasting plasma glucose or specific adverse reactions.
+
+
+
+ consistent with the high homology of albiglutide with human glp-1, the majority of patients (approximately 79%) with anti-albiglutide antibodies also tested positive for anti-glp-1 antibodies; none were neutralizing. a minority of patients (approximately 17%) who tested positive for anti-albiglutide antibodies also transiently tested positive for antibodies to human albumin.
+
+
+
+ the detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, the incidence of antibodies to albiglutide cannot be directly compared with the incidence of antibodies of other products.
+
+
+
+   liver enzyme abnormalities  
+
+
+
+ in the pool of placebo- and active-controlled trials, a similar proportion of patients experienced at least one event of alanine aminotransferase (alt) increase of 3-fold or greater above the upper limit of normal (0.9% and 0.9% for all comparators versus tanzeum). three subjects on tanzeum and one subject in the all-comparator group experienced at least one event of alt increase of 10-fold or greater above the upper limit of normal  .  in one of the 3 cases an alternate etiology was identified to explain the rise in liver enzyme (acute viral hepatitis). in one case, insufficient information was obtained to establish or refute a drug-related causality. in the third case, elevation in alt (10 times the upper limit of normal) was accompanied by an increase in total bilirubin (4 times the upper limit of normal) and occurred 8 days after the first dose of tanzeum. the etiology of hepatocellular injury was possibly related to tanzeum but direct attribution to tanzeum was confounded by the presence of gallstone disease diagnosed on ultrasound 3 weeks after the event  .  
+
+
+
+   gamma glutamyltransferase (ggt) increase  
+
+
+
+ in the pool of placebo-controlled trials, the adverse event of increased ggt occurred more frequently in the group treated with tanzeum (0.9% and 1.5% for placebo versus tanzeum).
+
+
+
+   heart rate increase  
+
+
+
+ in the pool of placebo-controlled trials, mean heart rate in patients treated with tanzeum was higher by an average of 1 to 2 bpm compared with mean heart rate in patients treated with placebo across study visits. the long-term clinical effects of the increase in heart rate have not been established  [see warnings and precautions (5.6)]  .
+
+
+    boxed warning: warning: risk of thyroid c-cell tumors
+
+  warning: risk of thyroid c-cell tumors
+
+    *  carcinogenicity of albiglutide could not be assessed in rodents, but other glucagon-like peptide-1 (glp-1) receptor agonists have caused thyroid c-cell tumors in rodents at clinically relevant exposures. human relevance of glp-1 receptor agonist induced c-cell tumors in rodents has not been determined. it is unknown whether tanzeum(r) causes thyroid c-cell tumors, including medullary thyroid carcinoma (mtc), in humans [see warnings and precautions (5.1), nonclinical toxicology (13.1)]. 
+ *  tanzeum is contraindicated in patients with a personal or family history of mtc or in patients with multiple endocrine neoplasia syndrome type 2 (men 2). counsel patients regarding the potential risk of mtc with the use of tanzeum and inform them of the symptoms of thyroid tumors (e.g., mass in the neck, dysphagia, dyspnea, persistent hoarseness). routine monitoring of serum calcitonin or using thyroid ultrasound monitoring is of uncertain value for early detection of mtc in patients treated with tanzeum [see contraindications (4.1), warnings and precautions (5.1)]. 
+      warning: risk of thyroid c-cell tumors
+ 
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  carcinogenicity of albiglutide could not be assessed in rodents, but other glucagon-like peptide-1 (glp-1) receptor agonists have caused thyroid c-cell tumors in rodents at clinically relevant exposures. human relevance of glp-1 receptor agonist induced c-cell tumors in rodents has not been determined. it is unknown whether tanzeum causes thyroid c-cell tumors, including medullary thyroid carcinoma (mtc), in humans. (5.1, 13.1) 
+ *  tanzeum is contraindicated in patients with a personal or family history of mtc or in patients with multiple endocrine neoplasia syndrome type 2 (men 2). counsel patients regarding the potential risk of mtc and symptoms of thyroid tumors (4.1, 5.1). 
+    5 warnings and precautions
+
+   excerpt:    *     thyroid c-cell tumors: see boxed warning. (5.1) 
+ *     pancreatitis: discontinue promptly if suspected. do not restart if confirmed. consider other antidiabetic therapies in patients with a history of pancreatitis. (5.2) 
+ *     hypoglycemia: can occur when used in combination with insulin secretagogues (e.g., sulfonylureas) or insulin. consider lowering sulfonylurea or insulin dosage when starting tanzeum. (5.3) 
+ *     hypersensitivity reactions: discontinue tanzeum if suspected. monitor and treat promptly per standard of care until signs and symptoms resolve. (5.4) 
+ *     renal impairment: monitor renal function in patients with renal impairment reporting severe adverse gastrointestinal reactions. (5.5) 
+ *     macrovascular outcomes: there have been no clinical trials establishing conclusive evidence of macrovascular risk reduction with tanzeum or any other antidiabetic drug. (5.6) 
+    
+   5.1 risk of thyroid c-cell tumors
+
+    carcinogenicity of albiglutide could not be assessed in rodents due to the rapid development of drug-clearing, anti-drug antibodies  [see nonclinical toxicology (13.1)]  . other glp-1 receptor agonists have caused dose-related and treatment-duration-dependent thyroid c-cell tumors (adenomas or carcinomas) in rodents. human relevance of glp-1 receptor agonist induced c-cell tumors in rodents has not been determined. it is unknown whether tanzeum causes thyroid c-cell tumors, including mtc, in humans  [see boxed warning, contraindications (4.1)]  .  
+
+
+
+   across 8 phase iii clinical trials  [see clinical studies (14)]  , mtc was diagnosed in 1 patient receiving tanzeum and 1 patient receiving placebo. both patients had markedly elevated serum calcitonin levels at baseline. cases of mtc in patients treated with liraglutide, another glp-1 receptor agonist, have been reported in the postmarketing period; the data in these reports are insufficient to establish or exclude a causal relationship between mtc and glp-1 receptor agonist use in humans.  
+
+
+
+   tanzeum is contraindicated in patients with a personal or family history of mtc or in patients with men 2. counsel patients regarding the potential risk for mtc with the use of tanzeum and inform them of symptoms of thyroid tumors (e.g., a mass in the neck, dysphagia, dyspnea, or persistent hoarseness).  
+
+
+
+   routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of mtc in patients treated with tanzeum. such monitoring may increase the risk of unnecessary procedures, due to the low specificity of serum calcitonin testing for mtc and a high background incidence of thyroid disease. significantly elevated serum calcitonin may indicate mtc and patients with mtc usually have calcitonin values >50 ng/l. if serum calcitonin is measured and found to be elevated, the patient should be further evaluated. patients with thyroid nodules noted on physical examination or neck imaging should also be further evaluated.  
+
+
+
+   5.2 acute pancreatitis
+
+  in clinical trials, acute pancreatitis has been reported in association with tanzeum.
+
+
+
+ across 8 phase iii clinical trials  [see clinical studies (14)]  , pancreatitis adjudicated as likely related to therapy occurred more frequently in patients receiving tanzeum (6 of 2,365 [0.3%]) than in patients receiving placebo (0 of 468 [0%]) or active comparators (2 of 2,065 [0.1%]).
+
+
+
+ after initiation of tanzeum, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting). if pancreatitis is suspected, promptly discontinue tanzeum. if pancreatitis is confirmed, tanzeum should not be restarted.
+
+
+
+ tanzeum has not been studied in patients with a history of pancreatitis to determine whether these patients are at increased risk for pancreatitis. consider other antidiabetic therapies in patients with a history of pancreatitis.
+
+
+
+   5.3 hypoglycemia with concomitant use of insulin secretagogues or insulin
+
+  the risk of hypoglycemia is increased when tanzeum is used in combination with insulin secretagogues (e.g., sulfonylureas) or insulin. therefore, patients may require a lower dose of sulfonylurea or insulin to reduce the risk of hypoglycemia in this setting  [see dosage and administration (2.2), adverse reactions (6.1)]  .
+
+
+
+   5.4 hypersensitivity reactions
+
+  across 8 phase iii clinical trials  [see clinical studies (14)]  , a serious hypersensitivity reaction with pruritus, rash, and dyspnea occurred in a patient treated with tanzeum. if hypersensitivity reactions occur, discontinue use of tanzeum; treat promptly per standard of care and monitor until signs and symptoms resolve  [see contraindications (4.2)]  .
+
+
+
+   5.5 renal impairment
+
+  in patients treated with glp-1 receptor agonists, there have been postmarketing reports of acute renal failure and worsening of chronic renal failure, which may sometimes require hemodialysis. some of these events were reported in patients without known underlying renal disease. a majority of reported events occurred in patients who had experienced nausea, vomiting, diarrhea, or dehydration. in a trial of tanzeum in patients with renal impairment  [see clinical studies (14.3)]  , the frequency of such gastrointestinal reactions increased as renal function declined  [see use in specific populations (8.6)]  . because these reactions may worsen renal function, use caution when initiating or escalating doses of tanzeum in patients with renal impairment  [see dosage and administration (2.3), use in specific populations (8.6)].  
+
+
+
+   5.6 macrovascular outcomes
+
+  there have been no clinical trials establishing conclusive evidence of macrovascular risk reduction with tanzeum or any other antidiabetic drug.

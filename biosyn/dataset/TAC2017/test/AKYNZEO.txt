@@ -1,0 +1,92 @@
+    6 adverse reactions
+
+  excerpt:   most common adverse reactions (incidence >=3% and greater than palonosetron) are headache, asthenia, dyspepsia, fatigue, constipation and erythema (  6.1  )   
+
+
+
+   to report suspected adverse reactions, contact eisai at 1-888-422-4743 or fda at 1-800-fda-1088 or      www.fda.gov/medwatch      .        
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the overall safety of akynzeo was evaluated in 1538 cancer patients and healthy volunteers in clinical trials. the data described below reflect exposure to akynzeo in 1169 cancer patients, receiving at least one cycle of cancer chemotherapy in 3 active-controlled trials  [    see clinical studies (14)    ]  , including 782 exposed to akynzeo for at least 4 cycles and 321 exposed for at least 6 cycles, up to a maximum of 12 cycles of chemotherapy. the median age was 55, 79% were female, 83% were white, 13% were asian, and 4% were hispanic. all patients received a single oral dose of akynzeo 1 hour prior to the start of each chemotherapy cycle. in all studies, dexamethasone was co-administered with akynzeo  [see clinical studies (14), table 5 and table 7].  
+
+
+
+   cisplatin based highly emetogenic chemotherapy  
+
+
+
+ in a single-cycle study of patients receiving cisplatin-based highly emetogenic chemotherapy, 136 patients were treated with akynzeo. table 1 shows adverse reactions defined as adverse events reported at an incidence of at least 3% and for which the akynzeo rate exceeded palonosetron alone.
+
+
+
+ table 1: adverse reactions occurring in >=3% of cancer patients receiving akynzeo and cisplatin based highly emetogenic chemotherapy (cycle 1) 
+    adverse reactions      akynzeo    netupitant 300 mg/    palonosetron 0.5 mg    (n=136)       palonosetron 0.5 mg    (n=136)     
+ dyspepsia  4%  2%   
+ fatigue  4%  2%   
+ constipation  3%  1    
+ erythema  3%   2%   
+           anthracyclines and cyclophosphamide based chemotherapy  
+ 
+
+ in a study of patients receiving anthracycline and cyclophosphamide based chemotherapy, 725 patients were treated with akynzeo during cycle 1, and 635 of these patients continued for up to 8 cycles in a multiple-cycle extension. table 2 shows adverse reactions defined as adverse events reported at an incidence of at least 3% and for which the akynzeo rate exceeded palonosetron alone during cycle 1. the adverse reaction profile in subsequent cycles was similar to that observed in cycle 1.
+
+
+
+ table 2: adverse reactions occurring in >=3% of cancer patients receiving akynzeo and anthracyclines and cyclophosphamide based chemotherapy (cycle 1) 
+  adverse reactions                                                                                                   akynzeonetupitant 300 mg/palonosetron 0.5 mg(n=725)                                                        palonosetron 0.5 mg(n=725)                                                                                              
+  headache                                                                                                            9%                                                                                                         7%                                                                                                                      
+  asthenia                                                                                                            8%                                                                                                         7%                                                                                                                      
+  fatigue                                                                                                             7%                                                                                                         5%                                                                                                                      
+         in addition to the adverse reactions shown above, there were reports of concomitant elevations of transaminases > 3 x uln and total bilirubin in both arms of the two trials that compared akynzeo to oral palonosetron, and the frequency of these elevations was comparable between treatment groups.  see table 3.
+ 
+
+ table 3: liver function laboratory abnormalities 
+  laboratory changes                                                                                                                                                                             akynzeonetupitant 300 mg/palonosetron 0.5 mgn=861    palonosetron 0.5 mgn=861                                                                                          
+  ast > 3 x uln and/or alt > 3 x uln with total bilirubin > uln                                                                                                                                  3 (0.3%)         5 (0.6%)                                                                                                          
+  ast > 10 x uln and/or alt > 10 x uln with total bilirubin > uln                                                                                                                                -                2 (0.2%)                                                                                                          
+  ast > 3 x uln and/or alt > 3 x uln with total bilirubin >= 2 x uln                                                                                                                             1 (0.1%)         1 (0.1%)                                                                                                          
+         in a multi-cycle safety study of 412 patients, the safety profile of akynzeo (n = 308) was comparable to aprepitant and palonosetron (n = 104) in patients undergoing initial and repeat cycles (median 5 cycles, range of 1-14 cycles) of chemotherapy, including carboplatin, cisplatin, oxaliplatin, and doxorubicin regimens.  there were no reports of concomitant elevations of transaminases > 3 x uln and total bilirubin in this study in either arm. 
+ 
+
+ in a randomized, clinical non-inferiority study, that compared oral palonosetron 0.5 mg to intravenous palonosetron 0.25 mg in cancer patients scheduled to receive highly emetogenic cisplatin (  >  70 mg/m  2  ) based chemotherapy, there were two patients (0.5%; 2/369) in the intravenous palonosetron arm who had concomitant elevations of transaminases and total bilirubin. neither experienced transaminase elevations of > 10 x uln.  
+    5 warnings and precautions
+
+
+
+   excerpt:    *   hypersensitivity reactions, including anaphylaxis, have been reported in patients receiving palonosetron with or without known hypersensitivity to other 5-ht3receptor antagonists (  5.1  )
+ 
+    
+
+ item{ serotonin syndrome has been reported with 5-ht3receptor antagonists alone but particularly with concomitant use of serotonergic drugs (  5.2  )
+ 
+
+}} 
+
+
+
+   5.1 hypersensitivity
+
+
+
+  hypersensitivity reactions, including anaphylaxis, have been reported with or without known hypersensitivity to other 5-ht3receptor antagonists.
+
+
+
+    5.2 serotonin syndrome
+
+
+
+  the development of serotonin syndrome has been reported with 5-ht3receptor antagonists. most reports have been associated with concomitant use of serotonergic drugs (e.g., selective serotonin reuptake inhibitors (ssris), serotonin and norepinephrine reuptake inhibitors (snris), monoamine oxidase inhibitors, mirtazapine, fentanyl, lithium, tramadol, and intravenous methylene blue). some of the reported cases were fatal. serotonin syndrome occurring with overdose of another 5-ht3receptor antagonist alone has also been reported. the majority of reports of serotonin syndrome related to 5-ht3receptor antagonist use occurred in a post-anesthesia care unit or an infusion center.  
+
+
+
+ symptoms associated with serotonin syndrome may include the following combination of signs and symptoms: mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, and hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, and incoordination), seizures, with or without gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).  patients should be monitored for the emergence of serotonin syndrome, especially with concomitant use of akynzeo and other serotonergic drugs. if symptoms of serotonin syndrome occur, discontinue akynzeo and initiate supportive treatment. patients should be informed of the increased risk of serotonin syndrome, especially if akynzeo is used concomitantly with other serotonergic drugs [see drug interactions (   7   ), patient counseling information (   17   )]  .

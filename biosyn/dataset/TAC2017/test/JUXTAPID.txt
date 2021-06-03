@@ -1,0 +1,299 @@
+    6 adverse reactions
+
+  the following important adverse reactions have been observed and are discussed in detail in other sections of the label:
+
+
+
+ *  risk of hepatotoxicity [see  warnings and precautions (5.1)  ]  
+ *  reduced absorption of fat-soluble vitamins, and serum fatty acids [see  warnings and precautions (5.4)  ]  
+ *  gastrointestinal adverse reactions [see  warnings and precautions (5.5)  ]  
+      excerpt:   most common adverse reactions (incidence >=28%) are diarrhea, nausea, vomiting, dyspepsia, and abdominal pain  (6.1)  .
+ 
+
+ 
+
+
+
+   to report suspected adverse reactions, contact aegerion pharmaceuticals at 1-855-303-2347 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ one single-arm, open-label, 78-week trial has been conducted in 29 patients with hofh, 23 of whom completed at least one year of treatment. the initial dosage of juxtapid was 5 mg daily, with titration up to 60 mg daily during an 18-week period based on safety and tolerability. in this trial, the mean age was 30.7 years (range, 18 to 55 years), 16 (55%) patients were men, 25 (86%) patients were caucasian, 2 (7%) were asian, 1 (3%) was african american, and 1 (3%) was multi-racial  [see  clinical studies (14)  ]  .
+
+
+
+ five (17%) of the 29 patients with hofh that participated in the clinical trial discontinued treatment due to an adverse reaction. the adverse reactions that contributed to treatment discontinuations included diarrhea (2 patients; 7%) and abdominal pain, nausea, gastroenteritis, weight loss, headache, and difficulty controlling inr on warfarin (1 patient each; 3%).
+
+
+
+ the most common adverse reactions were gastrointestinal, reported by 27 (93%) of 29 patients. adverse reactions reported by >=8 (28%) patients in the hofh clinical trial included diarrhea, nausea, vomiting, dyspepsia, and abdominal pain. other common adverse reactions, reported by 5 to 7 (17-24%) patients, included weight loss, abdominal discomfort, abdominal distension, constipation, flatulence, increased alt, chest pain, influenza, nasopharyngitis, and fatigue.
+
+
+
+ the adverse reactions reported in at least 10% of patients during the hofh clinical trial are presented in table 3.
+
+
+
+ table 3: adverse reactions reported in >=10% of patients in the clinical trial in hofh 
+   adverse reaction           n (%)                     
+   gastrointestinal disorders                                
+     diarrhea               23 (79)                     
+     nausea                 19 (65)                     
+     dyspepsia              11 (38)                     
+     vomiting               10 (34)                     
+     abdominal pain         10 (34)                     
+     abdominal discomfort   6 (21)                      
+     abdominal distension   6 (21)                      
+     constipation           6 (21)                      
+     flatulence             6 (21)                      
+     gastroesophageal reflux disease  3 (10)                      
+     defecation urgency     3 (10)                      
+     rectal tenesmus        3 (10)                      
+   infections                                           
+     influenza              6 (21)                      
+     nasopharyngitis        5 (17)                      
+     gastroenteritis        4 (14)                      
+   investigations                                       
+     decreased weight       7 (24)                      
+     increased alt          5 (17)                      
+   general disorders                                    
+     chest pain             7 (24)                      
+     fatigue                5 (17)                      
+     fever                  3 (10)                      
+   musculoskeletal disorders                                
+     back pain              4 (14)                      
+   nervous system disorders                                
+     headache               3 (10)                      
+     dizziness              3 (10)                      
+   respiratory disorders                                
+     pharyngolaryngeal pain  4 (14)                      
+     nasal congestion       3 (10)                      
+   cardiac disorders                                    
+     angina pectoris        3 (10)                      
+     palpitations           3 (10)                      
+      adverse reactions of severe intensity were reported by 8 (28%) of 29 patients, with the most common being diarrhea (4 patients, 14%), vomiting (3 patients, 10%), increased alt or hepatotoxicity (3 patients, 10%), and abdominal pain, distension, and/or discomfort (2 patients, 7%).
+ 
+
+   transaminase elevations  
+
+
+
+ during the hofh clinical trial, 10 (34%) of 29 patients had at least one elevation in alt and/or ast >=3x uln (see table 4). no clinically meaningful elevations in total bilirubin or alkaline phosphatase were observed. transaminases typically fell within one to four weeks of reducing the dose or withholding juxtapid.
+
+
+
+ table 4: patient incidence of transaminase elevations during the hofh clinical trial 
+ upper limits of normal (uln) ranged from 33-41 international units/l for alt and 36-43 international units/l for ast.   
+  
+                              n (%)                     
+   total patients           29                          
+   maximum alt                                          
+    >=3 to <5 x uln         6 (21%)                     
+    >=5 to <10 x uln        3 (10%)                     
+    >=10 to <20 x uln       1 (3%)                      
+    >=20 x uln              0                           
+   maximum ast                                          
+    >=3 to <5 x uln         5 (17%)                     
+    >=5 to <10 x uln        1 (3%)                      
+    >=10 to <20 x uln       0                           
+    >=20 x uln              0                           
+      among the 19 patients who enrolled in an extension study following the hofh clinical trial, one discontinued because of increased transaminases that persisted despite several dose reductions, and one temporarily discontinued because of markedly elevated transaminases (alt 24x uln, ast 13x uln) that had several possible causes, including a drug-drug interaction between juxtapid and the strong cyp3a4 inhibitor clarithromycin  [see  drug interactions (7.1)  ]  .
+ 
+
+   hepatic steatosis  
+
+
+
+ hepatic fat was prospectively measured using magnetic resonance spectroscopy (mrs) in all eligible patients during the hofh clinical trial. after 26 weeks, the median absolute increase in hepatic fat from baseline was 6%, and the mean absolute increase was 8% (range, 0% to 30%). after 78 weeks, the median absolute increase in hepatic fat from baseline was 6%, and the mean absolute increase was 7% (range, 0% to 18%). among the 23 patients with evaluable data, on at least one occasion during the trial, 18 (78%) exhibited an increase in hepatic fat >5% and 3 (13%) exhibited an increase >20%. data from individuals who had repeat measurements after stopping juxtapid show that hepatic fat accumulation is reversible, but whether histological sequelae remain is unknown.
+
+
+    boxed warning: warning: risk of hepatotoxicity
+
+  warning: risk of hepatotoxicity
+
+    juxtapid can cause elevations in transaminases. in the juxtapid clinical trial, 10 (34%) of the 29 patients treated with juxtapid had at least one elevation in alanine aminotransferase (alt) or aspartate aminotransferase (ast) >=3x upper limit of normal (uln). there were no concomitant clinically meaningful elevations of total bilirubin, international normalized ratio (inr), or alkaline phosphatase   [see   warnings and precautions (5.1)  ].    
+
+
+
+   juxtapid also increases hepatic fat, with or without concomitant increases in transaminases. the median absolute increase in hepatic fat was 6% after both 26 and 78 weeks of treatment, from 1% at baseline, measured by magnetic resonance spectroscopy. hepatic steatosis associated with juxtapid treatment may be a risk factor for progressive liver disease, including steatohepatitis and cirrhosis   [see   warnings and precautions (5.1)  ].    
+
+
+
+   measure alt, ast, alkaline phosphatase, and total bilirubin before initiating treatment and then alt and ast regularly as recommended. during treatment, adjust the dose of juxtapid if the alt or ast are >=3x uln. discontinue juxtapid for clinically significant liver toxicity [  see   dosage and administration (2.4)   and   warnings and precautions (5.1)  ].    
+
+
+
+   because of the risk of hepatotoxicity, juxtapid is available only through a restricted program under a risk evaluation and mitigation strategy (rems) called the juxtapid rems program   [see   warnings and precautions (5.2)  ].    
+
+
+
+   excerpt:     warning: risk of hepatotoxicity  
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+   juxtapid can cause elevations in transaminases   (5.1)  .  
+
+
+
+ *  measure alanine and aspartate aminotransferases (alt, ast), alkaline phosphatase, and total bilirubin before initiating treatment and then alt and ast regularly as recommended (2.4, 5.1). 
+ *  during treatment, adjust the dose of juxtapid if the alt or ast is >=3 times the upper limit of normal (uln) (2.4, 5.1). 
+ *  discontinue juxtapid for clinically significant liver toxicity (2.4, 5.1). 
+      juxtapid increases hepatic fat (hepatic steatosis) with or without concomitant increases in transaminases   (5.1)  .  
+ 
+
+ *  hepatic steatosis associated with juxtapid may be a risk factor for progressive liver disease, including steatohepatitis and cirrhosis (5.1). 
+      because of the risk of hepatotoxicity, juxtapid is available only through a restricted program called the juxtapid rems program   (5.2)  .  
+    5 warnings and precautions
+
+
+
+   excerpt:    *  embryo-fetal toxicity: females of reproductive potential should have a negative pregnancy test before starting juxtapid and use contraception during treatment  (5.3)  . 
+ *  gastrointestinal adverse reactions occur in 93% of patients and could affect absorption of concomitant oral medications  (5.5)  . 
+    
+ 
+
+   5.1 risk of hepatotoxicity
+
+
+
+  juxtapid can cause elevations in transaminases and hepatic steatosis, as described below [see  warnings and precautions (5.2)  ]  . to what extent juxtapid-associated hepatic steatosis promotes the elevations in transaminases is unknown. although cases of hepatic dysfunction (elevated transaminases with increase in bilirubin or inr) or hepatic failure have not been reported, there is concern that juxtapid could induce steatohepatitis, which can progress to cirrhosis over several years. the clinical studies supporting the safety and efficacy of juxtapid in hofh would have been unlikely to detect this adverse outcome given their size and duration [see  clinical studies (14)  ]  .
+
+
+
+  elevation of transaminases  
+
+
+
+ elevations in transaminases (alanine aminotransferase [alt] and/or aspartate aminotransferase [ast]) are associated with juxtapid. in the clinical trial, 10 (34%) of the 29 patients with hofh had at least one elevation in alt or ast >=3x uln, and 4 (14%) of the patients had at least one elevation in alt or ast >=5x uln. there were no concomitant or subsequent clinically meaningful elevations in bilirubin, inr, or alkaline phosphatase [see  adverse reactions (6.1)  ]  .
+
+
+
+ during the 78-week hofh clinical trial, no patients discontinued prematurely because of elevated transaminases. among the 19 patients who subsequently enrolled in the hofh extension study, one discontinued because of increased transaminases that persisted despite several dose reductions, and one temporarily discontinued because of markedly elevated transaminases (alt 24x uln, ast 13x uln) that had several possible causes, including a drug-drug interaction between juxtapid and the strong cyp3a4 inhibitor clarithromycin [see  drug interactions (7.1)  ]  .
+
+
+
+ measure alt, ast, alkaline phosphatase, and total bilirubin before initiation of treatment with juxtapid [see  dosage and administration (2.1)  ]  . juxtapid is contraindicated in patients with moderate or severe hepatic impairment, or active liver disease, including unexplained persistent elevations of serum transaminases. if the baseline liver-related tests are abnormal, one may consider initiating juxtapid after an appropriate work-up and the baseline abnormalities are explained or resolved. during the first year, measure liver-related tests (alt and ast, at a minimum) prior to each increase in dose or monthly, whichever occurs first. after the first year, do these tests at least every 3 months and before any increase in dose. modify the dose of juxtapid if elevations of transaminases are observed and discontinue juxtapid for persistent or clinically significant elevations [see  dosage and administration (2.4)  ]  .
+
+
+
+ if transaminase elevations are accompanied by clinical symptoms of liver injury (such as nausea, vomiting, abdominal pain, fever, jaundice, lethargy, flu-like symptoms), increases in bilirubin >=2x uln, or active liver disease, discontinue treatment with juxtapid and identify the probable cause.
+
+
+
+  hepatic steatosis  
+
+
+
+ juxtapid increases hepatic fat, with or without concomitant increases in transaminases. hepatic steatosis is a risk factor for progressive liver disease, including steatohepatitis and cirrhosis. the long-term consequences of hepatic steatosis associated with juxtapid treatment are unknown. during the hofh clinical trial, the median absolute increase in hepatic fat was 6% after both 26 weeks and 78 weeks of treatment, from 1% at baseline, measured by magnetic resonance spectroscopy (mrs) [see  adverse reactions (6.1)  ]  . clinical data suggest that hepatic fat accumulation is reversible after stopping treatment with juxtapid, but whether histological sequelae remain is unknown, especially after long-term use; protocol liver biopsies were not performed in the hofh clinical trial.
+
+
+
+ alcohol may increase levels of hepatic fat and induce or exacerbate liver injury. it is recommended that patients taking juxtapid should not consume more than one alcoholic drink per day.
+
+
+
+ caution should be exercised when juxtapid is used with other medications known to have potential for hepatotoxicity, such as isotretinoin, amiodarone, acetaminophen (>4 g/day for >=3 days/week), methotrexate, tetracyclines, and tamoxifen. the effect of concomitant administration of juxtapid with other hepatotoxic medications is unknown. more frequent monitoring of liver-related tests may be warranted.
+
+
+
+ juxtapid has not been studied concomitantly with other ldl-lowering agents that can also increase hepatic fat. therefore, the combined use of such agents is not recommended.
+
+
+
+    5.2 juxtapid rems program
+
+
+
+  because of the risk of hepatotoxicity associated with juxtapid therapy, juxtapid is available through a restricted program under the rems. under the juxtapid rems, only certified healthcare providers and pharmacies may prescribe and distribute juxtapid. further information is available at www.juxtapidremsprogram.com  or by telephone at 1-85-juxtapid (1-855-898-2743).
+
+
+
+    5.3 embryo-fetal toxicity
+
+
+
+  juxtapid may cause fetal harm when administered to a pregnant woman based on findings of teratogenicity in rats and ferrets [see  use in specific populations (8.1)  ]  . females of reproductive potential should have a negative pregnancy test before starting juxtapid and should use effective contraception during therapy with juxtapid [see  use in specific populations (8.6)  ]  . if oral contraceptives are used, the maximum recommended dosage of juxtapid is 30 mg daily [see  dosage and administration (2.3)  and  drug interactions (7.2)  ]  .
+
+
+
+    5.4 reduced absorption of fat-soluble vitamins and serum fatty acids
+
+
+
+  given its mechanism of action in the small intestine, juxtapid may reduce the absorption of fat-soluble nutrients. in the hofh clinical trial, patients were provided daily dietary supplements of vitamin e, linoleic acid, alpha-linolenic acid (ala), eicosapentaenoic acid (epa), and docosahexaenoic acid (dha). in this trial, the median levels of serum vitamin e, ala, linoleic acid, epa, dha, and arachidonic acid decreased from baseline to week 26 but remained above the lower limit of the reference range. adverse clinical consequences of these reductions were not observed with juxtapid treatment of up to 78 weeks. patients treated with juxtapid should take daily supplements that contain 400 international units vitamin e and at least 200 mg linoleic acid, 210 mg ala, 110 mg epa, and 80 mg dha [see  dosage and administration (2.1)  ]  . patients with chronic bowel or pancreatic diseases that predispose to malabsorption may be at increased risk for deficiencies in these nutrients with use of juxtapid.
+
+
+
+    5.5 gastrointestinal adverse reactions
+
+
+
+  gastrointestinal adverse reactions were reported by 27 (93%) of 29 patients in the hofh clinical trial. diarrhea occurred in 79% of patients, nausea in 65%, dyspepsia in 38%, and vomiting in 34%. other reactions reported by at least 20% of patients include abdominal pain, abdominal discomfort, abdominal distension, constipation, and flatulence [see  adverse reactions (6)  ]  .
+
+
+
+ gastrointestinal adverse reactions of severe intensity were reported by 6 (21%) of 29 patients in the hofh clinical trial, with the most common being diarrhea (4 patients, 14%); vomiting (3 patients, 10%); and abdominal pain, distension, and/or discomfort (2 patients, 7%). gastrointestinal reactions contributed to the reasons for early discontinuation from the trial for 4 (14%) patients.
+
+
+
+ absorption of concomitant oral medications may be affected in patients who develop diarrhea or vomiting.
+
+
+
+ to reduce the risk of gastrointestinal adverse events, patients should adhere to a low-fat diet supplying <20% of energy from fat and the dosage of juxtapid should be increased gradually [see  dosage and administration (2.1)  and  (2.2)  ]  .
+
+
+
+    5.6 concomitant use of cyp3a4 inhibitors
+
+
+
+  cyp3a4 inhibitors increase the exposure of lomitapide, with strong inhibitors increasing exposure approximately 27-fold. concomitant use of moderate or strong cyp3a4 inhibitors with juxtapid is contraindicated [see  drug interactions (7.1)  ]  . in the juxtapid clinical trials, one patient with hofh developed markedly elevated transaminases (alt 24x uln, ast 13x uln) within days of initiating the strong cyp3a4 inhibitor clarithromycin. if treatment with moderate or strong cyp3a4 inhibitors is unavoidable, juxtapid should be stopped during the course of treatment.
+
+
+
+ grapefruit juice must be omitted from the diet while being treated with juxtapid.
+
+
+
+ weak cyp3a4 inhibitors increase the exposure of lomitapide approximately 2-fold; therefore, juxtapid dosage should not exceed 30 mg daily when it is used concomitantly with these inhibitors, including atorvastatin and oral contraceptives [see  dosage and administration (2.3)  and  drug interactions (7.2)  ]  .
+
+
+
+    5.7 risk of myopathy with concomitant use of simvastatin or lovastatin
+
+
+
+  the risk of myopathy, including rhabdomyolysis, with simvastatin and lovastatin monotherapy is dose related. lomitapide approximately doubles the exposure to simvastatin; therefore, it is recommended to reduce the dose of simvastatin by 50% when initiating juxtapid [see  clinical pharmacology (12.3)  ]  . while taking juxtapid, limit simvastatin dosage to 20 mg daily (or 40 mg daily for patients who have previously tolerated simvastatin 80 mg daily for at least one year without evidence of muscle toxicity). refer to the simvastatin prescribing information for additional dosing recommendations.
+
+
+
+ interaction between lovastatin and lomitapide has not been studied. however, the metabolizing enzymes and transporters responsible for the disposition of lovastatin and simvastatin are similar, suggesting that juxtapid may increase the exposure of lovastatin; therefore, reducing the dose of lovastatin should be considered when initiating juxtapid.
+
+
+
+    5.8 risk of supratherapeutic or subtherapeutic anticoagulation with warfarin
+
+
+
+  juxtapid increases the plasma concentrations of warfarin. increases in the dose of juxtapid may lead to supratherapeutic anticoagulation, and decreases in the dose of juxtapid may lead to subtherapeutic anticoagulation. difficulty controlling inr contributed to early discontinuation from the hofh clinical trial for one of five patients taking concomitant warfarin. patients taking warfarin should undergo regular monitoring of the inr, especially after any changes in juxtapid dosage. the dose of warfarin should be adjusted as clinically indicated [see  drug interactions (7.3)  ]  .
+
+
+
+    5.9 risk of malabsorption with rare hereditary disorders of galactose intolerance
+
+
+
+  patients with rare, hereditary problems of galactose intolerance, the lapp lactase deficiency, or glucose-galactose malabsorption should avoid juxtapid as this may result in diarrhea and malabsorption.

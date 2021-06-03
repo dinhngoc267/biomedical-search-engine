@@ -1,0 +1,318 @@
+    6     adverse reactions
+
+  the following serious adverse reactions are described elsewhere in labeling:
+
+
+
+ *  bradyarrhythmia and atrioventricular blocks [see warnings and precautions (5.1)]  
+ *  infections [see warnings and precautions (5.2)]  
+ *  progressive multifocal leukoencephalopathy [see warnings and precautions (5.3)]  
+ *  macular edema [see warnings and precautions (5.4)]  
+ *  posterior reversible encephalopathy syndrome [see warnings and precautions (5.5)]  
+ *  respiratory effects [see warnings and precautions (5.6)]  
+ *  liver injury [see warnings and precautions (5.7)]  
+      excerpt:   most common adverse reactions (incidence >=10% and > placebo): headache, liver transaminase elevation, diarrhea, cough, influenza, sinusitis, back pain, abdominal pain, and pain in extremity (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact novartis pharmaceuticals corporation at 1-888-669-6682 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1     clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ in clinical trials (studies 1, 2, and 3), a total of 1212 patients with relapsing forms of multiple sclerosis received gilenya 0.5 mg. this included 783 patients who received gilenya 0.5 mg in the 2-year placebo-controlled trials (studies 1 and 3) and 429 patients who received gilenya 0.5 mg in the 1 year active-controlled trial (study 2). the overall exposure in the controlled trials was equivalent to 1716 person-years. approximately 1000 patients received at least 2 years of treatment with gilenya 0.5 mg. in all clinical studies, including uncontrolled extension studies, the exposure to gilenya 0.5 mg was approximately 4119 person-years.
+
+
+
+ in placebo-controlled trials, the most frequent adverse reactions (incidence >=10% and >placebo) for gilenya 0.5 mg were headache, liver transaminase elevation, diarrhea, cough, influenza, sinusitis, back pain, abdominal pain, and pain in extremity. adverse events that led to treatment discontinuation and occurred in more than 1% of patients taking gilenya 0.5 mg were serum transaminase elevations (4.7% compared to 1% on placebo) and basal cell carcinoma (1% compared to 0.5% on placebo).
+
+
+
+ table 1 lists adverse reactions that occurred in >= 1% of gilenya-treated patients and >= 1% higher rate than for placebo.
+
+
+
+ table 1 adverse reactions reported in studies 1 and 3 (occurring in >=1% of patients and reported for gilenya 0.5 mg at >=1% higher rate than for placebo) 
+   primary system organ class    preferred term      gilenya 0.5 mg    n=783    %      placebo    n=773    %     
+   infections                                        
+      influenza   11               8                 
+       sinusitis  11               8                 
+       bronchitis  8                5                 
+       herpes zoster  2                1                 
+       tinea versicolor  2                <1                
+   cardiac disorders                                       
+       bradycardia  3                1                 
+   nervous system disorders                                       
+       headache   25               24                
+       migraine   6                4                 
+   gastrointestinal disorders                                       
+       nausea     13               12                
+       diarrhea   13               10                
+       abdominal pain  11               10                
+   general disorders and administration site conditions                                       
+       asthenia   2                1                 
+   musculoskeletal and connective tissue disorders                                       
+       back pain  10               9                 
+       pain in extremity  10               7                 
+   skin and subcutaneous tissue disorders                                       
+       alopecia   3                2                 
+       actinic keratosis  2                1                 
+   investigations                                       
+       liver transaminase elevations      (alt/ggt/ast)  15               4                 
+       blood triglycerides increased  3                1                 
+   respiratory, thoracic, and mediastinal disorders                                       
+       cough      12               11                
+       dyspnea    9                7                 
+   eye disorders                                       
+       vision blurred  4                2                 
+   vascular disorders                                       
+       hypertension  8                4                 
+   blood and lymphatic system disorders                                       
+       lymphopenia  7                <1                
+       leukopenia  2                <1                
+   neoplasms benign, malignant and unspecified(including cysts and polyps)                                       
+       skin papilloma  3                2                 
+       basal cell carcinoma  2                1                 
+         adverse reactions of dizziness, pneumonia, eczema and pruritus were also reported in studies 1 and 3 but did not meet the reporting rate criteria for inclusion in table 1 (difference was less than 1%).
+ 
+
+ adverse reactions with gilenya 0.5 mg in study 2, the 1-year active-controlled (versus interferon beta-1a) study were generally similar to those in studies 1 and 3.
+
+
+
+   vascular events  
+
+
+
+ vascular events, including ischemic and hemorrhagic strokes, and peripheral arterial occlusive disease were reported in premarketing clinical trials in patients who received gilenya doses (1.25-5 mg) higher than recommended for use in ms. similar events have been reported with gilenya 0.5 mg in the postmarketing setting although a causal relationship has not been established.
+
+
+
+   lymphomas  
+
+
+
+ cases of lymphoma have occurred in premarketing clinical trials and in the postmarketing setting. the relationship to gilenya remains uncertain.
+    5     warnings and precautions
+
+
+
+   excerpt:    *  bradycardia and/or atrioventricular conduction after first dose: monitor patients. (  2  ,  5.1  ) 
+ *  infections: gilenya may increase the risk of infections. a recent cbc should be available before initiating treatment. monitor for infection during treatment and for 2 months after discontinuation. do not start in patients with active infections. (  5.2  ) 
+ *  progressive multifocal leukoencephalopathy (pml); withhold gilenya at the first sign or symptom suggestive of pml. (  5.3  ) 
+ *  macular edema: perform an examination of the fundus including the macula before and 3-4 months after treatment initiation. patients with diabetes mellitus or a history of uveitis are at increased risk. (  5.4  ) 
+ *  posterior reversible encephalopathy syndrome (pres): if suspected, discontinue gilenya. (  5.5  ) 
+ *  decrease in pulmonary function tests (pft): obtain pft when clinically indicated. (  5.6  ) 
+ *  liver injury: liver enzyme results should be available before initiation. discontinue if significant liver injury occurs. (  5.7  ) 
+ *  women of childbearing potential should use effective contraception during and for 2 months after stopping gilenya. (  5.8  ) 
+ *  blood pressure (bp): monitor bp during treatment. (  5.9  ) 
+    
+ 
+
+   5.1     bradyarrhythmia and atrioventricular blocks
+
+
+
+  because of a risk for bradyarrhythmia and atrioventricular (av) blocks, patients should be monitored during gilenya treatment initiation [see dosage and administration (2)]  .
+
+
+
+   reduction in heart rate    
+
+
+
+  after the first dose of gilenya, the heart rate decrease starts within an hour. on day 1, the maximum decline in heart rate generally occurs within 6 hours and recovers, although not to baseline levels, by 8 to 10 hours postdose. because of physiological diurnal variation, there is a second period of heart rate decrease within 24 hours after the first dose. in some patients, heart rate decrease during the second period is more pronounced than the decrease observed in the first 6 hours. heart rates below 40 beats per minute were rarely observed. in controlled clinical trials, adverse reactions of symptomatic bradycardia following the first dose were reported in 0.6% of patients receiving gilenya 0.5 mg and in 0.1% of patients on placebo. patients who experienced bradycardia were generally asymptomatic, but some patients experienced hypotension, dizziness, fatigue, palpitations, and/or chest pain that usually resolved within the first 24 hours on treatment.  
+
+
+
+ following the second dose, a further decrease in heart rate may occur when compared to the heart rate prior to the second dose, but this change is of a smaller magnitude than that observed following the first dose. with continued dosing, the heart rate returns to baseline within 1 month of chronic treatment.
+
+
+
+   atrioventricular blocks    
+
+
+
+  initiation of gilenya treatment has resulted in transient av conduction delays. in controlled clinical trials, first-degree av block after the first dose occurred in 4.7% of patients receiving gilenya and 1.6% of patients on placebo. in a study of 697 patients with available 24-hour holter monitoring data after their first dose (n=351 receiving gilenya and n=346 on placebo), second-degree av blocks (mobitz types i [wenckebach] or 2:1 av blocks) occurred in 4% (n=14) of patients receiving gilenya and 2% (n=7) of patients on placebo. of the 14 patients receiving gilenya, 7 patients had 2:1 av block (5 patients within the first 6 hours postdose and 2 patients after 6 hours postdose). all second degree av blocks on placebo were mobitz type i and occurred after the first 12 hours postdose. the conduction abnormalities were usually transient and asymptomatic, and resolved within the first 24 hours on treatment, but they occasionally required treatment with atropine or isoproterenol.  
+
+
+
+  postmarketing experience  
+
+
+
+ in the postmarketing setting, third-degree av block and av block with junctional escape have been observed during the first-dose 6-hour observation period with gilenya. isolated delayed onset events, including transient asystole and unexplained death, have occurred within 24 hours of the first dose. these events were confounded by concomitant medications and/or preexisting disease, and the relationship to gilenya is uncertain. cases of syncope were also reported after the first dose of gilenya.
+
+
+
+    5.2     infections
+
+
+
+   risk of infections  
+
+
+
+ gilenya causes a dose-dependent reduction in peripheral lymphocyte count to 20%-30% of baseline values because of reversible sequestration of lymphocytes in lymphoid tissues. gilenya may therefore increase the risk of infections, some serious in nature [see clinical pharmacology (12.2)]  .
+
+
+
+  before initiating treatment with gilenya, a recent cbc (i.e., within 6 months or after discontinuation of prior therapy) should be available. consider suspending treatment with gilenya if a patient develops a serious infection, and reassess the benefits and risks prior to reinitiation of therapy. because the elimination of fingolimod after discontinuation may take up to 2 months, continue monitoring for infections throughout this period. instruct patients receiving gilenya to report symptoms of infections to a physician. patients with active acute or chronic infections should not start treatment until the infection(s) is resolved.  
+
+
+
+  in ms placebo-controlled trials, the overall rate of infections (72%) with gilenya was similar to placebo. however, bronchitis, herpes zoster, influenza, sinusitis, and pneumonia were more common in gilenya-treated patients. serious infections occurred at a rate of 2.3% in the gilenya group versus 1.6% in the placebo group.  
+
+
+
+   herpes viral infections    
+
+
+
+  in placebo-controlled trials, the rate of herpetic infections was 9% in patients receiving gilenya 0.5 mg and 7% on placebo.  
+
+
+
+  two patients died of herpetic infections during controlled trials. one death was due to disseminated primary herpes zoster and the other to herpes simplex encephalitis. in both cases, the patients were taking a 1.25 mg dose of fingolimod (higher than the recommended 0.5 mg dose) and had received high-dose corticosteroid therapy to treat suspected ms relapses.  
+
+
+
+  serious, life-threatening events of disseminated varicella zoster and herpes simplex infections, including cases of encephalitis and multiorgan failure, have occurred with gilenya 0.5 mg in the postmarketing setting. one of these events was fatal. include disseminated herpetic infections in the differential diagnosis of patients who are receiving gilenya and present with an atypical ms relapse or multiorgan failure.  
+
+
+
+   cryptococcal infections    
+
+
+
+  cryptococcal infections, including cases of cryptococcal meningitis, have been reported with gilenya in the postmarketing setting. patients with symptoms and signs consistent with cryptococcal meningitis should undergo prompt diagnostic evaluation and treatment.  
+
+
+
+   prior and concomitant treatment with antineoplastic, immunosuppressive, or immune-modulating therapies    
+
+
+
+  in clinical studies, patients who received gilenya did not receive concomitant treatment with antineoplastic, non-corticosteroid immunosuppressive, or immune-modulating therapies used for treatment of ms. concomitant use of gilenya with any of these therapies, and also with corticosteroids, would be expected to increase the risk of immunosuppression [see drug interactions (7)]  .  
+
+
+
+  when switching to gilenya from immune-modulating or immunosuppressive medications, consider the duration of their effects and their mode of action to avoid unintended additive immunosuppressive effects.  
+
+
+
+   varicella zoster virus antibody testing/vaccination    
+
+
+
+  patients without a healthcare professional confirmed history of chickenpox or without documentation of a full course of vaccination against varicella zoster virus (vzv) should be tested for antibodies to vzv before initiating gilenya. vzv vaccination of antibody-negative patients is recommended prior to commencing treatment with gilenya, following which initiation of treatment with gilenya should be postponed for 1 month to allow the full effect of vaccination to occur.  
+
+
+
+    5.3     progressive multifocal leukoencephalopathy
+
+
+
+   a case of progressive multifocal leukoencephalopathy (pml) and a case of probable pml occurred in patients with ms who received gilenya in the post marketing setting. pml is an opportunistic viral infection of the brain caused by the jc virus (jcv) that typically only occurs in patients who are immunocompromised, and that usually leads to death or severe disability. one patient developed pml after taking gilenya for approximately 2.5 years. the other patient developed probable pml after taking gilenya for approximately 4 years. the diagnosis of probable pml was based on mri findings and the detection of jcv dna in the csf in the absence of clinical signs or symptoms specific to pml. the patients had no other identified systemic medical conditions resulting in compromised immune system function and had not previously been treated with natalizumab, which has a known association with pml. the patients were also not taking any immunosuppressive or immunomodulatory medications concomitantly.  
+
+
+
+  at the first sign or symptom suggestive of pml, withhold gilenya and perform an appropriate diagnostic evaluation. mri signs may be apparent before clinical symptoms. typical symptoms associated with pml are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.  
+
+
+
+    5.4     macular edema
+
+
+
+   fingolimod increases the risk of macular edema. perform an examination of the fundus including the macula in all patients before starting treatment, again 3-4 months after starting treatment, and again at any time after a patient reports visual disturbances while on gilenya therapy.  
+
+
+
+  a dose-dependent increase in the risk of macular edema occurred in the gilenya clinical development program.  
+
+
+
+  in 2-year, double-blind, placebo-controlled studies in patients with multiple sclerosis, macular edema with or without visual symptoms occurred in 1.5% of patients (11/799) treated with fingolimod 1.25 mg, 0.5% of patients (4/783) treated with gilenya 0.5 mg and 0.4% of patients (3/773) treated with placebo. macular edema occurred predominantly during the first 3 to 4 months of therapy. these clinical trials excluded patients with diabetes mellitus, a known risk factor for macular edema (see below macular edema in patients with history of uveitis or diabetes mellitus  ). symptoms of macular edema included blurred vision and decreased visual acuity. routine ophthalmological examination detected macular edema in some patients with no visual symptoms. macular edema generally partially or completely resolved with or without treatment after drug discontinuation. some patients had residual visual acuity loss even after resolution of macular edema. macular edema has also been reported in patients taking gilenya 0.5 mg in the postmarketing setting, usually within the first 6 months of treatment.  
+
+
+
+ continuation of gilenya in patients who develop macular edema has not been evaluated. a decision on whether or not to discontinue gilenya therapy should include an assessment of the potential benefits and risks for the individual patient. the risk of recurrence after rechallenge has not been evaluated.
+
+
+
+  macular edema in patients with history of uveitis or diabetes mellitus  
+
+
+
+  patients with a history of uveitis and patients with diabetes mellitus are at increased risk of macular edema during gilenya therapy. the incidence of macular edema is also increased in ms patients with a history of uveitis. in the combined clinical trial experience with all doses of fingolimod, the rate of macular edema was approximately 20% in ms patients with a history of uveitis versus 0.6% in those without a history of uveitis. gilenya has not been tested in ms patients with diabetes mellitus. in addition to the examination of the fundus including the macula prior to treatment and at 3-4 months after starting treatment, ms patients with diabetes mellitus or a history of uveitis should have regular follow-up examinations.  
+
+
+
+    5.5     posterior reversible encephalopathy syndrome
+
+
+
+  there have been rare cases of posterior reversible encephalopathy syndrome (pres) reported in patients receiving gilenya. symptoms reported included sudden onset of severe headache, altered mental status, visual disturbances, and seizure. symptoms of pres are usually reversible but may evolve into ischemic stroke or cerebral hemorrhage. delay in diagnosis and treatment may lead to permanent neurological sequelae. if pres is suspected, gilenya should be discontinued.
+
+
+
+    5.6     respiratory effects
+
+
+
+   dose-dependent reductions in forced expiratory volume over 1 second (fev1) and diffusion lung capacity for carbon monoxide (dlco) were observed in patients treated with gilenya as early as 1 month after treatment initiation. in 2-year placebo-controlled trials, the reduction from baseline in the percent of predicted values for fev1 at the time of last assessment on drug was 2.8% for gilenya 0.5 mg and 1.0% for placebo. for dlco, the reduction from baseline in percent of predicted values at the time of last assessment on drug was 3.3% for gilenya 0.5 mg and 0.5% for placebo. the changes in fev1 appear to be reversible after treatment discontinuation. there is insufficient information to determine the reversibility of the decrease of dlco after drug discontinuation. in ms placebo-controlled trials, dyspnea was reported in 9% of patients receiving gilenya 0.5 mg and 7% of patients receiving placebo. several patients discontinued gilenya because of unexplained dyspnea during the extension (uncontrolled) studies. gilenya has not been tested in ms patients with compromised respiratory function.  
+
+
+
+ spirometric evaluation of respiratory function and evaluation of dlco should be performed during therapy with gilenya if clinically indicated.
+
+
+
+    5.7     liver injury
+
+
+
+  elevations of liver enzymes may occur in patients receiving gilenya. recent (i.e., within last 6 months) transaminase and bilirubin levels should be available before initiation of gilenya therapy.
+
+
+
+  in 2-year placebo-controlled clinical trials, elevation of liver transaminases to 3-fold the upper limit of normal (uln) or greater occurred in 14% of patients treated with gilenya 0.5 mg and 3% of patients on placebo. elevations 5-fold the uln or greater occurred in 4.5% of patients on gilenya and 1% of patients on placebo. the majority of elevations occurred within 6 to 9 months. in clinical trials, gilenya was discontinued if the elevation exceeded 5 times the uln. serum transaminase levels returned to normal within approximately 2 months after discontinuation of gilenya. recurrence of liver transaminase elevations occurred with rechallenge in some patients.  
+
+
+
+ liver enzymes should be monitored in patients who develop symptoms suggestive of hepatic dysfunction, such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine. gilenya should be discontinued if significant liver injury is confirmed. patients with preexisting liver disease may be at increased risk of developing elevated liver enzymes when taking gilenya.
+
+
+
+ because gilenya exposure is doubled in patients with severe hepatic impairment, these patients should be closely monitored, as the risk of adverse reactions is greater [see use in specific populations (8.6), clinical pharmacology (12.3)]  .
+
+
+
+    5.8     fetal risk
+
+
+
+  based on animal studies, gilenya may cause fetal harm. because it takes approximately 2 months to eliminate gilenya from the body, women of childbearing potential should use effective contraception to avoid pregnancy during and for 2 months after stopping gilenya treatment.
+
+
+
+    5.9     blood pressure effects
+
+
+
+  in ms controlled clinical trials, patients treated with gilenya 0.5 mg had an average increase over placebo of approximately 3 mmhg in systolic pressure, and approximately 2 mmhg in diastolic pressure, first detected after approximately 1 month of treatment initiation, and persisting with continued treatment. hypertension was reported as an adverse reaction in 8% of patients on gilenya 0.5 mg and in 4% of patients on placebo. blood pressure should be monitored during treatment with gilenya.
+
+
+
+    5.10     immune system effects following gilenya discontinuation
+
+
+
+  fingolimod remains in the blood and has pharmacodynamic effects, including decreased lymphocyte counts, for up to 2 months following the last dose of gilenya. lymphocyte counts generally return to the normal range within 1-2 months of stopping therapy [see clinical pharmacology (12.2)]  . because of the continuing pharmacodynamic effects of fingolimod, initiating other drugs during this period warrants the same considerations needed for concomitant administration (e.g., risk of additive immunosuppressant effects) [see drug interactions (7)]  .

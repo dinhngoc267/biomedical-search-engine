@@ -1,0 +1,187 @@
+    6. adverse reactions
+
+  the following serious adverse reactions are described in greater detail in the warnings and precautions section
+
+
+
+ *  hypersensitivity reactions [see warnings and precautions (  5.1  )]  
+ *   clostridium difficile -associated diarrhea [see warnings and precautions (  5.2  )]  
+ *  direct coombs' test seroconversion [see warnings and precautions (  5.3  )]  
+      excerpt:   the most common adverse reactions occurring in >2 % of patients are diarrhea, nausea, and rash. (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact forest laboratories, llc, at 1-800-678-1605 or fda at 1-800-fda-1088 or    www.fda.gov/medwatch    .  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be compared directly to rates from clinical trials of another drug and may not reflect rates observed in practice.
+
+
+
+ teflaro was evaluated in four controlled comparative phase 3 clinical trials (two in absssi and two in cabp) which included 1300 adult patients treated with teflaro (600 mg administered by iv over 1 hour every 12h) and 1297 patients treated with comparator (vancomycin plus aztreonam or ceftriaxone) for a treatment period up to 21 days. the median age of patients treated with teflaro was 54 years, ranging between 18 and 99 years old. patients treated with teflaro were predominantly male (63%) and caucasian (82%).
+
+
+
+     serious adverse reactions and adverse reactions leading to discontinuation  
+
+
+
+ in the four pooled phase 3 clinical trials, serious adverse reactions (sars) occurred in 98/1300 (7.5%) of patients receiving teflaro and 100/1297 (7.7%) of patients receiving comparator drugs. treatment discontinuation due to adverse reactions occurred in 35/1300 (2.7%) of patients receiving teflaro and 48/1297 (3.7%) of patients receiving comparator drugs with the most common adverse reactions leading to discontinuation being hypersensitivity for both treatment groups at a rate of 0.3% in the teflaro group and 0.5% in comparator group.
+
+
+
+     most common adverse reactions  
+
+
+
+ no adverse reactions occurred in greater than 5% of patients receiving teflaro. the most common adverse reactions occurring in > 2% of patients receiving teflaro in the pooled phase 3 clinical trials were diarrhea, nausea, and rash.
+
+
+
+   table 4  lists adverse reactions occurring in >= 2% of patients receiving teflaro in the pooled phase 3 clinical trials.
+
+
+
+ table 4: adverse reactions occurring in >= 2% of patients receiving teflaro in the pooled phase 3 clinical trials 
+  a comparators included vancomycin 1 gram iv every 12h plus aztreonam 1 gram iv every 12h in the phase 3 absssi trials, and ceftriaxone 1 gram iv every 24h in the phase 3 cabp trials.    
+  
+   adverse reactions                           pooled phase 3 clinical trials    (four trials, two in absssi and two in cabp)     
+   teflaro    (n=1300)                         pooled comparators      a      (n=1297)     
+   gastrointestinal disorders                 
+ diarrhea                                    5 %                           3 %                            
+ nausea                                      4 %                           4 %                            
+ constipation                                2 %                           2 %                            
+ vomiting                                    2 %                           2 %                            
+   laboratory investigations                  
+ increased transaminases                     2%                            3 %                            
+   metabolism and nutrition disorders         
+ hypokalemia                                 2 %                           3 %                            
+   skin and subcutaneous tissue disorders     
+ rash                                        3%                            2%                             
+   vascular disorders                         
+ phlebitis                                   2%                            1%                             
+             other adverse reactions observed during clinical trials of teflaro  
+ 
+
+ following is a list of additional adverse reactions reported by the 1740 patients who received teflaro in any clinical trial with incidences less than 2%.
+
+
+
+   blood and lymphatic system disorders  - anemia, eosinophilia, neutropenia, thrombocytopenia
+
+
+
+   cardiac disorders  - bradycardia, palpitations
+
+
+
+   gastrointestinal disorders  - abdominal pain
+
+
+
+   general disorders and administration site conditions  - pyrexia
+
+
+
+   hepatobiliary disorders -  hepatitis
+
+
+
+   immune system disorders  - hypersensitivity, anaphylaxis
+
+
+
+   infections and infestations  -  clostridium difficile  colitis
+
+
+
+   metabolism and nutrition disorders  - hyperglycemia, hyperkalemia
+
+
+
+   nervous system disorders  - dizziness, convulsion
+
+
+
+   renal and urinary disorders  - renal failure
+
+
+
+   skin and subcutaneous tissue disorders  - urticaria
+
+
+
+   6.2 postmarketing experience
+
+  the following adverse reaction has been identified during postapproval use of teflaro. because this adverse reaction was reported voluntarily from a population of uncertain size, it is not possible to estimate its frequency or establish a causal relationship to drug exposure.
+
+
+
+   blood and lymphatic system disorders  : agranulocytosis.
+    5. warnings and precautions
+
+
+
+   excerpt:    *  serious hypersensitivity (anaphylactic) reactions have been reported with beta-lactam antibacterial drugs, including teflaro. if a hypersensitivity reaction occurs, discontinue teflaro. (  5.1  ) 
+ *   clostridium difficile -associated diarrhea (cdad) has been reported with nearly all systemic antibacterial agents, including teflaro. evaluate if diarrhea occurs. (  5.2  ) 
+ *  direct coombs' test seroconversion has been reported with teflaro. if anemia develops during or after therapy, a diagnostic workup for drug-induced hemolytic anemia should be performed and consideration given to discontinuation of teflaro. (  5.3  ) 
+    
+ 
+
+   5.1 hypersensitivity reactions
+
+
+
+  serious and occasionally fatal hypersensitivity (anaphylactic) reactions and serious skin reactions have been reported in patients receiving beta-lactam antibacterial drugs. before therapy with teflaro is instituted, careful inquiry about previous hypersensitivity reactions to other cephalosporins, penicillins, or carbapenems should be made. maintain clinical supervision if this product is to be given to a penicillin- or other beta-lactam-allergic patient, because cross sensitivity among beta-lactam antibacterial agents has been clearly established.
+
+
+
+ if an allergic reaction to teflaro occurs, discontinue teflaro and institute appropriate treatment and supportive measures.
+
+
+
+    5.2 clostridium difficile-associated diarrhea
+
+
+
+   clostridium difficile  -associated diarrhea (cdad) has been reported for nearly all systemic antibacterial agents, including teflaro, and may range in severity from mild diarrhea to fatal colitis.
+
+
+
+ treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of c. difficile  .
+
+
+
+  c. difficile  produces toxins a and b which contribute to the development of cdad. hypertoxin-producing strains of c. difficile  cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. cdad must be considered in all patients who present with diarrhea following antibiotic use. careful medical history is necessary because cdad has been reported to occur more than 2 months after the administration of antibacterial agents.
+
+
+
+ if cdad is suspected or confirmed, antibacterials not directed against c. difficile  should be discontinued, if possible. appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of c. difficile  , and surgical evaluation should be instituted as clinically indicated [see adverse reactions (  6.1  )].  
+
+
+
+    5.3 direct coombs' test seroconversion
+
+
+
+  seroconversion from a negative to a positive direct coombs' test result occurred in 120/1114 (10.8%) of patients receiving teflaro and 49/1116 (4.4%) of patients receiving comparator drugs in the four pooled phase 3 trials.
+
+
+
+ in the pooled phase 3 cabp trials, 51/520 (9.8%) of teflaro-treated patients compared to 24/534 (4.5%) of ceftriaxone-treated patients seroconverted from a negative to a positive direct coombs' test result. no adverse reactions representing hemolytic anemia were reported in any treatment group.
+
+
+
+ if anemia develops during or after treatment with teflaro, drug-induced hemolytic anemia should be considered. diagnostic studies including a direct coombs' test, should be performed. if drug-induced hemolytic anemia is suspected, discontinuation of teflaro should be considered and supportive care should be administered to the patient (i.e. transfusion) if clinically indicated.
+
+
+
+    5.4 development of drug-resistant bacteria
+
+
+
+  prescribing teflaro in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

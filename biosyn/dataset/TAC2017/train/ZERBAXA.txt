@@ -1,0 +1,134 @@
+    6 adverse reactions
+
+  the following serious reactions are described in greater detail in the warnings and precautions section:
+
+
+
+ *  hypersensitivity reactions [see  warnings and precautions (5.2)  ]  
+ *   clostridium difficile -associated diarrhea [see  warnings and precautions (5.3)  ]  
+      excerpt:   the most common adverse reactions (>=5% in either indication) are nausea, diarrhea, headache and pyrexia. (  6.1  )  to report suspected adverse reactions, contact merck sharp & dohme corp., a subsidiary of merck & co., inc., at 1-877-888-4231 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 clinical trial experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and also may not reflect rates observed in practice.
+
+
+
+ zerbaxa was evaluated in phase 3 comparator-controlled clinical trials of ciai and cuti, which included a total of 1015 patients treated with zerbaxa and 1032 patients treated with comparator (levofloxacin 750 mg daily in cuti or meropenem 1 g every 8 hours in ciai) for up to 14 days. the mean age of treated patients was 48 to 50 years (range 18 to 92 years), across treatment arms and indications. in both indications, about 25% of the subjects were 65 years of age or older. most patients (75%) enrolled in the cuti trial were female, and most patients (58%) enrolled in the ciai trial were male. most patients (>70%) in both trials were enrolled in eastern europe and were white.
+
+
+
+ the most common adverse reactions (5% or greater in either indication) occurring in patients receiving zerbaxa were nausea, diarrhea, headache, and pyrexia. table 5 lists adverse reactions occurring in 1% or greater of patients receiving zerbaxa in phase 3 clinical trials.
+
+
+
+ table 5: adverse reactions occurring in 1% or greater of patients receiving zerbaxa in phase 3 clinical trials 
+ preferred term        complicated intra-abdominal infections  complicated urinary tract infections, including pyelonephritis   
+ zerbaxa(n=482)          meropenem(n=497)       zerbaxa(n=533)     levofloxacin(n=535)    
+  
+ nausea                      38 (7.9)              29 (5.8)              15 (2.8)              9 (1.7)          
+ headache                    12 (2.5)              9 (1.8)               31 (5.8)              26 (4.9)         
+ diarrhea                    30 (6.2)               25 (5)               10 (1.9)              23 (4.3)         
+ pyrexia                     27 (5.6)               20 (4)               9 (1.7)               5 (0.9)          
+ constipation                9 (1.9)               6 (1.2)               21 (3.9)              17 (3.2)         
+ insomnia                    17 (3.5)              11 (2.2)              7 (1.3)               14 (2.6)         
+ vomiting                    16 (3.3)               20 (4)               6 (1.1)               6 (1.1)          
+ hypokalemia                 16 (3.3)               10 (2)               4 (0.8)               2 (0.4)          
+ alt increased               7 (1.5)                5 (1)                9 (1.7)               5 (0.9)          
+ ast increased                5 (1)                3 (0.6)               9 (1.7)               5 (0.9)          
+ anemia                      7 (1.5)                5 (1)                2 (0.4)               5 (0.9)          
+ thrombocytosis              9 (1.9)                5 (1)                2 (0.4)               2 (0.4)          
+ abdominal pain              6 (1.2)               2 (0.4)               4 (0.8)               2 (0.4)          
+ anxiety                     9 (1.9)               7 (1.4)               1 (0.2)               4 (0.7)          
+ dizziness                   4 (0.8)                5 (1)                6 (1.1)               1 (0.2)          
+ hypotension                 8 (1.7)               4 (0.8)               2 (0.4)               1 (0.2)          
+ atrial fibrillation         6 (1.2)               3 (0.6)               1 (0.2)                  0             
+ rash                        8 (1.7)               7 (1.4)               5 (0.9)               2 (0.4)          
+           treatment discontinuation due to adverse events occurred in 2.0% (20/1015) of patients receiving zerbaxa and 1.9% (20/1032) of patients receiving comparator drugs. renal impairment (including the terms renal impairment, renal failure, and renal failure acute) led to discontinuation of treatment in 5/1015 (0.5%) subjects receiving zerbaxa and none in the comparator arms.
+ 
+
+     increased mortality  
+
+
+
+ in the ciai trials (phase 2 and 3), death occurred in 2.5% (14/564) of patients receiving zerbaxa and in 1.5% (8/536) of patients receiving meropenem. the causes of death varied and included worsening and/or complications of infection, surgery and underlying conditions.
+
+
+
+     less common adverse reactions  
+
+
+
+ the following selected adverse reactions were reported in zerbaxa-treated subjects at a rate of less than 1%:
+
+
+
+ *      cardiac disorders: tachycardia, angina pectoris 
+ *      gastrointestinal disorders: ileus, gastritis, abdominal distension, dyspepsia, flatulence, ileus paralytic 
+ *      general disorders and administration site conditions: infusion site reactions 
+ *      infections and infestations: candidiasis, oropharyngeal, fungal urinary tract infection 
+ *      investigations: increased serum gamma-glutamyl transpeptidase (ggt), increased serum alkaline phosphatase, positive coombs test 
+ *      metabolism and nutrition disorders: hyperglycemia, hypomagnesemia, hypophosphatemia 
+ *      nervous system disorders: ischemic stroke 
+ *      renal and urinary system: renal impairment, renal failure 
+ *      respiratory, thoracic and mediastinal disorders: dyspnea 
+ *      skin and subcutaneous tissue disorders: urticaria 
+ *      vascular disorders: venous thrombosis 
+    5 warnings and precautions
+
+
+
+   excerpt:    *  decreased efficacy in patients with baseline crcl of 30 to <=50 ml/min. monitor crcl at least daily in patients with changing renal function and adjust the dose of zerbaxa accordingly. (  5.1  ) 
+ *  serious hypersensitivity (anaphylactic) reactions have been reported with beta-lactam antibacterial drugs. exercise caution in patients with known hypersensitivity to beta-lactam antibacterial drugs. (  5.2  ) 
+ *   clostridium difficile -associated diarrhea (cdad) has been reported with nearly all systemic antibacterial agents, including zerbaxa. evaluate if diarrhea occurs. (  5.3  ) 
+    
+ 
+
+   5.1 decreased efficacy in patients with baseline creatinine clearance of 30 to <=50 ml/min
+
+
+
+  in a subgroup analysis of a phase 3 ciai trial, clinical cure rates were lower in patients with baseline creatinine clearance (crcl) of 30 to <=50 ml/min compared to those with crcl >=50 ml/min (table 4). the reduction in clinical cure rates was more marked in the zerbaxa plus metronidazole arm compared to the meropenem arm. a similar trend was also seen in the cuti trial. monitor crcl at least daily in patients with changing renal function and adjust the dosage of zerbaxa accordingly [see  dosage and administration (2.2)  ]  .
+
+
+
+ table 4: clinical cure rates in a phase 3 trial of ciai by baseline renal function (mitt population) 
+ baseline renal function             zerbaxa plus metronidazolen/n (%)          meropenemn/n (%)            
+  
+ normal/mild impairment(crcl >=50 ml/min)           312/366 (85.2)                     355/404 (87.9)             
+ moderate impairment(crcl 30 to <=50 ml/min)            11/23 (47.8)                        9/13 (69.2)              
+            5.2 hypersensitivity reactions
+ 
+
+  serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients receiving beta-lactam antibacterial drugs.
+
+
+
+ before initiating therapy with zerbaxa, make careful inquiry about previous hypersensitivity reactions to other cephalosporins, penicillins, or other beta-lactams. if this product is to be given to a patient with a cephalosporin, penicillin, or other beta-lactam allergy, exercise caution because cross sensitivity has been established. if an anaphylactic reaction to zerbaxa occurs, discontinue the drug and institute appropriate therapy.
+
+
+
+    5.3 clostridium difficile  -associated diarrhea
+
+
+
+   clostridium difficile  -associated diarrhea (cdad) has been reported for nearly all systemic antibacterial agents, including zerbaxa, and may range in severity from mild diarrhea to fatal colitis. treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of c  . difficile  .
+
+
+
+  c. difficile  produces toxins a and b which contribute to the development of cdad. cdad must be considered in all patients who present with diarrhea following antibacterial use. careful medical history is necessary because cdad has been reported to occur more than 2 months after the administration of antibacterial agents.
+
+
+
+ if cdad is confirmed, discontinue antibacterials not directed against c. difficile  , if possible. manage fluid and electrolyte levels as appropriate, supplement protein intake, monitor antibacterial treatment of c. difficile  , and institute surgical evaluation as clinically indicated.
+
+
+
+    5.4 development of drug-resistant bacteria
+
+
+
+  prescribing zerbaxa in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and risks the development of drug-resistant bacteria.

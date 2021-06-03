@@ -1,0 +1,161 @@
+    6  adverse reactions
+
+  the following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *  liver enzyme and bilirubin elevations [see warnings and precautions  (5.1)  ]  
+ *  gastrointestinal disorders [see warnings and precautions (  5.2  )]  
+ *  embryofetal toxicity [see warnings and precautions (  5.3  )]  
+ *  arterial thromboembolic events [see warnings and precautions (  5.4  )]  
+ *  risk of bleeding [see warnings and precautions (  5.5  )]  
+ *  gastrointestinal perforation [see warnings and precautions (  5.6  )]  
+      excerpt:   most common adverse reactions (>=5%) are: diarrhea, nausea, abdominal pain, vomiting, liver enzyme elevation, decreased appetite, headache, weight decreased, hypertension. (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact boehringer ingelheim pharmaceuticals, inc. at (800) 542-6257 or (800) 459-9906 tty or fda at 1-800-fda-1088 or    www.fda.gov/medwatch    .  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the safety of ofev was evaluated in over 1000 ipf patients with over 200 patients exposed to ofev for more than 2 years in clinical trials.
+
+
+
+ ofev was studied in three randomized, double-blind, placebo-controlled, 52-week trials. in the phase 2 (study 1) and phase 3 (studies 2 and 3) trials, 723 patients with ipf received ofev 150 mg twice daily and 508 patients received placebo. the median duration of exposure was 10 months for patients treated with ofev and 11 months for patients treated with placebo. subjects ranged in age from 42 to 89 years (median age of 67 years). most patients were male (79%) and caucasian (60%).
+
+
+
+ the most frequent serious adverse reactions reported in patients treated with ofev, more than placebo, were bronchitis (1.2% vs. 0.8%) and myocardial infarction (1.5% vs. 0.4%). the most common adverse events leading to death in patients treated with ofev, more than placebo, were pneumonia (0.7% vs. 0.6%), lung neoplasm malignant (0.3% vs. 0%), and myocardial infarction (0.3% vs. 0.2%). in the predefined category of major adverse cardiovascular events (mace) including mi, fatal events were reported in 0.6% of ofev-treated patients and 1.8% of placebo-treated patients.
+
+
+
+ adverse reactions leading to permanent dose reductions were reported in 16% of ofev-treated patients and 1% of placebo-treated patients. the most frequent adverse reaction that led to permanent dose reduction in the patients treated with ofev was diarrhea (11%).
+
+
+
+ adverse reactions leading to discontinuation were reported in 21% of ofev-treated patients and 15% of placebo-treated patients. the most frequent adverse reactions that led to discontinuation in ofev-treated patients were diarrhea (5%), nausea (2%), and decreased appetite (2%).
+
+
+
+ the most common adverse reactions with an incidence of >=5% and more frequent in the ofev than placebo treatment group are listed in table 1.
+
+
+
+ table 1 adverse reactions occurring in >=5% of ofev-treated patients and more commonly than placebo in studies 1, 2, and 3 
+   a  includes abdominal pain, abdominal pain upper, abdominal pain lower, gastrointestinal pain and abdominal tenderness.  b  includes gamma-glutamyltransferase increased, hepatic enzyme increased, alanine aminotransferase increased, aspartate aminotransferase increased, hepatic function abnormal, liver function test abnormal, transaminase increased, blood alkaline phosphatase-increased, alanine aminotransferase abnormal, aspartate aminotransferase abnormal, and gamma-glutamyltransferase abnormal.  c  includes hypertension, blood pressure increased, hypertensive crisis, and hypertensive cardiomyopathy.   
+  
+   adverse reaction      ofev, 150 mgn=723              placebon=508             
+   gastrointestinal disorders                                                        
+        diarrhea                       62%                               18%                  
+        nausea                         24%                                7%                  
+        abdominal pain  a                  15%                                6%                  
+        vomiting                       12%                                3%                  
+   hepatobiliary disorders                                                        
+        liver enzyme elevation  b                  14%                                3%                  
+   metabolism and nutrition disorders                                                        
+        decreased appetite                11%                                5%                  
+   nervous systemic disorders                                                        
+        headache                        8%                                5%                  
+   investigations                                                        
+        weight decreased                10%                                3%                  
+   vascular disorders                                                        
+        hypertension  c                   5%                                4%                  
+      in addition, hypothyroidism was reported in patients treated with ofev, more than placebo (1.1% vs. 0.6%).
+    5  warnings and precautions
+
+
+
+   excerpt:    *  elevated liver enzymes: alt, ast, and bilirubin elevations have occurred with ofev. monitor alt, ast, and bilirubin before and during treatment. temporary dosage reductions or discontinuations may be required. (  2.1  ,  5.1  ) 
+ *  gastrointestinal disorders: diarrhea, nausea, and vomiting have occurred with ofev. treat patients at first signs with adequate hydration and antidiarrheal medicine (e.g., loperamide) or anti-emetics. discontinue ofev if severe diarrhea, nausea, or vomiting persists despite symptomatic treatment. (  5.2  ) 
+ *  embryofetal toxicity: women of childbearing potential should be advised of the potential hazard to the fetus and to avoid becoming pregnant. (  5.3  ) 
+ *  arterial thromboembolic events have been reported. use caution when treating patients at higher cardiovascular risk including known coronary artery disease. (  5.4  ) 
+ *  bleeding events have been reported. use ofev in patients with known bleeding risk only if anticipated benefit outweighs the potential risk. (  5.5  ) 
+ *  gastrointestinal perforation has been reported. use ofev with caution when treating patients with recent abdominal surgery. discontinue ofev in patients who develop gastrointestinal perforation. only use ofev in patients with known risk of gastrointestinal perforation if the anticipated benefit outweighs the potential risk. (  5.6  ) 
+    
+ 
+
+   5.1 elevated liver enzymes
+
+
+
+  the safety and efficacy of ofev has not been studied in patients with moderate (child pugh b) or severe (child pugh c) hepatic impairment. treatment with ofev is not recommended in patients with moderate or severe hepatic impairment [see use in specific populations (  8.6  ) and clinical pharmacology (  12.3  )].  
+
+
+
+ in clinical trials, administration of ofev was associated with elevations of liver enzymes (alt, ast, alkp, ggt). liver enzyme increases were reversible with dose modification or interruption and not associated with clinical signs or symptoms of liver injury. the majority (94%) of patients with alt and/or ast elevations had elevations <5 times uln. administration of ofev was also associated with elevations of bilirubin. the majority (95%) of patients with bilirubin elevations had elevations <2 times uln [see use in specific populations (  8.6  ) and clinical pharmacology (  12.3  )].  
+
+
+
+ conduct liver function tests (alt, ast, and bilirubin) prior to treatment with ofev, monthly for 3 months, and every 3 months thereafter, and as clinically indicated. dosage modifications or interruption may be necessary for liver enzyme elevations [see dosage and administration (  2.1  ,  2.3  )].  
+
+
+
+    5.2 gastrointestinal disorders
+
+
+
+   diarrhea  diarrhea was the most frequent gastrointestinal event reported in 62% versus 18% of patients treated with ofev and placebo, respectively [see adverse reactions (  6.1  )].  in most patients, the event was of mild to moderate intensity and occurred within the first 3 months of treatment. diarrhea led to permanent dose reduction in 11% of patients treated with ofev compared to 0 placebo-treated patients. diarrhea led to discontinuation of ofev in 5% of the patients compared to <1% of placebo-treated patients.
+
+
+
+ dosage modifications or treatment interruptions may be necessary in patients with adverse reactions of diarrhea. treat diarrhea at first signs with adequate hydration and antidiarrheal medication (e.g., loperamide), and consider treatment interruption if diarrhea continues [see dosage and administration (  2.3  )].  ofev treatment may be resumed at the full dosage (150 mg twice daily), or at the reduced dosage (100 mg twice daily), which subsequently may be increased to the full dosage. if severe diarrhea persists despite symptomatic treatment, discontinue treatment with ofev.
+
+
+
+  nausea and vomiting  nausea was reported in 24% versus 7% and vomiting was reported in 12% versus 3% of patients treated with ofev and placebo, respectively [see adverse reactions (  6.1  )]  . in most patients, these events were of mild to moderate intensity. nausea led to discontinuation of ofev in 2% of patients. vomiting led to discontinuation of ofev in 1% of the patients.
+
+
+
+ for nausea or vomiting that persists despite appropriate supportive care including anti-emetic therapy, dose reduction or treatment interruption may be required [see dosage and administration (  2.3  )]  . ofev treatment may be resumed at the full dosage (150 mg twice daily), or at the reduced dosage (100 mg twice daily), which subsequently may be increased to the full dosage. if severe nausea or vomiting does not resolve, discontinue treatment with ofev.
+
+
+
+    5.3 embryofetal toxicity
+
+
+
+  ofev can cause fetal harm when administered to a pregnant woman. nintedanib was teratogenic and embryofetocidal in rats and rabbits at less than and approximately 5 times the maximum recommended human dose (mrhd) in adults (on an auc basis at oral doses of 2.5 and 15 mg/kg/day in rats and rabbits, respectively). if ofev is used during pregnancy, or if the patient becomes pregnant while taking ofev, the patient should be advised of the potential hazard to a fetus. women of childbearing potential should be advised to avoid becoming pregnant while receiving treatment with ofev and to use adequate contraception during treatment and at least 3 months after the last dose of ofev [see use in specific populations (  8.1  )].  
+
+
+
+    5.4 arterial thromboembolic events
+
+
+
+  arterial thromboembolic events have been reported in patients taking ofev. in clinical trials, arterial thromboembolic events were reported in 2.5% of patients treated with ofev and 0.8% of placebo-treated patients. myocardial infarction was the most common adverse reaction under arterial thromboembolic events, occurring in 1.5% of ofev-treated patients compared to 0.4% of placebo-treated patients.
+
+
+
+ use caution when treating patients at higher cardiovascular risk including known coronary artery disease. consider treatment interruption in patients who develop signs or symptoms of acute myocardial ischemia.
+
+
+
+    5.5 risk of bleeding
+
+
+
+  based on the mechanism of action (vegfr inhibition), ofev may increase the risk of bleeding. in clinical trials, bleeding events were reported in 10% of patients treated with ofev and in 7% of patients treated with placebo.
+
+
+
+ use ofev in patients with known risk of bleeding only if the anticipated benefit outweighs the potential risk.
+
+
+
+    5.6 gastrointestinal perforation
+
+
+
+  based on the mechanism of action, ofev may increase the risk of gastrointestinal perforation. in clinical trials, gastrointestinal perforation was reported in 0.3% of patients treated with ofev, compared to 0 cases in the placebo-treated patients.
+
+
+
+ use caution when treating patients who have had recent abdominal surgery. discontinue therapy with ofev in patients who develop gastrointestinal perforation. only use ofev in patients with known risk of gastrointestinal perforation if the anticipated benefit outweighs the potential risk.

@@ -1,0 +1,43 @@
+    6 adverse reactions
+
+  excerpt:   hypersensitivity and injection site reactions have been reported following datscan administration. (  6.2  ) in clinical trials, the most common adverse reactions, headache, nausea, vertigo, dry mouth or dizziness occurred in < 1% of subjects. (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact ge healthcare at 1-800-654-0118 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical study experience
+
+  the data from clinical studies reflect exposure to datscan in 942 subjects with a mean age of 66 years (range 25 to 90 years). among these subjects, 42% were women and 99% caucasian. because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of datscan cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. in clinical trials, no serious adverse reactions were reported. other adverse reactions occurred at a rate of 1% or less and the reported events consisted of headache, nausea, vertigo, dry mouth or dizziness. these reactions were of mild to moderate severity.
+
+
+
+   6.2 postmarketing experience
+
+  because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. in the postmarketing experience, hypersensitivity reactions have been reported. the reactions generally related to rash and pruritis within minutes of datscan administration. the reactions either resolved spontaneously or following the administration of corticosteroids and antihistamines. injection site pain has also been reported.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  hypersensitivity reactions have been reported following datscan administration. have anaphylactic and hypersensitivity treatment measures available prior to datscan administration. (  5.1  ) 
+ *  administer a thyroid-blocking agent before datscan administration. (  5.2  ) 
+    
+ 
+
+   5.1 hypersensitivity reactions
+
+
+
+  hypersensitivity reactions have been reported following datscan administration [ see  adverse reactions (6.2)    ]. the reactions have generally consisted of skin erythema and pruritis and have either resolved spontaneously or following the administration of corticosteroids and anti-histamines. prior to administration, question the patient for a history of prior reactions to datscan. if the patient is known or strongly suspected of having had a hypersensitivity reaction to datscan, the decision to administer datscan should be based upon an assessment of the expected benefits compared to the potential hypersensitivity risks. have anaphylactic and hypersensitivity treatment measures available prior to datscan administration and, following administration, observe patients for symptoms or signs of a hypersensitivity reaction.
+
+
+
+    5.2 thyroid accumulation
+
+
+
+  the datscan injection may contain up to 6% of free iodide (iodine 123). to decrease thyroid accumulation of iodine 123, block the thyroid gland before administration of datscan [ see  dosage and administration (2.2)    ]. avoid the use of potassium iodide oral solution or lugol's solution in patients who are sensitive to such products. failure to block thyroid uptake of iodine 123 may result in an increased long term risk for thyroid neoplasia.

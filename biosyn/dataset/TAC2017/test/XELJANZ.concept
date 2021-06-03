@@ -1,0 +1,113 @@
+-1||-1|-1||-1||upper respiratory tract infections||10046306
+-1||-1|-1||-1||headache||10019211
+-1||-1|-1||-1||diarrhea||10012735
+-1||-1|-1||-1||nasopharyngitis||10028810
+-1||-1|-1||-1||infections||10021789
+-1||-1|-1||-1||urinary tract infections||10046571
+-1||-1|-1||-1||pneumonia||10035664
+-1||-1|-1||-1||cellulitis||10007882
+-1||-1|-1||-1||herpes zoster||10019974
+-1||-1|-1||-1||urinary tract infection||10046571
+-1||-1|-1||-1||tuberculosis||10044755
+-1||-1|-1||-1||disseminated tuberculosis||10013453
+-1||-1|-1||-1||opportunistic infections||10030901
+-1||-1|-1||-1||opportunistic infection||10030901
+-1||-1|-1||-1||malignancies||10028997
+-1||-1|-1||-1||lymphoma||10025310
+-1||-1|-1||-1||malignancy||10028997
+-1||-1|-1||-1||lung cancer||10058467
+-1||-1|-1||-1||breast cancer||10006187
+-1||-1|-1||-1||gastric cancer||10017758
+-1||-1|-1||-1||colorectal cancer||10061451
+-1||-1|-1||-1||renal cell cancer||10067946
+-1||-1|-1||-1||prostate cancer||10060862
+-1||-1|-1||-1||malignant melanoma||10025650
+-1||-1|-1||-1||absolute lymphocyte counts below 500 cells/mm 3||10025256
+-1||-1|-1||-1||lymphocyte counts less than 500 cells/mm 3||10025256
+-1||-1|-1||-1||decreases in anc||10029366
+-1||-1|-1||-1||increases in liver enzymes||10060795
+-1||-1|-1||-1||liver enzyme elevation||10060795
+-1||-1|-1||-1||alt elevations||10001551
+-1||-1|-1||-1||ast elevations||10003481
+-1||-1|-1||-1||liver injury||10067125
+-1||-1|-1||-1||elevations of ast||10003481
+-1||-1|-1||-1||elevations of alt||10001551
+-1||-1|-1||-1||bilirubin elevations||10005364
+-1||-1|-1||-1||elevations in lipid parameters||10024592
+-1||-1|-1||-1||elevations in total cholesterol||10005425
+-1||-1|-1||-1||elevations in ldl cholesterol||10024910
+-1||-1|-1||-1||elevations in hdl cholesterol||10020061
+-1||-1|-1||-1||elevations in triglycerides||10005839
+-1||-1|-1||-1||mean ldl cholesterol increased||10024910
+-1||-1|-1||-1||mean hdl cholesterol increased||10020061
+-1||-1|-1||-1||elevations in serum creatinine||10005483
+-1||-1|-1||-1||increase in serum creatinine||10005483
+-1||-1|-1||-1||increase in creatinine||10005483
+-1||-1|-1||-1||upper respiratory tract infection||10046306
+-1||-1|-1||-1||hypertension||10020772
+-1||-1|-1||-1||anemia||10002034
+-1||-1|-1||-1||diverticulitis||10013538
+-1||-1|-1||-1||dehydration||10012174
+-1||-1|-1||-1||insomnia||10022437
+-1||-1|-1||-1||paresthesia||10033775
+-1||-1|-1||-1||dyspnea||10013968
+-1||-1|-1||-1||cough||10011224
+-1||-1|-1||-1||sinus congestion||10040742
+-1||-1|-1||-1||abdominal pain||10000081
+-1||-1|-1||-1||dyspepsia||10013946
+-1||-1|-1||-1||vomiting||10047700
+-1||-1|-1||-1||gastritis||10017853
+-1||-1|-1||-1||nausea||10028813
+-1||-1|-1||-1||hepatic steatosis||10019708
+-1||-1|-1||-1||rash||10037844
+-1||-1|-1||-1||erythema||10015150
+-1||-1|-1||-1||pruritus||10037087
+-1||-1|-1||-1||musculoskeletal pain||10028391
+-1||-1|-1||-1||arthralgia||10003239
+-1||-1|-1||-1||tendonitis||10043255
+-1||-1|-1||-1||joint swelling||10023232
+-1||-1|-1||-1||non-melanoma skin cancers||10040808
+-1||-1|-1||-1||pyrexia||10037660
+-1||-1|-1||-1||fatigue||10016256
+-1||-1|-1||-1||peripheral edema||10030124
+-1||-1|-1||-1||death||10011906
+-1||-1|-1||-1||bacterial opportunistic infections||10060945|10030901
+-1||-1|-1||-1||invasive fungal opportunistic infections||10030901|10052366
+-1||-1|-1||-1||viral opportunistic infections||10030901|10047461
+-1||-1|-1||-1||post-transplant lymphoproliferative disorder||10051358
+-1||-1|-1||-1||active tuberculosis||10044755
+-1||-1|-1||-1||tuberculosis pulmonary||10037440
+-1||-1|-1||-1||tuberculosis extrapulmonary||10064445
+-1||-1|-1||-1||invasive fungal infections||10052366
+-1||-1|-1||-1||cryptococcosis||10011490
+-1||-1|-1||-1||pneumocystosis||10073755
+-1||-1|-1||-1||fungal infections disseminated||10052366
+-1||-1|-1||-1||bacterial infections opportunistic||10060945|10030901
+-1||-1|-1||-1||viral infections opportunistic||10030901|10047461
+-1||-1|-1||-1||infections opportunistic||10030901
+-1||-1|-1||-1||gastrointestinal perforations||10018001
+-1||-1|-1||-1||infections disseminated||10077116
+-1||-1|-1||-1||fatal||10011906
+-1||-1|-1||-1||infections bk virus||10055181
+-1||-1|-1||-1||mycobacterial infections||10062207
+-1||-1|-1||-1||esophageal candidiasis||10030154
+-1||-1|-1||-1||multidermatomal herpes zoster||10074297
+-1||-1|-1||-1||cytomegalovirus||10011831
+-1||-1|-1||-1||histoplasmosis||10020141
+-1||-1|-1||-1||coccidioidomycosis||10009825
+-1||-1|-1||-1||listeriosis||10024641
+-1||-1|-1||-1||viral reactivation||10047461|10070891
+-1||-1|-1||-1||herpes virus reactivation||10019973
+-1||-1|-1||-1||reactivation herpes zoster||10019974
+-1||-1|-1||-1||solid cancers||10028997
+-1||-1|-1||-1||lymphomas||10025310
+-1||-1|-1||-1||nmscs||10040808
+-1||-1|-1||-1||gastrointestinal perforation||10018001
+-1||-1|-1||-1||lymphocytosis||10025280
+-1||-1|-1||-1||neutropenia||10029354
+-1||-1|-1||-1||increases in lipid parameters||10024592
+-1||-1|-1||-1||increases in total cholesterol||10005425
+-1||-1|-1||-1||increases in low-density lipoprotein cholesterol||10024910
+-1||-1|-1||-1||increases in ldl cholesterol||10024910
+-1||-1|-1||-1||increases in high-density lipoprotein cholesterol||10020061
+-1||-1|-1||-1||increases in hdl cholesterol||10020061

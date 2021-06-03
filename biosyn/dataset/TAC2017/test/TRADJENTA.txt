@@ -1,0 +1,144 @@
+    6  adverse reactions
+
+   excerpt:    *  adverse reactions reported in >=5% of patients treated with tradjenta and more commonly than in patients treated with placebo included nasopharyngitis  (6.1)   
+ *  hypoglycemia was more commonly reported in patients treated with the combination of tradjenta and sulfonylurea compared with those treated with the combination of placebo and sulfonylurea  (6.1)   
+    
+ 
+
+     to report suspected adverse reactions, contact boehringer ingelheim pharmaceuticals, inc. at 1-800-542-6257 or 1-800-459-9906 tty, or fda at 1-800-fda-1088 or www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1  clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the safety evaluation of tradjenta 5 mg once daily in patients with type 2 diabetes is based on 14 placebo-controlled trials, 1 active-controlled study, and one study in patients with severe renal impairment. in the 14 placebo-controlled studies, a total of 3625 patients were randomized and treated with tradjenta 5 mg daily and 2176 with placebo. the mean exposure in patients treated with tradjenta across studies was 29.6 weeks. the maximum follow-up was 78 weeks.
+
+
+
+ tradjenta 5 mg once daily was studied as monotherapy in three placebo-controlled trials of 18 and 24 weeks' duration and in five additional placebo-controlled studies lasting <=18 weeks. the use of tradjenta in combination with other antihyperglycemic agents was studied in six placebo-controlled trials: two with metformin (12 and 24 weeks' treatment duration); one with a sulfonylurea (18 weeks' treatment duration); one with metformin and sulfonylurea (24 weeks' treatment duration); one with pioglitazone (24 weeks' treatment duration); and one with insulin (primary endpoint at 24 weeks).
+
+
+
+ in a pooled dataset of 14 placebo-controlled clinical trials, adverse reactions that occurred in >=2% of patients receiving tradjenta (n = 3625) and more commonly than in patients given placebo (n = 2176), are shown in table 1. the overall incidence of adverse events with tradjenta were similar to placebo.
+
+
+
+ table 1 adverse reactions reported in >=2% of patients treated with tradjenta and greater than placebo in placebo-controlled clinical studies of tradjenta monotherapy or combination therapy 
+                    number (%) of patients     
+   tradjenta 5 mgn = 3625      placebon = 2176     
+ nasopharyngitis  254 (7.0)        132 (6.1)         
+ diarrhea         119 (3.3)        65 (3.0)          
+ cough            76 (2.1)         30 (1.4)          
+      rates for other adverse reactions for tradjenta 5 mg vs placebo when tradjenta was used in combination with specific anti-diabetic agents were: urinary tract infection (3.1% vs 0%) and hypertriglyceridemia (2.4% vs 0%) when tradjenta was used as add-on to sulfonylurea; hyperlipidemia (2.7% vs 0.8%) and weight increased (2.3% vs 0.8%) when tradjenta was used as add-on to pioglitazone; and constipation (2.1% vs 1%) when tradjenta was used as add-on to basal insulin therapy.
+ 
+
+ following 104 weeks' treatment in a controlled study comparing tradjenta with glimepiride in which all patients were also receiving metformin, adverse reactions reported in >=5% of patients treated with tradjenta (n = 776) and more frequently than in patients treated with a sulfonylurea (n = 775) were back pain (9.1% vs 8.4%), arthralgia (8.1% vs 6.1%), upper respiratory tract infection (8.0% vs 7.6%), headache (6.4% vs 5.2%), cough (6.1% vs 4.9%), and pain in extremity (5.3% vs 3.9%).
+
+
+
+ other adverse reactions reported in clinical studies with treatment of tradjenta were hypersensitivity (e.g., urticaria, angioedema, localized skin exfoliation, or bronchial hyperreactivity), and myalgia. in the clinical trial program, pancreatitis was reported in 15.2 cases per 10,000 patient year exposure while being treated with tradjenta compared with 3.7 cases per 10,000 patient year exposure while being treated with comparator (placebo and active comparator, sulfonylurea). three additional cases of pancreatitis were reported following the last administered dose of linagliptin.
+
+
+
+   
+
+    hypoglycemia  in the placebo-controlled studies, 199 (6.6%) of the total 2994 patients treated with tradjenta 5 mg reported hypoglycemia compared to 56 patients (3.6%) of 1546 placebo-treated patients. the incidence of hypoglycemia was similar to placebo when tradjenta was administered as monotherapy or in combination with metformin, or with pioglitazone. when tradjenta was administered in combination with metformin and a sulfonylurea, 181 of 792 (22.9%) patients reported hypoglycemia compared with 39 of 263 (14.8%) patients administered placebo in combination with metformin and a sulfonylurea. adverse reactions of hypoglycemia were based on all reports of hypoglycemia. a concurrent glucose measurement was not required or was normal in some patients. therefore, it is not possible to conclusively determine that all these reports reflect true hypoglycemia.
+
+
+
+ in the study of patients receiving tradjenta as add-on therapy to a stable dose of insulin for up to 52 weeks (n=1261), no significant difference in the incidence of investigator reported hypoglycemia, defined as all symptomatic or asymptomatic episodes with a self-measured blood glucose <=70 mg/dl, was noted between the tradjenta- (31.4%) and placebo- (32.9%) treated groups. during the same time period, severe hypoglycemic events, defined as requiring the assistance of another person to actively administer carbohydrate, glucagon or other resuscitative actions, were reported in 11 (1.7%) of tradjenta treated patients and 7 (1.1%) of placebo treated patients. events that were considered life-threatening or required hospitalization were reported in 3 (0.5%) patients on tradjenta and 1 (0.2%) on placebo.
+
+
+
+   use in renal impairment  tradjenta was compared to placebo as add-on to pre-existing antidiabetic therapy over 52 weeks in 133 patients with severe renal impairment (estimated gfr <30 ml/min). for the initial 12 weeks of the study, background antidiabetic therapy was kept stable and included insulin, sulfonylurea, glinides, and pioglitazone. for the remainder of the trial, dose adjustments in antidiabetic background therapy were allowed.
+
+
+
+ in general, the incidence of adverse events including severe hypoglycemia was similar to those reported in other tradjenta trials. the observed incidence of hypoglycemia was higher (tradjenta, 63% compared to placebo, 49%) due to an increase in asymptomatic hypoglycemic events especially during the first 12 weeks when background glycemic therapies were kept stable. ten tradjenta-treated patients (15%) and 11 placebo-treated patients (17%) reported at least one episode of confirmed symptomatic hypoglycemia (accompanying finger stick glucose <=54 mg/dl). during the same time period, severe hypoglycemic events, defined as an event requiring the assistance of another person to actively administer carbohydrate, glucagon or other resuscitative actions, were reported in 3 (4.4%) tradjenta-treated patients and 3 (4.6%) placebo-treated patients. events that were considered life-threatening or required hospitalization were reported in 2 (2.9%) patients on tradjenta and 1 (1.5%) patient on placebo.
+
+
+
+ renal function as measured by mean egfr and creatinine clearance did not change over 52 weeks' treatment compared to placebo.
+
+
+
+     laboratory tests  
+
+  changes in laboratory findings were similar in patients treated with tradjenta 5 mg compared to patients treated with placebo. changes in laboratory values that occurred more frequently in the tradjenta group and  >  1% more than in the placebo group were increases in uric acid (1.3% in the placebo group, 2.7% in the tradjenta group).
+
+
+
+ no clinically meaningful changes in vital signs were observed in patients treated with tradjenta.
+
+
+
+   6.2  postmarketing experience
+
+  additional adverse reactions have been identified during postapproval use of tradjenta. because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ *  acute pancreatitis, including fatal pancreatitis [see indications and usage  (1.2)  and warnings and precautions  (5.1)  ]  
+ *  hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions [see warnings and precautions  (5.3)  ]  
+ *  severe and disabling arthralgia [see warnings and precautions  (5.4)  ]  
+ *  rash 
+ *  mouth ulceration, stomatitis 
+    5  warnings and precautions
+
+
+
+   excerpt:    *  there have been postmarketing reports of acute pancreatitis, including fatal pancreatitis. if pancreatitis is suspected, promptly discontinue tradjenta.  (5.1)   
+ *  when used with an insulin secretagogue (e.g., sulfonylurea) or insulin, consider lowering the dose of the insulin secretagogue or insulin to reduce the risk of hypoglycemia  (5.2)   
+ *  there have been postmarketing reports of serious hypersensitivity reactions in patients treated with tradjenta including anaphylaxis, angioedema, and exfoliative skin conditions. in such cases, promptly discontinue tradjenta, assess for other potential causes, institute appropriate monitoring and treatment, and initiate alternative treatment for diabetes.  (5.3)   
+ *  severe and disabling arthralgia has been reported in patients taking dpp-4 inhibitors. consider as a possible cause for severe joint pain and discontinue drug if appropriate.  (5.4)   
+ *  there have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with tradjenta or any other antidiabetic drug  (5.5)   
+    
+ 
+
+   5.1  pancreatitis
+
+
+
+  there have been postmarketing reports of acute pancreatitis, including fatal pancreatitis, in patients taking tradjenta. take careful notice of potential signs and symptoms of pancreatitis. if pancreatitis is suspected, promptly discontinue tradjenta and initiate appropriate management. it is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using tradjenta.
+
+
+
+    5.2  use with medications known to cause hypoglycemia
+
+
+
+  insulin secretagogues and insulin are known to cause hypoglycemia. the use of tradjenta in combination with an insulin secretagogue (e.g., sulfonylurea) was associated with a higher rate of hypoglycemia compared with placebo in a clinical trial [see adverse reactions (  6.1  )]  . the use of tradjenta in combination with insulin in subjects with severe renal impairment was associated with a higher rate of hypoglycemia [see adverse reactions (  6.1  )]  . therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with tradjenta.
+
+
+
+    5.3  hypersensitivity reactions
+
+
+
+  there have been postmarketing reports of serious hypersensitivity reactions in patients treated with tradjenta. these reactions include anaphylaxis, angioedema, and exfoliative skin conditions. onset of these reactions occurred within the first 3 months after initiation of treatment with tradjenta, with some reports occurring after the first dose. if a serious hypersensitivity reaction is suspected, discontinue tradjenta, assess for other potential causes for the event, and institute alternative treatment for diabetes.
+
+
+
+ angioedema has also been reported with other dipeptidyl peptidase-4 (dpp-4) inhibitors. use caution in a patient with a history of angioedema to another dpp-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with tradjenta.
+
+
+
+    5.4  severe and disabling arthralgia
+
+
+
+   there have been postmarketing reports of severe and disabling arthralgia in patients taking dpp-4 inhibitors. the time to onset of symptoms following initiation of drug therapy varied from one day to years. patients experienced relief of symptoms upon discontinuation of the medication. a subset of patients experienced a recurrence of symptoms when restarting the same drug or a different dpp-4 inhibitor. consider dpp-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.  
+
+
+
+    5.5  macrovascular outcomes
+
+
+
+  there have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with tradjenta tablets or any other antidiabetic drug.

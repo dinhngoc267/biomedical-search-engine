@@ -1,0 +1,109 @@
+    6 adverse reactions
+
+   excerpt:    *   psoriatic arthritis : the most common adverse reactions (>=5%) are diarrhea, nausea, and headache (6.1) 
+ *   psoriasis : the most common adverse reactions (>=5%) are diarrhea, nausea, upper respiratory tract infection, and headache, including tension headache (6.1) 
+    to report suspected adverse reactions, contact celgene corporation at 1-888-423-5436 or fda at 1-800-fda-1088 or www.fda.gov/medwatch
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trial of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+   psoriatic arthritis clinical trials  otezla was evaluated in 3 multicenter, randomized, double-blind, placebo-controlled trials [studies psa-1, psa-2, and psa-3] of similar design in adult patients with active psoriatic arthritis  [see clinical studies (14.1)]  . across the 3 studies, there were 1493 patients randomized equally to placebo, otezla 20 mg twice daily or otezla 30 mg twice daily. titration was used over the first 5 days  [see dosage and administration (2.1)  ]. placebo patients whose tender and swollen joint counts had not improved by at least 20% were re-randomized 1:1 in a blinded fashion to either otezla 20 mg twice daily or 30 mg twice daily at week 16 while otezla patients remained on their initial treatment. patients ranged in age from 18 to 83 years, with an overall median age of 51 years.
+
+
+
+ the majority of the most common adverse reactions presented intable 2occurred within the first 2 weeks of treatment and tended to resolve over time with continued dosing. diarrhea, headache, and nausea were the most commonly reported adverse reactions. the most common adverse reactions leading to discontinuation for patients taking otezla were nausea (1.8%), diarrhea (1.8%), and headache (1.2%). the proportion of patients with psoriatic arthritis who discontinued treatment due to any adverse reaction was 4.6% for patients taking otezla 30 mg twice daily and 1.2% for placebo-treated patients.
+
+
+
+ table 2: adverse reactions reported in >=2% of patients on otezla 30 mg twice daily and >=1% than that observed in patients on placebo for up to day 112 (week 16) 
+   a  of the reported gastrointestinal adverse reactions, 1 subject experienced a serious adverse reaction of nausea and vomiting in otezla 30 mg twice daily; 1 subject treated with otezla 20 mg twice daily experienced a serious adverse reaction of diarrhea; 1 patient treated with otezla 30 mg twice daily experienced a serious adverse reaction of headache.   
+   b  of the reported adverse drug reactions none were serious.   
+   c  n (%) indicates number of patients and percent.   
+  
+                            placebo                    otezla 30 mg bid            
+ preferred term             day 1 to 5(n=495)n (%)  c    day 6 to day 112(n=490)n (%)  day 1 to 5(n=497)n (%)     day 6 to day 112(n=493)n (%)   
+ diarrhea  a                6 ( 1.2)                   8 ( 1.6)                   46 ( 9.3)                  38 ( 7.7)                   
+ nausea  a                  7 ( 1.4)                   15 ( 3.1)                  37 ( 7.4)                  44 ( 8.9)                   
+ headache  a                9 ( 1.8)                   11 ( 2.2)                  24 ( 4.8)                  29 ( 5.9)                   
+ upper respiratory tractinfection  b    3 ( 0.6)                   9 ( 1.8)                   3 ( 0.6)                   19 ( 3.9)                   
+ vomiting  a                2 ( 0.4)                   2 ( 0.4)                   4 ( 0.8)                   16 ( 3.2)                   
+ nasopharyngitis  b         1 ( 0.2)                   8 ( 1.6)                   1 ( 0.2)                   13 ( 2.6)                   
+ abdominal pain upper  b    0 ( 0.0)                   1 ( 0.2)                   3 ( 0.6)                   10 ( 2.0)                   
+      other adverse reactions reported in patients on otezla in clinical studies including extension studies:  immune system disorders:  hypersensitivity  investigations:  weight decrease  gastrointestinal disorders:  frequent bowel movement, gastroesophageal reflux disease, dyspepsia  metabolism and nutrition disorders:  decreased appetite*  nervous system disorders:  migraine  respiratory, thoracic, and mediastinal disorders:  cough  skin and subcutaneous tissue disorders:  rash*1 patient treated with otezla 30 mg twice daily experienced a serious adverse reaction.
+ 
+
+   psoriasis clinical trials  the safety of otezla  (r)  was assessed in 1426 subjects in 3 randomized, double-blind, placebo-controlled trials in adult subjects with moderate to severe plaque psoriasis who were candidates for phototherapy or systemic therapy. subjects were randomized to receive otezla 30 mg twice daily or placebo twice daily. titration was used over the first 5 days  [see dosage and administration (2.1)  ]. subjects ranged in age from 18 to 83 years, with an overall median age of 46 years.
+
+
+
+ diarrhea, nausea, and upper respiratory tract infection were the most commonly reported adverse reactions. the most common adverse reactions leading to discontinuation for subjects taking otezla were nausea (1.6%), diarrhea (1.0%), and headache (0.8%). the proportion of subjects with psoriasis who discontinued treatment due to any adverse reaction was 6.1% for subjects treated with otezla 30 mg twice daily and 4.1% for placebo-treated subjects.
+
+
+
+ table 3: adverse reactions reported in >=1% of subjects on otezla and with greater frequency than in subjects on placebo; up to day 112 (week 16) 
+   *  two subjects treated with otezla experienced serious adverse reaction of abdominal pain.   
+  
+ preferred term        placebo (n=506)n (%)  otezla 30 mg bid (n=920)n (%)   
+ diarrhea              32 (6)                160 (17)               
+ nausea                35 (7)                155 (17)               
+ upper respiratory tract infection  31 (6)                84 (9)                 
+ tension headache      21 (4)                75 (8)                 
+ headache              19 (4)                55 (6)                 
+ abdominal pain*       11 (2)                39 (4)                 
+ vomiting              8 (2)                 35 (4)                 
+ fatigue               9 (2)                 29 (3)                 
+ dyspepsia             6 (1)                 29 (3)                 
+ decrease appetite     5 (1)                 26 (3)                 
+ insomnia              4 (1)                 21 (2)                 
+ back pain             4 (1)                 20 (2)                 
+ migraine              5 (1)                 19 (2)                 
+ frequent bowel movements  1 (0)                 17 (2)                 
+ depression            2 (0)                 12 (1)                 
+ bronchitis            2 (0)                 12 (1)                 
+ tooth abscess         0 (0)                 10 (1)                 
+ folliculitis          0 (0)                 9 (1)                  
+ sinus headache        0 (0)                 9 (1)                  
+         severe worsening of psoriasis (rebound) occurred in 0.3% (4/1184) subjects following discontinuation of treatment with otezla.
+    5 warnings and precautions
+
+     excerpt:    *   depression : advise patients, their caregivers, and families to be alert for the emergence or worsening of depression, suicidal thoughts or other mood changes and if such changes occur to contact their healthcare provider. carefully weigh risks and benefits of treatment with otezla in patients with a history of depression and/or suicidal thoughts or behavior. (5.1) 
+ *   weight decrease : monitor weight regularly. if unexplained or clinically significant weight loss occurs, evaluate weight loss and consider discontinuation of otezla (5.2) 
+ *   drug interactions : use with strong cytochrome p450 enzyme inducers (e.g., rifampin, phenobarbital, carbamazepine, phenytoin) is not recommended because loss of efficacy may occur (5.3,7.1) 
+    
+   5.1 depression
+
+  treatment with otezla is associated with an increase in adverse reactions of depression. before using otezla in patients with a history of depression and/or suicidal thoughts or behavior prescribers should carefully weigh the risks and benefits of treatment with otezla in such patients. patients, their caregivers, and families should be advised of the need to be alert for the emergence or worsening of depression, suicidal thoughts or other mood changes, and if such changes occur to contact their healthcare provider. prescribers should carefully evaluate the risks and benefits of continuing treatment with otezla if such events occur.
+
+
+
+   psoriatic arthritis  : during the 0 to 16 week placebo-controlled period of the 3 controlled clinical trials, 1.0% (10/998) of subjects treated with otezla reported depression or depressed mood compared to 0.8% (4/495) treated with placebo. during the clinical trials, 0.3% (4/1441) of subjects treated with otezla discontinued treatment due to depression or depressed mood compared with none in placebo treated subjects (0/495). depression was reported as serious in 0.2% (3/1441) of subjects exposed to otezla, compared to none in placebo-treated subjects (0/495). instances of suicidal ideation and behavior have been observed in 0.2% (3/1441) of subjects while receiving otezla, compared to none in placebo treated subjects (0/495). in the clinical trials, 2 subjects who received placebo committed suicide compared to none in otezla-treated subjects.
+
+
+
+   psoriasis  : during the 0 to 16 week placebo-controlled period of the 3 controlled clinical trials, 1.3% (12/920) of subjects treated with otezla reported depression compared to 0.4% (2/506) treated with placebo. during the clinical trials, 0.1% (1/1308) of subjects treated with otezla discontinued treatment due to depression compared with none in placebo-treated subjects(0/506). depression was reported as serious in 0.1% (1/1308) of subjects exposed to otezla, compared to none in placebo-treated subjects (0/506). instances of suicidal behavior have been observed in 0.1% (1/1308) of subjects while receiving otezla, compared to 0.2% (1/506) in placebo-treated subjects. in the clinical trials, one subject treated with otezla attempted suicide while one who received placebo committed suicide.
+
+
+
+   5.2 weight decrease
+
+  during the controlled period of the studies in psoriatic arthritis (psa), weight decrease between 5%-10% of body weight was reported in 10% (49/497) of subjects treated with otezla 30 mg twice daily compared to 3.3% (16/495) treated with placebo [  see adverse reactions (6.1)  ].
+
+
+
+   during the controlled period of the trials in psoriasis, weight decrease between 5%-10% of body weight occurred in 12% (96/784) of subjects treated with otezla compared to 5% (19/382) treated with placebo. weight decrease of >=10% of body weight occurred in 2% (16/784) of subjects treated with otezla 30 mg twice daily compared to 1% (3/382) subjects treated with placebo.  
+
+
+
+ patients treated with otezla should have their weight monitored regularly. if unexplained or clinically significant weight loss occurs, weight loss should be evaluated, and discontinuation of otezla should be considered.
+
+
+
+   5.3 drug interactions
+
+  co-administration of strong cytochrome p450 enzyme inducer, rifampin, resulted in a reduction of systemic exposure of apremilast, which may result in a loss of efficacy of otezla. therefore, the use of cytochrome p450 enzyme inducers (e.g., rifampin, phenobarbital, carbamazepine, phenytoin) with otezla is not recommended [see  drug interactions (7.1)  and  clinical pharmacology (12.3)  ].

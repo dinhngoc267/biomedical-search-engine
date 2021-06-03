@@ -1,0 +1,553 @@
+      6         adverse reactions  
+
+  the following adverse reactions are discussed in more detail in other sections of the prescribing information:
+
+
+
+ *  vision loss [see    boxed warning     and     warnings and precautions (5.1)    ]  
+ *  magnetic resonance imaging (mri) abnormalities in infants [see    warnings and precautions (5.3)    ]  
+ *  neurotoxicity [see    warnings and precautions (5.4)    ]  
+ *  suicidal behavior and ideation [see    warnings and precautions (5.5)    ]  
+ *  withdrawal of antiepileptic drugs (aeds) [see    warnings and precautions (5.6)    ]  
+ *  anemia [see    warnings and precautions (5.7)    ]  
+ *  somnolence and fatigue [see    warnings and precautions (5.8)    ]  
+ *  peripheral neuropathy [see    warnings and precautions (5.9)    ]  
+ *  weight gain [see    warnings and precautions (5.10)    ]  
+ *  edema [see    warnings and precautions (5.11)    ]  
+      excerpt:     refractory    complex partial seizures  
+ 
+
+ most common adverse reactions in controlled studies include:
+
+
+
+ *  adults >16 years of age (change of >=5% over placebo): in addition to permanent vision loss, fatigue, somnolence, nystagmus, tremor, vision blurred, memory impairment, weight gain, arthralgia, abnormal coordination, and confusional state  (  6.1  ) 
+ *  pediatrics 10 to 16 years of age (change of >=5% over placebo): increased weight, upper respiratory tract infection, tremor, fatigue, aggression and diplopia   (  6.1  )  
+      infantile spasms         (incidence >5%)  
+ 
+
+ *  somnolence, bronchitis, ear infection, and otitis media acute (  6.1  ) 
+      to report suspected adverse reactions, contact lundbeck at 1-800-455-1141 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+    6.1          clinical trial    experience  
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+     adverse    reactions    in u    .    s    .    and primary non-u    .    s    .    clinical studies    in u.s. and primary non-u.s. clinical studies of 4,079 sabril treated patients, the most commonly observed (>=5%) adverse reactions associated with the use of sabril in combination with other aeds were headache, somnolence, fatigue, dizziness, convulsion, nasopharyngitis, weight increased, upper respiratory tract infection, visual field defect, depression, tremor, nystagmus, nausea, diarrhea, memory impairment, insomnia, irritability, coordination abnormal, vision blurred, diplopia, vomiting, influenza, pyrexia, and rash.
+
+
+
+ the adverse reactions most commonly associated with sabril treatment discontinuation in >=1% of patients were convulsion and depression.
+
+
+
+ in patients with infantile spasms, the adverse reactions most commonly associated with sabril treatment discontinuation in >=1% of patients were infections, status epilepticus, developmental coordination disorder, dystonia, hypotonia, hypertonia, weight increased, and insomnia.
+
+
+
+     most common        adverse        reactions        in controlled clinical trials    
+
+
+
+     refractory c        omplex partial seizures      adults       table 5 lists the treatment emergent adverse reactions that occurred in >=2% and more than one patient per sabril treated group and that occurred more frequently than in placebo patients from 2 u.s. add-on clinical studies of refractory cps in adults. 
+
+
+
+
+   table 5. treatment emergent adverse reactions occurring in >=2% and more than one patient per sabril-treated group and more frequently than in placebo patients (studies 024 and 025)     
+                     sabril dosage(mg/day)                    
+    body system         adverse reaction     3000[n=134]%     6000[n=43]%      placebo[n=135]%   
+      ear disorders                                                        
+        tinnitus      2                0                1             
+        vertigo       2                5                1             
+      eye disorders                                                        
+        vision blurred     13               16                5             
+        diplopia      7               16                3             
+        asthenopia      2                 2               0             
+        eye pain      0                 5               0             
+      gastrointestinal disorders                                                        
+        diarrhoea     10               16                7             
+        nausea       10                 2               8             
+        vomiting      7                 9               6             
+        constipation      8                 5               3             
+        abdominal pain upper      5                 5               1             
+        dyspepsia      4                 5               3             
+        stomach discomfort      4                 2               1             
+        abdominal pain      3                 2               1             
+        toothache      2                 5               2             
+        abdominal distension      2                 0               1             
+      general disorders                                                        
+        fatigue      23               40               16             
+        gait disturbance     6                12                7             
+        asthenia     5                 7                1             
+        oedema peripheral     5                 7                1             
+        fever        4                 7                3             
+        chest pain     1                 5                1             
+        thirst       2                 0                0             
+        malaise      0                 5                0             
+      infections                                                        
+        nasopharyngitis     14                9               10             
+        upper respiratory tract infection     7                 9                6             
+        influenza     5                 7                4             
+        urinary tract infection     4                 5                0             
+        bronchitis     0                 5                1             
+      injury                                                          
+        contusion     3                 5                2             
+        joint sprain     1                 2                1             
+        muscle strain     1                 2                1             
+        wound secretion     0                 2                0             
+      metabolism and nutrition disorders                                                        
+        increased appetite     1                  5              1              
+        weight increased     6                14               3              
+      musculoskeletal disorders                                                        
+        arthralgia     10                5               3              
+        back pain      4                7               2              
+        pain in extremity      6                2               4              
+        myalgia       3                5               1              
+        muscle twitching      1                9               1              
+        muscle spasms      3                0               1              
+      nervous system disorders                                                        
+        headache     33               26               31             
+        somnolence     22               26               13             
+        dizziness     24               26               17             
+        nystagmus     13               19                9             
+        tremor       15               16                8             
+        memory impairment      7               16                3             
+        coordination abnormal      7               16                2             
+        disturbance in attention      9                0                1             
+        sensory disturbance      4                7                2             
+        hyporeflexia      4                5                1             
+        paraesthesia      7                2                1             
+        lethargy      4                7                2             
+        hyperreflexia      4                2                3             
+        hypoaesthesia      4                5                1             
+        sedation      4                0                0             
+        status epilepticus      2                5                0             
+        dysarthria      2                2                1             
+        postictal state      2                0                1             
+        sensory loss      0                5                0             
+      psychiatric disorders                                                        
+        irritability      7               23                7             
+        depression      6               14                3             
+        confusional state      4               14                1             
+        anxiety       4                0                3             
+        depressed mood      5                0                1             
+        thinking abnormal      3                7                0             
+        abnormal behaviour      3                5                1             
+        expressive language disorder      1                7                1             
+        nervousness      2                5                2             
+        abnormal dreams      1                5                1             
+      reproductive system                                                        
+        dysmenorrhoea     9                 5                3             
+        erectile dysfunction     0                 5                0             
+      respiratory and thoracic disorders                                                        
+        pharyngolaryngeal pain      7               14               5              
+        cough         2               14               7              
+        pulmonary congestion      0                5               1              
+        sinus headache      6                2               1              
+      skin and subcutaneous tissue disorders                                                        
+        rash          4                5               4              
+              pediatrics 10 to 16 years of age    table 6 lists adverse reactions from controlled clinical studies of pediatric patients receiving sabril or placebo as add-on therapy for refractory complex partial seizures.  adverse reactions that are listed occurred in at least 2% of sabril treated patients and more frequently than placebo. the median sabril dose was 49.4 mg/kg, (range of 8.0 - 105.9 mg/kg).
+ 
+
+
+   table 6.  treatment-emergent adverse reactions reported  by >=2% of pediatric cps patients (10 to 16 years of age)  treated with sabril and higher than placebo     
+   body system       adverse reaction  all sabril[n=109]%  placebo[n=46]%    
+    eye disorders                                       
+      diplopia     5                0                
+      vision blurred   3                0                
+    gastrointestinal disorders                                       
+      diarrhoea    6                2                
+      abdominal pain upper   3                0                
+      constipation   3                2                
+    general disorders                                       
+      fatigue      9                4                
+    infections and infestations                                       
+      upper respiratory tract infection   10               4                
+      influenza    6                2                
+      otitis media   6                2                
+    investigations                                       
+      weight increased   17               2                
+    nervous system disorders                                       
+      somnolence   6                2                
+      tremor       6                0                
+      nystagmus    5                2                
+      psychomotor hyperactivity   4                2                
+    psychiatric disorders                                       
+      abnormal behavior   6                2                
+      aggression   5                0                
+      disorientation  4                0                 
+    reproduction and breast disorders                                       
+      dysmenorrhea   3               0                 
+    skin and subcutaneous tissue disorders                                       
+      acne         3               0                 
+             infantile spasms    in a randomized, placebo-controlled is study with a 5 day double-blind treatment phase (n=40), the adverse events reported by >5% of patients receiving sabril and that occurred more frequently than in placebo patients, were somnolence (sabril 45%,   placebo  30%), bronchitis (sabril 30%,  placebo  15%), ear infection (sabril 10%,   placebo  5%), and otitis media acute sabril 10%,   placebo  0%).
+ 
+
+ in a dose response study of low-dose (18-36 mg/kg/day) versus high-dose (100-148 mg/kg/day) vigabatrin, no clear correlation between dose and incidence of adverse events was observed. the treatment emergent adverse reactions (>=5% in either dose group) are summarized in table 7.
+
+
+
+
+    table 7.  treatment emergent adverse reactions occurring in >=5% of infantile spasms patients     
+  
+                   sabrillow dose   sabril high dose   
+    body system       adverse reaction   [n=114]%         [n=108]%         
+    eye disorders (other than field or acuity changes)                                       
+      strabismus   5                5                
+      conjunctivitis   5                2                
+    gastrointestinal disorders                                       
+      vomiting     14               20               
+      constipation   14               12               
+      diarrhea     13               12               
+    general disorders                                       
+      fever        29               19               
+    infections                                       
+      upper respiratory tract infection   51               46               
+      otitis media   44               30               
+      viral infection   20               19               
+      pneumonia    13               11               
+      candidiasis   8                3                
+      ear infection   7                14               
+      gastroenteritis viral   6                5                
+      sinusitis    5                9                
+      urinary tract infection   5                6                
+      influenza    5                3                
+      croup infectious   5                1                
+     metabolism & nutrition disorders                                       
+      decreased appetite   9                7                
+     nervous system disorders                                       
+      sedation     19               17               
+      somnolence   17               19               
+      status epilepticus   6                4                
+      lethargy     5                7                
+      convulsion   4                7                
+      hypotonia    4                6                
+    psychiatric disorders                                       
+      irritability   16               23               
+      insomnia     10               12               
+    respiratory disorders                                       
+      nasal congestion   13               4                
+      cough        3                8                
+    skin and subcutaneous tissue disorders                                       
+      rash         8                11               
+             6.2       post marketing experience  
+   the following adverse reactions have been reported during post approval use of sabril worldwide. all adverse reactions that are not listed above as adverse reactions reported in clinical trials, that are not relatively common in the population and are not too vague to be useful are listed in this section. these reactions are reported voluntarily from a population of uncertain size; therefore, it is not possible to estimate their frequency or establish a causal relationship to drug exposure. adverse reactions are categorized by system organ class.
+
+
+
+     birth defects        :         congenital cardiac defects, congenital external ear anomaly, congenital hemangioma, congenital hydronephrosis, congenital male genital malformation, congenital oral malformation, congenital vesicoureteric reflux, dentofacial anomaly, dysmorphism, fetal anticonvulsant syndrome, hamartomas, hip dysplasia, limb malformation, limb reduction defect, low set ears, renal aplasia, retinitis pigmentosa, supernumerary nipple, talipes
+
+
+
+     ear        disorders        :    deafness
+
+
+
+     endocrine        disorders        :         delayed puberty
+
+
+
+     gastrointestinal        disorders        :    gastrointestinal hemorrhage, esophagitis
+
+
+
+     general        disorders        :     developmental delay, facial edema, malignant hyperthermia, multi-organ failure
+
+
+
+     hepatobiliary        disorders        :     cholestasis
+
+
+
+     nervous system        disorders        :     dystonia, encephalopathy, hypertonia, hypotonia, muscle spasticity, myoclonus, optic neuritis, dyskinesia
+
+
+
+     psychiatric        disorders        :         acute psychosis, apathy, delirium, hypomania, neonatal agitation, psychotic disorder
+
+
+
+     respiratory disorders:    laryngeal edema, pulmonary embolism, respiratory failure, stridor
+
+
+
+     skin and subcutaneous tissue disorders:    angioedema, maculo-papular rash, pruritus, stevens-johnson syndrome (sjs), toxic epidermal necrolysis (ten) 
+
+
+    boxed warning:  warning:  vision loss
+
+     warning:  vision loss  
+
+    *  sabril causes permanent bilateral concentric visual field constriction. because assessing vision may be difficult in infants and children, the frequency and extent of vision loss is poorly characterized in these patients. for this reason, the risk described below is primarily based on the adult experience. 
+ *  based upon adult studies, 30 percent or more of patients can be affected, ranging in severity from mild to severe, including tunnel vision to within 10 degrees of visual fixation, and can result in disability. in some cases, sabril also can damage the central retina and may decrease visual acuity. 
+ *  the onset of vision loss from sabril is unpredictable, and can occur within weeks of starting treatment or sooner, or at any time after starting treatment, even after months or years. 
+ *  symptoms of vision loss from sabril are unlikely to be recognized by patients or caregivers before vision loss is severe. vision loss of milder severity, while often unrecognized by the patient or caregiver, can still adversely affect function. 
+ *  the risk of vision loss increases with increasing dose and cumulative exposure, but there is no dose or exposure known to be free of risk of vision loss. 
+ *  unless a patient is formally exempted from periodic ophthalmologic assessment as documented in the share program, vision should be assessed to the extent possible at baseline (no later than 4 weeks after starting sabril) and at least every 3 months during therapy. vision assessment is also required about 3 to 6 months after the discontinuation of sabril therapy. 
+ *  once detected, vision loss due to sabril is not reversible. it is expected that, even with frequent monitoring, some patients will develop severe vision loss. 
+ *  drug discontinuation should be considered, balancing benefit and risk, if visual loss is documented. 
+ *  it is possible that vision loss can worsen despite discontinuation of sabril. 
+ *  because of the risk of visual loss, sabril should be withdrawn from patients with refractory complex partial seizures who fail to show substantial clinical benefit within 3 months of initiation and within 2-4 weeks of initiation for patients with infantile spasms, or sooner if treatment failure becomes obvious. patient response to and continued need for sabril should be periodically reassessed. 
+ *  sabril should not be used in patients with, or at high risk of, other types of irreversible vision loss unless the benefits of treatment clearly outweigh the risks. the interaction of other types of irreversible vision damage with vision damage from sabril has not been well-characterized, but is likely adverse. 
+ *  sabril should not be used with other drugs associated with serious adverse ophthalmic effects such as retinopathy or glaucoma unless the benefits clearly outweigh the risks. 
+ *  the possibility that vision loss from sabril may be more common, more severe or have more severe functional consequences in infants and children than in adults cannot be excluded. 
+ *  the lowest dose and shortest exposure to sabril consistent with clinical objectives should be used. 
+      because of the risk of permanent vision loss, sabril is available only through a restricted program under a risk evaluation and mitigation strategy (rems) called the share program   [see           warnings and precautions (5.2)          ]  . further information is available at [www.sabril.net or 1-888-45-share].  
+ 
+
+   excerpt:     warning: vision loss  
+
+
+
+     see full prescribing information for complete boxed warning.    
+
+
+
+ *  sabril causes progressive and permanent bilateral concentric visual field constriction in a high percentage of patients. in some cases, sabril may also reduce visual acuity (5.1). 
+ *  risk increases with total dose and duration of use, but no exposure to sabril is known that is free of risk of vision loss (5.1). 
+ *  risk of new and worsening vision loss continues as long as sabril is used, and possibly after discontinuing sabril (5.1). 
+ *  unless a patient is formally exempted, periodic vision assessment is required for patients on sabril. however, this assessment cannot always prevent vision damage (5.1). 
+ *  sabril can cause permanent vision loss. sabril is available only through a restricted program called the share program (5.2). 
+     5        warnings and precautions  
+
+
+
+   excerpt:    *  permanent vision loss: baseline and periodic vision assessment is required (  5.1  ) 
+ *  abnormal mri signal changes have been reported in some infants with is receiving sabril (  5.3  ) 
+ *  suicidal behavior and ideation: antiepileptic drugs, including sabril increase the risk of suicidal thoughts and behavior (  5.5  ) 
+ *  withdrawal of aeds: dose should be tapered gradually to avoid withdrawal seizures (  5.6  ) 
+ *  anemia: monitor for symptoms of anemia (  5.7  ) 
+ *  somnolence and fatigue: advise patients not to drive or operate machinery until they have gained sufficient experience on sabril (  5.8  ) 
+    
+ 
+
+    5.1        vision loss  
+
+
+
+   because of the risk of vision loss, and because, when it is effective, sabril provides an observable symptomatic benefit, patient response and continued need for treatment should be periodically assessed.  
+
+
+
+  in patients with refractory complex partial seizures, sabril should be withdrawn if a substantial clinical benefit is not observed within 3 months of initiating treatment. if, in the clinical judgment of the prescriber, evidence of treatment failure becomes obvious earlier than 3 months, treatment should be discontinued at that time.  
+
+
+
+  in patients with infantile spasms, sabril should be withdrawn if a substantial clinical benefit is not observed within 2 to 4 weeks. if, in the clinical judgment of the prescriber, evidence of treatment failure becomes obvious earlier than 2 to 4 weeks, treatment should be discontinued at that time [see  boxed warning  ].    
+
+
+
+   monitoring of vision    
+
+
+
+ monitoring of vision by an ophthalmic professional with expertise in visual field interpretation and the ability to perform dilated indirect ophthalmoscopy of the retina is required, unless a patient is formally exempted from periodic ophthalmologic assessment as documented in the support, help and resources for epilepsy (share) program [see  warnings and precautions (5.2)  ].  because vision testing in infants is difficult, vision loss may not be detected until it is severe. for patients receiving sabril who are not exempted, vision assessment is required at baseline (no later than 4 weeks after starting sabril) and at least every 3 months while on therapy and about 3-6 months after the discontinuation of therapy.
+
+
+
+  the diagnostic approach should be individualized for the patient and clinical situation.  for all patients, attempts to monitor vision periodically and/or formal exemptions must be documented under the share program.  in adults and cooperative pediatric patients, perimetry is recommended, preferably by automated threshold visual field testing.  additional testing may also include electrophysiology (e.g., electroretinography [erg]), retinal imaging (e.g., optical coherence tomography [oct]), and/or other methods appropriate for the patient, but this additional testing is not required. in patients exempted from vision testing, treatment may continue according to clinical judgment, with appropriate patient counseling and with documentation in the share program of the exemption.  because of variability, results from ophthalmic monitoring must be interpreted with caution, and repeat assessment is recommended if results are abnormal or uninterpretable.  repeat assessment in the first few weeks of treatment is recommended to establish if, and to what degree, reproducible results can be obtained, and to guide selection of appropriate ongoing monitoring for the patient.
+
+
+
+ the onset and progression of vision loss from sabril is unpredictable, and it may occur or worsen precipitously between assessments.  once detected, vision loss due to sabril is not reversible. it is expected that even with frequent monitoring, some sabril patients will develop severe vision loss. drug discontinuation should be considered, balancing benefit and risk, if visual loss is documented.
+
+
+
+     5.2        sabril share program  
+
+
+
+  sabril is available only through a restricted distribution program called the share program, because of the risk of vision loss.
+
+
+
+ notable requirements components of the share program include the following:
+
+
+
+ *  *  assess vision prior to initiating therapy and then every 3 months during therapy. 
+ *  remove patients from sabril therapy if the patients do not experience a meaningful reduction in seizures. 
+ *  *  the patient is blind (subsequent ophthalmologic assessment forms do not need to be submitted to the rems coordinating center) 
+ *  the patient's general neurological and/or mental condition permanently precludes the need for visual assessment (subsequent ophthalmologic assessment forms do not need to be submitted to the rems coordinating center) 
+ *  the patient's general neurological condition temporarily precludes the ability to assess visual function.  the evaluation, however, may be performed at a later time as clinically appropriate. 
+ *  the patient's medical condition prevents visual assessment being performed safely 
+ *  for other reasons specified by the prescriber 
+   the prescriber may, with appropriate documentation and caregiver counseling, exempt certain patients from vision assessment, using the ophthalmologic assessment form, if: 
+   prescribers must be certified with the program by enrolling and reviewing educational materials and comply with the following: 
+ *  patient/parent/legal guardian must understand the risks and benefits and sign a patient-prescriber agreement. 
+ *  pharmacies that dispense sabril must be certified and agree to comply with the rems requirements.   certified pharmacies must only dispense sabril to patients who are enrolled in the program. 
+        5.3        magnetic resonance imaging (mri) abnormalities in infants  
+ 
+
+  abnormal mri signal changes characterized by increased t2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated with vigabatrin for infantile spasms. in a retrospective epidemiologic study in infants with is (n=205), the prevalence of these changes was 22% in vigabatrin treated patients versus 4% in patients treated with other therapies. 
+
+
+
+ in the study above, in post marketing experience, and in published literature reports, these changes generally resolved with discontinuation of treatment. in a few patients, the lesion resolved despite continued use.  it has been reported that some infants exhibited coincident motor abnormalities, but no causal relationship has been established and the potential for long-term clinical sequelae has not been adequately studied.
+
+
+
+ neurotoxicity (brain histopathology and neurobehavioral abnormalities) was observed in rats exposed to vigabatrin during late gestation and the neonatal and juvenile periods of development.  the relationship between these findings and the abnormal mri findings in infants treated with vigabatrin for infantile spasms is unknown [see   warnings and precautions (5.4)  and  use in specific populations (8.1)  ]  .
+
+
+
+ the specific pattern of signal changes observed in is patients was not observed in older pediatric and adult patients treated with vigabatrin for refractory cps. in a blinded review of mri images obtained in prospective clinical trials in patients with refractory cps 3 years and older (n=656), no difference was observed in anatomic distribution or prevalence of mri signal changes between vigabatrin treated and placebo treated patients.
+
+
+
+ for adults treated with sabril, routine mri surveillance is unnecessary as there is no evidence that vigabatrin causes mri changes in this population.
+
+
+
+     5.4        neurotoxicity  
+
+
+
+  vacuolation, characterized by fluid accumulation and separation of the outer layers of myelin, has been observed in brain white matter tracts in adult and juvenile rats and adult mice, dogs, and possibly monkeys following administration of vigabatrin. this lesion, referred to as intramyelinic edema (ime), was seen in animals at doses within the human therapeutic range. a no-effect dose was not established in rodents or dogs. in the rat and dog, vacuolation was reversible following discontinuation of vigabatrin treatment, but, in the rat, pathologic changes consisting of swollen or degenerating axons, mineralization, and gliosis were seen in brain areas in which vacuolation had been previously observed.  vacuolation in adult animals was correlated with alterations in mri and changes in visual and somatosensory evoked potentials (ep).
+
+
+
+ administration of vigabatrin to rats during the neonatal and juvenile periods of development produced vacuolar changes in the brain gray matter (areas including the thalamus, midbrain, deep cerebellar nuclei, substantia nigra, hippocampus, and forebrain) which are considered distinct from the ime observed in vigabatrin treated adult animals. decreased myelination and evidence of oligodendrocyte injury were additional findings in the brains of vigabatrin-treated rats.  an increase in apoptosis was seen in some brain regions following vigabatrin exposure during the early postnatal period.   long-term neurobehavioral abnormalities (convulsions, neuromotor impairment, learning deficits) were also observed following vigabatrin treatment of young rats. these effects in young animals occurred at doses lower than those producing neurotoxicity in adult animals and were associated with plasma vigabatrin levels substantially lower than those achieved clinically in infants and children [see  use in specific populations (8.1)  ]  .
+
+
+
+ in a published study, vigabatrin (200, 400 mg/kg/day) induced apoptotic neurodegeneration in the brain of young rats when administered by intraperitoneal injection on postnatal days 5-7.
+
+
+
+ administration of vigabatrin to female rats during pregnancy and lactation at doses below those used clinically resulted in hippocampal vacuolation and convulsions in the mature offspring.
+
+
+
+ abnormal mri signal changes characterized by increased t2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated for is with vigabatrin.  studies of the effects of vigabatrin on mri and ep in adult epilepsy patients have demonstrated no clear-cut abnormalities [see  warnings and precautions (5.3)  ]  .
+
+
+
+     5.5        suicidal behavior and ideation  
+
+
+
+  antiepileptic drugs (aeds), including sabril, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication. patients treated with any aed for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
+
+
+
+ pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different aeds showed that patients randomized to one of the aeds had approximately twice the risk (adjusted relative risk 1.8, 95% ci: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo. in these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 aed treated patients was 0.43%, compared to 0.24% among 16,029 placebo treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated. there were four suicides in drug treated patients in the trials and none in placebo treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
+
+
+
+ the increased risk of suicidal thoughts or behavior with aeds was observed as early as one week after starting drug treatment with aeds and persisted for the duration of treatment assessed. because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
+
+
+
+ the risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed. the finding of increased risk with aeds of varying mechanisms of action and across a range of indications suggests that the risk applies to all aeds used for any indication. the risk did not vary substantially by age (5-100 years) in the clinical trials analyzed. table 4 shows absolute and relative risk by indication for all evaluated aeds.
+
+
+
+ table 4. risk by indication for antiepileptic drugs in the pooled analysis 
+   indication       placebo patients with events per 1000 patients    drug patients with events per 1000 patients     relative risk: incidence of drug events in drug patients/incidence in placebo patients      risk difference: additional drug patients with events per 1000 patients    
+  epilepsy         1.0              3.4              3.5              2.4              
+  psychiatric      5.7              8.5              1.5              2.9              
+  other            1.0              1.8              1.9              0.9              
+  total            2.4              4.3              1.8              1.9              
+           the relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
+ 
+
+ anyone considering prescribing sabril or any other aed must balance the risk of suicidal thoughts or behavior with the risk of untreated illness. epilepsy and many other illnesses for which aeds are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior. should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
+
+
+
+ patients, their caregivers, and families should be informed that aeds increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm. behaviors of concern should be reported immediately to healthcare providers.
+
+
+
+     5.6        withdrawal of antiepileptic drugs (aeds)  
+
+
+
+  as with all aeds, sabril should be withdrawn gradually. patients and caregivers should be told not to suddenly discontinue sabril therapy.
+
+
+
+ in controlled clinical studies in adults with complex partial seizures, sabril was tapered by decreasing the daily dose 1000 mg/day on a weekly basis until discontinued.
+
+
+
+ in a controlled study in pediatric patients with complex partial seizures, sabril was tapered by decreasing the daily dose by one third every week for three weeks.
+
+
+
+ in a controlled clinical study in patients with infantile spasms, sabril was tapered by decreasing the daily dose at a rate of 25-50 mg/kg every 3-4 days [see  dosage and administration (2.1)  ].  
+
+
+
+     5.7        anemia  
+
+
+
+  in north american controlled trials in adults, 6% of patients (16/280) receiving sabril and 2% of patients (3/188) receiving placebo had adverse events of anemia and/or met criteria for potentially clinically important hematology changes involving hemoglobin, hematocrit, and/or rbc indices.  across u.s. controlled trials, there were mean decreases in hemoglobin of about 3% and 0% in sabril and placebo treated patients, respectively, and a mean decrease in hematocrit of about 1% in sabril treated patients compared to a mean gain of about 1% in patients treated with placebo.
+
+
+
+ in controlled and open label epilepsy trials in adults and pediatric patients, 3 sabril patients (0.06%, 3/4855) discontinued for anemia and 2 sabril patients experienced unexplained declines in hemoglobin to below 8 g/dl and/or hematocrit below 24%.
+
+
+
+     5.8        somnolence and fatigue  
+
+
+
+  sabril causes somnolence and fatigue. patients should be advised not to drive a car or operate other complex machinery until they are familiar with the effects of sabril on their ability to perform such activities.
+
+
+
+ pooled data from two sabril controlled trials in adults demonstrated that 24% (54/222) of sabril patients experienced somnolence compared to 10% (14/135) of placebo patients. in those same studies, 28% of sabril patients experienced fatigue compared to 15% (20/135) of placebo patients. almost 1% of sabril patients discontinued from clinical trials for somnolence and almost 1% discontinued for fatigue.
+
+
+
+  pooled data from three sabril controlled trials in pediatric patients demonstrated that 6% (10/165) of sabril patients experienced somnolence compared to 5% (5/104) of placebo patients. in those same studies, 10% (17/165) of sabril patients experienced fatigue compared to 7% (7/104) of placebo patients. no sabril patients discontinued from clinical trials due to somnolence or fatigue.  
+
+
+
+     5.9        peripheral neuropathy  
+
+
+
+  sabril causes symptoms of peripheral neuropathy in adults. pediatric clinical trials were not designed to assess symptoms of peripheral neuropathy, but observed incidence of symptoms based on pooled data from controlled pediatric studies appeared similar for pediatric patients on vigabatrin and placebo. in a pool of north american controlled and uncontrolled epilepsy studies, 4.2% (19/457) of sabril patients developed signs and/or symptoms of peripheral neuropathy. in the subset of north american placebo-controlled epilepsy trials, 1.4% (4/280) of sabril treated patients and no (0/188) placebo patients developed signs and/or symptoms of peripheral neuropathy. initial manifestations of peripheral neuropathy in these trials included, in some combination, symptoms of numbness or tingling in the toes or feet, signs of reduced distal lower limb vibration or position sensation, or progressive loss of reflexes, starting at the ankles. clinical studies in the development program were not designed to investigate peripheral neuropathy systematically and did not include nerve conduction studies, quantitative sensory testing, or skin or nerve biopsy. there is insufficient evidence to determine if development of these signs and symptoms were related to duration of sabril treatment, cumulative dose, or if the findings of peripheral neuropathy were completely reversible upon discontinuation of sabril.
+
+
+
+     5.10        weight gain  
+
+
+
+  sabril causes weight gain in adult and pediatric patients.
+
+
+
+ data pooled from randomized controlled trials in adults found that 17% (77/443) of sabril patients versus 8% (22/275) of placebo patients gained >=7% of baseline body weight. in these same trials, the mean weight change among sabril patients was 3.5 kg compared to 1.6 kg for placebo patients.
+
+
+
+  data pooled from randomized controlled trials in pediatric patients with refractory complex partial seizures found that 47% (77/163) of sabril patients versus 19% (19/102) of placebo patients gained >=7% of baseline body weight.  
+
+
+
+  in all epilepsy trials, 0.6% (31/4855) of sabril patients discontinued for weight gain. the long term effects of sabril related weight gain are not known. weight gain was not related to the occurrence of edema.  
+
+
+
+     5.11        edema  
+
+
+
+  sabril causes edema in adults.  pediatric clinical trials were not designed to assess edema, but observed incidence of edema based pooled data from controlled pediatric studies appeared similar for pediatric patients on vigabatrin and placebo.
+
+
+
+ pooled data from controlled trials demonstrated increased risk among sabril patients compared to placebo patients for peripheral edema (sabril 2%, placebo 1%), and edema (sabril 1%, placebo 0%). in these studies, one sabril and no placebo patients discontinued for an edema related ae. in adults, there was no apparent association between edema and cardiovascular adverse events such as hypertension or congestive heart failure. edema was not associated with laboratory changes suggestive of deterioration in renal or hepatic function.

@@ -1,0 +1,258 @@
+    6 adverse reactions
+
+  excerpt:   most common adverse reactions (greater than or equal to 2%) include headache, flushing, nasal congestion, nasopharyngitis, and back pain (6.1)
+
+
+
+   to report suspected adverse reactions, contact 1-877-663-0412 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ stendra was administered to 2215 men during clinical trials. in trials of stendra for use as needed, a total of 493 patients were exposed for greater than or equal to 6 months, and 153 patients were treated for greater than or equal to 12 months.
+
+
+
+ in three randomized, double-blind, placebo-controlled trials lasting up to 3 months in duration, the mean age of patients was 56.4 years (range from 23 to 88 years). 83.9% of patients were white, 13.8% were black, 1.4% asian, and < 1% hispanic. 41.1% were current or previous smokers. 30.6% had diabetes mellitus.
+
+
+
+ the discontinuation rate due to adverse reactions for patients treated with stendra 50 mg, 100 mg, or 200 mg was 1.4%, 2.0%, and 2.0%, respectively, compared to 1.7% for placebo-treated patients.
+
+
+
+ table 1 presents the adverse reactions reported when stendra was taken as recommended (on an as-needed basis) from these 3 clinical trials.
+
+
+
+ table 1: adverse reactions reported by greater than or equal to 2% of patients treated with stendra from 3 placebo-controlled clinical trials lasting 3 months for stendra use as needed 
+ adverse reaction           placebo(n = 349)  stendra 50 mg(n = 217)  stendra 100 mg(n = 349)  stendra 200 mg(n = 352)   
+  
+ headache                        1.7%                5.1%                  6.9%                 10.5%           
+ flushing                        0.0%                3.2%                  4.3%                  4.0%           
+ nasal congestion                1.1%                1.8%                  2.9%                  2.0%           
+ nasopharyngitis                 2.9%                0.9%                  2.6%                  3.4%           
+ back pain                       1.1%                3.2%                  2.0%                  1.1%           
+           adverse reactions reported by greater than or equal to 1%, but less than 2% of patients in any stendra dose group, and greater than placebo included: upper respiratory infection (uri), bronchitis, influenza, sinusitis, sinus congestion, hypertension, dyspepsia, nausea, constipation, and rash.
+ 
+
+ in an open-label, long-term extension study of two of these randomized, double-blind, placebo-controlled trials, the total duration of treatment was up to 52 weeks. among the 712 patients who participated in this open-label extension study, the mean age of the population was 56.4 years (range from 23 to 88 years). the discontinuation rate due to adverse reactions for patients treated with stendra (50 mg, 100 mg, or 200 mg) was 2.8%.
+
+
+
+ in this extension trial, all eligible patients were initially assigned to stendra 100 mg. at any point during the trial, patients could request to have their dose of stendra increased to 200 mg or decreased to 50 mg based on their individual response to treatment. in total, 536 (approximately 75%) patients increased their dose to 200 mg and 5 (less than 1%) patients reduced their dose to 50 mg.
+
+
+
+ table 2 presents the adverse reactions reported when stendra was taken as recommended (on an as-needed basis) in this open-label extension trial.
+
+
+
+ table 2: adverse reactions reported by greater than or equal to 2% of patients treated with stendra in an open-label extension trial 
+ adverse reaction                                                     stendra(n = 711)                    
+  
+ headache                                                                   5.6%                          
+ flushing                                                                   3.5%                          
+ nasopharyngitis                                                            3.4%                          
+ nasal congestion                                                           2.1%                          
+        adverse reactions reported by greater than or equal to 1%, but less than 2% of patients in the open-label extension study included: upper respiratory infection (uri), influenza, sinusitis, bronchitis, dizziness, back pain, arthralgia, hypertension, and diarrhea.
+ 
+
+ the following events occurred in less than 1% of patients in the three placebo-controlled 3-month clinical trials and/or the open-label, long-term extension study lasting 12 months. a causal relationship to stendra is uncertain. excluded from this list are those events that were minor, those with no plausible relation to drug use, and reports too imprecise to be meaningful.
+
+
+
+   body as a whole  - edema peripheral, fatigue
+
+
+
+   cardiovascular  - angina, unstable angina, deep vein thrombosis, palpitations
+
+
+
+   digestive  - gastritis, gastroesophageal reflux disease, hypoglycemia, blood glucose increased, alanine aminotransferase increased, oropharyngeal pain, stomach discomfort, vomiting
+
+
+
+   musculoskeletal  - muscle spasms, musculoskeletal pain, myalgia, pain in extremity
+
+
+
+   nervous  - depression, insomnia, somnolence, vertigo
+
+
+
+   respiratory -  cough, dyspnea exertional, epistaxis, wheezing
+
+
+
+   skin and appendages  - pruritus
+
+
+
+   urogenital  - balanitis, erection increased, hematuria, nephrolithiasis, pollakiuria, urinary tract infection
+
+
+
+ in an additional randomized, double-blind, placebo-controlled study lasting up to 3 months in 298 men who had undergone bilateral nerve-sparing radical prostatectomy for prostate cancer, the mean age of patients was 58.4 years (range 40 - 70). table 3 presents the adverse reactions reported in this study.
+
+
+
+ table 3: adverse reactions reported by greater than or equal to 2% of patients treated with stendra in a placebo-controlled clinical trial lasting 3 months in patients who underwent bilateral nerve-sparing radical prostatectomy 
+ adverse reaction                            placebo(n = 100)  stendra 100 mg(n = 99)  stendra 200 mg(n = 99)   
+  
+ headache                                         1.0%                8.1%                   12.1%            
+ flushing                                         0.0%                5.1%                   10.1%            
+ nasopharyngitis                                  0.0%                3.0%                    5.1%            
+ upper respiratory infection                      0.0%                2.0%                    3.0%            
+ nasal congestion                                 1.0%                3.0%                    1.0%            
+ back pain                                        1.0%                3.0%                    2.0%            
+ electrocardiogram abnormal                       0.0%                1.0%                    3.0%            
+ dizziness                                        0.0%                1.0%                    2.0%            
+          a randomized, double-blind, placebo-controlled 2 months study was conducted in 435 subjects with a mean age of 58.2 years (range 24 to 86 years) to determine the time to onset of effect of stendra, defined as the time to the first occurrence of an erection sufficient for sexual intercourse. table 4 presents the adverse reactions occurring in >= 2% of subjects treated with stendra.
+ 
+
+ table 4: adverse reactions reported by >= 2% of patients treated with stendra in a placebo-controlled clinical trial lasting 2 months to determine the time to onset of effect (study 3) 
+ adverse reaction                              placebon=143      stendra 100 mgn=146   stendra 200 mgn=146    
+  
+ headache                                          0.7%                  1.4%                  8.9%           
+ nasal congestion                                  0.0%                  0.7%                  4.1%           
+ gastroenteritis viral                             0.0%                  0.0%                  2.1%           
+          across all trials with any stendra dose, 1 subject reported a change in color vision.
+ 
+
+   6.2 postmarketing experience
+
+  ophthalmologic:
+
+
+
+ non-arteritic anterior ischemic optic neuropathy (naion), a cause of decreased vision including permanent loss of vision, has been reported rarely post-marketing in temporal association with the use of phosphodiesterase type 5 (pde5) inhibitors. most, but not all, of these patients had underlying anatomic or vascular risk factors for developing naion, including but not necessarily limited to: low cup to disc ratio ("crowded disc"), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia, and smoking. it is not possible to determine whether these events are related directly to the use of pde5 inhibitors, to the patient's underlying vascular risk factors or anatomical defects, to a combination of these factors, or to other factors [see  warnings and precautions (5.4)andpatient counseling information (17.6)  ].
+    5 warnings and precautions
+
+  evaluation of erectile dysfunction (ed) should include an appropriate medical assessment to identify potential underlying causes, as well as treatment options.
+
+
+
+ before prescribing stendra, it is important to note the following:
+
+
+
+    excerpt:    *  patients should not use stendra if sexual activity is inadvisable due to cardiovascular status or any other reason (5.1) 
+ *  use of stendra with alpha-blockers, other antihypertensives, or substantial amounts of alcohol (greater than 3 units) may lead to hypotension (2.3,5.6,5.7) 
+ *  patients should seek emergency treatment if an erection lasts greater than 4 hours (5.3) 
+ *  patients should stop stendra and seek medical care if a sudden loss of vision occurs in one or both eyes, which could be a sign of non arteritic ischemic optic neuropathy (naion). stendra should be used with caution, and only when the anticipated benefits outweigh the risks, in patients with a history of naion. patients with a "crowded" optic disc may also be at an increased risk of naion (5.4,6.2) 
+ *  patients should stop taking stendra and seek prompt medical attention in the event of sudden decrease or loss of hearing (5.5) 
+    
+   5.1 cardiovascular risks
+
+  there is a potential for cardiac risk during sexual activity in patients with pre-existing cardiovascular disease. therefore, treatments for ed, including stendra, should not be used in men for whom sexual activity is inadvisable because of their underlying cardiovascular status.
+
+
+
+ patients with left ventricular outflow obstruction (e.g., aortic stenosis, idiopathic hypertrophic subaortic stenosis) and those with severely impaired autonomic control of blood pressure can be particularly sensitive to the actions of vasodilators, including stendra.
+
+
+
+ the following groups of patients were not included in clinical safety and efficacy trials for stendra, and therefore until further information is available, stendra is not recommended for the following groups:
+
+
+
+ *  patients who have suffered a myocardial infarction, stroke, life-threatening arrhythmia, or coronary revascularization within the last 6 months; 
+ *  patients with resting hypotension (blood pressure less than 90/50 mmhg) or hypertension (blood pressure greater than 170/100 mmhg); 
+ *  patients with unstable angina, angina with sexual intercourse, or new york heart association class 2 or greater congestive heart failure. 
+    as with other pde5 inhibitors stendra has systemic vasodilatory properties and may augment the blood pressure-lowering effect of other anti-hypertensive medications. stendra 200 mg resulted in transient decreases in sitting blood pressure in healthy volunteers of 8.0 mmhg systolic and 3.3 mmhg diastolic  [seeclinical pharmacology (12.2)]  , with the maximum decrease observed at 1 hour after dosing. while this normally would be expected to be of little consequence in most patients, prior to prescribing stendra, physicians should carefully consider whether patients with underlying cardiovascular disease could be affected adversely by such vasodilatory effects, especially in combination with sexual activity.
+ 
+
+   5.2 concomitant use of cyp3a4 inhibitors
+
+  stendra metabolism is principally mediated by the cyp450 isoform 3a4 (cyp3a4). inhibitors of cyp3a4 may reduce stendra clearance and increase plasma concentrations of avanafil.
+
+
+
+ for patients taking concomitant strong cyp3a4 inhibitors (including ketoconazole, ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, and telithromycin), do not use stendra  [seedrug interactions (7.2)].  
+
+
+
+ for patients taking concomitant moderate cyp3a4 inhibitors (including erythromycin, amprenavir, aprepitant, diltiazem, fluconazole, fosamprenavir, and verapamil), the maximum recommended dose of stendra is 50 mg, not to exceed once every 24 hours  [seedrug interactions (7.2)].  
+
+
+
+   5.3 prolonged erection
+
+  prolonged erection greater than 4 hours and priapism (painful erections greater than 6 hours in duration) have been reported with other pde5 inhibitors. in the event of an erection that persists longer than 4 hours, the patient should seek immediate medical assistance. if not treated immediately, penile tissue damage and permanent loss of potency could result.
+
+
+
+ stendra should be used with caution in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis, or peyronie's disease), or in patients who have conditions which may predispose them to priapism (such as sickle cell anemia, multiple myeloma, or leukemia).
+
+
+
+   5.4 effects on eye
+
+    physicians should advise patients to stop use of all pde5 inhibitors, including stendra, and seek medical attention in the event of a sudden loss of vision in one or both eyes. such an event may be a sign of non-arteritic anterior ischemic optic neuropathy (naion), a rare condition and a cause of decreased vision including permanent loss of vision that has been reported rarely postmarketing in temporal association with the use of all pde5 inhibitors.  
+
+
+
+ based on published literature, the annual incidence of naion is 2.5-11.8 cases per 100,000 in males aged >= 50. an observational study evaluated whether recent use of pde5 inhibitors, as a class, was associated with acute onset of naion. the results suggest an approximate 2-fold increase in the risk of naion within 5 half-lives of pde5 inhibitor use. from this information, it is not possible to determine whether these events are related directly to the use of pde5 inhibitors or to other factors [  seeadverse reactions (6.2)  ].
+
+
+
+ physicians should consider whether their patients with underlying naion risk factors could be adversely affected by use of pde5 inhibitors. individuals who have already experienced naion are at increased risk of naion recurrence. therefore, pde5 inhibitors, including stendra, should be used with caution in these patients and only when the anticipated benefits outweigh the risks. individuals with "crowded" optic disc are also considered at greater risk for naion compared to the general population, however, evidence is insufficient to support screening of prospective users of pde5 inhibitors, including stendra, for this uncommon condition.
+
+
+
+   5.5 sudden hearing loss
+
+  use of pde5 inhibitors has been associated with sudden decrease or loss of hearing, which may be accompanied by tinnitus or dizziness. it is not possible to determine whether these events are related directly to the use of pde5 inhibitors or to other factors  [seeadverse reactions (6)]  . patients experiencing these symptoms should be advised to stop taking stendra and seek prompt medical attention.
+
+
+
+   5.6 alpha-blockers and other antihypertensives
+
+  physicians should discuss with patients the potential for stendra to augment the blood pressure-lowering effect of alpha-blockers and other antihypertensive medications  [seedrug interactions (7.1)andclinical pharmacology (12.2)].  
+
+
+
+ caution is advised when pde5 inhibitors are co-administered with alpha-blockers. phosphodiesterase type 5 inhibitors, including stendra, and alpha-adrenergic blocking agents are both vasodilators with blood pressure-lowering effects. when vasodilators are used in combination, an additive effect on blood pressure may be anticipated. in some patients, concomitant use of these two drug classes can lower blood pressure significantly leading to symptomatic hypotension (e.g., dizziness, lightheadedness, fainting).
+
+
+
+ consideration should be given to the following:
+
+
+
+ *  patients should be stable on alpha-blocker therapy prior to initiating treatment with a pde5 inhibitor. patients who demonstrate hemodynamic instability on alpha-blocker therapy alone are at increased risk of symptomatic hypotension with concomitant use of pde5 inhibitors. 
+ *  in those patients who are stable on alpha-blocker therapy, pde5 inhibitors should be initiated at the lowest dose (stendra 50 mg). 
+ *  in those patients already taking an optimized dose of a pde5 inhibitor, alpha-blocker therapy should be initiated at the lowest dose. stepwise increase in alpha-blocker dose may be associated with further lowering of blood pressure when taking a pde5 inhibitor. 
+    safety of combined use of pde5 inhibitors and alpha-blockers may be affected by other variables, including intravascular volume depletion and other anti-hypertensive drugs [see  dosage and administration (2)  and  drug interactions (7.1)  ].
+ 
+
+   5.7 alcohol
+
+  patients should be made aware that both alcohol and pde5 inhibitors including stendra act as vasodilators. when vasodilators are taken in combination, blood-pressure-lowering effects of each individual compound may be increased. therefore, physicians should inform patients that substantial consumption of alcohol (e.g., greater than 3 units) in combination with stendra may increase the potential for orthostatic signs and symptoms, including increase in heart rate, decrease in standing blood pressure, dizziness, and headache  [seedrug interactions (7.1)andclinical pharmacology (12.2)]  .
+
+
+
+   5.8 combination with other pde5 inhibitors or erectile dysfunction therapies
+
+  the safety and efficacy of combinations of stendra with other treatments for ed has not been studied. therefore, the use of such combinations is not recommended.
+
+
+
+   5.9 effects on bleeding
+
+  the safety of stendra is unknown in patients with bleeding disorders and patients with active peptic ulceration.  in vitro  studies with human platelets indicate that stendra potentiates the anti-aggregatory effect of sodium nitroprusside (a nitric oxide [no] donor).
+
+
+
+   5.10 counseling patients about sexually transmitted diseases
+
+  the use of stendra offers no protection against sexually transmitted diseases. counseling patients about the protective measures necessary to guard against sexually transmitted diseases, including human immunodeficiency virus (hiv), should be considered.

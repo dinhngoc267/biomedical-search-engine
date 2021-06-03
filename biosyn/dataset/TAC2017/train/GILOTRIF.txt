@@ -1,0 +1,157 @@
+    6  adverse reactions
+
+  the following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *  diarrhea [see warnings and precautions (5.1)]  
+ *  bullous and exfoliative skin disorders [see warnings and precautions (5.2)]  
+ *  interstitial lung disease [see warnings and precautions (5.3)]  
+ *  hepatic toxicity [see warnings and precautions (5.4)]  
+ *  keratitis [see warnings and precautions (5.5)]  
+      excerpt:   most common adverse reactions (>=20%) are diarrhea, rash/dermatitis acneiform, stomatitis, paronychia, dry skin, decreased appetite, nausea, vomiting, pruritus (6.1)
+ 
+
+   to report suspected adverse reactions, contact boehringer ingelheim pharmaceuticals, inc. at (800) 542-6257 or (800) 459-9906 tty or fda at 1-800-fda-1088 orwww.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the safety evaluation of gilotrif is based on the data from more than 3800 patients, including 2135 nsclc patients receiving gilotrif monotherapy at or above the recommended dose.
+
+
+
+   controlled study  the data in tables 1 and 2 below reflect exposure of 229 egfr-tki naive gilotrif-treated patients with egfr mutation-positive, metastatic, non-squamous, nsclc enrolled in a randomized, multicenter, open-label trial (study 1). patients received gilotrif 40 mg daily until documented disease progression or intolerance to the therapy. a total of 111 patients were treated with pemetrexed/cisplatin. patients were treated with pemetrexed 500 mg/m2 followed after 30 minutes by cisplatin 75 mg/m2 every three weeks for a maximum of six treatment courses.
+
+
+
+ the median exposure was 11.0 months for patients treated with gilotrif and 3.4 months for patients treated with pemetrexed/cisplatin. the overall trial population had a median age of 61 years; 61% of patients in the gilotrif arm and 60% of patients in the pemetrexed/cisplatin arm were younger than 65 years. a total of 64% of patients on gilotrif and 67% of pemetrexed/cisplatin patients were female. more than two-thirds of patients were from asia (gilotrif 70%; pemetrexed/cisplatin 72%).
+
+
+
+ serious adverse reactions were reported in 29% of patients treated with gilotrif. the most frequent serious adverse reactions reported in patients treated with gilotrif were diarrhea (6.6%); vomiting (4.8%); and dyspnea, fatigue, and hypokalemia (1.7% each). fatal adverse reactions in gilotrif-treated patients in study 1 included pulmonary toxicity/ild-like adverse reactions (1.3%), sepsis (0.43%), and pneumonia (0.43%).
+
+
+
+ dose reductions due to adverse reactions were required in 57% of gilotrif-treated patients. the most frequent adverse reactions that led to dose reduction in the patients treated with gilotrif were diarrhea (20%), rash/acne (19%), paronychia (14%), and stomatitis (10%).
+
+
+
+ discontinuation of therapy in gilotrif-treated patients for adverse reactions was 14.0%. the most frequent adverse reactions that led to discontinuation in gilotrif-treated patients were diarrhea (1.3%), ild (0.9%), and paronychia (0.9%).
+
+
+
+ clinical trials of gilotrif excluded patients with an abnormal left ventricular ejection fraction (lvef), i.e., below the institutional lower limit of normal. in study 1, all patients were evaluated for lvef at screening and every 9 weeks thereafter in the gilotrif-treated group and as needed in the pemetrexed/cisplatin group. more gilotrif-treated patients (2.2%; n=5) experienced ventricular dysfunction (defined as diastolic dysfunction, left ventricular dysfunction, or ventricular dilation; all < grade 3) compared to chemotherapy-treated patients (0.9%; n=1).
+
+
+
+ table 1 adverse reactions reported in >=10% of gilotrif-treated patients in study 1 
+
+ *none of the adverse reactions in this table except stomatitis (one patient on gilotrif [0.4%]) were grade 4 in severity  1  includes stomatitis, aphthous stomatitis, mucosal inflammation, mouth ulceration, oral mucosa erosion, mucosal erosion, mucosal ulceration  2  includes group of rash preferred terms, acne, acne pustular, dermatitis acneiform  3  includes paronychia, nail infection, nail bed infection   
+  
+                    gilotrifn=229      pemetrexed/cisplatinn=111     
+   adverse reaction      all grades(%)      grade 3*(%)      all grades(%)      grade 3*(%)     
+   gastrointestinal disorders     
+       diarrhea   96               15               23               2                 
+       stomatitis  1    71               9                15               1                 
+       nausea     25               4                68               4                 
+       vomiting   23               4                47               3                 
+       cheilitis  12               0                1                0                 
+   skin and subcutaneous tissue disorders     
+       rash/dermatitis acneiform  2    90               16               11               0                 
+       pruritus   21               0                1                0                 
+       dry skin   31               0                2                0                 
+   infections and infestations     
+       paronychia  3    58               11               0                0                 
+       cystitis   13               1                5                0                 
+   metabolism and nutrition disorders     
+       decreased appetite  29               4                55               4                 
+   respiratory, thoracic and mediastinal disorders     
+       epistaxis  17               0                2                1                 
+       rhinorrhea  11               0                6                0                 
+   investigations     
+       weight decreased  17               1                14               1                 
+   general disorders and administration site conditions     
+       pyrexia    12               0                6                0                 
+   eye disorders     
+       conjunctivitis  11               0                3                0                 
+     table 2 adverse reactions of laboratory abnormalities from the investigations soc reported in >=5% of gilotrif-treated patients in study 1 
+
+   1  includes hypokalemia, blood potassium decreasedsoc=system organ class   
+  
+                    gilotrifn=229      pemetrexed/cisplatinn=111     
+   adverse reaction      all grades(%)      grades 3-4(%)      all grades(%)      grades 3-4(%)     
+ alanine aminotransferase increased  11               2                4                0                 
+ hypokalemia  1    11               4                5                4                 
+ aspartate aminotransferase increased  8                2                2                1                 
+        6.2 postmarketing experience
+   the following adverse reactions have been identified during post-approval use of gilotrif. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ *  pancreatitis 
+    5  warnings and precautions
+
+   excerpt:    *  diarrhea: diarrhea may result in dehydration and renal failure. withhold gilotrif for severe and prolonged diarrhea not responsive to anti-diarrheal agents. (2.3,5.1) 
+ *  bullous and exfoliative skin disorders: severe bullous, blistering, and exfoliating lesions occurred in 0.15% of patients. discontinue for life-threatening cutaneous reactions. withhold gilotrif for severe and prolonged cutaneous reactions. (2.3,5.2) 
+ *  interstitial lung disease (ild): occurs in 1.5% of patients. withhold gilotrif for acute onset or worsening of pulmonary symptoms. discontinue gilotrif if ild is diagnosed. (2.3,5.3) 
+ *  hepatic toxicity: fatal hepatic impairment occurs in 0.18% of patients. monitor with periodic liver testing. withhold or discontinue gilotrif for severe or worsening liver tests. (2.3,5.4) 
+ *  keratitis: occurs in 0.8% of patients. withhold gilotrif for keratitis evaluation. withhold or discontinue gilotrif for confirmed ulcerative keratitis. (2.3,5.5) 
+ *  embryofetal toxicity: can cause fetal harm. advise females of the potential hazard to the fetus and to use highly effective contraception. (5.6) 
+    
+   5.1 diarrhea
+
+  diarrhea has resulted in dehydration with or without renal impairment; some of these cases were fatal. in study 1, diarrhea occurred in 96% of patients treated with gilotrif (n=229), of which 15% was grade 3 in severity and occurred within the first 6 weeks  [see adverse reactions (6.1)].  renal impairment as a consequence of diarrhea occurred in 6.1% of patients treated with gilotrif, out of which 3 (1.3%) were grade 3.
+
+
+
+ for patients who develop prolonged grade 2 diarrhea lasting more than 48 hours or greater than or equal to grade 3 diarrhea, withhold gilotrif until diarrhea resolves to grade 1 or less, and resume gilotrif with appropriate dose reduction  [see dosage and administration (2.3)].  provide patients with an anti-diarrheal agent (e.g., loperamide) for self-administration at the onset of diarrhea and instruct patients to continue anti-diarrheal therapy until loose bowel movements cease for 12 hours.
+
+
+
+   5.2 bullous and exfoliative skin disorders
+
+  grade 3 cutaneous reactions characterized by bullous, blistering, and exfoliating lesions occurred in 6 (0.15%) of the 3865 patients who received gilotrif across clinical trials  [see adverse reactions (6.1)].  in study 1, the overall incidence of cutaneous reactions consisting of rash, erythema, and acneiform rash was 90%, and the incidence of grade 3 cutaneous reactions was 16%. in addition, the incidence of grade 1-3 palmar-plantar erythrodysesthesia syndrome was 7%. discontinue gilotrif in patients who develop life-threatening bullous, blistering, or exfoliating lesions  [see dosage and administration (2.3)].  for patients who develop prolonged grade 2 cutaneous adverse reactions lasting more than 7 days, intolerable grade 2, or grade 3 cutaneous reactions, withhold gilotrif until the adverse reaction resolves to grade 1 or less, and resume gilotrif with appropriate dose reduction  [see dosage and administration (2.3)]  .
+
+
+
+   5.3 interstitial lung disease (ild)
+
+  ild or ild-like adverse reactions (e.g., lung infiltration, pneumonitis, acute respiratory distress syndrome, or alveolitis allergic) occurred in 1.5% of the 3865 patients who received gilotrif across clinical trials; of these, 0.4% were fatal. the incidence of ild appeared to be higher in patients of asian ethnicity (2.1%) as compared to non-asians (1.2%). in study 1, the incidence of grade >=3 ild was 1.3% and resulted in death in 1% of gilotrif-treated patients.
+
+
+
+ withhold gilotrif during evaluation of patients with suspected ild, and discontinue gilotrif in patients with confirmed ild  [see dosage and administration (2.3)]  .
+
+
+
+   5.4 hepatic toxicity
+
+  in 3865 patients who received gilotrif across clinical trials, 10.1% had liver test abnormalities, of which 7 (0.18%) were fatal. in study 1, liver test abnormalities of any grade occurred in 17.5% of the patients treated with gilotrif.
+
+
+
+ obtain periodic liver testing in patients during treatment with gilotrif. withhold gilotrif in patients who develop worsening of liver function  [see dosage and administration (2.3)]  . in patients who develop severe hepatic impairment while taking gilotrif, treatment should be discontinued.
+
+
+
+   5.5 keratitis
+
+  keratitis, characterized as acute or worsening eye inflammation, lacrimation, light sensitivity, blurred vision, eye pain, and/or red eye occurred in 0.8% of patients treated with gilotrif among 3865 patients across clinical trials. keratitis was reported in 5 (2.2%) patients in study 1, with grade 3 in 1 (0.4%). withhold gilotrif during evaluation of patients with suspected keratitis, and if diagnosis of ulcerative keratitis is confirmed, treatment with gilotrif should be interrupted or discontinued  [see dosage and administration (2.3)]  . if keratitis is diagnosed, the benefits and risks of continuing treatment should be carefully considered. gilotrif should be used with caution in patients with a history of keratitis, ulcerative keratitis, or severe dry eye  [see adverse reactions (6.1)]  . contact lens use is also a risk factor for keratitis and ulceration.
+
+
+
+   5.6 embryofetal toxicity
+
+  based on its mechanism of action, gilotrif can cause fetal harm when administered to a pregnant woman. afatinib was embryotoxic and, in animals with maternal toxicity, led to abortions at late gestational stages in rabbits at doses of 5 mg/kg (approximately 0.2 times the human exposure at the recommended dose of 40 mg daily) or greater. if this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus  [see use in specific populations (8.1)].  
+
+
+
+ advise females of reproductive potential to use highly effective contraception during treatment, and for at least 2 weeks after the last dose of gilotrif. advise patients to contact their healthcare provider if they become pregnant, or if pregnancy is suspected, while taking gilotrif  [see use in specific populations (8.1and8.6)].  

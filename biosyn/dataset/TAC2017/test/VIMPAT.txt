@@ -1,0 +1,283 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *  suicidal behavior and ideation [ see  warnings and precautions (5.1)   ] 
+ *  dizziness and ataxia [ see  warnings and precautions (5.2)   ] 
+ *  cardiac rhythm and conduction abnormalities [ see  warnings and precautions (5.3)   ] 
+ *  syncope [ see  warnings and precautions (5.4)   ] 
+ *  multiorgan hypersensitivity reactions [ see  warnings and precautions (5.5)   ] 
+   *  monotherapy: most common adverse reactions are similar to those seen in adjunctive therapy studies (  6.1  ) 
+ *  adjunctive therapy: most common adverse reactions (>=10% and greater than placebo) are diplopia, headache, dizziness, nausea (  6.1  ) 
+      excerpt:     to report suspected adverse reactions, contact ucb, inc. at 1-844-599-2273 or fda at 1-800-fda-1088 or www.fda.gov/medwatch  
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ in the premarketing development of adjunctive therapy for partial-onset seizures, 1327 patients received vimpat in controlled and uncontrolled trials, of whom 1000 were treated for longer than 6 months, and 852 for longer than 12 months. the monotherapy development program included 425 patients, 310 of whom were treated for longer than 6 months, and 254 for longer than 12 months.
+
+
+
+     vimpat tablet and oral solution  
+
+
+
+     monotherapy historical-control trial (study 1)  
+
+
+
+ *     in the monotherapy trial, 16% of patients randomized to receive vimpat at the recommended doses of 300 and 400 mg/day discontinued from the trial as a result of an adverse reaction. the adverse reaction most commonly (>=1% on vimpat) leading to discontinuation was dizziness. 
+   *     adverse reactions that occurred in this study were generally similar to those that occurred in adjunctive placebo-controlled studies. one adverse reaction, insomnia, occurred at a rate of >=2% and was not reported at a similar rate in previous studies. this adverse reaction has also been observed in postmarketing experience [ see  adverse reactions (6.2)   ]. because this study did not include a placebo control group, causality could not be established. 
+   *     dizziness, headache, nausea, somnolence, and fatigue all occurred at lower incidences during the aed withdrawal phase and monotherapy phase, compared with the titration phase [ see  clinical studies (14.1)   ]. 
+        adjunctive therapy controlled trials (studies 2, 3, and 4)  
+ 
+
+ *     in adjunctive therapy controlled clinical trials, the rate of discontinuation as a result of an adverse reaction was 8% and 17% in patients randomized to receive vimpat at the recommended doses of 200 and 400 mg/day, respectively, 29% at 600 mg/day, and 5% in patients randomized to receive placebo. the adverse reactions most commonly (>1% on vimpat and greater than placebo) leading to discontinuation were dizziness, ataxia, vomiting, diplopia, nausea, vertigo, and blurred vision. 
+   *     table 2 gives the incidence of adverse reactions that occurred in >=2% of adult patients with partial-onset seizures in the vimpat total group and for which the incidence was greater than placebo. 
+   table 2: adverse reactions incidence in adjunctive therapy pooled, placebo-controlled trials in patients with partial-onset seizures (studies 2, 3, and 4) 
+ system organ class/preferred term   placebon=364%    vimpat200 mg/dayn=270%  vimpat400 mg/dayn=471%  vimpat600 mg/dayn=203%  vimpattotaln=944%   
+  
+   ear and labyrinth disorder     
+   vertigo                    1                 5                 3                 4                 4           
+   eye disorders        
+   diplopia                   2                 6                 10                16                11          
+   blurred vision             3                 2                 9                 16                8           
+   gastrointestinal disorders     
+   nausea                     4                 7                 11                17                11          
+   vomiting                   3                 6                 9                 16                9           
+   diarrhea                   3                 3                 5                 4                 4           
+   general disorders and administration site conditions     
+   fatigue                    6                 7                 7                 15                9           
+   gait disturbance           <1                <1                2                 4                 2           
+   asthenia                   1                 2                 2                 4                 2           
+   injury, poisoning and procedural complications     
+   contusion                  3                 3                 4                 2                 3           
+   skin laceration            2                 2                 3                 3                 3           
+   nervous system disorders     
+   dizziness                  8                 16                30                53                31          
+   headache                   9                 11                14                12                13          
+   ataxia                     2                 4                 7                 15                8           
+   somnolence                 5                 5                 8                 8                 7           
+   tremor                     4                 4                 6                 12                7           
+   nystagmus                  4                 2                 5                 10                5           
+   balance disorder           0                 1                 5                 6                 4           
+   memory impairment          2                 1                 2                 6                 2           
+   psychiatric disorders     
+   depression                 1                 2                 2                 2                 2           
+   skin and subcutaneous disorders     
+   pruritus                   1                 3                 2                 3                 2           
+            the overall adverse reaction rate was similar in male and female patients. although there were few non-caucasian patients, no differences in the incidences of adverse events compared to caucasian patients were observed.
+ 
+
+     laboratory abnormalities  
+
+
+
+ *     abnormalities in liver function tests have occurred in controlled trials with vimpat in adult patients with partial-onset seizures who were taking 1 to 3 concomitant anti-epileptic drugs. elevations of alt to >=3* uln occurred in 0.7% (7/935) of vimpat patients and 0% (0/356) of placebo patients . one case of hepatitis with transaminases >20* uln occurred in one healthy subject 10 days after vimpat treatment completion, along with nephritis (proteinuria and urine casts). serologic studies were negative for viral hepatitis. transaminases returned to normal within one month without specific treatment. at the time of this event, bilirubin was normal. the hepatitis/nephritis was interpreted as a delayed hypersensitivity reaction to vimpat. 
+        other adverse reactions  
+ 
+
+ *     the following is a list of adverse reactions reported by patients treated with vimpat in all clinical trials in patients with partial-onset seizures, including controlled trials and long-term open-label extension trials. adverse reactions addressed in other tables or sections are not listed here. 
+   *     blood and lymphatic system disorders: neutropenia, anemia 
+   *     cardiac disorders: palpitations 
+   *     ear and labyrinth disorders: tinnitus 
+   *     gastrointestinal disorders: constipation, dyspepsia, dry mouth, oral hypoaesthesia 
+   *     general disorders and administration site conditions: irritability, pyrexia, feeling drunk 
+   *     injury, poisoning, and procedural complications: fall 
+   *     musculoskeletal and connective tissue disorders: muscle spasms 
+   *     nervous system disorders: paresthesia, cognitive disorder, hypoaesthesia, dysarthria, disturbance in attention, cerebellar syndrome 
+   *     psychiatric disorders: confusional state, mood altered, depressed mood 
+        vimpat injection  
+ 
+
+ adverse reactions with intravenous administration generally were similar to those that occurred with the oral formulation, although intravenous administration was associated with local adverse reactions such as injection site pain or discomfort (2.5%), irritation (1%), and erythema (0.5%). one case of profound bradycardia (26 bpm: bp 100/60 mmhg) occurred in a patient during a 15-minute infusion of 150 mg vimpat. this patient was on a beta-blocker. infusion was discontinued and the patient experienced a rapid recovery.
+
+
+
+ the safety of a 15-minute loading dose administration of vimpat injection 200 mg to 400 mg followed by oral administration of vimpat given twice daily at the same total daily dose as the initial intravenous infusion was assessed in an open-label study in patients with partial-onset seizures. patients had to have been maintained on a stable dose regimen of 1 to 2 marketed antiepileptics for at least 28 days prior to treatment assignment. treatment groups were as follows:
+
+
+
+ *  single dose of intravenous vimpat injection 200 mg followed by oral vimpat 200 mg/day (100 mg every 12 hours) 
+ *  single dose of intravenous vimpat injection 300 mg followed by oral vimpat 300 mg/day (150 mg every 12 hours) 
+ *  single dose of intravenous vimpat injection 400 mg followed by oral vimpat 400 mg/day (200 mg every 12 hours). 
+    table 3 gives the incidence of adverse reactions that occurred in >=5% of adult patients in any vimpat dosing group.
+ 
+
+ table 3: adverse reactions in a 15-minute infusion study in patients with partial-onset seizures 
+ system organ class/preferred term                 vimpat 200 mgn=25%  vimpat 300 mgn=50%  vimpat 400 mgn=25%  vimpat totaln=100%   
+  
+   eye disorders                                                                                                
+   diplopia                                              4              6             20              9         
+   blurred vision                                        0              4             12              5         
+   gastrointestinal disorders                                                                                   
+   nausea                                                0             16             24             14         
+   dry mouth                                             0              6             12              6         
+   vomiting                                              0              4             12              5         
+   oral paresthesia                                      4              4              8              5         
+   oral hypoesthesia                                     0              6              8              5         
+   diarrhea                                              0              8              0              4         
+   general disorders/administration site conditions                                                                 
+   fatigue                                               0             18             12             12         
+   gait disturbance                                      8              2              0              3         
+   chest pain                                            0              0             12              3         
+   nervous system disorders                                                                                     
+   dizziness                                            20             46             60             43         
+   somnolence                                            0             34             36             26         
+   headache                                              8              4             16              8         
+   paresthesia                                           8              6              4              6         
+   tremor                                                0              6              4              4         
+   abnormal coordination                                 0              6              0              3         
+   skin & subcutaneous tissue disorders                                                                         
+   pruritus                                              0              6              4              4         
+   hyperhidrosis                                         0              0              8              2         
+           adverse reactions that occurred with infusion of vimpat 200 mg over 15-minutes followed by vimpat 100 mg administered orally twice per day were similar in frequency to those that occurred in 3-month adjunctive therapy controlled trials. considering the difference in period of observations (1 week vs. 3 months), the incidence of cns adverse reactions, such as dizziness, somnolence, and paresthesia may be higher with 15-minute administration of vimpat injection than with administration over a 30-to 60-minute period.
+ 
+
+   6.2 postmarketing experience
+
+  the following adverse reactions have been identified during post-approval use of vimpat. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ blood and lymphatic system disorders: agranulocytosis
+
+
+
+ psychiatric disorders: aggression, agitation, hallucination, insomnia, psychotic disorder
+
+
+
+ skin and subcutaneous tissue disorders: angioedema, rash, urticaria, stevens-johnson syndrome, toxic epidermal necrolysis.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  monitor patients for suicidal behavior and ideation (  5.1  ) 
+ *  vimpat may cause dizziness and ataxia (  5.2  ) 
+ *  cardiac rhythm and conduction abnormalities: ecg before beginning vimpat, and after vimpat is titrated to steady-state maintenance dose is recommended in patients with known cardiac conduction problems, taking drugs known to induce pr interval prolongation, or with severe cardiac disease (  5.3  ) 
+ *  vimpat may cause syncope (  5.4  ) 
+ *  vimpat should be gradually withdrawn to minimize the potential of increased seizure frequency (  5.5  ) 
+ *  multiorgan hypersensitivity reactions (  5.6  ) 
+    
+ 
+
+   5.1 suicidal behavior and ideation
+
+
+
+  antiepileptic drugs (aeds), including vimpat, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication. patients treated with any aed for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
+
+
+
+ pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different aeds showed that patients randomized to one of the aeds had approximately twice the risk (adjusted relative risk 1.8, 95% ci:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo. in these trials, which had a median treatment duration of 12 weeks, the estimated incidence of suicidal behavior or ideation among 27,863 aed-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated. there were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number of events is too small to allow any conclusion about drug effect on suicide.
+
+
+
+ the increased risk of suicidal thoughts or behavior with aeds was observed as early as one week after starting treatment with aeds and persisted for the duration of treatment assessed. because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
+
+
+
+ the risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed. the finding of increased risk with aeds of varying mechanisms of action and across a range of indications suggests that the risk applies to all aeds used for any indication. the risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
+
+
+
+ table 1 shows absolute and relative risk by indication for all evaluated aeds.
+
+
+
+ table 1 risk by indication for antiepileptic drugs in the pooled analysis 
+ indication            placebo patients with events per 1000 patients  drug patients with events per 1000 patients  relative risk: incidence of events in drug patients/incidence in placebo patients  risk difference: additional drug patients with events per 1000 patients   
+  
+ epilepsy                      1.0                   3.4                   3.5                   2.4            
+ psychiatric                   5.7                   8.5                   1.5                   2.9            
+ other                         1.0                   1.8                   1.9                   0.9            
+ total                         2.4                   4.3                   1.8                   1.9            
+           the relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar.
+ 
+
+ anyone considering prescribing vimpat or any other aed must balance this risk with the risk of untreated illness. epilepsy and many other illnesses for which antiepileptics are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior. should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
+
+
+
+ patients, their caregivers, and families should be informed that aeds increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm. behaviors of concern should be reported immediately to healthcare providers.
+
+
+
+    5.2 dizziness and ataxia
+
+
+
+  vimpat may cause dizziness and ataxia.
+
+
+
+ in patients with partial-onset seizures taking 1 to 3 concomitant aeds, dizziness was experienced by 25% of patients randomized to the recommended doses (200 to 400 mg/day) of vimpat (compared with 8% of placebo patients) and was the adverse event most frequently leading to discontinuation (3%). ataxia was experienced by 6% of patients randomized to the recommended doses (200 to 400 mg/day) of vimpat (compared to 2% of placebo patients). the onset of dizziness and ataxia was most commonly observed during titration. there was a substantial increase in these adverse events at doses higher than 400 mg/day [ see  adverse reactions (6.1)    ].
+
+
+
+    5.3 cardiac rhythm and conduction abnormalities
+
+
+
+   pr interval prolongation  
+
+
+
+ dose-dependent prolongations in pr interval with vimpat have been observed in clinical studies in patients and in healthy volunteers [ see  clinical pharmacology (12.2)    ]. in adjunctive clinical trials in patients with partial-onset epilepsy, asymptomatic first-degree atrioventricular (av) block was observed as an adverse reaction in 0.4% (4/944) of patients randomized to receive vimpat and 0% (0/364) of patients randomized to receive placebo. in clinical trials in patients with diabetic neuropathy, asymptomatic first-degree av block was observed as an adverse reaction in 0.5% (5/1023) of patients receiving vimpat and 0% (0/291) of patients receiving placebo. second degree and complete av block have been reported in patients in pain studies and in patients with seizures. when vimpat is given with other drugs that prolong the pr interval, further pr prolongation is possible.
+
+
+
+  vimpat should be used with caution in patients with known conduction problems (e.g., marked first-degree av block, second-degree or higher av block and sick sinus syndrome without pacemaker), sodium channelopathies (e.g., brugada syndrome), on concomitant medications that prolong pr interval, or with severe cardiac disease such as myocardial ischemia or heart failure, or structural heart disease. in such patients, obtaining an ecg before beginning vimpat, and after vimpat is titrated to steady-state maintenance dose, is recommended. in addition, these patients should be closely monitored if they are administered vimpat through the intravenous route. one case of profound bradycardia was observed in a patient during a 15-minute infusion of 150 mg vimpat. there were two postmarketing reports of third degree av block in patients with significant cardiac history and also receiving metoprolol and amlodipine during infusion of vimpat injection at doses higher than recommended [ see  adverse reactions (6.1)  ,  drug interactions (7.2)  ].    
+
+
+
+    atrial fibrillation and atrial flutter  
+
+
+
+ in the short-term investigational trials of vimpat in epilepsy patients, there were no cases of atrial fibrillation or flutter. both atrial fibrillation and atrial flutter have been reported in open label epilepsy trials and in postmarketing experience. in patients with diabetic neuropathy, 0.5% of patients treated with vimpat experienced an adverse reaction of atrial fibrillation or atrial flutter, compared to 0% of placebo-treated patients. vimpat administration may predispose to atrial arrhythmias (atrial fibrillation or flutter), especially in patients with diabetic neuropathy and/or cardiovascular disease.
+
+
+
+    5.4 syncope
+
+
+
+   in the short-term controlled trials of vimpat in epilepsy patients with no significant system illnesses, there was no increase in syncope compared to placebo. in the short-term controlled trials of vimpat in patients with diabetic neuropathy, 1.2% of patients who were treated with vimpat reported an adverse reaction of syncope or loss of consciousness, compared to 0% of placebo-treated patients with diabetic neuropathy. most of the cases of syncope were observed in patients receiving doses above 400 mg/day. the cause of syncope was not determined in most cases. however, several were associated with either changes in orthostatic blood pressure, atrial flutter/fibrillation (and associated tachycardia), or bradycardia. cases of syncope have also been observed in open-label clinical epilepsy studies. these cases were associated with a history of risk factors for cardiac disease and the use of drugs that slow av conduction.  
+
+
+
+    5.5 withdrawal of antiepileptic drugs (aeds)
+
+
+
+  as with all aeds, vimpat should be withdrawn gradually (over a minimum of 1 week) to minimize the potential of increased seizure frequency in patients with seizure disorders.
+
+
+
+    5.6 multiorgan hypersensitivity reactions
+
+
+
+  one case of symptomatic hepatitis and nephritis was observed among 4011 subjects exposed to vimpat during clinical development. the event occurred in a healthy volunteer, 10 days after stopping vimpat treatment. the subject was not taking any concomitant medication and potential known viral etiologies for hepatitis were ruled out. the subject fully recovered within a month, without specific treatment. the case is consistent with a delayed multiorgan hypersensitivity reaction. additional potential cases included 2 with rash and elevated liver enzymes and 1 with myocarditis and hepatitis of uncertain etiology.
+
+
+
+ multiorgan hypersensitivity reactions (also known as d  rug r  eaction with e  osinophilia and s  ystemic s  ymptoms, or dress) have been reported with other antiepileptics and typically, although not exclusively, present with fever and rash associated with other organ system involvement, that may or may not include eosinophilia, hepatitis, nephritis, lymphadenopathy, and/or myocarditis. because this disorder is variable in its expression, other organ system signs and symptoms not noted here may occur. if this reaction is suspected, vimpat should be discontinued and alternative treatment started.
+
+
+
+    5.7 phenylketonurics
+
+
+
+  vimpat oral solution contains aspartame, a source of phenylalanine. a 200 mg dose of vimpat oral solution (equivalent to 20 ml) contains 0.32 mg of phenylalanine.

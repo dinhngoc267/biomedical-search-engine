@@ -1,0 +1,340 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are described below or elsewhere in the prescribing information:
+
+
+
+ *    risk of thyroid c-cell tumors [see  warnings and precautions (5.1)  ]  
+ *    pancreatitis [see  warnings and precautions (5.2)  ]  
+ *    use with medications known to cause hypoglycemia [see    warnings and precautions (5.4)    ]  
+ *    renal impairment [see    warnings and precautions (5.5)    ]  
+ *    hypersensitivity reactions [see    warnings and precautions (5.6)    ]  
+   *    the most common adverse reactions, reported in >=5% of patients treated with victoza and more commonly than in patients treated with placebo, are: headache, nausea, diarrhea and anti-liraglutide antibody formation  (6)  . 
+ *    immunogenicity-related events, including urticaria, were more common among victoza-treated patients (0.8%) than among comparator-treated patients (0.4%) in clinical trials  (6)  . 
+      excerpt:     to report suspected adverse reactions, contact novo nordisk inc. at 1-877-484-2869 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the safety of victoza has been evaluated in 8 clinical trials  [  see clinical studies (14)  ]  :
+
+
+
+ *    a double-blind 52-week monotherapy trial compared victoza 1.2 mg daily, victoza 1.8 mg daily, and glimepiride 8 mg daily. 
+ *    a double-blind 26 week add-on to metformin trial compared victoza 0.6 mg once-daily, victoza 1.2 mg once-daily, victoza 1.8 mg once-daily, placebo, and glimepiride 4 mg once-daily. 
+ *    a double-blind 26 week add-on to glimepiride trial compared victoza 0.6 mg daily, victoza 1.2 mg once-daily, victoza 1.8 mg once-daily, placebo, and rosiglitazone 4 mg once-daily. 
+ *    a 26 week add-on to metformin + glimepiride trial, compared double-blind victoza 1.8 mg once-daily, double-blind placebo, and open-label insulin glargine once-daily. 
+ *    a double-blind 26-week add-on to metformin + rosiglitazone trial compared victoza 1.2 mg once-daily, victoza 1.8 mg once-daily and placebo. 
+ *    an open-label 26-week add-on to metformin and/or sulfonylurea trial compared victoza 1.8 mg once-daily and exenatide 10 mcg twice-daily. 
+ *    an open-label 26-week add-on to metformin trial compared victoza 1.2 mg once-daily, victoza 1.8 mg once-daily, and sitagliptin 100 mg once-daily. 
+ *    an open-label 26-week trial compared insulin detemir as add-on to victoza 1.8 mg + metformin to continued treatment with victoza + metformin alone. 
+      withdrawals  
+ 
+
+ the incidence of withdrawal due to adverse events was 7.8% for victoza-treated patients and 3.4% for comparator-treated patients in the five double-blind controlled trials of 26 weeks duration or longer. this difference was driven by withdrawals due to gastrointestinal adverse reactions, which occurred in 5.0% of victoza-treated patients and 0.5% of comparator-treated patients. in these five trials, the most common adverse reactions leading to withdrawal for victoza-treated patients were nausea (2.8% versus 0% for comparator) and vomiting (1.5% versus 0.1% for comparator). withdrawal due to gastrointestinal adverse events mainly occurred during the first 2-3 months of the trials.
+
+
+
+   common adverse reactions  
+
+
+
+ tables 1, 2, 3 and 4 summarize common adverse reactions (hypoglycemia is discussed separately) reported in seven of the eight controlled trials of 26 weeks duration or longer. most of these adverse reactions were gastrointestinal in nature.
+
+
+
+ in the five double-blind clinical trials of 26 weeks duration or longer, gastrointestinal adverse reactions were reported in 41% of victoza-treated patients and were dose-related. gastrointestinal adverse reactions occurred in 17% of comparator-treated patients. common adverse reactions that occurred at a higher incidence among victoza-treated patients included nausea, vomiting, diarrhea, dyspepsia and constipation.
+
+
+
+ in the five double-blind and three open-label clinical trials of 26 weeks duration or longer, the percentage of patients who reported nausea declined over time. in the five double-blind trials approximately 13% of victoza-treated patients and 2% of comparator-treated patients reported nausea during the first 2 weeks of treatment.
+
+
+
+ in the 26-week open-label trial comparing victoza to exenatide, both in combination with metformin and/or sulfonylurea, gastrointestinal adverse reactions were reported at a similar incidence in the victoza and exenatide treatment groups (table 3).
+
+
+
+ in the 26-week open-label trial comparing victoza 1.2 mg, victoza 1.8 mg and sitagliptin 100 mg, all in combination with metformin, gastrointestinal adverse reactions were reported at a higher incidence with victoza than sitagliptin (table 4).
+
+
+
+ in the remaining 26-week trial, all patients received victoza 1.8 mg + metformin during a 12-week run-in period. during the run-in period, 167 patients (17% of enrolled total) withdrew from the trial: 76 (46% of withdrawals) of these patients doing so because of gastrointestinal adverse reactions and 15 (9% of withdrawals) doing so due to other adverse events. only those patients who completed the run-in period with inadequate glycemic control were randomized to 26 weeks of add-on therapy with insulin detemir or continued, unchanged treatment with victoza 1.8 mg + metformin. during this randomized 26-week period, diarrhea was the only adverse reaction reported in >=5% of patients treated with victoza 1.8 mg + metformin + insulin detemir (11.7%) and greater than in patients treated with victoza 1.8 mg and metformin alone (6.9%).
+
+
+
+ table 1 adverse reactions reported in >=5% of victoza-treated patients in a 52-week monotherapy trial 
+                                        all victoza  n = 497    glimepiride  n = 248    
+  adverse reaction                      (%)                (%)                    
+  nausea                                28.4               8.5                    
+  diarrhea                              17.1               8.9                    
+  vomiting                              10.9               3.6                    
+  constipation                          9.9                4.8                    
+  headache                              9.1                9.3                    
+        table 2 adverse reactions reported in >=5% of victoza-treated patients and occurring more frequently with victoza compared to placebo: 26-week combination therapy trials 
+  add-on to metformin trial         
+                                    all victoza + metformin  n = 724    placebo + metformin  n = 121    glimepiride +  metformin  n = 242    
+  adverse reaction                  (%)                (%)              (%)                       
+  nausea                            15.2               4.1              3.3                       
+  diarrhea                          10.9               4.1              3.7                       
+  headache                          9.0                6.6              9.5                       
+  vomiting                          6.5                0.8              0.4                       
+  add-on to glimepiride trial       
+                                    all victoza +  glimepiride  n = 695    placebo +  glimepiride  n = 114    rosiglitazone +  glimepiride  n = 231    
+  adverse reaction                  (%)                (%)              (%)                       
+  nausea                            7.5                1.8              2.6                       
+  diarrhea                          7.2                1.8              2.2                       
+  constipation                      5.3                0.9              1.7                       
+  dyspepsia                         5.2                0.9              2.6                       
+  add-on to metformin + glimepiride    
+                                    victoza 1.8 + metformin + glimepiride  n = 230    placebo +  metformin + glimepiride  n = 114    glargine +  metformin +  glimepiride  n = 232    
+  adverse reaction                  (%)                (%)              (%)                       
+  nausea                            13.9               3.5              1.3                       
+  diarrhea                          10.0               5.3              1.3                       
+  headache                          9.6                7.9              5.6                       
+  dyspepsia                         6.5                0.9              1.7                       
+  vomiting                          6.5                3.5              0.4                       
+  add-on to metformin + rosiglitazone    
+                                    all victoza +  metformin + rosiglitazone  n = 355    placebo +  metformin + rosiglitazone  n = 175    
+  adverse reaction                  (%)                (%)              
+  nausea                            34.6               8.6              
+  diarrhea                          14.1               6.3              
+  vomiting                          12.4               2.9              
+  headache                          8.2                4.6              
+  constipation                      5.1                1.1              
+         table 3 adverse reactions reported in >=5% of victoza-treated patients in a 26-week open-label trial versus exenatide 
+                                               victoza  1.8 mg once daily  + metformin and/or sulfonylurea  n = 235    exenatide  10 mcg twice daily  + metformin and/or sulfonylurea  n = 232    
+  adverse reaction                             (%)                      (%)                     
+  nausea                                       25.5                     28.0                    
+  diarrhea                                     12.3                     12.1                    
+  headache                                     8.9                      10.3                    
+  dyspepsia                                    8.9                      4.7                     
+  vomiting                                     6.0                      9.9                     
+  constipation                                 5.1                      2.6                     
+        table 4 adverse reactions in >=5% of victoza-treated patients in a 26-week open-label trial versus sitagliptin 
+                                               all victoza  + metformin  n = 439    sitagliptin 100 mg/day  + metformin  n = 219    
+  adverse reaction                             (%)                      (%)                     
+  nausea                                       23.9                     4.6                     
+  headache                                     10.3                     10.0                    
+  diarrhea                                     9.3                      4.6                     
+  vomiting                                     8.7                      4.1                     
+           immunogenicity  
+ 
+
+ consistent with the potentially immunogenic properties of protein and peptide pharmaceuticals, patients treated with victoza may develop anti-liraglutide antibodies. approximately 50-70% of victoza-treated patients in the five double-blind clinical trials of 26 weeks duration or longer were tested for the presence of anti-liraglutide antibodies at the end of treatment. low titers (concentrations not requiring dilution of serum) of anti-liraglutide antibodies were detected in 8.6% of these victoza-treated patients. sampling was not performed uniformly across all patients in the clinical trials, and this may have resulted in an underestimate of the actual percentage of patients who developed antibodies. cross-reacting anti-liraglutide antibodies to native glucagon-like peptide-1 (glp-1) occurred in 6.9% of the victoza-treated patients in the double-blind 52-week monotherapy trial and in 4.8% of the victoza-treated patients in the double-blind 26-week add-on combination therapy trials. these cross-reacting antibodies were not tested for neutralizing effect against native glp-1, and thus the potential for clinically significant neutralization of native glp-1 was not assessed. antibodies that had a neutralizing effect on liraglutide in an  in vitro  assay occurred in 2.3% of the victoza-treated patients in the double-blind 52-week monotherapy trial and in 1.0% of the victoza-treated patients in the double-blind 26-week add-on combination therapy trials.
+
+
+
+ among victoza-treated patients who developed anti-liraglutide antibodies, the most common category of adverse events was that of infections, which occurred among 40% of these patients compared to 36%, 34% and 35% of antibody-negative victoza-treated, placebo-treated and active-control-treated patients, respectively. the specific infections which occurred with greater frequency among victoza-treated antibody-positive patients were primarily nonserious upper respiratory tract infections, which occurred among 11% of victoza-treated antibody-positive patients; and among 7%, 7% and 5% of antibody-negative victoza-treated, placebo-treated and active-control-treated patients, respectively. among victoza-treated antibody-negative patients, the most common category of adverse events was that of gastrointestinal events, which occurred in 43%, 18% and 19% of antibody-negative victoza-treated, placebo-treated and active-control-treated patients, respectively. antibody formation was not associated with reduced efficacy of victoza when comparing mean hba1cof all antibody-positive and all antibody-negative patients. however, the 3 patients with the highest titers of anti-liraglutide antibodies had no reduction in hba1cwith victoza treatment.
+
+
+
+ in the five double-blind clinical trials of victoza, events from a composite of adverse events potentially related to immunogenicity (e.g. urticaria, angioedema) occurred among 0.8% of victoza-treated patients and among 0.4% of comparator-treated patients. urticaria accounted for approximately one-half of the events in this composite for victoza-treated patients. patients who developed anti-liraglutide antibodies were not more likely to develop events from the immunogenicity events composite than were patients who did not develop anti-liraglutide antibodies.
+
+
+
+   injection site reactions  
+
+
+
+ injection site reactions (e.g., injection site rash, erythema) were reported in approximately 2% of victoza-treated patients in the five double-blind clinical trials of at least 26 weeks duration. less than 0.2% of victoza-treated patients discontinued due to injection site reactions.
+
+
+
+   papillary thyroid carcinoma  
+
+
+
+ in clinical trials of victoza, there were 7 reported cases of papillary thyroid carcinoma in patients treated with victoza and 1 case in a comparator-treated patient (1.5 vs. 0.5 cases per 1000 patient-years). most of these papillary thyroid carcinomas were <1 cm in greatest diameter and were diagnosed in surgical pathology specimens after thyroidectomy prompted by findings on protocol-specified screening with serum calcitonin or thyroid ultrasound.
+
+
+
+   hypoglycemia  
+
+
+
+ in the eight clinical trials of at least 26 weeks duration, hypoglycemia requiring the assistance of another person for treatment occurred in 11 victoza-treated patients (2.3 cases per 1000 patient-years) and in two exenatide-treated patients. of these 11 victoza-treated patients, six patients were concomitantly using metformin and a sulfonylurea, one was concomitantly using a sulfonylurea, two were concomitantly using metformin (blood glucose values were 65 and 94 mg/dl) and two were using victoza as monotherapy (one of these patients was undergoing an intravenous glucose tolerance test and the other was receiving insulin as treatment during a hospital stay). for these two patients on victoza monotherapy, the insulin treatment was the likely explanation for the hypoglycemia. 
+
+
+
+ in the 26-week open-label trial comparing victoza to sitagliptin, the incidence of hypoglycemic events defined as symptoms accompanied by a fingerstick glucose <56 mg/dl was comparable among the treatment groups (approximately 5%).
+
+
+
+ table 5 incidence (%) and rate (episodes/patient year) of hypoglycemia in the 52-week monotherapy trial and in the 26-week combination therapy trials 
+                           victoza treatment        active comparator            placebo comparator          
+  monotherapy              victoza (n = 497)        glimepiride (n = 248)        none                        
+  patient not able to self-treat    0                        0                            -                           
+  patient able to self-treat    9.7 (0.24)               25.0 (1.66)                  -                           
+  not classified           1.2 (0.03)               2.4 (0.04)                   -                           
+  add-on to metformin      victoza + metformin  (n = 724)    glimepiride + metformin  (n = 242)    placebo + metformin  (n = 121)    
+  patient not able to self-treat    0.1 (0.001)              0                            0                           
+  patient able to self-treat    3.6 (0.05)               22.3 (0.87)                  2.5 (0.06)                  
+  add-on to victoza + metformin    insulin detemir + victoza +  metformin  (n = 163)    continued victoza +  metformin alone  (n = 158one patient is an outlier and was excluded due to 25 hypoglycemic episodes that the patient was able to self-treat. this patient had a history of frequent hypoglycemia prior to the study.)    none                        
+  patient not able to self-treat    0                        0                            -                           
+  patient able to self-treat    9.2 (0.29)               1.3 (0.03)                   -                           
+  add-on to glimepiride    victoza + glimepiride  (n = 695)    rosiglitazone + glimepiride  (n = 231)    placebo + glimepiride  (n = 114)    
+  patient not able to self-treat    0.1 (0.003)              0                            0                           
+  patient able to self-treat    7.5 (0.38)               4.3 (0.12)                   2.6 (0.17)                  
+  not classified           0.9 (0.05)               0.9 (0.02)                   0                           
+  add-on to metformin + rosiglitazone    victoza + metformin + rosiglitazone  (n = 355)    none                         placebo + metformin + rosiglitazone  (n = 175)    
+  patient not able to self-treat    0                        -                            0                           
+  patient able to self-treat    7.9 (0.49)               -                            4.6 (0.15)                  
+  not classified           0.6 (0.01)               -                            1.1 (0.03)                  
+  add-on to metformin + glimepiride    victoza + metformin + glimepiride  (n = 230)    insulin glargine + metformin + glimepiride  (n = 232)    placebo + metformin + glimepiride  (n = 114)    
+  patient not able to self-treat    2.2 (0.06)               0                            0                           
+  patient able to self-treat    27.4 (1.16)              28.9 (1.29)                  16.7 (0.95)                 
+  not classified           0                        1.7 (0.04)                   0                           
+          in a pooled analysis of clinical trials, the incidence rate (per 1,000 patient-years) for malignant neoplasms (based on investigator-reported events, medical history, pathology reports, and surgical reports from both blinded and open-label study periods) was 10.9 for victoza, 6.3 for placebo, and 7.2 for active comparator. after excluding papillary thyroid carcinoma events  [  see adverse reactions (6.1)  ]  , no particular cancer cell type predominated. seven malignant neoplasm events were reported beyond 1 year of exposure to study medication, six events among victoza-treated patients (4 colon, 1 prostate and 1 nasopharyngeal), no events with placebo and one event with active comparator (colon). causality has not been established.
+ 
+
+   laboratory tests  
+
+
+
+   bilirubin  
+
+
+
+ in the five clinical trials of at least 26 weeks duration, mildly elevated serum bilirubin concentrations (elevations to no more than twice the upper limit of the reference range) occurred in 4.0% of victoza-treated patients, 2.1% of placebo-treated patients and 3.5% of active-comparator-treated patients. this finding was not accompanied by abnormalities in other liver tests. the significance of this isolated finding is unknown.
+
+
+
+   calcitonin  
+
+
+
+ calcitonin, a biological marker of mtc, was measured throughout the clinical development program. at the end of the clinical trials, adjusted mean serum calcitonin concentrations were higher in victoza-treated patients compared to placebo-treated patients but not compared to patients receiving active comparator. between group differences in adjusted mean serum calcitonin values were approximately 0.1 ng/l or less. among patients with pretreatment calcitonin <20 ng/l, calcitonin elevations to >20 ng/l occurred in 0.7% of victoza-treated patients, 0.3% of placebo-treated patients, and 0.5% of active-comparator-treated patients. the clinical significance of these findings is unknown.
+
+
+
+   vital signs  
+
+
+
+ victoza did not have adverse effects on blood pressure. mean increases from baseline in heart rate of 2 to 3 beats per minute have been observed with victoza compared to placebo. the long-term clinical effects of the increase in pulse rate have not been established  [      see warnings and precautions (5.7)      ]  .
+
+
+
+   6.2 post-marketing experience
+
+  the following additional adverse reactions have been reported during post-approval use of victoza. because these events are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ *    medullary thyroid carcinoma [  see warnings and precautions (5.1)  ]  
+ *    dehydration resulting from nausea, vomiting and diarrhea. [    see warnings and precautions (5.5)    and    patient counseling information (17.3)    ]  
+ *    increased serum creatinine, acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis. [    see warnings and precautions (5.5)    and    patient counseling information (17.3)    ]  
+ *    angioedema and anaphylactic reactions. [  see contraindications (4)  ,    warnings and precautions (5.6)    ,    patient counseling information (17.6)    ]  
+ *    allergic reactions: rash and pruritus 
+ *    acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death [    see warnings and precautions (5.2)    ]  
+
+
+    boxed warning: warning:  risk of thyroid c-cell tumors
+
+  warning:  risk of thyroid c-cell tumors
+
+    *  liraglutide causes dose-dependent and treatment-duration-dependent thyroid c-cell tumors at clinically relevant exposures in both genders of rats and mice. it is unknown whether victoza causes thyroid c-cell tumors, including medullary thyroid carcinoma (mtc), in humans, as the human relevance of liraglutide-induced rodent thyroid c-cell tumors has not been determined [see warnings and precautions (5.1) and nonclinical toxicology (13.1)]. 
+ *  victoza is contraindicated in patients with a personal or family history of mtc and in patients with multiple endocrine neoplasia syndrome type 2 (men 2). counsel patients regarding the potential risk for mtc with the use of victoza and inform them of symptoms of thyroid tumors (e.g. a mass in the neck, dysphagia, dyspnea, persistent hoarseness). routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of mtc in patients treated with victoza [see contraindications (4), warnings and precautions (5.1)]. 
+      excerpt:   warning: risk of thyroid c-cell tumors
+ 
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  liraglutide causes thyroid c-cell tumors at clinically relevant exposures in both genders of rats and mice. it is unknown whether victoza causes thyroid c-cell tumors, including medullary thyroid carcinoma (mtc), in humans, as the human relevance of liraglutide-induced rodent thyroid c-cell tumors has not been determined (5.1, 13.1). 
+ *  victoza is contraindicated in patients with a personal or family history of mtc or in patients with multiple endocrine neoplasia syndrome type 2 (men 2). counsel patients regarding the potential risk of mtc and the symptoms of thyroid tumors (4, 5.1). 
+    5 warnings and precautions
+
+
+
+   excerpt:    *     thyroid c-cell tumors: see boxed warning  (5.1)  . 
+ *     pancreatitis: postmarketing reports, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis. discontinue promptly if pancreatitis is suspected. do not restart if pancreatitis is confirmed. consider other antidiabetic therapies in patients with a history of pancreatitis  (5.2)  . 
+ *    never share a victoza pen between patients, even if the needle is changed  (5.3)  . 
+ *     serious hypoglycemia: can occur when victoza is used with an insulin secretagogue (e.g. a sulfonylurea) or insulin. consider lowering the dose of the insulin secretagogue or insulin to reduce the risk of hypoglycemia  (5.4)  . 
+ *     renal impairment: has been reported postmarketing, usually in association with nausea, vomiting, diarrhea, or dehydration which may sometimes require hemodialysis. use caution when initiating or escalating doses of victoza in patients with renal impairment  (5.5)  . 
+ *     hypersensitivity: postmarketing reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema). the patient should discontinue victoza and other suspect medications and promptly seek medical advice  (5.6)  . 
+ *     macrovascular outcomes: there have been no studies establishing conclusive evidence of macrovascular risk reduction with victoza or any other antidiabetic drug  (5.7)  . 
+    
+ 
+
+    5.1 risk of thyroid c-cell tumors  
+
+
+
+   liraglutide causes dose-dependent and treatment-duration-dependent thyroid c-cell tumors (adenomas and/or carcinomas) at clinically relevant exposures in both genders of rats and mice [see  nonclinical toxicology (13.1)  ]  . malignant thyroid c-cell carcinomas were detected in rats and mice. it is unknown whether victoza will cause thyroid c-cell tumors, including medullary thyroid carcinoma (mtc), in humans, as the human relevance of liraglutide-induced rodent thyroid c-cell tumors has not been determined.  
+
+
+
+  cases of mtc in patients treated with victoza have been reported in the postmarketing period; the data in these reports are insufficient to establish or exclude a causal relationship between mtc and victoza use in humans.  
+
+
+
+  victoza is contraindicated in patients with a personal or family history of mtc or in patients with men 2. counsel patients regarding the potential risk for mtc with the use of victoza and inform them of symptoms of thyroid tumors (e.g. a mass in the neck, dysphagia, dyspnea, persistent hoarseness).  
+
+
+
+  routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of mtc in patients treated with victoza. such monitoring may increase the risk of unnecessary procedures, due to low test specificity for serum calcitonin and a high background incidence of thyroid disease. significantly elevated serum calcitonin may indicate mtc and patients with mtc usually have calcitonin values >50 ng/l. if serum calcitonin is measured and found to be elevated, the patient should be further evaluated. patients with thyroid nodules noted on physical examination or neck imaging should also be further evaluated.  
+
+
+
+    5.2 pancreatitis
+
+
+
+   based on spontaneous postmarketing reports, acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with victoza. after initiation of victoza, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting). if pancreatitis is suspected, victoza should promptly be discontinued and appropriate management should be initiated. if pancreatitis is confirmed, victoza should not be restarted. consider antidiabetic therapies other than victoza in patients with a history of pancreatitis.  
+
+
+
+ in clinical trials of victoza, there have been 13 cases of pancreatitis among victoza-treated patients and 1 case in a comparator (glimepiride) treated patient (2.7 vs. 0.5 cases per 1000 patient-years). nine of the 13 cases with victoza were reported as acute pancreatitis and four were reported as chronic pancreatitis. in one case in a victoza-treated patient, pancreatitis, with necrosis, was observed and led to death; however clinical causality could not be established. some patients had other risk factors for pancreatitis, such as a history of cholelithiasis or alcohol abuse.
+
+
+
+    5.3 never share a victoza pen between patients
+
+
+
+  victoza pens must never be shared between patients, even if the needle is changed. pen-sharing poses a risk for transmission of blood-borne pathogens.
+
+
+
+    5.4 use with medications known to cause hypoglycemia
+
+
+
+  patients receiving victoza in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin may have an increased risk of hypoglycemia. the risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin [  see adverse reactions (6.1)  ].  
+
+
+
+    5.5 renal impairment
+
+
+
+  victoza has not been found to be directly nephrotoxic in animal studies or clinical trials. there have been postmarketing reports of acute renal failure and worsening of chronic renal failure, which may sometimes require hemodialysis in victoza-treated patients   [see adverse reactions (6.2)]    . some of these events were reported in patients without known underlying renal disease. a majority of the reported events occurred in patients who had experienced nausea, vomiting, diarrhea, or dehydration   [see adverse reactions (6.1)]    . some of the reported events occurred in patients receiving one or more medications known to affect renal function or hydration status. altered renal function has been reversed in many of the reported cases with supportive treatment and discontinuation of potentially causative agents, including victoza. use caution when initiating or escalating doses of victoza in patients with renal impairment   [see use in specific populations (8.6)]    .
+
+
+
+    5.6 hypersensitivity reactions
+
+
+
+  there have been postmarketing reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with victoza. if a hypersensitivity reaction occurs, the patient should discontinue victoza and other suspect medications and promptly seek medical advice.
+
+
+
+ angioedema has also been reported with other glp-1 receptor agonists. use caution in a patient with a history of angioedema with another glp-1 receptor agonist because it is unknown whether such patients will be predisposed to angioedema with victoza.
+
+
+
+    5.7 macrovascular outcomes
+
+
+
+  there have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with victoza or any other antidiabetic drug.

@@ -1,0 +1,391 @@
+    6 adverse reactions
+
+  the following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *    cardiac toxicities [ see warnings and precautions (  5.1  ) ] 
+ *    acute renal failure [ see warnings and precautions (  5.2  ) ] 
+ *    tumor lysis syndrome [ see warnings and precautions (  5.3  ) ] 
+ *    pulmonary toxicity [ see warnings and precautions (  5.4  ) ] 
+ *    pulmonary hypertension [ see warnings and precautions (  5.5  ) ] 
+ *    dyspnea [ see warnings and precautions (  5.6  ) ] 
+ *    hypertension [ see warnings and precautions (  5.7  )]  
+ *    venous thrombosis [ see warnings and precautions (  5.8  ) ] 
+ *    infusion reactions [ see warnings and precautions (    5.9    ) ] 
+ *    thrombocytopenia [ see warnings and precautions (  5.10  ) ] 
+ *    hepatic toxicity and hepatic failure [ see  warnings and precautions (    5.11    ) ] 
+ *    thrombotic thrombocytopenic purpura/hemolytic uremic syndrome [ see warnings and precautions (   5.12   )] 
+ *    posterior reversible encephalopathy syndrome (pres) [ see warnings and precautions (   5.13   )] 
+      excerpt:   the most common adverse events occurring in at least 20% of patients treated with kyprolis in monotherapy trials: anemia, fatigue, thrombocytopenia, nausea, pyrexia, decreased platelets, dyspnea, diarrhea, decreased lymphocyte, headache, decreased hemoglobin, cough, edema peripheral. (  6  ) 
+ 
+
+ the most common adverse events occurring in at least 20% of patients treated with kyprolis in the combination therapy trial: decreased lymphocytes, decreased absolute neutrophil count, decreased phosphorus, anemia, neutropenia, decreased total white blood cell count, decreased platelets, diarrhea, fatigue, thrombocytopenia, pyrexia, muscle spasm, cough, upper respiratory tract infection, decreased hemoglobin, hypokalemia. (  6  )
+
+
+
+   to report suspected adverse reactions, contact amgen medical information at 1-800-77-amgen (1-800-772-6436) or fda at 1-800-fda-1088 or    www.fda.gov/medwatch    .  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug, and may not reflect the rates observed in medical practice.
+
+
+
+     6.1.1 safety experience with kyprolis in combination with lenalidomide and dexamethasone in patients with multiple myeloma  
+
+  the safety of kyprolis in combination with lenalidomide and dexamethasone (krd) was evaluated in an open-label randomized study in patients with relapsed multiple myeloma. details of the study treatment are described in  section  14.1    . the median number of cycles initiated was 22 cycles for the krd arm and 14 cycles for the rd arm.
+
+
+
+ deaths due to adverse events within 30 days of the last dose of any therapy in the krd arm occurred in 27/392 (7%) patients compared with 27/389 (7%) patients who died due to adverse events within 30 days of the last dose of any rd therapy. the most common cause of deaths occurring in patients (%) in the two arms (krd versus rd) included cardiac 10 (3%) versus 7 (2%), infection 9 (2%) versus 10 (3%), renal 0 (0%) versus 1 (< 1%), and other adverse events 9 (2%) versus 10 (3%). serious adverse events were reported in 60% of the patients in the krd arm and 54% of the patients in the rd arm. the most common serious adverse events reported in the krd arm as compared with the rd arm were pneumonia (14% versus 11%), respiratory tract infection (4% versus 1.5%), pyrexia (4% versus 2%), and pulmonary embolism (3% versus 2%). discontinuation due to any adverse event occurred in 26% in the krd arm versus 25% in the rd arm. adverse events leading to discontinuation of kyprolis occurred in 12% of patients and the most common events included pneumonia (1%), myocardial infarction (0.8%), and upper respiratory tract infection (0.8%).
+
+
+
+     common adverse events (>= 10%)    
+
+
+
+ the adverse events in the first 12 cycles of therapy that occurred at a rate of 10% or greater in the krd arm are presented in  table 5  .
+
+
+
+ table 5: common adverse events (>= 10% in the krd arm) occurring in cycles 1-12 (combination therapy) 
+ krd = kyprolis, lenalidomide,and low-dose dexamethasone; rd = lenalidomide and low-dose dexamethasone  a    pneumonia includes preferred terms of pneumonia, bronchopneumonia  b    peripheral neuropathies nec includes preferred terms under hlt peripheral neuropathies nec  c    dyspnea includes preferred terms of dyspnea, dyspnea exertional  d    embolic and thrombotic events, venous include preferred terms in meddra smq narrow scope search of embolic and thrombotic events, venous.  e    hypertension includes preferred terms of hypertension, hypertensive crisis, hypertensive emergency   
+  
+  system organ class                             krd arm(n = 392)    rd arm(n = 389)    
+  preferred term                                    any grade          >= grade 3       any grade          >= grade 3       
+  blood and lymphatic system disorders                                                                           
+     anemia                                      138 (35%)       53 (14%)        127 (33%)       47 (12%)        
+     neutropenia                                 124 (32%)       104 (27%)       115 (30%)       89 (23%)        
+     thrombocytopenia                            100 (26%)       58 (15%)        75 (19%)        39 (10%)        
+  gastrointestinal disorders                                                                                     
+     diarrhea                                    115 (29%)       7 (2%)          105 (27%)       12 (3%)         
+     constipation                                68 (17%)        0               53 (14%)        1 (0%)          
+     nausea                                      60 (15%)        1 (0%)          39 (10%)        3 (1%)          
+  general disorders and administration site conditions                                                                          
+     fatigue                                     109 (28%)       21 (5%)         104 (27%)       20 (5%)         
+     pyrexia                                     93 (24%)        5 (1%)          64 (17%)        1 (0%)          
+     edema peripheral                            63 (16%)        2 (1%)          57 (15%)        2 (1%)          
+     asthenia                                    53 (14%)        11 (3%)         46 (12%)        7 (2%)          
+  infections and infestations                                                                                    
+     upper respiratory tract infection           85 (22%)        7 (2%)          52 (13%)        3 (1%)          
+     nasopharyngitis                             63 (16%)        0               43 (11%)        0               
+     bronchitis                                  54 (14%)        5 (1%)          39 (10%)        2 (1%)          
+     pneumoniaa                                  54 (14%)        35 (9%)         43 (11%)        27 (7%)         
+  metabolism and nutrition disorders                                                                             
+     hypokalemia                                 78 (20%)        22 (6%)         35 (9%)         12 (3%)         
+     hypocalcemia                                55 (14%)        10 (3%)         39 (10%)        5 (1%)          
+     hyperglycemia                               43 (11%)        18 (5%)         33 (9%)         15 (4%)         
+  musculoskeletal and connective tissue disorders                                                                    
+     muscle spasms                               88 (22%)        3 (1%)          73 (19%)        3 (1%)          
+  nervous system disorders                                                                                       
+     peripheral neuropathies necb                43 (11%)        7 (2%)          37 (10%)        4 (1%)          
+  psychiatric disorders                                                                                          
+     insomnia                                    63 (16%)        6 (2%)          50 (13%)        8 (2%)          
+  respiratory, thoracic, and mediastinal disorders                                                                    
+     cough                                       85 (22%)        1 (0%)          46 (12%)        0               
+     dyspneac                                    70 (18%)        9 (2%)          58 (15%)        6 (2%)          
+  skin and subcutaneous tissue disorders                                                                         
+     rash                                        45 (12%)        5 (1%)          53 (14%)        5 (1%)          
+  vascular disorders                                                                                             
+     embolic and thrombotic events, venousd      49 (13%)        16 (4%)         22 (6%)         9 (2%)          
+     hypertensione                               41 (11%)        12 (3%)         15 (4%)         4 (1%)          
+           there were 274 (70%) patients in the krd arm who received treatment beyond cycle 12. there were no new clinically relevant aes that emerged in the later treatment cycles.
+ 
+
+     adverse reactions occurring at a frequency of < 10%    
+
+
+
+ *     blood and lymphatic system disorders: febrile neutropenia, lymphopenia 
+ *     cardiac disorders: cardiac arrest, cardiac failure, cardiac failure congestive, myocardial infarction, myocardial ischemia 
+ *     eye disorders: cataract, vision blurred 
+ *     gastrointestinal disorders: abdominal pain, abdominal pain upper, dyspepsia, toothache 
+ *     general disorders and administration site conditions: chills, infusion site reaction, multi-organ failure, pain 
+ *     infections and infestations: influenza, sepsis, urinary tract infection, viral infection 
+ *     metabolism and nutrition disorders: dehydration, hyperkalemia, hyperuricemia, hypoalbuminemia, hyponatremia, tumor lysis syndrome 
+ *     musculoskeletal and connective tissue disorders: muscular weakness, myalgia 
+ *     nervous system disorders: hypoesthesia, paresthesia, deafness 
+ *     psychiatric disorders: anxiety, delirium 
+ *     renal and urinary disorders: renal failure, renal failure acute, renal impairment 
+ *     respiratory, thoracic and mediastinal disorders: dysphonia, epistaxis, oropharyngeal pain, pulmonary embolism, pulmonary edema 
+ *     skin and subcutaneous tissue disorders: erythema, hyperhidrosis, pruritus 
+ *     vascular disorders: deep vein thrombosis, hypotension 
+    grade 3 and higher adverse reactions that occurred during cycles 1-12 with a substantial difference (>= 2%) between the two arms were neutropenia, thrombocytopenia, hypokalemia, and hypophosphatemia.
+ 
+
+     laboratory abnormalities    
+
+
+
+   table 6  describes grade 3-4 laboratory abnormalities reported at a rate of >=10% in the krd arm for patients who received combination therapy.
+
+
+
+ table 6: grade 3-4 laboratory abnormalities (>= 10%) in cycles 1-12 (combination therapy) 
+ krd = kyprolis, lenalidomide, and low-dose dexamethasone; rd = lenalidomide and low-dose dexamethasone   
+  
+  laboratory abnormality                      krd (n = 392)                  rd(n = 389)                    
+  decreased lymphocytes                       182 (46%)                      119 (31%)                      
+  decreased absolute neutrophil count         152 (39%)                      140 (36%)                      
+  decreased phosphorus                        122 (31%)                      106 (27%)                      
+  decreased platelets                         101 (26%)                      59 (15%)                       
+  decreased total white blood cell count      97 (25%)                       71 (18%)                       
+  decreased hemoglobin                        58 (15%)                       68 (18%)                       
+  decreased potassium                         41 (11%)                       23 (6%)                        
+             6.1.2 safety experience with kyprolis in patients with multiple myeloma who received monotherapy  
+   the safety of kyprolis was evaluated in clinical trials in which 598 patients with relapsed and/or refractory myeloma received kyprolis monotherapy starting with the 20 mg/m  2  dose in cycle 1 day 1 and escalating to 27 mg/m  2  on cycle 1 day 8 or cycle 2 day 1. the median age of these patients was 64 years (range 32-87). the patients received a median of 5 (range 1-20) prior regimens. approximately 57% of the patients were male. the median number of cycles initiated was 4 (range 1-35).
+
+
+
+ serious adverse events were reported, regardless of causality, in 50% of patients in the pooled kyprolis monotherapy studies (n = 598). the most common serious adverse events were: pneumonia (8%), acute renal failure (5%), disease progression (4%), pyrexia (3%), hypercalcemia (3%), congestive heart failure (3%), multiple myeloma (3%), anemia (2%), and dyspnea (2%). in patients treated with kyprolis, the incidence of serious adverse events was higher in those >= 65 years old and in those >= 75 years old [  see geriatric use (  8.5  )  ].
+
+
+
+ deaths due to adverse events within 30 days of the last dose of kyprolis occurred in 30/598 (5%) patients receiving kyprolis monotherapy. these adverse events were related to cardiac disorders in 10 (2%) patients, infections in 8 (1%) patients, renal disorders in 4 (< 1%) patients, and other adverse events in 8 (1%) patients. in a randomized trial comparing kyprolis as a single agent versus corticosteroids with optional oral cyclophosphamide for patients with relapsed and refractory multiple myeloma, mortality was higher in the patients treated with kyprolis in comparison to the control arm in the subgroup of 48 patients >=75 years of age.
+
+
+
+ the most common cause of discontinuation due to an adverse event was acute renal failure (2%). the common adverse events occurring at a rate of 10% or greater with kyprolis monotherapy are presented in  table 7  .
+
+
+
+ table 7: most commonly reported adverse events (>= 10%) with kyprolis monotherapy 
+   a    pneumonia includes the preferred terms of pneumonia, bronchopneumonia.  b    peripheral neuropathies nec includes the preferred terms under hlt peripheral neuropathies nec.  c    dyspnea includes the preferred terms of dyspnea, dyspnea exertional.  d    hypertension includes the preferred terms of hypertension, hypertensive crisis, and hypertensive emergency.   
+  
+                                                          kyprolis monotherapy20/27 mg/m2 (n = 598)    
+  system organ class                                      any grade                >= grade3                
+  blood and lymphatic system disorders                                                                      
+     anemia                                               291 (49%)                141 (24%)                
+     thrombocytopenia                                     220 (37%)                152 (25%)                
+     neutropenia                                          113 (19%)                63 (11%)                 
+     lymphopenia                                          85 (14%)                 73 (12%)                 
+     leukopenia                                           61 (10%)                 26 (4%)                  
+  gastrointestinal disorders                                                                                
+     nausea                                               211 (35%)                7 (1%)                   
+     diarrhea                                             160 (27%)                8 (1%)                   
+     vomiting                                             104 (17%)                4 (1%)                   
+     constipation                                         90 (15%)                 1 (0%)                   
+  general disorders and administration site conditions                                                      
+     fatigue                                              238 (40%)                25 (4%)                  
+     pyrexia                                              177 (30%)                11 (2%)                  
+     edema peripheral                                     118 (20%)                1 (0%)                   
+     chills                                               73 (12%)                 1 (0%)                   
+     asthenia                                             71 (12%)                 9 (2%)                   
+  infections and infestations                                                                               
+     upper respiratory tract infection                    112 (19%)                15 (3%)                  
+     pneumoniaa                                           71 (12%)                 54 (9%)                  
+  metabolism and nutrition disorders                                                                        
+     decreased appetite                                   89 (15%)                 2 (0%)                   
+     hypercalcemia                                        68 (11%)                 26 (4%)                  
+     hypokalemia                                          61 (10%)                 17 (3%)                  
+  musculoskeletal and connective tissue disorders                                                           
+     back pain                                            115 (19%)                19 (3%)                  
+     arthralgia                                           83 (14%)                 5 (1%)                   
+     pain in extremity                                    69 (12%)                 7 (1%)                   
+     muscle spasms                                        62 (10%)                 2 (0%)                   
+     musculoskeletal pain                                 60 (10%)                 12 (2%)                  
+  nervous system disorders                                                                                  
+     headache                                             141 (24%)                7 (1%)                   
+     dizziness                                            64 (11%)                 5 (1%)                   
+     peripheral neuropathies necb                         62 (10%)                 5 (1%)                   
+  psychiatric disorders                                                                                     
+     insomnia                                             75 (13%)                 0                        
+  respiratory, thoracic, and mediastinal disorders                                                          
+     dyspneac                                             202 (34%)                21 (4%)                  
+     cough                                                120 (20%)                2 (0%)                   
+     epistaxis                                            60 (10%)                 5 (1%)                   
+  renal disorders                                                                                           
+     renal failure                                        76 (13%)                 49 (8%)                  
+  vascular disorders                                                                                        
+     hypertensiond                                        90 (15%)                 22 (4%)                  
+             adverse reactions occurring at a frequency of < 10%    
+ 
+
+ *     blood and lymphatic system disorders: febrile neutropenia 
+ *     cardiac disorders: cardiac arrest, cardiac failure congestive, myocardial infarction, myocardial ischemia 
+ *     eye disorders: cataract, blurred vision 
+ *     gastrointestinal disorders: abdominal pain, abdominal pain upper, dyspepsia, toothache 
+ *     general disorders and administration site conditions: infusion site reaction, multi-organ failure, pain 
+ *     hepatobiliary disorders: hepatic failure 
+ *     infections and infestations: bronchitis, influenza, nasopharyngitis, respiratory tract infection, sepsis, urinary tract infection 
+ *     metabolism and nutrition disorders: hyperglycemia, hyperkalemia, hyperuricemia, hypoalbuminemia, hypocalcemia, hypomagnesemia, hyponatremia, hypophosphatemia, tumor lysis syndrome 
+ *     musculoskeletal and connective tissue disorders: musculoskeletal chest pain, myalgia 
+ *     nervous system disorders: hypoesthesia, paresthesia 
+ *     psychiatric disorders: anxiety 
+ *     renal and urinary disorders: renal impairment 
+ *     respiratory, thoracic and mediastinal disorders: dysphonia, oropharyngeal pain, pulmonary edema 
+ *     skin and subcutaneous tissue disorders: erythema, hyperhidrosis, pruritus, rash 
+ *     vascular disorders: embolic and thrombotic events, venous (including deep vein thrombosis and pulmonary embolism), hypotension 
+    grade 3 and higher adverse reactions occurring at an incidence of >1% include febrile neutropenia, cardiac arrest, cardiac failure congestive, pain, sepsis, urinary tract infection, hyperglycemia, hyperkalemia, hyperuricemia, hypoalbuminemia, hypocalcemia, hyponatremia, hypophosphatemia, renal failure, renal failure acute, renal impairment, pulmonary edema, and hypotension.
+ 
+
+     laboratory abnormalities    
+
+
+
+   table 8  describes grade 3-4 laboratory abnormalities reported at a rate of > 10% for patients who received kyprolis monotherapy.
+
+
+
+ table 8: grade 3-4 laboratory abnormalities (> 10%) (monotherapy) 
+  adverse reaction                                   kyprolis(n = 598)                       
+  decreased platelets                                184 (31%)                               
+  decreased lymphocytes                              151 (25%)                               
+  decreased hemoglobin                               132 (22%)                               
+  decreased total white blood cell count             71 (12%)                                
+  decreased sodium                                   69 (12%)                                
+  decreased absolute neutrophil count                67 (11%)                                
+          6.2 post-marketing experience
+   the following adverse reactions were reported in the post-marketing experience with kyprolis. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: dehydration, thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (ttp/hus), tumor lysis syndrome including fatal outcomes, and posterior reversible encephalopathy syndrome (pres).
+    5 warnings and precautions
+
+
+
+   excerpt:    *    cardiac toxicities include cardiac failure and myocardial infarction with fatal outcome, and myocardial ischemia. withhold kyprolis and evaluate promptly. (  5.1  ) 
+ *    acute renal failure: monitor serum creatinine regularly (  5.2  ) 
+ *    tumor lysis syndrome (tls): administer pre-treatment hydration. (  2.1  ) monitor for tls, including uric acid levels and treat promptly. (  5.3  ) 
+ *    pulmonary toxicity: including acute respiratory distress syndrome, acute respiratory failure, and acute diffuse infiltrative pulmonary disease: withhold kyprolis and evaluate promptly (  5.4  ) 
+ *    pulmonary hypertension: withhold kyprolis and evaluate (  5.5  ) 
+ *    dyspnea: for severe or life threatening dyspnea, withhold kyprolis and evaluate. (  5.6  ) 
+ *    hypertension including hypertensive crisis: monitor blood pressure regularly. if hypertension cannot be adequately controlled, a risk-benefit decision on continued kyprolis therapy is needed. (  5.7  ) 
+ *    venous thrombosis: thromboprophylaxis is recommended. (  5.8  ) 
+ *    infusion reactions: pre-medicate with dexamethasone. (  2.1  ,  5.9  ) 
+ *    thrombocytopenia: monitor platelet counts; interrupt or reduce kyprolis dosing as clinically indicated. (  2.4  ,  5.10  ) 
+ *    hepatic toxicity and hepatic failure: monitor liver enzymes. withhold kyprolis if suspected. (  5.11  ) 
+ *    thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (ttp/hus). monitor for signs and symptoms of ttp/hus. discontinue kyprolis if suspected. (  5.12  ) 
+ *    posterior reversible encephalopathy syndrome (pres): consider neuro-radiological imaging (mri) for onset of visual or neurological symptoms; discontinue kyprolis if suspected. (  5.13  ) 
+ *    embryo-fetal toxicity: kyprolis can cause fetal harm. females of reproductive potential should avoid becoming pregnant while being treated. (  5.14  ,  8.1  ) 
+    
+ 
+
+    5.1 cardiac toxicities  
+
+
+
+   new onset or worsening of pre-existing cardiac failure (e.g., congestive heart failure, pulmonary edema, decreased ejection fraction), restrictive cardiomyopathy, myocardial ischemia, and myocardial infarction including fatalities have occurred following administration of kyprolis. in clinical studies with kyprolis, these events typically occurred early in the course of kyprolis therapy (< 5 cycles). death due to cardiac arrest has occurred within a day of kyprolis administration.  
+
+
+
+  withhold kyprolis for grade 3 or 4 cardiac adverse events until recovery, and consider whether to restart kyprolis at 1 dose level reduction based on a benefit/risk assessment [ see dosage and administration (  2  )  ].  
+
+
+
+  while adequate hydration is required prior to each dose in cycle 1, all patients should also be monitored for evidence of volume overload, especially patients at risk for cardiac failure. adjust total fluid intake as clinically appropriate in patients with baseline cardiac failure or who are at risk for cardiac failure [ see dosage and administration (  2  )  ].  
+
+
+
+  in patients >= 75 years of age, the risk of cardiac failure is increased. patients with new york heart association class iii and iv heart failure, recent myocardial infarction, and conduction abnormalities uncontrolled by medications were not eligible for the clinical trials. these patients may be at greater risk for cardiac complications [ see use in specific populations (  8  )  ].  
+
+
+
+     5.2 acute renal failure  
+
+
+
+   cases of acute renal failure have occurred in patients receiving kyprolis. renal insufficiency adverse events (renal impairment, acute renal failure, renal failure) have occurred with an incidence of approximately 8% in a randomized controlled trial. acute renal failure was reported more frequently in patients with advanced relapsed and refractory multiple myeloma who received kyprolis monotherapy. this risk was greater in patients with a baseline reduced estimated creatinine clearance (calculated using cockcroft and gault equation). monitor renal function with regular measurement of the serum creatinine and/or estimated creatinine clearance. reduce or withhold dose as appropriate [ see dosage and administration (  2  )  ].  
+
+
+
+     5.3 tumor lysis syndrome  
+
+
+
+   cases of tumor lysis syndrome (tls), including fatal outcomes, have been reported in patients who received kyprolis. patients with multiple myeloma and a high tumor burden should be considered to be at greater risk for tls. ensure that patients are well hydrated before administration of kyprolis in cycle 1, and in subsequent cycles as needed [ see dosage and administration (  2  )  ]. consider uric acid lowering drugs in patients at risk for tls. monitor for evidence of tls during treatment and manage promptly including interruption of kyprolis until tls is resolved [ see dosage and administration (  2  )  ].  
+
+
+
+     5.4 pulmonary toxicity  
+
+
+
+   acute respiratory distress syndrome (ards), acute respiratory failure, and acute diffuse infiltrative pulmonary disease such as pneumonitis and interstitial lung disease have occurred in less than 1% of patients receiving kyprolis. some events have been fatal. in the event of drug-induced pulmonary toxicity, discontinue kyprolis [ see dosage and administration (  2  )  ].  
+
+
+
+     5.5 pulmonary hypertension  
+
+
+
+   pulmonary arterial hypertension (pah) was reported in approximately 1% of patients treated with kyprolis and was grade 3 or greater in less than 1% of patients. evaluate with cardiac imaging and/or other tests as indicated. withhold kyprolis for pulmonary hypertension until resolved or returned to baseline and consider whether to restart kyprolis based on a benefit/risk assessment [ see dosage and administration (  2  )  ].  
+
+
+
+     5.6 dyspnea  
+
+
+
+   dyspnea was reported in 28% of patients treated with kyprolis and was grade 3 or greater in 4% of patients. evaluate dyspnea to exclude cardiopulmonary conditions including cardiac failure and pulmonary syndromes. stop kyprolis for grade 3 or 4 dyspnea until resolved or returned to baseline. consider whether to restart kyprolis based on a benefit/risk assessment [ see dosage and administration (  2.3  ), warnings and precautions - cardiac toxicities (  5.1  ), pulmonary toxicity (        5.4        ), and adverse reactions (  6  )  ].  
+
+
+
+     5.7 hypertension  
+
+
+
+   hypertension, including hypertensive crisis and hypertensive emergency, has been observed with kyprolis. some of these events have been fatal. monitor blood pressure regularly in all patients. if hypertension cannot be adequately controlled, withhold kyprolis and evaluate. consider whether to restart kyprolis based on a benefit/risk assessment [ see dosage and administration (  2  )  ].  
+
+
+
+     5.8 venous thrombosis  
+
+
+
+   venous thromboembolic events (including deep venous thrombosis and pulmonary embolism) have been observed with kyprolis. in the combination study, the incidence of venous thromboembolic events in the first 12 cycles was 13% in the kyprolis combination arm versus 6% in the control arm. with kyprolis monotherapy, the incidence of venous thromboembolic events was 2%. thromboprophylaxis is recommended and should be based on an assessment of the patient's underlying risks, treatment regimen, and clinical status.  
+
+
+
+     5.9 infusion reactions  
+
+
+
+   infusion reactions, including life-threatening reactions, have occurred in patients receiving kyprolis. symptoms include fever, chills, arthralgia, myalgia, facial flushing, facial edema, vomiting, weakness, shortness of breath, hypotension, syncope, chest tightness, or angina. these reactions can occur immediately following or up to 24 hours after administration of kyprolis. administer dexamethasone prior to kyprolis to reduce the incidence and severity of infusion reactions [ see dosage and administration (  2  )  ]. inform patients of the risk and of symptoms and to contact a physician immediately if symptoms of an infusion reaction occur [ see patient counseling information (  17  )  ].  
+
+
+
+     5.10 thrombocytopenia  
+
+
+
+   kyprolis causes thrombocytopenia with platelet nadirs observed between day 8 and day 15 of each 28-day cycle with recovery to baseline platelet count usually by the start of the next cycle [ see adverse reactions (  6  )  ]. thrombocytopenia was reported in approximately 40% of patients in clinical trials with kyprolis. monitor platelet counts frequently during treatment with kyprolis. reduce or withhold dose as appropriate [ see dosage and administration (  2  )  ].  
+
+
+
+     5.11 hepatic toxicity and hepatic failure  
+
+
+
+   cases of hepatic failure, including fatal cases, have been reported (< 1%) during treatment with kyprolis. kyprolis can cause increased serum transaminases. monitor liver enzymes regularly. reduce or withhold dose as appropriate [ see dosage and administration (  2  ) and adverse reactions (  6  )  ].  
+
+
+
+     5.12 thrombotic thrombocytopenic purpura/hemolytic uremic syndrome  
+
+
+
+   cases of thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (ttp/hus) including fatal outcome have been reported in patients who received kyprolis. monitor for signs and symptoms of ttp/hus. if the diagnosis is suspected, stop kyprolis and evaluate. if the diagnosis of ttp/hus is excluded, kyprolis may be restarted. the safety of reinitiating kyprolis therapy in patients previously experiencing ttp/hus is not known.  
+
+
+
+     5.13 posterior reversible encephalopathy syndrome (pres)  
+
+
+
+   cases of pres have been reported in patients receiving kyprolis. posterior reversible encephalopathy syndrome (pres), formerly termed reversible posterior leukoencephalopathy syndrome (rpls), is a neurological disorder which can present with seizure, headache, lethargy, confusion, blindness, altered consciousness, and other visual and neurological disturbances, along with hypertension, and the diagnosis is confirmed by neuro-radiological imaging (mri). discontinue kyprolis if pres is suspected and evaluate. the safety of reinitiating kyprolis therapy in patients previously experiencing pres is not known.  
+
+
+
+     5.14 embryo-fetal toxicity  
+
+
+
+   kyprolis can cause fetal harm when administered to a pregnant woman based on its mechanism of action and findings in animals. there are no adequate and well-controlled studies in pregnant women using kyprolis. carfilzomib caused embryo-fetal toxicity in pregnant rabbits at doses that were lower than in patients receiving the recommended dose.  
+
+
+
+  females of reproductive potential should be advised to avoid becoming pregnant while being treated with kyprolis. if this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus [ see use in specific populations (  8.1  )  ].  

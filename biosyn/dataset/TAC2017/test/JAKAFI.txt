@@ -1,0 +1,272 @@
+    6. adverse reactions
+
+  the following serious adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *  thrombocytopenia, anemia and neutropenia [ see warnings and precautions (  5.1  ) ] 
+ *  risk of infection [ see warnings and precautions (  5.2  ) ] 
+ *  symptom exacerbation following interruption or discontinuation of treatment with jakafi [ see warnings and precautions (  5.3  ) ] 
+ *  non-melanoma skin cancer [ see warnings and precautions (  5.4  ) ] 
+    because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+ 
+
+   excerpt:   the most common hematologic adverse reactions (incidence > 20%) are thrombocytopenia and anemia. the most common non-hematologic adverse reactions (incidence >10%) are bruising, dizziness and headache. (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact incyte corporation at 1-855-463-3463 or fda at 1-800-fda-1088 or    www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 clinical trials experience in myelofibrosis
+
+  the safety of jakafi was assessed in 617 patients in six clinical studies with a median duration of follow-up of 10.9 months, including 301 patients with myelofibrosis in two phase 3 studies.
+
+
+
+ in these two phase 3 studies, patients had a median duration of exposure to jakafi of 9.5 months (range 0.5 to 17 months), with 89% of patients treated for more than 6 months and 25% treated for more than 12 months. one hundred and eleven (111) patients started treatment at 15 mg twice daily and 190 patients started at 20 mg twice daily. in patients starting treatment with 15 mg twice daily (pretreatment platelet counts of 100 to 200 x 10  9  /l) and 20 mg twice daily (pretreatment platelet counts greater than 200 x 10  9  /l), 65% and 25% of patients, respectively, required a dose reduction below the starting dose within the first 8 weeks of therapy.
+
+
+
+ in a double-blind, randomized, placebo-controlled study of jakafi, among the 155 patients treated with jakafi, the most frequent adverse drug reactions were thrombocytopenia and anemia [  see   table 11    ]. thrombocytopenia, anemia and neutropenia are dose related effects. the three most frequent non-hematologic adverse reactions were bruising, dizziness and headache [  see  table 10    ].
+
+
+
+ discontinuation for adverse events, regardless of causality, was observed in 11% of patients treated with jakafi and 11% of patients treated with placebo.
+
+
+
+   table 10  presents the most common adverse reactions occurring in patients who received jakafi in the double-blind, placebo-controlled study during randomized treatment.
+
+
+
+ table 10: myelofibrosis: adverse reactions occurring in patients on jakafi in the double-blind, placebo-controlled study during randomized treatment 
+  a national cancer institute common terminology criteria for adverse events (ctcae), version 3.0    
+  b includes contusion, ecchymosis, hematoma, injection site hematoma, periorbital hematoma, vessel puncture site hematoma, increased tendency to bruise, petechiae, purpura    
+  c includes dizziness, postural dizziness, vertigo, balance disorder, meniere's disease, labyrinthitis    
+  d includes urinary tract infection, cystitis, urosepsis, urinary tract infection bacterial, kidney infection, pyuria, bacteria urine, bacteria urine identified, nitrite urine present    
+  e includes weight increased, abnormal weight gain    
+  f includes herpes zoster and post-herpetic neuralgia    
+  
+                              jakafi(n=155)              placebo(n=151)            
+   adverse reactions          allgrades  a  (%)          grade 3(%)                 grade 4(%)                 allgrades(%)               grade 3(%)                 grade 4(%)                
+ bruising  b                23                         <1                         0                          15                         0                          0                           
+ dizziness  c               18                         <1                         0                          7                          0                          0                           
+ headache                   15                         0                          0                          5                          0                          0                           
+ urinary tract infections  d    9                          0                          0                          5                          <1                         <1                          
+ weight gain  e             7                          <1                         0                          1                          <1                         0                           
+ flatulence                 5                          0                          0                          <1                         0                          0                           
+ herpes zoster  f           2                          0                          0                          <1                         0                          0                           
+        description of selected adverse drug reactions  
+ 
+
+   anemia  
+
+
+
+ in the two phase 3 clinical studies, median time to onset of first ctcae grade 2 or higher anemia was approximately 6 weeks. one patient (<1%) discontinued treatment because of anemia. in patients receiving jakafi, mean decreases in hemoglobin reached a nadir of approximately 1.5 to 2.0 g/dl below baseline after 8 to 12 weeks of therapy and then gradually recovered to reach a new steady state that was approximately 1.0 g/dl below baseline. this pattern was observed in patients regardless of whether they had received transfusions during therapy.
+
+
+
+ in the randomized, placebo-controlled study, 60% of patients treated with jakafi and 38% of patients receiving placebo received red blood cell transfusions during randomized treatment. among transfused patients, the median number of units transfused per month was 1.2 in patients treated with jakafi and 1.7 in placebo treated patients.
+
+
+
+   thrombocytopenia  
+
+
+
+ in the two phase 3 clinical studies, in patients who developed grade 3 or 4 thrombocytopenia, the median time to onset was approximately 8 weeks. thrombocytopenia was generally reversible with dose reduction or dose interruption. the median time to recovery of platelet counts above 50 x 10  9  /l was 14 days. platelet transfusions were administered to 5% of patients receiving jakafi and to 4% of patients receiving control regimens. discontinuation of treatment because of thrombocytopenia occurred in <1% of patients receiving jakafi and <1% of patients receiving control regimens. patients with a platelet count of 100 x 10  9  /l to 200 x 10  9  /l before starting jakafi had a higher frequency of grade 3 or 4 thrombocytopenia compared to patients with a platelet count greater than 200 x 10  9  /l (17% versus 7%).
+
+
+
+   neutropenia  
+
+
+
+ in the two phase 3 clinical studies, 1% of patients reduced or stopped jakafi because of neutropenia.
+
+
+
+   table 11  provides the frequency and severity of clinical hematology abnormalities reported for patients receiving treatment with jakafi or placebo in the placebo-controlled study.
+
+
+
+ table 11: myelofibrosis: worst hematology laboratory abnormalities in the placebo-controlled studya 
+  a presented values are worst grade values regardless of baseline    
+  b national cancer institute common terminology criteria for adverse events, version 3.0    
+  
+                              jakafi(n=155)              placebo(n=151)            
+   laboratory parameter       allgrades  b  (%)          grade 3(%)                 grade 4(%)                 allgrades(%)               grade 3(%)                 grade 4(%)                
+ thrombocytopenia           70                         9                          4                          31                         1                          0                           
+ anemia                     96                         34                         11                         87                         16                         3                           
+ neutropenia                19                         5                          2                          4                          <1                         1                           
+        additional data from the placebo-controlled study  
+ 
+
+ 25% of patients treated with jakafi and 7% of patients treated with placebo developed newly occurring or worsening grade 1 abnormalities in alanine transaminase (alt). the incidence of greater than or equal to grade 2 elevations was 2% for jakafi with 1% grade 3 and no grade 4 alt elevations.
+
+
+
+ 17% of patients treated with jakafi and 6% of patients treated with placebo developed newly occurring or worsening grade 1 abnormalities in aspartate transaminase (ast). the incidence of grade 2 ast elevations was <1% for jakafi with no grade 3 or 4 ast elevations.
+
+
+
+ 17% of patients treated with jakafi and <1% of patients treated with placebo developed newly occurring or worsening grade 1 elevations in cholesterol. the incidence of grade 2 cholesterol elevations was <1% for jakafi with no grade 3 or 4 cholesterol elevations.
+
+
+
+   6.2 clinical trial experience in polycythemia vera
+
+  in a randomized, open-label, active-controlled study, 110 patients with polycythemia vera resistant to or intolerant of hydroxyurea received jakafi and 111 patients received best available therapy  [see clinical studies (  14.2  )]  . the most frequent adverse drug reaction was anemia.  table 12  presents the most frequent non-hematologic treatment emergent adverse events occurring up to week 32.
+
+
+
+ discontinuation for adverse events, regardless of causality, was observed in 4% of patients treated with jakafi.
+
+
+
+ table 12: polycythemia vera: treatment emergent adverse events occurring in >= 6% of patients on jakafi in the open-label, active-controlled study up to week 32 of randomized treatment 
+  a national cancer institute common terminology criteria for adverse events (ctcae), version 3.0    
+  b includes abdominal pain, abdominal pain lower, and abdominal pain upper    
+  c includes dizziness and vertigo    
+  d includes dyspnea and dyspnea exertional    
+  e includes edema and peripheral edema    
+  f includes herpes zoster and post-herpetic neuralgia    
+  
+                              jakafi(n=110)              best available therapy(n=111)     
+   adverse events             all grades  a  (%)         grade 3-4(%)               all grades(%)              grade 3-4(%)              
+ headache                   16                         <1                         19                         <1                          
+ abdominal pain  b          15                         <1                         15                         <1                          
+ diarrhea                   15                         0                          7                          <1                          
+ dizziness  c               15                         0                          13                         0                           
+ fatigue                    15                         0                          15                         3                           
+ pruritus                   14                         <1                         23                         4                           
+ dyspnea  d                 13                         3                          4                          0                           
+ muscle spasms              12                         <1                         5                          0                           
+ nasopharyngitis            9                          0                          8                          0                           
+ constipation               8                          0                          3                          0                           
+ cough                      8                          0                          5                          0                           
+ edema  e                   8                          0                          7                          0                           
+ arthralgia                 7                          0                          6                          <1                          
+ asthenia                   7                          0                          11                         2                           
+ epistaxis                  6                          0                          3                          0                           
+ herpes zoster  f           6                          <1                         0                          0                           
+ nausea                     6                          0                          4                          0                           
+      other clinically important treatment emergent adverse events observed in less than 6% of patients treated with jakafi were:
+ 
+
+ weight gain, hypertension, and urinary tract infections
+
+
+
+ clinically relevant laboratory abnormalities are shown in  table 13  .
+
+
+
+ table 13: polycythemia vera: selected laboratory abnormalities in the open-label, active-controlled study up to week 32 of randomized treatmenta 
+  a presented values are worst grade values regardless of baseline    
+  b national cancer institute common terminology criteria for adverse events, version 3.0    
+  
+                              jakafi(n=110)              best available therapy(n=111)     
+   laboratory parameter       allgrades  b  (%)          grade 3(%)                 grade 4(%)                 allgrades(%)               grade 3(%)                 grade 4(%)                
+ hematology                                                                                                                                                                                    
+ anemia                     72                         <1                         <1                         58                         0                          0                           
+ thrombocytopenia           27                         5                          <1                         24                         3                          <1                          
+ neutropenia                3                          0                          <1                         10                         <1                         0                           
+ chemistry                                                                                                                                                                                     
+ hypercholesterolemia       35                         0                          0                          8                          0                          0                           
+ elevated alt               25                         <1                         0                          16                         0                          0                           
+ elevated ast               23                         0                          0                          23                         <1                         0                           
+ hypertriglyceridemia       15                         0                          0                          13                         0                          0                           
+    5. warnings and precautions
+
+
+
+   excerpt:    *  thrombocytopenia, anemia and neutropenia: manage by dose reduction, or interruption, or transfusion. (  5.1  ) 
+ *  risk of infection: assess patients for signs and symptoms of infection and initiate appropriate treatment promptly. serious infections should have resolved before starting therapy with jakafi. (  5.2  ) 
+ *  symptom exacerbation following interruption or discontinuation: manage with supportive care and consider resuming treatment with jakafi. (  5.3  ) 
+ *  risk of non-melanoma skin cancer (  5.4  ) 
+    
+ 
+
+   5.1 thrombocytopenia, anemia and neutropenia
+
+
+
+  treatment with jakafi can cause thrombocytopenia, anemia and neutropenia. [ see dosage and administration (  2.1  )  ].
+
+
+
+ manage thrombocytopenia by reducing the dose or temporarily interrupting jakafi. platelet transfusions may be necessary [ see dosage and administration (  2.1.1  ), and adverse reactions (  6.1  )  ].
+
+
+
+ patients developing anemia may require blood transfusions and/or dose modifications of jakafi.
+
+
+
+ severe neutropenia (anc less than 0.5 x 10  9  /l) was generally reversible by withholding jakafi until recovery [ see adverse reactions (  6.1  )  ].
+
+
+
+ perform a pre-treatment complete blood count (cbc) and monitor cbcs every 2 to 4 weeks until doses are stabilized, and then as clinically indicated. [ see dosage and administration (  2.1.1  ), and adverse reactions (  6.1  )  ].
+
+
+
+     5.2 risk of infection  
+
+
+
+   serious bacterial, mycobacterial, fungal and viral infections have occurred. delay starting therapy with jakafi until active serious infections have resolved. observe patients receiving jakafi for signs and symptoms of infection and manage promptly.  
+
+
+
+  tuberculosis  
+
+
+
+  tuberculosis infection has been reported in patients receiving jakafi. observe patients receiving jakafi for signs and symptoms of active tuberculosis and manage promptly.  
+
+
+
+  prior to initiating jakafi, patients should be evaluated for tuberculosis risk factors, and those at higher risk should be tested for latent infection. risk factors include, but are not limited to, prior residence in or travel to countries with a high prevalence of tuberculosis, close contact with a person with active tuberculosis, and a history of active or latent tuberculosis where an adequate course of treatment cannot be confirmed.  
+
+
+
+  for patients with evidence of active or latent tuberculosis, consult a physician with expertise in the treatment of tuberculosis before starting jakafi. the decision to continue jakafi during treatment of active tuberculosis should be based on the overall risk-benefit determination.  
+
+
+
+  pml  
+
+
+
+  progressive multifocal leukoencephalopathy (pml) has occurred with ruxolitinib treatment for myelofibrosis. if pml is suspected, stop jakafi and evaluate.  
+
+
+
+  herpes zoster  
+
+
+
+  advise patients about early signs and symptoms of herpes zoster and to seek treatment as early as possible if suspected [ see adverse reactions (  6.1  )  ].  
+
+
+
+     5.3 symptom exacerbation following interruption or discontinuation of treatment with jakafi  
+
+
+
+   following discontinuation of jakafi, symptoms from myeloproliferative neoplasms may return to pretreatment levels over a period of approximately one week. some patients with myelofibrosis have experienced one or more of the following adverse events after discontinuing jakafi: fever, respiratory distress, hypotension, dic, or multi-organ failure. if one or more of these occur after discontinuation of, or while tapering the dose of jakafi, evaluate for and treat any intercurrent illness and consider restarting or increasing the dose of jakafi. instruct patients not to interrupt or discontinue jakafi therapy without consulting their physician. when discontinuing or interrupting therapy with jakafi for reasons other than thrombocytopenia or neutropenia [ see dosage and administration (  2.5  )  ], consider tapering the dose of jakafi gradually rather than discontinuing abruptly.  
+
+
+
+     5.4 non-melanoma skin cancer  
+
+
+
+   non-melanoma skin cancers including basal cell, squamous cell, and merkel cell carcinoma have occurred in patients treated with jakafi. perform periodic skin examinations.  

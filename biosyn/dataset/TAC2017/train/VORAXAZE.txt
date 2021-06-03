@@ -1,0 +1,130 @@
+    6       adverse reactions
+
+  serious allergic reactions, including anaphylactic reactions, may occur. the most common adverse reactions (incidence >1%) with voraxaze are paraesthesias, flushing, nausea and/or vomiting, hypotension, and headache.
+
+
+
+   excerpt:   in clinical trials, the most common related adverse events (occurring in >1% of patients) were paraesthesia, flushing, nausea and/or vomiting, hypotension and headache. (  6  )
+
+
+
+ 
+
+
+
+   to report suspected adverse reactions, call 877-377-3784 or contact fda at 1-800-fda-1088 or    www.fda.gov/medwatch    .  
+
+
+
+ 
+
+  6.1     clinical trials experience
+
+  because clinical trials are conducted under controlled but widely varying conditions, adverse reaction rates observed in clinical trials of voraxaze cannot be directly compared to rates in the clinical trials of other drugs and may not reflect the rates observed in practice.
+
+
+
+ the evaluation of adverse reactions in patients treated with voraxaze is confounded by the population in which it was studied, patients with toxic plasma methotrexate levels due to impaired renal function. adverse reactions related to toxic methotrexate levels due to prolonged methotrexate clearance include myelosuppression, mucositis, acute hepatitis, and renal dysfunction and failure.
+
+
+
+ the safety of voraxaze is based on data from 290 patients who were treated in 2 single-arm, open-label, multicenter trials enrolling patients who had markedly delayed methotrexate clearance secondary to renal dysfunction. patients with osteosarcoma were eligible for these studies if the plasma methotrexate concentration was greater than 50 mumol/l at 24 hours, greater that 5 mumol/l at 48 hours, or greater than 2 standard deviations above the mean methotrexate elimination curve at least 12 hours after methotrexate administration and there was a 2-fold or greater increase in serum creatinine above baseline. all other patients were eligible for these studies if the plasma methotrexate level was greater than 10 mumol/l more than 42 hours after the start of the methotrexate or the plasma level was greater than 2 standard deviations above the mean methotrexate excretion curve at least 12 hours following methotrexate and the serum creatinine was greater than 1.5 times the upper limit of normal or the creatinine clearance was less than 60 ml/min at least 12 hours following methotrexate administration.
+
+
+
+ study 1, conducted by the national cancer institute (nci), enrolled 184 patients; safety information is available for 149 patients. voraxaze was given at a dose of 50 units/kg as an intravenous injection over 5 minutes. patients with pre-voraxaze methotrexate concentrations >100 mumol/l were to receive a second dose of voraxaze 48 hours after the first dose. the protocol specified that patients continue receiving intravenous hydration, urinary alkalinization and leucovorin, and that leucovorin administration be adjusted to ensure that it was not administered within two hours before or after voraxaze.
+
+
+
+ in study 1, voraxaze-related adverse reactions were collected on a flow sheet with a daily log of adverse reactions characterized as "glucarpidase toxicity." additional safety information was collected from clinical records submitted by treating physicians. this information was abstracted and categorized using the national cancer institute (nci) "common terminology criteria for adverse events" (ctcae) version 3 scale.
+
+
+
+ the study 1 population enrolled patients with a median age of 18 years (1 month to 85 years); 63% were male, and the underlying malignancies were osteosarcoma/sarcomas in 32%, and leukemia or lymphoma in 63% of patients. one (n=106) or 2 (n= 30) doses of voraxaze were administered intravenously; the number of doses was not specified in 13 patients. doses ranged from 18 to 98 units/kg, with a median dose of 49 units/kg.
+
+
+
+ study 2 is an ongoing expanded access program. at the time of data cut-off, 243 patients were enrolled and safety data was available for 141 patients. voraxaze was given at a dose of 50 units/kg as an intravenous injection over 5 minutes. the criterion for allowing patients to receive a second glucarpidase dose was not specified in the protocol. the protocol specified that patients continue receiving intravenous hydration, urinary alkalinization and leucovorin, and that leucovorin administration be adjusted to ensure that it was not administered within two hours before or after voraxaze.
+
+
+
+ study 2 enrolled patients with a median age of 17 years (6 months to 85 years); 64% were male, and the underlying malignancies were osteogenic sarcoma in 32%, and leukemia or lymphoma in 62% of patients. one (n=122) or 2 (n= 18) doses of voraxaze were administered intravenously; the number of doses was not specified for 1 patient. doses ranged from 6 to 189 units/kg, with a median dose of 50 units/kg.
+
+
+
+ in study 2 only voraxaze-related adverse reactions were collected and severity was graded according to nci ctcae version 3.
+
+
+
+ among the 290 patients included in the safety evaluation of voraxaze, there were 8 deaths within 30 days of voraxaze exposure that were not related to progressive disease. twenty-one of 290 patients (7%) experienced adverse reactions that were assessed as related to voraxaze. most were grade 1 or 2 events. one patient experienced related grade 3 flushing. the most common related adverse reactions that were not hematologic, hepatic or renal events were paresthesia, flushing, and nausea and/or vomiting, which each occurred in 2% of patients (table 1).
+
+
+
+ table 1: per patient incidence of grade 1 and 2 adverse reactions assessed as possibly, probably, or definitely related to voraxaze excluding hematologic, hepatic, or renal adverse reactions 
+   1  this incidence includes the following terms: flushing, feeling hot, burning sensation.  2  one of these reactions was classified as grade 3 in severity.   
+  
+   adverse reaction           n= 290n (%)               
+ paresthesias               7 (2%)                      
+ flushing  1,2              5 (2%)                      
+ nausea/vomiting            5 (2%)                      
+ headache                   2 (1%)                      
+ hypotension                2 (1%)                      
+ blurred vision             1 (<1%)                     
+ diarrhea                   1 (<1%)                     
+ hypersensitivity           1 (<1%)                     
+ hypertension               1 (<1%)                     
+ rash                       1 (<1%)                     
+ throat irritation/throat tightness  1 (<1%)                     
+ tremor                     1 (<1%)                     
+        6.2     immunogenicity
+     as with all therapeutic proteins, there is potential for immunogenicity. in clinical trials, 121 patients who received one (n=99), two (n=21), or three (n=1) doses of voraxaze were evaluated for anti-glucarpidase antibodies. twenty-five of these 121 patients (21%) had detectable anti-glucarpidase antibodies following voraxaze administration, of which 19 received a single dose of voraxaze and 6 received two doses of voraxaze. antibody titers were determined using a bridging enzyme-linked immunosorbent assay (elisa) for anti-glucarpidase antibodies.  
+
+
+
+   neutralizing antibodies were detected in 11 of the 25 patients who tested positive for anti-glucarpidase binding antibodies. eight of these 11 patients had received a single dose of voraxaze. however, the development of neutralizing antibodies may be underreported due to lack of assay sensitivity.  
+
+
+
+   the detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors , including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of incidence of antibodies to voraxaze with the incidence of antibodies to other products may be misleading.  
+    5        warnings and precautions
+
+
+
+   excerpt:    *  serious allergic reactions, including anaphylactic reactions, may occur. (  5.1  ) 
+ *  measurement of methotrexate using immunoassays is unreliable for samples collected within 48 hours following voraxaze administration. (  5.2  ) 
+ *  continue therapy with leucovorin until the methotrexate concentration has been maintained below the leucovorin treatment threshold for a minimum of 3 days. (  5.3  ) 
+ *  do not administer leucovorin within 2 hours before or after a dose of voraxaze. (  5.3  ) 
+ *  for 48 hours after voraxaze administration, determine the leucovorin dose based on the patient's pre-voraxaze methotrexate concentration. (  5.3  ) 
+ *  continue hydration and alkalinization of the urine as indicated. (  5.3  ) 
+    
+ 
+
+   5.1     serious allergic reactions
+
+
+
+  serious allergic reactions occurred in less than 1% of patients [ see adverse reactions (  6.1  )  ].
+
+
+
+    5.2     monitoring methotrexate concentration/interference with assay
+
+
+
+  methotrexate concentrations within 48 hours following administration of voraxaze can only be reliably measured by a chromatographic method. dampa (4-deoxy-4-amino-n  10  -methylpteroic acid) is an inactive metabolite of methotrexate resulting from treatment with voraxaze. dampa interferes with the measurement of methotrexate concentration using immunoassays resulting in an erroneous measurement which overestimates the methotrexate concentration. due to the long half-life of dampa (t1/2of approximately 9 hours), measurement of methotrexate using immunoassays is unreliable for samples collected within 48 hours following voraxaze administration [ see clinical pharmacology (  12.1  )  ].
+
+
+
+    5.3     continuation and timing of leucovorin rescue
+
+
+
+  continue to administer leucovorin after voraxaze. do not administer  leucovorin within 2 hours before or after a dose of voraxaze because leucovorin is a substrate for voraxaze [ see drug interactions (  7.1  )  ].
+
+
+
+ for the first 48 hours after voraxaze, administer the same leucovorin dose as given prior to voraxaze [ see warnings and precautions (  5.2  )  ]. beyond 48 hours after voraxaze, administer leucovorin based on the measured methotrexate concentration. do not discontinue therapy with leucovorin based on the determination of a single methotrexate concentration below the leucovorin treatment threshold. therapy with leucovorin should be continued until the methotrexate concentration has been maintained below the leucovorin treatment threshold for a minimum of 3 days.
+
+
+
+ continue hydration and alkalinization of the urine as indicated.

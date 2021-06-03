@@ -1,0 +1,299 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are also discussed elsewhere in the labeling:
+
+
+
+ *  nephrotoxicity [see warnings and precautions (  5.3  ) ] 
+ *  infusion-related reactions [see warnings and precautions (  5.7  ) ] 
+ *   clostridium difficile -associated diarrhea [see warnings and precautions (  5.8  ) ] 
+    because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+ 
+
+   excerpt:   most common adverse reaction (>=10% of patients treated with vibativ) in the habp/vabp trials is diarrhea; in the csssi trials, the most common adverse reactions (>=10% of patients treated with vibativ) include: taste disturbance, nausea, vomiting, and foamy urine. (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact theravance biopharma us, inc. at 1-855-633-8479 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+    complicated skin and skin structure infections  
+
+
+
+ the two phase 3 csssi clinical trials (trial 1 and trial 2) for vibativ included 929 adult patients treated with vibativ at 10 mg/kg iv once daily. the mean age of patients treated with vibativ was 49 years (range 18-96). there was a slight male predominance (56%) in patients treated with vibativ, and patients were predominantly caucasian (78%).
+
+
+
+ in the csssi clinical trials, <1% (8/929) patients who received vibativ died and <1% (8/938) patients treated with vancomycin died. serious adverse events were reported in 7% (69/929) of patients treated with vibativ and most commonly included renal, respiratory, or cardiac events. serious adverse events were reported in 5% (43/938) of vancomycin-treated patients, and most commonly included cardiac, respiratory, or infectious events. treatment discontinuations due to adverse events occurred in 8% (72/929) of patients treated with vibativ, the most common events being nausea and rash (~1% each). treatment discontinuations due to adverse events occurred in 6% (53/938) of vancomycin-treated patients, the most common events being rash and pruritus (~1% each).
+
+
+
+ the most common adverse events occurring in >=10% of vibativ-treated patients observed in the vibativ phase 3 csssi trials were taste disturbance, nausea, vomiting, and foamy urine.
+
+
+
+   table 4  displays the incidence of treatment-emergent adverse drug reactions reported in >=2% of patients treated with vibativ possibly related to the drug.
+
+
+
+ table 4: incidence of treatment-emergent adverse drug reactions reported in >=2% of vibativ or vancomycin patients treated in csssi trial 1 and trial 2 
+                                                          vibativ(n=929)           vancomycin(n=938)       
+  
+  * described as a metallic or soapy taste.              
+  
+ body as a whole                                                                                           
+      rigors                                            4%                       2%                        
+ digestive system                                                                                          
+      nausea                                            27%                      15%                       
+      vomiting                                          14%                      7%                        
+      diarrhea                                          7%                       8%                        
+ metabolic and nutritional                                                                                 
+      decreased appetite                                3%                       2%                        
+ nervous system                                                                                            
+      taste disturbance  *                              33%                      7%                        
+ renal system                                                                                              
+      foamy urine                                       13%                      3%                        
+             habp/vabp  
+ 
+
+ two randomized, double-blind phase 3 trials (trial 1 and trial 2) for vibativ included 1,503 adult patients treated with vibativ at 10 mg/kg iv once daily or vancomycin at 1 g iv twice daily. the mean age of patients treated with vibativ was 62 years (range 18-100). in patients treated with vibativ, 69% of the patients were white and 65% were male. in the combined vibativ group, 29% were vap and 71% were hap patients.
+
+
+
+   table 5  summarizes deaths using kaplan-meier estimates at day 28 as stratified by baseline creatinine clearance categorized into four groups. patients with pre-existing moderate/severe renal impairment (crcl<=50 ml/min) who were treated with vibativ for habp/vabp had increased mortality observed versus vancomycin in both the trials.
+
+
+
+ table 5: 28-day mortality (kaplan-meier estimates) stratified by baseline creatinine clearance - all-treated analysis population 
+   crcl (ml/min)      trial 1         trial 2         
+   vibativ    n (%)      vancomycin    n (%)      difference    (95% ci)      vibativ    n (%)      vancomycin    n (%)      difference    (95% ci)     
+ >80          143 (12.2%)     152 (14.1%)      -1.8(-9.6, 6.0)  181 (10.5%)     181 (18.7%)      -8.2(-15.5, -0.9)   
+ >50-80       88 (27.4%)      88 (17.7%)       9.7(-2.7, 22.1)  96 (25.6%)      90 (27.1%)       -1.5(-14.4, 11.3)   
+ 30-50        80 (34.7%)      83 (23.1%)       11.5(-2.5, 25.5)  62 (27.7%)      68 (23.7%)       4.0(-11.1, 19.1)   
+ <30          61 (44.3%)      51 (37.3%)       7.0(-11.2, 25.2)  38 (61.1%)      41 (42.1%)       19.0(-2.9, 40.8)   
+             serious adverse events were reported in 31% of patients treated with vibativ and 26% of patients who received vancomycin. treatment discontinuations due to adverse events occurred in 8% (60/751) of patients who received vibativ, the most common events being acute renal failure and electrocardiogram qtc interval prolonged (~1% each). treatment discontinuations due to adverse events occurred in 5% (40/752) of vancomycin-patients, the most common events being septic shock and multi-organ failure (<1%).
+ 
+
+   table 6  displays the incidence of treatment-emergent adverse drug reactions reported in >= 5% of habp/vabp patients treated with vibativ possibly related to the drug.
+
+
+
+ table 6: incidence of treatment-emergent adverse drug reactions reported in >=5% of vibativ or vancomycin patients treated in habp/vabp trial 1 and trial 2 
+                                                           vibativ(n=751)          vancomycin(n=752)       
+       nausea                                            5%                      4%                        
+       vomiting                                          5%                      4%                        
+       renal failure acute                               5%                      4%                        
+             nephrotoxicity  
+ 
+
+     complicated skin and skin structure infections  
+
+
+
+ in csssi trials, the incidence of renal adverse events indicative of renal impairment (increased serum creatinine, renal impairment, renal insufficiency, and/or renal failure) was 30/929 (3%) of vibativ-treated patients compared with 10/938 (1%) of vancomycin-treated patients. in 17 of the 30 vibativ-treated patients, these adverse events had not completely resolved by the end of the trials, compared with 6 of the 10 vancomycin-treated patients. serious adverse events indicative of renal impairment occurred in 11/929 (1%) of vibativ-treated patients compared with 3/938 (0.3%) of vancomycin-treated patients. twelve patients treated with vibativ discontinued treatment due to adverse events indicative of renal impairment compared with 2 patients treated with vancomycin.
+
+
+
+ increases in serum creatinine to 1.5 times baseline occurred more frequently among vibativ-treated patients with normal baseline serum creatinine (15%) compared with vancomycin-treated patients with normal baseline serum creatinine (7%).
+
+
+
+ fifteen of 174 (9%) vibativ-treated patients >=65 years of age had adverse events indicative of renal impairment compared with 16 of 755 patients (2%) <65 years of age [see  use in specific populations (  8.5  )  ].
+
+
+
+     hospital-acquired and ventilator-associated bacterial pneumonia  
+
+
+
+ in the habp/vabp trials, the incidence of renal adverse events (increased serum creatinine, renal impairment, renal insufficiency, and/or renal failure) was 10% for vibativ vs. 8% for vancomycin. of the patients who had at least one renal adverse event, 54% in each treatment group recovered completely, recovered with sequelae, or were improving from the renal ae at the last visit.  three percent of vibativ-treated patients and 2% of vancomycin-treated patients experienced at least one serious renal adverse event. renal adverse events resulted in discontinuation of study medication in 14 vibativ-treated patients (2%) and 7 vancomycin-treated patients (1%).
+
+
+
+ increases in serum creatinine to 1.5 times baseline occurred more frequently among vibativ-treated patients (16%) compared with vancomycin-treated patients (10%).
+
+
+
+ forty-four of 399 (11.0%) vibativ-treated patients >=65 years of age had adverse events indicative of renal impairment compared with 30 of 352 patients (8%) <65 years of age [see  use in specific populations (  8.5  )  ].
+
+
+
+   6.2 postmarketing experience
+
+  the following adverse reactions have been identified during post-approval use of vibativ. because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ serious hypersensitivity reactions have been reported after first or subsequent doses of vibativ, including anaphylactic reactions. it is unknown if patients with hypersensitivity reactions to vancomycin will experience cross-reactivity to telavancin. [see  hypersensitivity reactions (  5.6  )  ]
+
+
+    boxed warning: warnings
+
+
+
+  warnings
+
+
+
+    *  patients with pre-existing moderate/severe renal impairment (crcl <= 50 ml/min) who were treated with vibativ for hospital-acquired bacterial pneumonia/ventilator-associated bacterial pneumonia had increased mortality observed versus vancomycin. use of vibativ in patients with pre-existing moderate/severe renal impairment (crcl<= 50 ml/min) should be considered only when the anticipated benefit to the patient outweighs the potential risk [see warnings and precautions (5.1)]. 
+ *  nephrotoxicity: new onset or worsening renal impairment has occurred. monitor renal function in all patients [see warnings and precautions (5.3)]. 
+ *  women of childbearing potential should have a serum pregnancy test prior to administration of vibativ [see warnings and precautions (5.4), use in specific populations (8.1)]. 
+ *  avoid use of vibativ during pregnancy unless the potential benefit to the patient outweighs the potential risk to the fetus [see warnings and precautions (5.4), use in specific populations (8.1)]. 
+ *  adverse developmental outcomes observed in 3 animal species at clinically relevant doses raise concerns about potential adverse developmental outcomes in humans [see warnings and precautions (5.4), use in specific populations (8.1)] 
+      excerpt:     warnings  
+ 
+
+ 
+
+
+
+ *  patients with pre-existing moderate/severe renal impairment (crcl <=50 ml/min)who were treated with vibativ for hospital-acquired bacterial pneumonia/ventilator-associated bacterial pneumonia had increased mortality observed versus vancomycin. use of vibativ in patients with pre-existing moderate/severe renal impairment (crcl <=50 ml/min) should be considered only when the anticipated benefit to the patient outweighs the potential risk. (5.1) 
+ *  nephrotoxicity: new onset or worsening renal impairment has occurred. monitor renal function in all patients. (5.3) 
+ *  women of childbearing potential should have a serum pregnancy test prior to administration of vibativ. (5.4, 8.1) 
+ *  avoid use of vibativ during pregnancy unless potential benefit to the patient outweighs potential risk to the fetus. (8.1) 
+ *  adverse developmental outcomes observed in 3 animal species at clinically relevant doses raise concerns about potential adverse developmental outcomes in humans. (8.1) 
+    5 warnings and precautions
+
+
+
+   excerpt:    *  decreased efficacy among patients treated for skin and skin structure infections with moderate/severe pre-existing renal impairment: consider these data when selecting antibacterial therapy for patients with baseline crcl <=50 ml/min. (  5.2  ) 
+ *  hypersensitivity reactions: serious and potentially fatal hypersensitivity reactions, including anaphylactic reactions, may occur after first or subsequent doses. vibativ should be used with caution in patients with known hypersensitivity to vancomycin. (  5.6  ,  6.2  ) 
+ *  infusion-related reactions: administer vibativ over at least 60 minutes to minimize infusion-related reactions. (  5.7  ) 
+ *   clostridium difficile -associated disease: may range from mild diarrhea to fatal colitis. evaluate if diarrhea occurs. (  5.8  ) 
+ *  coagulation test interference: telavancin interferes with some laboratory coagulation tests, including prothrombin time, international normalized ratio, and activated partial thromboplastin time. (  5.5  ,  7.1  ) 
+ *  qtc prolongation: avoid use in patients at risk. use with caution in patients taking drugs known to prolong the qt interval. (  5.10  ) 
+    
+ 
+
+   5.1 increased mortality in patients with habp/vabp and pre-existing moderate to severe renal impairment (crcl<=50 ml/min)
+
+
+
+  in the analysis of patients (classified by the treatment received) in the two combined habp/vabp trials with pre-existing moderate/severe renal impairment (crcl<=50 ml/min), all-cause mortality within 28 days of starting treatment was 95/241 (39%) in the vibativ group, compared with 72/243 (30%) in the vancomycin group.  all-cause mortality at 28 days in patients without pre-existing moderate/severe renal impairment (crcl>50 ml/min) was 86/510 (17%) in the vibativ group and 92/510 (18%) in the vancomycin group. therefore, vibativ use in patients with baseline crcl<=50 ml/min should be considered only when the anticipated benefit to the patient outweighs the potential risk [see adverse reactions, clinical trials experience (  6.1  )  and clinical trials, habp/vabp (  14.2  )  ].
+
+
+
+    5.2 decreased clinical response in patients with csssi and pre-existing moderate/severe renal impairment (crcl<=50 ml/min)
+
+
+
+  in a subgroup analysis of the combined csssi trials,clinical cure rates in the vibativ-treated patients were lower in patients with baseline crcl <=50 ml/min compared with those with crcl>50 ml/min (  table 2  ). a decrease of this magnitude was not observed in vancomycin-treated patients. consider these data when selecting antibacterial therapy for use in patients with csssi and with baseline moderate/severe renal impairment.
+
+
+
+ table 2: clinical cure by pre-existing renal impairment - clinically evaluable population 
+                           vibativ% (n/n)                          vancomycin% (n/n)                       
+  csssi trials                                                                                             
+ crcl>50 ml/min           87.0% (520/598)                         85.9% (524/610)                          
+ crcl <=50 ml/min         67.4% (58/86)                           82.7% (67/81)                            
+            5.3 nephrotoxicity
+ 
+
+  in both the habp/vabp trials and the csssi trials, renal adverse events were more likely to occur in patients with baseline comorbidities known to predispose patients to kidney dysfunction (pre-existing renal disease, diabetes mellitus, congestive heart failure, or hypertension). the renal adverse event rates were also higher in patients who received concomitant medications known to affect kidney function (e.g., non-steroidal anti-inflammatory drugs, ace inhibitors, and loop diuretics).
+
+
+
+ monitor renal function (i.e., serum creatinine, creatinine clearance) in all patients receiving vibativ. values should be obtained prior to initiation of treatment, during treatment (at 48- to 72-hour intervals or more frequently, if clinically indicated), and at the end of therapy. if renal function decreases, the benefit of continuing vibativ versus discontinuing and initiating therapy with an alternative agent should be assessed [see dosage and administration (  2  ), adverse reactions (  6  ),  and clinical pharmacology (  12.3  )  ].
+
+
+
+ in patients with renal dysfunction, accumulation of the solubilizer hydroxypropyl-beta-cyclodextrin can occur [see patients with renal impairment (  8.6  )  and clinical pharmacology (  12.3  )  ].
+
+
+
+    5.4 pregnant women and women of childbearing potential
+
+
+
+  avoid use of vibativ during pregnancy unless the potential benefit to the patient outweighs the potential risk to the fetus. vibativ caused adverse developmental outcomes in 3 animal species at clinically relevant doses. this raises concern about potential adverse developmental outcomes in humans.
+
+
+
+ women of childbearing potential should have a serum pregnancy test prior to administration of vibativ. if not already pregnant, women of childbearing potential should use effective contraception during vibativ treatment [see use in specific populations (  8.1  )  ].
+
+
+
+    5.5 coagulation test interference
+
+
+
+  although telavancin does not interfere with coagulation, it interfered with certain tests used to monitor coagulation (  table 3  ), when conducted using samples drawn 0 to 18 hours after vibativ administration for patients being treated once every 24 hours. blood samples for these coagulation tests should be collected as close as possible prior to a patient's next dose of vibativ. blood samples for coagulation tests unaffected by vibativ may be collected at any time [see drug interactions (  7.1  )  ].
+
+
+
+ for patients who require aptt monitoring while being treated with vibativ, a non phospholipid dependent coagulation test such as a factor xa (chromogenic) assay or an alternative anticoagulant not requiring aptt monitoring may be considered.
+
+
+
+ table 3: coagulation tests affected and unaffected by telavancin 
+
+  affected by telavancin                                    unaffected by telavancin
+ 
+ prothrombin time/international                           thrombin time
+ normalized ratio                                         whole blood (lee-white) clotting time
+ activated partial thromboplastin time                    platelet aggregation study
+ activated clotting time                                  chromogenic anti-factor xa assay
+ coagulation based factor x activity assay                functional (chromogenic) factor x activity assay
+                                                          bleeding time
+                                                          d-dimer
+                                                          fibrin degradation products
+
+
+        no evidence of increased bleeding risk has been observed in clinical trials with vibativ. telavancin has no effect on platelet aggregation. furthermore, no evidence of hypercoagulability has been seen, as healthy subjects receiving vibativ have normal levels of d-dimer and fibrin degradation products.
+ 
+
+    5.6 hypersensitivity reactions
+
+
+
+  serious and sometimes fatal hypersensitivity reactions, including anaphylactic reactions, may occur after first or subsequent doses. discontinue vibativ at first sign of skin rash, or any other sign of hypersensitivity. telavancin is a semi-synthetic derivative of vancomycin; it is unknown if patients with hypersensitivity reactions to vancomycin will experience cross-reactivity to telavancin. vibativ should be used with caution in patients with known hypersensitivity to vancomycin [see postmarketing experience (  6.2  )  ].
+
+
+
+    5.7 infusion-related reactions
+
+
+
+  vibativ is a lipoglycopeptide antibacterial agent and should be administered over a period of 60 minutes to reduce the risk of infusion-related reactions. rapid intravenous infusions of the glycopeptide class of antimicrobial agents can cause "red-man syndrome"-like reactions including: flushing of the upper body, urticaria, pruritus, or rash. stopping or slowing the infusion may result in cessation of these reactions.
+
+
+
+    5.8 clostridium difficile  -associated diarrhea
+
+
+
+   clostridium difficile-  associated diarrhea (cdad) has been reported with nearly all antibacterial agents and may range in severity from mild diarrhea to fatal colitis. treatment with antibacterial agents alters the flora of the colon and may permit overgrowth of c. difficile  .
+
+
+
+  c. difficile  produces toxins a and b which contribute to the development of cdad. hyper-toxin-producing strains of c. difficile  cause increased morbidity and mortality, since these infections can be refractory to antimicrobial therapy and may require colectomy. cdad must be considered in all patients who present with diarrhea following antibiotic use. careful medical history is necessary because cdad has been reported to occur more than 2 months after the administration of antibacterial agents.
+
+
+
+ if cdad is suspected or confirmed, ongoing antibiotic use not directed against c. difficile  may need to be discontinued. appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of c. difficile  , and surgical evaluation should be instituted as clinically indicated.
+
+
+
+    5.9 development of drug-resistant bacteria
+
+
+
+  prescribing vibativ in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+
+
+
+ as with other antibacterial drugs, use of vibativ may result in overgrowth of nonsusceptible organisms, including fungi. patients should be carefully monitored during therapy. if superinfection occurs, appropriate measures should be taken.
+
+
+
+    5.10 qtc prolongation
+
+
+
+  in a study involving healthy volunteers, doses of 7.5 and 15 mg/kg of vibativ prolonged the qtc interval [see clinical pharmacology (  12.2  )  ]. caution is warranted when prescribing vibativ to patients taking drugs known to prolong the qt interval. patients with congenital long qt syndrome, known prolongation of the qtc interval, uncompensated heart failure, or severe left ventricular hypertrophy were not included in clinical trials of vibativ. use of vibativ should be avoided in patients with these conditions.

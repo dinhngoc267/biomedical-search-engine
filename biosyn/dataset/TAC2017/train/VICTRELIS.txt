@@ -1,0 +1,274 @@
+    6 adverse reactions
+
+  see the peginterferon alfa and ribavirin prescribing information for description of adverse reactions associated with their use.
+
+
+
+   excerpt:   the most commonly reported adverse reactions (greater than 35% of subjects) in clinical trials in adult subjects receiving the combination of victrelis with pegintron and rebetol were fatigue, anemia, nausea, headache and dysgeusia. (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact merck sharp & dohme corp., a subsidiary of merck & co., inc., at 1-877-888-4231 or fda at 1-800-fda-1088 or      www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of victrelis cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the following serious and otherwise important adverse drug reactions (adrs) are discussed in detail in another section of the labeling:
+
+
+
+ *  anemia [see  warnings and precautions (5.2)  ]  
+ *  neutropenia [see  warnings and precautions (5.3)  ]  
+ *  pancytopenia [see  warnings and precautions (5.4)  ]  
+ *  hypersensitivity [see  contraindications (4)  and  warnings and precautions (5.5)  ]  
+    the most commonly reported adverse reactions (more than 35% of subjects regardless of investigator's causality assessment) in adult subjects were fatigue, anemia, nausea, headache, and dysgeusia when victrelis was used in combination with pegintron and rebetol.
+ 
+
+ the safety of the combination of victrelis 800 mg three times daily with pegintron/rebetol was assessed in 2095 subjects with chronic hepatitis c in one phase 2, open-label trial and two phase 3, randomized, double-blind, placebo-controlled clinical trials. sprint-1 (subjects who were previously untreated) evaluated the use of victrelis in combination with pegintron/rebetol with or without a four-week lead-in period with pegintron/rebetol compared to pegintron/rebetol alone. sprint-2 (subjects who were previously untreated) and respond-2 (subjects who had failed previous therapy) evaluated the use of victrelis 800 mg three times daily in combination with pegintron/rebetol with a four-week lead-in period with pegintron/rebetol compared to pegintron/rebetol alone  [see  clinical studies (14)  ]  . the population studied had a mean age of 49 years (3% of subjects were older than 65 years of age), 39% were female, 82% were white and 15% were black.
+
+
+
+ during the four week lead-in period with pegintron/rebetol in subjects treated with the combination of victrelis with pegintron/rebetol, 28/1263 (2%) subjects experienced adverse reactions leading to discontinuation of treatment. during the entire course of treatment, the proportion of subjects who discontinued treatment due to adverse reactions was 13% for subjects receiving the combination of victrelis with pegintron/rebetol and 12% for subjects receiving pegintron/rebetol alone. events resulting in discontinuation were similar to those seen in previous studies with pegintron/rebetol. only anemia and fatigue were reported as events that led to discontinuation in more than 1% of subjects in any arm.
+
+
+
+ adverse reactions that led to dose modifications of any drug (primarily pegintron and rebetol) occurred in 39% of subjects receiving the combination of victrelis with pegintron/rebetol compared to 24% of subjects receiving pegintron/rebetol alone. the most common reason for dose reduction was anemia, which occurred more frequently in subjects receiving the combination of victrelis with pegintron/rebetol than in subjects receiving pegintron/rebetol alone.
+
+
+
+ serious adverse events were reported in 11% of subjects receiving the combination of victrelis with pegintron/rebetol and in 8% of subjects receiving pegintron/rebetol.
+
+
+
+ adverse events (regardless of investigator's causality assessment) reported in greater than or equal to 10% of subjects receiving the combination of victrelis with pegintron/rebetol and reported at a rate of greater than or equal to 5% than pegintron/rebetol alone in sprint-1, sprint-2, and respond-2 are presented in  table 3  .
+
+
+
+ table 3 adverse events reported in >=10% of subjects receiving the combination of victrelis with pegintron/rebetol and reported at a rate of >=5% than pegintron/rebetol alone 
+ adverse events            previously untreated(sprint-1 and sprint-2)  previous treatment failures(respond-2)   
+                           percentage of subjects reporting adverse events  percentage of subjects reporting adverse events   
+ body system organ class   victrelis + pegintron + rebetol(n=1225)  pegintron + rebetol(n=467)  victrelis + pegintron + rebetol(n=323)  pegintron + rebetol(n=80)   
+  
+   median exposure (days)            197                  216                  253                  104           
+   blood and lymphatic system disorders     
+ anemia                            50                   30                   45                   20            
+ neutropenia                       25                   19                   14                   10            
+   gastrointestinal disorders     
+ nausea                            46                   42                   43                   38            
+ dysgeusia                         35                   16                   44                   11            
+ diarrhea                          25                   22                   24                   16            
+ vomiting                          20                   13                   15                    8            
+ dry mouth                         11                   10                   15                    9            
+   general disorders and administration site conditions     
+ fatigue                           58                   59                   55                   50            
+ chills                            34                   29                   33                   30            
+ asthenia                          15                   18                   21                   16            
+   metabolism and nutrition disorders     
+ decreased appetite                25                   24                   26                   16            
+   musculoskeletal and connective tissue disorders     
+ arthralgia                        19                   19                   23                   16            
+   nervous system disorders     
+ dizziness                         19                   16                   16                   10            
+   psychiatric disorders     
+ insomnia                          34                   34                   30                   24            
+ irritability                      22                   23                   21                   13            
+   respiratory, thoracic, and mediastinal disorders     
+ dyspnea exertional                 8                    8                   11                    5            
+   skin and subcutaneous tissue disorders     
+ alopecia                          27                   27                   22                   16            
+ dry skin                          18                   18                   22                    9            
+ rash                              17                   19                   16                    6            
+               other important adverse reactions reported in clinical trials  
+ 
+
+ among subjects (previously untreated subjects or those who failed previous therapy) who received victrelis in combination with peginterferon alfa and ribavirin, the following adverse drug reactions were reported. these events are notable because of their seriousness, severity, or increased frequency in subjects who received victrelis in combination with peginterferon alfa and ribavirin compared with subjects who received only peginterferon alfa and ribavirin.
+
+
+
+     gastrointestinal disorders  
+
+
+
+ dysgeusia (alteration of taste) was an adverse event reported at an increased frequency in subjects receiving victrelis in combination with peginterferon alfa and ribavirin compared with subjects receiving peginterferon alfa and ribavirin alone (  table 3  ). adverse events such as dry mouth, nausea, vomiting and diarrhea were also reported at an increased frequency in subjects receiving victrelis in combination with peginterferon alfa and ribavirin.
+
+
+
+     laboratory values  
+
+
+
+ changes in selected hematological parameters during treatment of adult subjects with the combination of victrelis with pegintron and rebetol are described in  table 4.  
+
+
+
+     hemoglobin  
+
+
+
+ decreases in hemoglobin may require a decrease in dosage or discontinuation of ribavirin  [see  warnings and precautions (5.2)  and  clinical studies (14)  ] [see prescribing information for ribavirin]  . if ribavirin is permanently discontinued, then peginterferon alfa and victrelis must also be discontinued  [see  dosage and administration (2.3)  ]  .
+
+
+
+     neutrophils and platelets  
+
+
+
+ the proportion of subjects with decreased neutrophil and platelet counts was higher in subjects treated with victrelis in combination with pegintron/rebetol compared to subjects receiving pegintron/rebetol alone. three percent of subjects receiving the combination of victrelis with pegintron/rebetol had platelet counts of less than 50 * 10  9  per l compared to 1% of subjects receiving pegintron/rebetol alone. decreases in neutrophils or platelets may require a decrease in dosage or interruption of peginterferon alfa, or discontinuation of therapy  [see prescribing information for peginterferon alfa and ribavirin]  . if peginterferon alfa is permanently discontinued, then ribavirin and victrelis must also be discontinued  [see  dosage and administration (2.3)  ]  .
+
+
+
+ table 4 selected hematological parameters 
+                           previously untreated(sprint-1 and sprint-2)  previous treatment failures(respond-2)   
+                           percentage of subjects reporting selected hematological parameters  percentage of subjects reporting selected hematological parameters   
+ hematological parameters  victrelis + pegintron + rebetol(n=1225)  pegintron + rebetol(n=467)  victrelis + pegintron + rebetol(n=323)  pegintron + rebetol(n=80)   
+  
+   hemoglobin (g/dl)        
+ <10                               49                   29                   49                   25            
+ <8.5                               6                    3                   10                    1            
+   neutrophils (* 10  9  /l)     
+ <0.75                             31                   18                   26                   13            
+ <0.5                               8                    4                    7                    4            
+   platelets (* 10  9  /l)     
+ <50                                3                    1                    4                    0            
+ <25                               <1                    0                    0                    0            
+             6.2 postmarketing experience
+   the following adverse reactions have been identified during post-approval use of victrelis in combination with peginterferon alfa and ribavirin. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   blood and lymphatic system disorders:  agranulocytosis, pancytopenia  ,  thrombocytopenia  [see  warnings and precautions (5.4)  ]  
+
+
+
+   gastrointestinal disorders:  mouth ulceration, stomatitis
+
+
+
+   infections and infestations:  pneumonia, sepsis
+
+
+
+   skin and subcutaneous tissue disorders:  angioedema, urticaria  [see  warnings and precautions (5.5)  ]  ; drug rash with eosinophilia and systemic symptoms (dress) syndrome, exfoliative rash, exfoliative dermatitis, stevens-johnson syndrome, toxic skin eruption, toxicoderma
+    5 warnings and precautions
+
+
+
+  excerpt:    use of victrelis with ribavirin and peginterferon alfa:  
+
+
+
+ *   embryofetal toxicity (use with ribavirin and peginterferon alfa): ribavirin may cause birth defects and fetal death; avoid pregnancy in female patients and female partners of male patients. patients must have a negative pregnancy test prior to therapy; use two or more forms of contraception, and have monthly pregnancy tests. (  5.1  ) 
+ *  anemia - the addition of victrelis to peginterferon alfa and ribavirin is associated with an additional decrease in hemoglobin concentrations compared with peginterferon alfa and ribavirin alone. (  5.2  ) 
+ *  neutropenia - the addition of victrelis to peginterferon alfa and ribavirin may result in worsening of neutropenia associated with peginterferon alfa and ribavirin therapy alone. (  5.3  ) 
+ *  hypersensitivity - serious acute hypersensitivity reactions (e.g., urticaria, angioedema) have been observed during combination therapy with victrelis, peginterferon alfa and ribavirin. (  5.5  ) 
+    
+ 
+
+   5.1 embryofetal toxicity (use with ribavirin and peginterferon alfa)
+
+
+
+  ribavirin may cause birth defects and/or death of the exposed fetus. extreme care must be taken to avoid pregnancy in female patients and in female partners of male patients. ribavirin therapy should not be started unless a report of a negative pregnancy test has been obtained immediately prior to initiation of therapy. refer to the prescribing information for ribavirin for additional information.
+
+
+
+ women of childbearing potential and men must use at least two forms of effective contraception during treatment and for at least 6 months after treatment has concluded. one of these forms of contraception can be a combined oral contraceptive product containing at least 1 mg of norethindrone. oral contraceptives containing lower doses of norethindrone and other forms of hormonal contraception have not been studied or are contraindicated. routine monthly pregnancy tests must be performed during this time [see  contraindications (4)  and  drug interactions (7)  ]  .
+
+
+
+    5.2 anemia (use with ribavirin and peginterferon alfa)
+
+
+
+  anemia has been reported with peginterferon alfa and ribavirin therapy. the addition of victrelis to peginterferon alfa and ribavirin is associated with an additional decrease in hemoglobin concentrations. complete blood counts (with white blood cell differential counts) should be obtained pretreatment, and at treatment weeks 2, 4, 8, and 12, and should be monitored closely at other time points, as clinically appropriate. if hemoglobin is less than 10 g per dl, a decrease in dosage of ribavirin is recommended; and if hemoglobin is less than 8.5 g per dl, discontinuation of ribavirin is recommended [see  adverse reactions (6.1)  and  clinical studies (14)  ]  . if ribavirin is permanently discontinued for management of anemia, then peginterferon alfa and victrelis must also be discontinued [see  dosage and administration (2.3)  ]  .
+
+
+
+ refer to the prescribing information for ribavirin for additional information regarding dose reduction and/or discontinuation.
+
+
+
+ in clinical trials with victrelis, the proportion of subjects who experienced hemoglobin values less than 10 g per dl and less than 8.5 g per dl was higher in subjects treated with the combination of victrelis with pegintron  (r)  /rebetol  (r)  than in those treated with pegintron/rebetol alone (see  table 4  ). with the interventions used for anemia management in the clinical trials, the average additional decrease of hemoglobin was approximately 1 g per dl.
+
+
+
+ in clinical trials, the median time to onset of hemoglobin less than 10 g per dl from the initiation of therapy was similar among subjects treated with the combination of victrelis and pegintron/rebetol (71 days with a range of 15-337 days), compared to those who received pegintron/rebetol (71 days with a range of 8-337 days). certain adverse reactions consistent with symptoms of anemia, such as dyspnea, exertional dyspnea, dizziness and syncope were reported more frequently in subjects who received the combination of victrelis with pegintron/rebetol than in those treated with pegintron/rebetol alone [see  adverse reactions (6.1)  ].  
+
+
+
+ in clinical trials with victrelis, dose modifications (generally of pegintron/rebetol) due to anemia occurred twice as often in subjects treated with the combination of victrelis with pegintron/rebetol (26%) compared to pegintron/rebetol (13%). the proportion of subjects who discontinued study drug due to anemia was 1% in subjects treated with the combination of victrelis with pegintron/rebetol and 1% in subjects who received pegintron/rebetol. the use of erythropoiesis stimulating agents (esas) was permitted for management of anemia, at the investigator's discretion, with or without ribavirin dose reduction in the phase 2 and 3 clinical trials. the proportion of subjects who received an esa was 43% in those treated with the combination of victrelis with pegintron/rebetol compared to 24% in those treated with pegintron/rebetol alone. the proportion of subjects who received a transfusion for the management of anemia was 3% of subjects treated with the combination of victrelis with pegintron/rebetol compared to less than 1% in subjects who received pegintron/rebetol alone.
+
+
+
+ thromboembolic events have been associated with esa use in other disease states; and have also been reported with peginterferon alfa use in hepatitis c patients. thromboembolic events were reported in clinical trials with victrelis among subjects receiving the combination of victrelis with pegintron/rebetol, and among those receiving pegintron/rebetol alone, regardless of esa use. no definite causality assessment or benefit risk assessment could be made for these events due to the presence of confounding factors and lack of randomization of esa use.
+
+
+
+ a randomized, parallel-arm, open-label clinical trial was conducted in previously untreated chc subjects with genotype 1 infection to compare use of an esa versus ribavirin dose reduction for initial management of anemia during therapy with victrelis in combination with peginterferon alfa-2b and ribavirin. similar svr rates were reported in subjects who were randomized to receive ribavirin dose reduction compared to subjects who were randomized to receive an esa. in this trial, use of esas was associated with an increased risk of thromboembolic events including pulmonary embolism, acute myocardial infarction, cerebrovascular accident, and deep vein thrombosis compared to ribavirin dose reduction alone. the treatment discontinuation rate due to anemia was similar in subjects randomized to receive ribavirin dose reduction compared to subjects randomized to receive esa (2% in each group). the transfusion rate was 4% in subjects randomized to receive ribavirin dose reduction and 2% in subjects randomized to receive esa.
+
+
+
+ ribavirin dose reduction is recommended for the initial management of anemia.
+
+
+
+    5.3 neutropenia (use with ribavirin and peginterferon alfa)
+
+
+
+  in phase 2 and 3 clinical trials, seven percent of subjects receiving the combination of victrelis with pegintron/rebetol had neutrophil counts of less than 0.5 * 10  9  per l compared to 4% of subjects receiving pegintron/rebetol alone (see  table 4  ). three subjects experienced severe or life-threatening infections associated with neutropenia, and two subjects experienced life-threatening neutropenia while receiving the combination of victrelis with pegintron/rebetol. complete blood counts (with white blood cell differential counts) should be obtained at pretreatment, and at treatment weeks 2, 4, 8, and 12, and should be monitored closely at other time points, as clinically appropriate. decreases in neutrophil counts may require dose reduction or discontinuation of peginterferon alfa and ribavirin. if peginterferon alfa and ribavirin are permanently discontinued, then victrelis must also be discontinued [see  dosage and administration (2.3)  ].  
+
+
+
+ refer to the prescribing information for peginterferon alfa and ribavirin for additional information regarding dose reduction or discontinuation.
+
+
+
+    5.4 pancytopenia (use with ribavirin and peginterferon alfa)
+
+
+
+   serious cases of pancytopenia have been reported postmarketing in patients receiving victrelis in combination with peginterferon alfa and ribavirin. complete blood counts (with white blood cell differential counts) should be obtained at pretreatment, and at treatment weeks 2, 4, 8, and 12, and should be monitored closely at other time points, as clinically appropriate.  
+
+
+
+  refer to the prescribing information for ribavirin and peginterferon alfa for guidelines for discontinuation of therapy based on laboratory parameters.  
+
+
+
+    5.5 hypersensitivity
+
+
+
+  serious acute hypersensitivity reactions (e.g., urticaria, angioedema) have been observed during combination therapy with victrelis, peginterferon alfa and ribavirin. if such an acute reaction occurs, combination therapy should be discontinued and appropriate medical therapy immediately instituted [see  contraindications (4)  and  adverse reactions (6.2)  ]  .
+
+
+
+    5.6 drug interactions
+
+
+
+  see  table 2  for a listing of drugs that are contraindicated for use with victrelis due to potentially life-threatening adverse events, significant drug interactions or loss of virologic activity [see  contraindications (4)  ].  please refer to  table 5  for established and other potentially significant drug interactions [see  drug interactions (7.3)  ].  
+
+
+
+    5.7 laboratory tests
+
+
+
+  hcv-rna levels should be monitored at treatment weeks 4, 8, 12, and 24, at the end of treatment, during treatment follow-up, and for other time points as clinically indicated. use of a sensitive real-time reverse-transcription polymerase chain reaction (rt-pcr) assay for monitoring hcv-rna levels during treatment is recommended. the assay should have a lower limit of hcv-rna quantification of equal to or less than 25 iu per ml, and a limit of hcv-rna detection of approximately 10 to 15 iu per ml. for the purposes of assessing response-guided therapy milestones, a confirmed "detectable but below limit of quantification" hcv-rna result should not be considered equivalent to an "undetectable" hcv-rna result (reported as "target not detected" or "hcv-rna not detected").
+
+
+
+ complete blood count (with white blood cell differential counts) should be obtained at pretreatment, and at treatment weeks 2, 4, 8, and 12, and should be monitored closely at other time points, as clinically appropriate.
+
+
+
+  refer to the prescribing information for peginterferon alfa and ribavirin for pre-treatment, on-treatment and post-treatment laboratory testing recommendations including hematology, biochemistry (including hepatic function tests), and pregnancy testing requirements.  

@@ -1,0 +1,291 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are discussed elsewhere in the labeling:
+
+
+
+ *  hemorrhage [ see  boxed warning  ,  warnings and precautions (5.1)   ] 
+ *  gastrointestinal perforation [ see  boxed warning  ,  warnings and precautions (5.2)   ] 
+ *  compromised wound healing [ see  boxed warning  ,  warnings and precautions (5.3)   ] 
+ *  fistula formation [ see  warnings and precautions (5.4)   ] 
+ *  hypertension [ see  warnings and precautions (5.5)   ] 
+ *  arterial thromboembolic events [ see  warnings and precautions (5.6)   ] 
+ *  proteinuria [ see  warnings and precautions (5.7)   ] 
+ *  neutropenia and neutropenic complications [ see  warnings and precautions (5.8)   ] 
+ *  diarrhea and dehydration [ see  warnings and precautions (5.9)   ] 
+ *  reversible posterior leukoencephalopathy syndrome (rpls) [ see  warnings and precautions (5.10)   ] 
+      excerpt:   most common adverse reactions (all grades, >=20% incidence and at least 2% greater incidence for the zaltrap/folfiri regimen) were leukopenia, diarrhea, neutropenia, proteinuria, ast increased, stomatitis, fatigue, thrombocytopenia, alt increased, hypertension, weight decreased, decreased appetite, epistaxis, abdominal pain, dysphonia, serum creatinine increased, and headache. (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact sanofi-aventis at 1-800-633-1610 or fda at 1-800-fda-1088 or    www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trial experience
+
+  because clinical trials are conducted under varying designs and in different patient populations, the adverse reaction rates reported in one clinical trial may not be easily compared to those rates reported in another clinical trial, and may not reflect the rates actually observed in clinical practice.
+
+
+
+ the safety of zaltrap in combination with folfiri was evaluated in 1216 previously treated patients with metastatic colorectal cancer (study 1) who were treated with zaltrap 4 mg per kg intravenous (n=611) or placebo (n=605) every two weeks (one cycle) in a randomized (1:1), double-blind, placebo-controlled phase 3 study. patients received a median of 9 cycles of zaltrap/folfiri or 8 cycles of placebo/folfiri.
+
+
+
+ the most common adverse reactions (all grades, >=20% incidence) reported at a higher incidence (2% or greater between-arm difference) in the zaltrap/folfiri arm , in order of decreasing frequency, were leukopenia, diarrhea, neutropenia, proteinuria, ast increased, stomatitis, fatigue, thrombocytopenia, alt increased, hypertension, weight decreased, decreased appetite, epistaxis, abdominal pain, dysphonia, serum creatinine increased, and headache (see  table 1  ).
+
+
+
+ the most common grade 3-4 adverse reactions (>=5%) reported at a higher incidence (2% or greater between-arm difference) in the zaltrap/folfiri arm, in order of decreasing frequency, were neutropenia, diarrhea, hypertension, leukopenia, stomatitis, fatigue, proteinuria, and asthenia (see  table 1  ).
+
+
+
+ the most frequent adverse reactions leading to permanent discontinuation in >=1% of patients treated with zaltrap/folfiri regimen were asthenia/fatigue, infections, diarrhea, dehydration, hypertension, stomatitis, venous thromboembolic events, neutropenia, and proteinuria.
+
+
+
+ the zaltrap dose was reduced and/or omitted in 17% of patients compared to placebo-dose modification in 5% of patients. cycle delays >7 days occurred in 60% of patients treated with zaltrap/folfiri compared with 43% of patients treated with placebo/folfiri.
+
+
+
+ the most common adverse reactions and laboratory abnormalities during study treatment in study 1 where the incidence was >=5% (all grades) in patients receiving zaltrap in combination with folfiri and which occurred at >=2% higher frequency in patients treated with zaltrap/folfiri compared to placebo/folfiri are shown in table 1.
+
+
+
+ table 1 - selected adverse reactions and laboratory findings in study 1: 
+ primary system organ class  preferred term (%)  placebo/folfiri(n=605)  zaltrap/folfiri(n=611)   
+ all grades                                  grades 3-4       all grades       grades 3-4      
+  
+ note: adverse reactions are reported using meddra version meddra13.1 and graded using nci ctc version 3.0   
+  
+ infections and infestations                                                                                    
+   urinary tract infection                       6%              0.8%              9%              0.8%         
+ blood and lymphatic system disorders                                                                           
+   leukopenia                                    72%              12%              78%              16%         
+   neutropenia                                   57%              30%              67%              37%         
+   thrombocytopenia                              35%              2%               48%              3%          
+ metabolism and nutrition disorders                                                                             
+   decreased appetite                            24%              2%               32%              3%          
+   dehydration                                   3%               1%               9%               4%          
+ nervous system disorders                                                                                       
+   headache                                      9%              0.3%              22%              2%          
+ vascular disorders                                                                                             
+   hypertension                                  11%             1.5%              41%              19%         
+ respiratory, thoracic and mediastinal disorders                                                                       
+   epistaxis                                     7%                0               28%             0.2%         
+   dysphonia                                     3%                0               25%             0.5%         
+   dyspnea                                       9%              0.8%              12%             0.8%         
+   oropharyngeal pain                            3%                0               8%              0.2%         
+   rhinorrhea                                    2%                0               6%                0          
+ gastrointestinal disorders                                                                                     
+   diarrhea                                      57%              8%               69%              19%         
+   stomatitis                                    33%              5%               50%              13%         
+   abdominal pain                                24%              2%               27%              4%          
+   abdominal pain upper                          8%               1%               11%              1%          
+   hemorrhoids                                   2%                0               6%                0          
+   rectal hemorrhage                             2%              0.5%              5%              0.7%         
+   proctalgia                                    2%              0.3%              5%              0.3%         
+ skin and subcutaneous tissue disorders                                                                         
+   palmar-plantar erythrodysesthesia syndrome        4%              0.5%              11%              3%          
+   skin hyperpigmentation                        3%                0               8%                0          
+ renal and urinary disorders                                                                                    
+   proteinuria                                   41%              1%               62%              8%          
+   serum creatinine increased                    19%             0.5%              23%               0          
+ general disorders and administration site conditions                                                                       
+   fatigue                                       39%              8%               48%              13%         
+   asthenia                                      13%              3%               18%              5%          
+ investigations                                                                                                 
+   ast increased                                 54%              2%               62%              3%          
+   alt increased                                 39%              2%               50%              3%          
+   weight decreased                              14%             0.8%              32%              3%          
+           infections occurred at a higher frequency in patients receiving zaltrap/folfiri (46%, all grades; 12%, grade 3-4) than in patients receiving placebo/folfiri (33%, all grades; 7%, grade 3-4), including urinary tract infection, nasopharyngitis, upper respiratory tract infection, pneumonia, catheter site infection, and tooth infection.
+ 
+
+ in patients with mcrc, severe hypersensitivity reactions have been reported with zaltrap/folfiri (0.3%) and placebo/folfiri (0.5%).
+
+
+
+ in patients with mcrc, venous thromboembolic events (vte), consisting primarily of deep venous thrombosis and pulmonary embolism, occurred in 9% of patients treated with zaltrap/folfiri and 7% of patients treated with placebo/folfiri. grade 3-4 vte occurred in 8% of patients treated with zaltrap/folfiri and in 6% of patients treated with placebo/folfiri. pulmonary embolism occurred in 5% of patients treated with zaltrap/folfiri and 3.4% of patients treated with placebo/folfiri.
+
+
+
+   6.2 immunogenicity
+
+  as with all therapeutic proteins, there is a potential for immunogenicity. in patients with various cancers across 15 studies, 1.4% (41/2862) of patients tested positive for anti-product antibody (apa) at baseline. the incidence of apa development was 3.1% (53/1687) in patients receiving intravenous ziv-aflibercept and 1.7% (19/1134) in patients receiving placebo. among patients who tested positive for apa and had sufficient samples for further testing, neutralizing antibodies were detected in 17 of 48 ziv-aflibercept-treated patients and in 2 of 40 patients receiving placebo.
+
+
+
+ the mean free ziv-aflibercept trough concentrations were lower in patients with positive neutralizing antibodies than in the overall population. the impact of neutralizing antibodies on efficacy and safety could not be assessed based on limited available data.
+
+
+
+ immunogenicity data are highly dependent on the sensitivity and specificity of the assay. additionally, the observed incidence of antibody positivity in an assay may be influenced by several factors, including sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of the incidence of antibodies to zaltrap with the incidence of antibodies to other products may be misleading.
+
+
+    boxed warning: warning: hemorrhage, gastrointestinal perforation, compromised wound healing
+
+    warning: hemorrhage, gastrointestinal perforation, compromised wound healing  
+
+    hemorrhage:  severe and sometimes fatal hemorrhage, including gastrointestinal (gi) hemorrhage, has been reported in the patients who have received zaltrap in combination with folfiri.  monitor patients for signs and symptoms of gi bleeding and other severe bleeding.  do not administer zaltrap to patients with severe hemorrhage [  see   dosage and administration (2.2)  ,   warnings and precautions (5.1)    ].  
+
+
+
+   gastrointestinal perforation:  gastrointestinal (gi) perforation including fatal gi perforation can occur in patients receiving zaltrap.  discontinue zaltrap therapy in patients who experience gi perforation [  see   dosage and administration (2.2)  ,   warnings and precautions (5.2)    ].  
+
+
+
+   compromised wound healing:  severe compromised wound healing can occur in patients receiving zaltrap/folfiri.  discontinue zaltrap in patients with compromised wound healing.  suspend zaltrap for at least 4 weeks prior to elective surgery, and do not resume zaltrap for at least 4 weeks following major surgery and until the surgical wound is fully healed [  see   dosage and administration (2.2)  ,   warnings and precautions (5.3)    ].  
+
+
+
+   excerpt:   warning:  hemorrhage, gastrointestinal perforation, compromised wound healing
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  hemorrhage: severe and sometimes fatal hemorrhage, including gastrointestinal (gi) hemorrhage, has been reported in patients who have received zaltrap. do not administer zaltrap to patients with severe hemorrhage. (5.1) 
+ *  gastrointestinal perforation: discontinue zaltrap therapy in patients who experience gi perforation. (5.2) 
+ *  compromised wound healing: discontinue zaltrap in patients with compromised wound healing. suspend zaltrap for at least 4 weeks prior to elective surgery, and do not resume for at least 4 weeks following major surgery and until the surgical wound is fully healed. (5.3) 
+    5 warnings and precautions
+
+
+
+  excerpt:   adverse reactions, sometimes severe and life-threatening or fatal, have been seen in clinical trials with zaltrap, including:
+
+
+
+ *  fistula formation: discontinue zaltrap if fistula occurs. (  2.2  ,  5.4  ) 
+ *  hypertension: monitor blood pressure and treat hypertension. temporarily suspend zaltrap if hypertension is not controlled. discontinue zaltrap if hypertensive crisis develops. (  2.2  ,  5.5  ) 
+ *  arterial thromboembolic events (ate) (e.g., transient ischemic attacks, cerebrovascular accident, angina pectoris): discontinue zaltrap if ate develops. (  5.6  ) 
+ *  proteinuria: monitor urine protein. suspend zaltrap when proteinuria >= 2 grams per 24 hours. discontinue zaltrap if nephrotic syndrome or thrombotic microangiopathy (tma) develops. (  2.2  ,  5.7  ) 
+ *  neutropenia and neutropenic complications: delay administration of zaltrap/folfiri until neutrophil count is >= 1.5 * 10  9  /l. (5.8) 
+ *  diarrhea and dehydration: incidence of severe diarrhea and dehydration is increased. monitor elderly patients more closely. (  5.9  ,  8.5  ) 
+ *  reversible posterior leukoencephalopathy syndrome (rpls): discontinue zaltrap. (  5.10  ) 
+    
+ 
+
+   5.1 hemorrhage
+
+
+
+  patients treated with zaltrap have an increased risk of hemorrhage, including severe and sometimes fatal hemorrhagic events. in patients with mcrc, bleeding/hemorrhage (all grades) were reported in 38% of patients treated with zaltrap/folfiri compared to 19% of patients treated with placebo/folfiri. grade 3-4 hemorrhagic events, including gastrointestinal hemorrhage, hematuria, and post-procedural hemorrhage, were reported in 3% of patients receiving zaltrap/folfiri compared with 1% of patients receiving placebo/folfiri. severe intracranial hemorrhage and pulmonary hemorrhage/hemoptysis including fatal events have also occurred in patients receiving zaltrap.
+
+
+
+ monitor patients for signs and symptoms of bleeding. do not initiate zaltrap in patients with severe hemorrhage. discontinue zaltrap in patients who develop severe hemorrhage [ see  dosage and administration (2.2)    ].
+
+
+
+    5.2 gastrointestinal perforation
+
+
+
+  gastrointestinal (gi) perforation including fatal gi perforation can occur in patients receiving zaltrap. across three phase 3 placebo-controlled clinical studies (colorectal, pancreatic, and lung cancer populations), the incidence of gi perforation (all grades) was 0.8% for patients treated with zaltrap and 0.3% for patients treated with placebo. grade 3-4 gi perforation events occurred in 0.8% of patients treated with zaltrap and 0.2% of patients treated with placebo.
+
+
+
+ monitor patients for signs and symptoms of gi perforation. discontinue zaltrap therapy in patients who experience gi perforation [ see  dosage and administration (2.2)    ].
+
+
+
+    5.3 compromised wound healing
+
+
+
+  zaltrap impairs wound healing in animal models [ see  nonclinical toxicology (13.2)    ].
+
+
+
+ grade 3 compromised wound healing was reported in 2 patients (0.3%) treated with zaltrap/folfiri regimen and in none of the patients treated with placebo/folfiri regimen.
+
+
+
+ suspend zaltrap for at least 4 weeks prior to elective surgery. do not resume zaltrap for at least 4 weeks following major surgery and until the surgical wound is fully healed. for minor surgery such as central venous access port placement, biopsy, and tooth extraction, zaltrap may be initiated/resumed once the surgical wound is fully healed. discontinue zaltrap in patients with compromised wound healing [ see  dosage and administration (2.2)    ].
+
+
+
+    5.4 fistula formation
+
+
+
+  fistula formation involving gastrointestinal and non-gastrointestinal sites occurs at a higher incidence in patients treated with zaltrap. in patients with mcrc, fistulas (anal, enterovesical, enterocutaneous, colovaginal, intestinal sites) were reported in 9 of 611 patients (1.5%) treated with zaltrap/folfiri regimen and 3 of 605 patients (0.5%) treated with placebo/folfiri regimen. grade 3 gi fistula formation occurred in 2 patients treated with zaltrap (0.3%) and in 1 placebo-treated patient (0.2%).
+
+
+
+ discontinue zaltrap therapy in patients who develop fistula [ see  dosage and administration (2.2)    ].
+
+
+
+    5.5 hypertension
+
+
+
+  zaltrap increases the risk of grade 3-4 hypertension. there is no clinical trial experience administering zaltrap to patients with nyha class iii or iv heart failure. in patients with mcrc, grade 3 hypertension (defined as requiring adjustment in existing anti-hypertensive therapy or treatment with more than one drug) was reported in 1.5% of patients treated with placebo/folfiri and 19% of patients treated with zaltrap/folfiri. grade 4 hypertension (hypertensive crisis) was reported in 1 patient (0.2%) treated with zaltrap/folfiri. among those patients treated with zaltrap/folfiri developing grade 3-4 hypertension, 54% had onset during the first two cycles of treatment.
+
+
+
+ monitor blood pressure every two weeks or more frequently as clinically indicated during treatment with zaltrap. treat with appropriate anti-hypertensive therapy and continue monitoring blood pressure regularly. temporarily suspend zaltrap in patients with uncontrolled hypertension until controlled, and permanently reduce zaltrap dose to 2 mg per kg for subsequent cycles. discontinue zaltrap in patients with hypertensive crisis or hypertensive encephalopathy [ see  dosage and administration (2.2)    ].
+
+
+
+    5.6 arterial thromboembolic events
+
+
+
+  arterial thromboembolic events (ate), including transient ischemic attack, cerebrovascular accident, and angina pectoris, occurred more frequently in patients who have received zaltrap. in patients with mcrc, ate was reported in 2.6% of patients treated with zaltrap/folfiri and 1.7% of patients treated with placebo/folfiri. grade 3-4 events occurred in 11 patients (1.8%) treated with zaltrap/folfiri and 4 patients (0.7%) treated with placebo/folfiri.
+
+
+
+ discontinue zaltrap in patients who experience an ate [ see  dosage and administration (2.2)    ].
+
+
+
+    5.7 proteinuria
+
+
+
+  severe proteinuria, nephrotic syndrome, and thrombotic microangiopathy (tma) occurred more frequently in patients treated with zaltrap. in patients with mcrc, proteinuria was reported in 62% patients treated with zaltrap/folfiri compared to 41% patients treated with placebo/folfiri. grade 3-4 proteinuria occurred in 8% of patients treated with zaltrap/folfiri to 1% of patients treated with placebo/folfiri [ see  adverse reactions (6.1)    ]. nephrotic syndrome occurred in 2 patients (0.5%) treated with zaltrap/folfiri compared to none of the patients treated with placebo/folfiri. tma was reported in 3 of 2258 patients with cancer enrolled across completed studies.
+
+
+
+ monitor proteinuria by urine dipstick analysis and/or urinary protein creatinine ratio (upcr) for the development or worsening of proteinuria during zaltrap therapy. patients with a dipstick of >=2+ for protein or a upcr greater than 1 should undergo a 24-hour urine collection.
+
+
+
+ suspend zaltrap administration for proteinuria 2 grams per 24 hours or more, and resume when proteinuria is less than 2 grams per 24 hours. if recurrent, suspend until proteinuria is less than 2 grams per 24 hours and then permanently reduce the zaltrap dose to 2 mg per kg. discontinue zaltrap in patients who develop nephrotic syndrome or tma [ see  dosage and administration (2.2)    ].
+
+
+
+    5.8 neutropenia and neutropenic complications
+
+
+
+  a higher incidence of neutropenic complications (febrile neutropenia and neutropenic infection) occurred in patients receiving zaltrap. in patients with mcrc, grade 3-4 neutropenia occurred in 37% of patients treated with zaltrap/folfiri compared to 30% patients treated with placebo/folfiri [ see  adverse reactions (6.1)    ]. grade 3-4 febrile neutropenia occurred in 4% of patients treated with zaltrap/folfiri compared to 2% of patients treated with placebo/folfiri. grade 3-4 neutropenic infection/sepsis occurred in 1.5% of patients treated with zaltrap/folfiri and 1.2% of patients treated with placebo/folfiri.
+
+
+
+ monitor cbc with differential count at baseline and prior to initiation of each cycle of zaltrap. delay zaltrap/folfiri until neutrophil count is at or above 1.5 * 10  9  /l.
+
+
+
+    5.9 diarrhea and dehydration
+
+
+
+  the incidence of severe diarrhea is increased in patients treated with zaltrap/folfiri. in patients with mcrc, grade 3-4 diarrhea was reported in 19% of patients treated with zaltrap/folfiri compared to 8% of patients treated with placebo/folfiri. grade 3-4 dehydration was reported in 4% of patients treated with zaltrap/folfiri compared to 1% of patients treated with placebo/folfiri [ see  adverse reactions (6.1)    ]. the incidence of diarrhea is increased in patients who are age 65 years or older as compared to patients younger than 65 years of age [ see  geriatric use (8.5)    ]. monitor elderly patients closely for diarrhea.
+
+
+
+    5.10 reversible posterior leukoencephalopathy syndrome (rpls)
+
+
+
+  rpls (also known as posterior reversible encephalopathy syndrome) was reported in 0.5% of 3795 patients treated with zaltrap monotherapy or in combination with chemotherapy.
+
+
+
+ confirm the diagnosis of rpls with mri and discontinue zaltrap in patients who develop rpls. symptoms usually resolve or improve within days, although some patients have experienced ongoing neurologic sequelae or death [ see  dosage and administration (2.2)    ].

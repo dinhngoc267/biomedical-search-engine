@@ -1,0 +1,285 @@
+    6 adverse reactions
+
+  the following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *  hepatotoxicity [see  warnings and precautions (5.1)  ]  
+ *  interstitial lung disease/pneumonitis [see  warnings and precautions (5.2)  ]  
+ *  qt interval prolongation [see  warnings and precautions (5.3)  ]  
+ *  bradycardia [see  warnings and precautions (5.4)  ]  
+ *  severe visual loss [see  warnings and precautions (5.5)  ]  
+      excerpt:   the most common adverse reactions (>=25%) are vision disorders, diarrhea, nausea, vomiting, constipation, edema, elevated transaminases, upper respiratory infection, decreased appetite, and dysgeusia. (  6  )
+ 
+
+   to report suspected adverse reactions, contact pfizer inc. at 1-800-438-1985 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ the safety of xalkori is based primarily on 343 patients with alk-positive metastatic nsclc who received xalkori 250 mg twice daily in two open-label, randomized, active-controlled trials (studies 1 and 2). this is supplemented with information on adverse drug reactions in 1326 patients with alk-positive metastatic nsclc who received xalkori 250 mg twice daily across clinical trials, for a total of 1669 patients across all clinical studies.
+
+
+
+ the most common adverse reactions (>=25%) of xalkori in studies 1 and 2 are vision disorders, diarrhea, nausea, vomiting, constipation, edema, elevated transaminases, upper respiratory infection, decreased appetite, and dysgeusia.
+
+
+
+     previously untreated alk-positive metastatic nsclc - study 1  
+
+
+
+ the data in table 3 are derived from 340 patients with alk-positive metastatic nsclc who had not received previous systemic treatment for advanced disease who received treatment in a randomized, multicenter, open-label, active-controlled trial (study 1). patients in the xalkori arm (n=171) received xalkori 250 mg orally twice daily until documented disease progression, intolerance to therapy, or the investigator determined that the patient was no longer experiencing clinical benefit. a total of 169 patients in the chemotherapy arm received pemetrexed 500 mg/m  2  in combination with cisplatin 75 mg/m  2  (n=91) or carboplatin at a dose calculated to produce an area under the concentration-time curve (auc) of 5 or 6 mg?min/ml (n=78). chemotherapy was given by intravenous infusion every 3 weeks for up to 6 cycles, in the absence of dose-limiting chemotherapy-related toxicities. after 6 cycles, patients remained on study with no additional anticancer treatment, and tumor assessments continued until documented disease progression.
+
+
+
+ the median duration of study treatment was 10.9 months for patients in the xalkori arm and 4.1 months for patients in the chemotherapy arm. median duration of treatment was 5.2 months for patients who received xalkori after cross over from chemotherapy. across the 340 patients who were treated in study 1, the median age was 53 years; 16% of patients were older than 65 years. a total of 62% of patients were female and 46% were asian.
+
+
+
+ serious adverse events were reported in 58 patients (34%) treated with xalkori. the most frequent serious adverse events reported in patients treated with xalkori were dyspnea (4.1%) and pulmonary embolism (2.9%). fatal adverse events in xalkori-treated patients occurred in 2.3% patients, consisting of septic shock, acute respiratory failure, and diabetic ketoacidosis.
+
+
+
+ dose reductions due to adverse reactions were required in 6.4% of xalkori-treated patients. the most frequent adverse reactions that led to dose reduction in these patients were nausea (1.8%) and elevated transaminases (1.8%).
+
+
+
+ permanent discontinuation of xalkori treatment for adverse reactions was 8.2%. the most frequent adverse reactions that led to permanent discontinuation in xalkori-treated patients were elevated transaminases (1.2%), hepatotoxicity (1.2%), and ild (1.2%).
+
+
+
+ tables 3 and 4 summarize common adverse reactions and laboratory abnormalities in xalkori-treated patients.
+
+
+
+ table 3. adverse reactions reported at a higher incidence (>=5% higher for all grades or >=2% higher for grades 3/4) with xalkori than chemotherapy in study 1 
+ adverse reaction                          xalkori(n=171)   chemotherapy (pemetrexed/cisplatin or pemetrexed/carboplatin)(n=169)   
+ all grades(%)                              grade 3/4(%)     all grades(%)    grade 3/4(%)     
+  
+ includes cases reported within the clustered terms:   
+  
+   cardiac disorders                                                                                            
+   electrocardiogram qt prolonged                 6                2                2                0          
+   bradycardia                                   14                1                1                0          
+   eye disorders                                                                                                
+   vision disorder                               71                1               10                0          
+   gastrointestinal disorders                                                                                   
+   vomiting                                      46                2               36                3          
+   diarrhea                                      61                2               13                1          
+   constipation                                  43                2               30                0          
+   dyspepsia                                     14                0                2                0          
+   dysphagia                                     10                1                2                1          
+   abdominal pain                                26                0               12                0          
+   general disorders and administration site conditions                                                                         
+   edema                                         49                1               12                1          
+   pyrexia                                       19                0               11                1          
+   infections and infestations                                                                                  
+   upper respiratory infection                   32                0               12                1          
+   investigations                                                                                               
+   weight increased                               8                1                2                0          
+   musculoskeletal and connective tissue disorders                                                                         
+   pain in extremity                             16                0                7                0          
+   muscle spasm                                   8                0                2                1          
+   nervous system disorder                                                                                      
+   dizziness                                     18                0               10                1          
+   dysgeusia                                     26                0                5                0          
+   headache                                      22                1               15                0          
+           additional adverse reactions occurring at an overall incidence between 1% and 60% in patients treated with xalkori included nausea (56%), decreased appetite (30%), fatigue (29%), neuropathy (21%; which included gait disturbance, hypoaesthesia, muscular weakness, neuralgia, neuropathy peripheral, paraesthesia, peripheral sensory neuropathy, polyneuropathy, sensory disturbance), rash (11%), renal cyst (5%), ild (1%; ild, pneumonitis), and syncope (1%).
+ 
+
+ table 4. summary of treatment-emergent laboratory abnormalities with grade 3 or 4 incidence of >=4% in xalkori-treated patients in study 1 
+ laboratory abnormality             xalkori           chemotherapy      
+ any grade(%)                     grade 3/4(%)        any grade(%)        grade 3/4(%)      
+  
+   hematology                                                                                                   
+   neutropenia                         52                  11                  59                  16           
+   lymphopenia                         48                  7                   53                  13           
+   chemistry                                                                                                    
+   alt elevation                       79                  15                  33                  2            
+   ast elevation                       66                  8                   28                  1            
+   hypophosphatemia                    32                  10                  21                  6            
+               previously treated alk-positive metastatic nsclc - study 2  
+ 
+
+ the data in table 5 are derived from 343 patients with alk-positive metastatic nsclc enrolled in a randomized, multicenter, active-controlled, open-label trial (study 2). patients in the xalkori arm (n=172) received xalkori 250 mg orally twice daily until documented disease progression, intolerance to therapy, or the investigator determined that the patient was no longer experiencing clinical benefit. a total of 171 patients in the chemotherapy arm received pemetrexed 500 mg/m  2  (n=99) or docetaxel 75 mg/m  2  (n=72) by intravenous infusion every three weeks until documented disease progression, intolerance to therapy, or the investigator determined that the patient was no longer experiencing clinical benefit. patients in the chemotherapy arm received pemetrexed unless they had received pemetrexed as part of first-line or maintenance treatment.
+
+
+
+ the median duration of study treatment was 7.1 months for patients who received xalkori and 2.8 months for patients who received chemotherapy. across the 347 patients who were randomized to study treatment (343 received at least one dose of study treatment), the median age was 50 years; 14% of patients were older than 65 years. a total of 56% of patients were female and 45% of patients were asian.
+
+
+
+ serious adverse reactions were reported in 64 patients (37.2%) treated with xalkori and 40 patients (23.4%) in the chemotherapy arm. the most frequent serious adverse reactions reported in patients treated with xalkori were pneumonia (4.1%), pulmonary embolism (3.5%), dyspnea (2.3%), and ild (2.9%). fatal adverse reactions in xalkori-treated patients in study 2 occurred in 9 (5%) patients, consisting of: acute respiratory distress syndrome, arrhythmia, dyspnea, pneumonia, pneumonitis, pulmonary embolism, ild, respiratory failure and sepsis.
+
+
+
+ dose reductions due to adverse reactions were required in 16% of xalkori-treated patients. the most frequent adverse reactions that led to dose reduction in the patients treated with xalkori were alanine aminotransferase (alt) elevation (7.6%) including some patients with concurrent aspartate aminotransferase (ast) elevation, qtc prolongation (2.9%), and neutropenia (2.3%).
+
+
+
+ xalkori was discontinued for adverse reactions in 15% of patients. the most frequent adverse reactions that led to discontinuation of xalkori were ild (1.7%), alt and ast elevation (1.2%), dyspnea (1.2%), and pulmonary embolism (1.2%).
+
+
+
+ tables 5 and 6 summarize common adverse reactions and laboratory abnormalities in xalkori-treated patients.
+
+
+
+ table 5. adverse reactions reported at a higher incidence (>=5% higher for all grades or >=2% higher for grades 3/4) with xalkori than chemotherapy in study 2 
+ adverse reaction                          xalkori(n=172)   chemotherapy (pemetrexed or docetaxel)(n=171)   
+ all grades(%)                              grade 3/4(%)     all grades(%)    grade 3/4(%)     
+  
+ includes cases reported within the clustered terms:   
+  
+   nervous system disorder                                                                                      
+   dizziness                                     22                1                8                0          
+   dysgeusia                                     26                0                9                0          
+   syncope                                        3                3                0                0          
+   eye disorders                                                                                                
+   vision disorder                               60                0                9                0          
+   cardiac disorders                                                                                            
+   electrocardiogram qt prolonged                 5                3                0                0          
+   bradycardia                                    5                0                0                0          
+   investigations                                                                                               
+   weight decreased                              10                1                4                0          
+   gastrointestinal disorders                                                                                   
+   vomiting                                      47                1               18                0          
+   nausea                                        55                1               37                1          
+   diarrhea                                      60                0               19                1          
+   constipation                                  42                2               23                0          
+   dyspepsia                                      8                0                3                0          
+   infections and infestations                                                                                  
+   upper respiratory infection                   26                0               13                1          
+   respiratory, thoracic and mediastinal disorders                                                                         
+   pulmonary embolism                             6                5                2                2          
+   general disorders and administration site conditions                                                                         
+   edema                                         31                0               16                0          
+           additional adverse reactions occurring at an overall incidence between 1% and 30% in patients treated with xalkori included (%), fatigue (27%), neuropathy (19%; dysesthesia, gait disturbance, hypoesthesia, muscular weakness, neuralgia, peripheral neuropathy, parasthesia, peripheral sensory neuropathy, polyneuropathy, burning sensation in skin), rash (9%), ild (4%; acute respiratory distress syndrome, ild, pneumonitis), renal cyst (4%), and hepatic failure (1%).
+ 
+
+ table 6. summary of treatment-emergent laboratory abnormalities with grade 3 or 4 incidence of >=4% in xalkori-treated patients in study 2 
+ laboratory abnormality                        xalkori       chemotherapy     
+ any grade(%)                               grade 3/4(%)     any grade(%)     grade 3/4(%)     
+  
+   hematology                                                                                                   
+   neutropenia                                   49               12               28               12          
+   lymphopenia                                   51                9               60               25          
+   chemistry                                                                                                    
+   alt elevation                                 76               17               38                4          
+   ast elevation                                 61                9               33                0          
+   hypokalemia                                   18                4               10                1          
+   hypophosphatemia                              28                5               25                6          
+               description of selected adverse drug reactions  
+ 
+
+     vision disorders  
+
+
+
+ vision disorders, most commonly visual impairment, photopsia, blurred vision, or vitreous floaters, occurred in 1038 (62%) of 1669 patients. the majority (95%) of these patients had grade 1 visual adverse reactions. there were 13 (0.8%) patients with grade 3 and 4 (0.2%) patients with grade 4 visual impairment.
+
+
+
+ based on the visual symptom assessment questionnaire (vsaq-alk), patients treated with xalkori in studies 1 and 2 reported a higher incidence of visual disturbances compared to patients treated with chemotherapy. the onset of vision disorder generally was within the first week of drug administration. the majority of patients on the xalkori arms in studies 1 and 2 (>50%) reported visual disturbances which occurred at a frequency of 4-7 days each week, lasted up to 1 minute, and had mild or no impact (scores 0 to 3 out of a maximum score of 10) on daily activities as captured in the vsaq-alk questionnaire.
+
+
+
+     neuropathy  
+
+
+
+ neuropathy, most commonly sensory in nature, occurred in 419 (25%) of 1669 patients. most events (95%) were grade 1 or grade 2 in severity.
+
+
+
+     renal cysts  
+
+
+
+ renal cysts were experienced by 50 (3%) of 1669 patients. renal cysts occurred in 8 (5%) patients treated with xalkori and 1 (1%) patient treated with chemotherapy in study 1. renal cysts occurred in 8 (5%) patients treated with xalkori and 1 (1%) patient treated with chemotherapy in study 2. the majority of renal cysts in xalkori-treated patients were complex. local cystic invasion beyond the kidney occurred, in some cases with imaging characteristics suggestive of abscess formation. however, across clinical trials no renal abscesses were confirmed by microbiology tests.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  hepatotoxicity: fatal hepatotoxicity occurred in 0.1% of patients. monitor with periodic liver testing. temporarily suspend, dose reduce, or permanently discontinue xalkori. (  5.1  ) 
+ *  interstitial lung disease (ild)/pneumonitis: occurred in 2.9% of patients. permanently discontinue in patients with ild/pneumonitis. (  5.2  ) 
+ *  qt interval prolongation: occurred in 2.1% of patients. monitor with electrocardiograms and electrolytes in patients who have a history of or predisposition for qtc prolongation, or who are taking medications that prolong qt. temporarily suspend, dose reduce, or permanently discontinue xalkori. (  5.3  ) 
+ *  bradycardia: xalkori can cause bradycardia. monitor heart rate and blood pressure regularly. temporarily suspend, dose reduce, or permanently discontinue xalkori. (  5.4  ) 
+ *  severe visual loss: reported in 0.2% of patients. discontinue xalkori in patients with severe visual loss. perform an ophthalmological evaluation. (  5.5  ) 
+ *  embryofetal toxicity: can cause fetal harm. advise females of reproductive potential of the potential risk to a fetus and use of effective contraception. (  5.6  ,  8.1  ,  8.3  ) 
+    
+ 
+
+   5.1 hepatotoxicity
+
+
+
+   drug-induced hepatotoxicity with fatal outcome occurred in 2 (0.1%) of the 1669 patients treated with xalkori across clinical trials in patients with nsclc. concurrent elevations in alanine aminotransferase (alt) or aspartate aminotransferase (ast) greater than or equal to three times the upper limit of normal (uln) and total bilirubin greater than or equal to two times the uln, with normal alkaline phosphatase, occurred in 10 patients (0.6%) treated with xalkori. additionally, elevations in alt or ast greater than five times the uln occurred in 184 (11%) and 93 (5.7%) patients, respectively. seventeen patients (1.0%) required permanent discontinuation due to elevated transaminases. transaminase elevations generally occurred within the first 2 months of treatment.  
+
+
+
+ monitor with liver function tests including alt and total bilirubin every 2 weeks during the first 2 months of treatment, then once a month and as clinically indicated, with more frequent repeat testing for increased liver transaminases, alkaline phosphatase, or total bilirubin in patients who develop transaminase elevations. temporarily suspend, dose reduce, or permanently discontinue xalkori as described in table 2 [see  dosage and administration (2.3)  and  adverse reactions (6)  ]  .
+
+
+
+    5.2 interstitial lung disease (pneumonitis)
+
+
+
+   severe, life-threatening, or fatal interstitial lung disease (ild)/pneumonitis can occur in patients treated with xalkori. across clinical trials (n=1669), 49 xalkori-treated patients (2.9%) had ild of any grade, 18 patients (1.1%) had grade 3 or 4 ild, and 8 patients (0.5%) had fatal ild. these cases generally occurred within 3 months after the initiation of xalkori.  
+
+
+
+ monitor patients for pulmonary symptoms indicative of ild/pneumonitis. exclude other potential causes of ild/pneumonitis, and permanently discontinue xalkori in patients diagnosed with drug-related ild/pneumonitis [see  dosage and administration (2.3)  and  adverse reactions (6)  ]  .
+
+
+
+    5.3 qt interval prolongation
+
+
+
+   qtc prolongation can occur in patients treated with xalkori. across clinical trials, 32 of 1560 patients (2.1%) had qtcf (corrected qt by the fridericia method) greater than or equal to 500 ms and 76 of 1520 patients (5.0%) had an increase from baseline qtcf greater than or equal to 60 ms by automated machine-read evaluation of ecg.  
+
+
+
+ avoid use of xalkori in patients with congenital long qt syndrome. consider periodic monitoring with electrocardiograms (ecgs) and electrolytes in patients with congestive heart failure, bradyarrhythmias, electrolyte abnormalities, or who are taking medications that are known to prolong the qt interval. permanently discontinue xalkori in patients who develop qtc greater than 500 ms or greater than or equal to 60 ms change from baseline with torsade de pointes or polymorphic ventricular tachycardia or signs/symptoms of serious arrhythmia. withhold xalkori in patients who develop qtc greater than 500 ms on at least 2 separate ecgs until recovery to a qtc less than or equal to 480 ms, then resume xalkori at a reduced dose as described in table 2 [see  dosage and administration (2.3)    and   clinical pharmacology (12.2)  ]  .
+
+
+
+    5.4 bradycardia
+
+
+
+   symptomatic bradycardia can occur in patients receiving xalkori. across clinical trials, bradycardia occurred in 205 (12.3%) of 1669 patients treated with xalkori. a total of 242 (14.9%) patients had a heart rate less than 50 beats per minute. in studies 1 and 2, grade 3 syncope occurred in 2.0% of xalkori-treated patients and in 0.6% of the chemotherapy-treated patients.  
+
+
+
+ avoid using xalkori in combination with other agents known to cause bradycardia (e.g., beta-blockers, non-dihydropyridine calcium channel blockers, clonidine and digoxin) to the extent possible. monitor heart rate and blood pressure regularly. in cases of symptomatic bradycardia that is not life-threatening, hold xalkori until recovery to asymptomatic bradycardia or to a heart rate of 60 bpm or above, re-evaluate the use of concomitant medications, and adjust the dose of xalkori. permanently discontinue for life-threatening bradycardia due to xalkori; however, if associated with concomitant medications known to cause bradycardia or hypotension, hold xalkori until recovery to asymptomatic bradycardia or to a heart rate of 60 bpm or above, and if concomitant medications can be adjusted or discontinued, restart xalkori at 250 mg once daily with frequent monitoring [see  dosage and administration (2.3)  and  adverse reactions (6)  ]  .
+
+
+
+    5.5 severe visual loss
+
+
+
+   across all clinical trials, the incidence of grade 4 visual field defect with vision loss was 0.2% (4/1669). optic atrophy and optic nerve disorder have been reported as potential causes of vision loss.  
+
+
+
+  discontinue xalkori in patients with new onset of severe visual loss (best corrected vision less than 20/200 in one or both eyes). perform an ophthalmological evaluation consisting of best corrected visual acuity, retinal photographs, visual fields, optical coherence tomography (oct) and other evaluations as appropriate for new onset of severe visual loss. there is insufficient information to characterize the risks of resumption of xalkori in patients with a severe visual loss; a decision to resume xalkori should consider the potential benefits to the patient.  
+
+
+
+    5.6 embryofetal toxicity
+
+
+
+   based on its mechanism of action, xalkori can cause fetal harm when administered to a pregnant woman. in animal reproduction studies, oral administration of crizotinib in pregnant rats during organogenesis at exposures similar to those observed with the maximum recommended human dose resulted in embryotoxicity and fetotoxicity. advise pregnant women of the potential risk to a fetus. advise females of reproductive potential to use effective contraception during treatment with xalkori and for at least 45 days following the final dose [see  use in specific populations (8.1  ,  8.3)  ]  .  

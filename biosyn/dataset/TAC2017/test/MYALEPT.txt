@@ -1,0 +1,228 @@
+    6 adverse reactions
+
+  excerpt:   most common in clinical trials (>=10%): headache, hypoglycemia, decreased weight, abdominal pain. (  5.4  ,  6.1  )
+
+
+
+   to report suspected adverse reactions, contact aegerion pharmaceuticals, inc. at 1-855-303-2347 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+   open-label, single-arm study  
+
+
+
+ the safety of myalept was evaluated in 48 patients with generalized lipodystrophy in a single-arm, open-label study [see    clinical studies (14.1)    ]. the median duration of exposure in this trial was 2.7 years with a range of 3.6 months to 10.9 years. the most frequent adverse reactions are summarized in table 2.
+
+
+
+ table 2: adverse reactions of 5% or greater incidence in patients with generalized lipodystrophy receiving myalept in an open-label, single-arm study 
+                    all subjects    n=48 (%)     
+  
+  1. hypoglycemic events were assessed as mild, moderate, severe, or life threatening based on the protocol specified definitions: mild: documentation of low plasma glucose values with no symptoms; moderate: presence of clinical symptoms requiring ingestion of glucose, self-alleviated; severe: presence of neuroglycopenic symptoms requiring assistance from others for alleviation; life threatening: loss of consciousness and/or requiring intervention by administration of intravenous glucose or intramuscular glucagon.    
+  
+  headache         6 (13)           
+  hypoglycemia1    6 (13)           
+  decreased weight    6 (13)           
+  abdominal pain    5 (10)           
+  arthralgia       4 (8)            
+  dizziness        4 (8)            
+  ear infection    4 (8)            
+  fatigue          4 (8)            
+  nausea           4 (8)            
+  ovarian cyst     4 (8)            
+  upper respiratory tract infection    4 (8)            
+  anemia           3 (6)            
+  back pain        3 (6)            
+  diarrhea         3 (6)            
+  paresthesia      3 (6)            
+  proteinuria      3 (6)            
+  pyrexia          3 (6)            
+        in patients with generalized lipodystrophy receiving myalept in this study, less common adverse reactions included injection-site erythema and urticaria (n=2 [4%]).
+ 
+
+ six patients (13%) had 7 adverse reactions of hypoglycemia, 6 of which occurred in the setting of concomitant insulin use, with or without oral antihyperglycemic agents.
+
+
+
+ two patients (4%) had events of pancreatitis, both of whom had a medical history of pancreatitis.
+
+
+
+   6.2 immunogenicity
+
+  as with all therapeutic proteins, there is potential for immunogenicity. anti-metreleptin antibodies were detected in 84% (36/43) of generalized lipodystrophy patients studied in the myalept trials. total anti-metreleptin antibody titers ranged between 1:5 and 1:1,953,125. the incompleteness of the current immunogenicity database precludes understanding of the magnitude and persistence of the observed anti-drug antibody responses. anti-metreleptin antibodies with neutralizing activity associated with adverse events consistent with loss of endogenous leptin activity and/or loss of myalept efficacy were observed in 6% (2/33) of the patients with generalized lipodystrophy tested. adverse events reported in these two patients included severe infections and worsening of metabolic control (increases in hba1cand/or triglycerides). test for anti-metreleptin antibodies with neutralizing activity in patients who develop severe infections or show signs suspicious for loss of myalept efficacy during treatment. contact aegerion pharmaceuticals, inc. at 1-866-216-1526 for testing of clinical samples.
+
+
+
+ the detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. the immunogenicity assays utilized in clinical trials lacked sensitivity, resulting in potential underestimation of the number of samples positive for anti-metreleptin antibodies with neutralizing activity. additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of the incidence of antibodies to metreleptin with the incidence of antibodies to other products may be misleading.
+
+
+    boxed warning: warning: risk of anti-metreleptin antibodies with neutralizing activity
+
+                        and risk of lymphoma
+
+  warning: risk of anti-metreleptin antibodies with neutralizing activity
+
+                        and risk of lymphoma
+
+    anti-metreleptin antibodies with neutralizing
+
+                                activity have been identified in patients treated with myalept. the
+
+                                consequences of these neutralizing antibodies are not well
+
+                                characterized but could include inhibition of endogenous leptin
+
+                                action and/or loss of myalept efficacy. severe infection and/or
+
+                                worsening metabolic control have been reported. test for
+
+                                anti-metreleptin antibodies with neutralizing activity in patients
+
+                                who develop severe infections or show signs suspicious for loss of
+
+                                myalept efficacy during treatment. contact aegerion pharmaceuticals, inc. at
+
+                                1-866-216-1526 for neutralizing antibody testing of clinical samples
+
+                                [see     contraindications (4.1)     and     warnings and precautions (5.1)    ].  
+
+
+
+   t-cell lymphoma has been reported in patients
+
+                                with acquired generalized lipodystrophy, both treated and not
+
+                                treated with myalept. carefully consider the benefits and risks of
+
+                                treatment with myalept in patients with significant hematologic
+
+                                abnormalities and/or acquired generalized lipodystrophy [see
+
+                                        warnings and precautions (5.2)    ].  
+
+
+
+   because of these risks associated with the
+
+                                development of anti-metreleptin antibodies that neutralize
+
+                                endogenous leptin and/or myalept and the risk for lymphoma, myalept
+
+                                is available only through a restricted program under a risk
+
+                                evaluation and mitigation strategy (rems) called the myalept rems
+
+                                program [see     warnings and precautions (5.3)    ].  
+
+
+
+   excerpt:   warning: risk of anti-metreleptin antibodies with neutralizing activity and risk of lymphoma
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+   anti-metreleptin antibodies with neutralizing activity have been identified in patients treated with myalept. the consequences are not well characterized but could include inhibition of endogenous leptin action and loss of myalept efficacy. worsening metabolic control and/or severe infection have been reported. test for anti-metreleptin antibodies with neutralizing activity in patients with severe infections or loss of efficacy during myalept treatment. contact aegerion pharmaceuticals, inc. at 1-866-216-1526 for neutralizing antibody testing. (  4.1  ), (  5.1  )  
+
+
+
+   t-cell lymphoma has been reported in patients with acquired generalized lipodystrophy, both treated and not treated with myalept. carefully consider the benefits and risks of treatment with myalept in patients with significant hematologic abnormalities and/or acquired generalized lipodystrophy. (  5.2  )  
+
+
+
+   myalept is available only through a restricted program called the myalept rems program. (  5.3  )  
+    5 warnings and precautions
+
+
+
+   excerpt:    *  anti-metreleptin antibodies with neutralizing activity: could inhibit endogenous leptin action and/or result in loss of myalept efficacy. test for neutralizing antibodies in patients with severe infections or loss of efficacy during myalept treatment. (  5.1  ) 
+ *  t-cell lymphoma: carefully consider benefits and risks of treatment with myalept in patients with significant hematologic abnormalities and/or acquired generalized lipodystrophy. (  5.2  ) 
+ *  hypoglycemia: a dose adjustment, including possible large reductions, of insulin or insulin secretagogue may be necessary. closely monitor blood glucose in patients on concomitant insulin or insulin secretagogue therapy. (  5.4  ) 
+ *  autoimmunity: autoimmune disorder progression has been observed in patients treated with myalept. carefully consider benefits and risks of myalept treatment in patients with autoimmune disease. (  5.5  ) 
+ *  hypersensitivity: hypersensitivity reactions (e.g., anaphylaxis, urticaria or generalized rash) have been reported. patient should promptly seek medical advice regarding suspected reactions. (  5.6  ) 
+ *  benzyl alcohol toxicity: preservative-free sterile wfi recommended for neonates and infants. (  5.7  ) 
+    
+ 
+
+   5.1 risk for development of antibodies that neutralize endogenous leptin and/or myalept
+
+
+
+  anti-metreleptin antibodies with in vitro  neutralizing activity to leptin associated with adverse events consistent with loss of endogenous leptin activity and/or loss of efficacy have been identified in two patients with generalized lipodystrophy treated with myalept (severe infections, increases in hba1cand triglycerides), and in three patients without lipodystrophy who received myalept in clinical studies (excessive weight gain, development of glucose intolerance or diabetes mellitus). the clinical implications associated with development of anti-metreleptin antibodies with neutralizing activity are not well characterized at this time due to the small number of reports. test for anti-metreleptin antibodies with neutralizing activity in patients who develop severe infections or show signs suspicious for loss of myalept efficacy during treatment. contact aegerion pharmaceuticals, inc. at 1-866-216-1526 for neutralizing antibody testing of clinical samples [see   adverse reactions (6.2)    ].
+
+
+
+    5.2 lymphoma
+
+
+
+  three cases of t-cell lymphoma have been reported in the myalept lipodystrophy program; all three patients had acquired generalized lipodystrophy. two of these patients were diagnosed with peripheral t-cell lymphoma while receiving myalept. both had immunodeficiency and significant hematologic abnormalities including severe bone marrow abnormalities before the start of myalept treatment. a separate case of anaplastic large cell lymphoma was reported in a patient receiving myalept who did not have hematological abnormalities before treatment.
+
+
+
+ lymphoproliferative disorders, including lymphomas, have been reported in patients with acquired generalized lipodystrophy not treated with myalept. a causal relationship between myalept treatment and the development and/or progression of lymphoma has not been established. acquired lipodystrophies are associated with autoimmune disorders, and autoimmune disorders are associated with an increased risk of malignancies including lymphomas.
+
+
+
+ the benefits and risks of myalept treatment should be carefully considered in patients with acquired generalized lipodystrophy and/or those with significant hematologic abnormalities (including leukopenia, neutropenia, bone marrow abnormalities, lymphoma, and/or lymphadenopathy).
+
+
+
+    5.3 myalept rems program
+
+
+
+  myalept is available only through a restricted distribution program under a rems, called the myalept rems program, because of the risks associated with the development of anti-metreleptin antibodies that neutralize endogenous leptin and/or myalept and the risk for lymphoma [see   warnings and precautions (5.1,    5.2)    ].
+
+
+
+ notable requirements of the myalept rems program include the following:
+
+
+
+ *  prescribers must be certified with the program by enrolling and completing training. 
+ *  pharmacies must be certified with the program and only dispense myalept after receipt of the myalept rems prescription authorization form for each new prescription. 
+    further information is available at www.myaleptrems.com  or 1-855-6myalept.
+ 
+
+    5.4 hypoglycemia with concomitant use with insulin and insulin secretagogues
+
+
+
+  dosage adjustments, including possible large reductions, of insulin or insulin secretagogue (e.g., sulfonylurea) may be necessary in some patients to minimize the risk of hypoglycemia [see   dosage and administration (2.4)    and   adverse reactions (6.1)    ]. closely monitor blood glucose in patients on concomitant insulin therapy, especially those on high doses, or insulin secretagogue (e.g., sulfonylurea), when treating with myalept.
+
+
+
+    5.5 autoimmunity
+
+
+
+  leptin plays a role in immune system homeostasis. acquired lipodystrophies are associated with autoimmune disorders including autoimmune hepatitis and membranoproliferative glomerulonephritis. cases of progression of autoimmune hepatitis and membranoproliferative glomerulonephritis (associated with massive proteinuria and renal failure) were observed in some patients with acquired generalized lipodystrophy treated with myalept. a causal relationship between myalept treatment and the development and/or progression of autoimmune disease has not been established. the potential benefits and risks of myalept treatment should be carefully considered in patients with autoimmune disease.
+
+
+
+    5.6 hypersensitivity
+
+
+
+  there have been reports of generalized hypersensitivity (e.g., anaphylaxis, urticaria or generalized rash) in patients taking myalept. if a hypersensitivity reaction occurs, instruct the patient to promptly seek medical advice regarding discontinuation of myalept.
+
+
+
+    5.7 benzyl alcohol toxicity
+
+
+
+  myalept contains benzyl alcohol when reconstituted with bwfi. myalept contains no preservative when reconstituted with sterile water for injection (wfi). preservative-free wfi is recommended for use in neonates and infants. the preservative benzyl alcohol has been associated with serious adverse events and death in pediatric patients, particularly in neonates and premature infants [see   use in specific populations (8.4)    ].

@@ -1,0 +1,132 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are discussed in greater detail in other sections of the label:
+
+
+
+ *  rhabdomyolysis with myoglobinuria and acute renal failure and myopathy (including myositis) [see warnings and precautions (  5.1  )].  
+ *  liver enzyme abnormalities [see warning and precautions (  5.2  )].  
+    of 4,798 patients enrolled in 10 controlled clinical studies and 4 subsequent open-label extension studies, 3,291 patients were administered pitavastatin 1 mg to 4 mg daily. the mean continuous exposure of pitavastatin (1 mg to 4 mg) was 36.7 weeks (median 51.1 weeks). the mean age of the patients was 60.9 years (range; 18 years - 89 years) and the gender distribution was 48% males and 52% females. approximately 93% of the patients were caucasian, 7% were asian/indian, 0.2% were african american and 0.3% were hispanic and other.
+ 
+
+   excerpt:   the most frequent adverse reactions (rate >=2.0% in at least one marketed dose) were myalgia, back pain, diarrhea, constipation and pain in extremity. (  6  )
+
+
+
+   to report suspected adverse reactions, contact kowa pharmaceuticals america, inc. at 1-877-334-3464 or fda at 1-800-fda-1088 or    www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical studies experience
+
+  because clinical studies on livalo are conducted in varying study populations and study designs, the frequency of adverse reactions observed in the clinical studies of livalo cannot be directly compared with that in the clinical studies of other hmg-coa reductase inhibitors and may not reflect the frequency of adverse reactions observed in clinical practice.
+
+
+
+ adverse reactions reported in >= 2% of patients in controlled clinical studies and at a rate greater than or equal to placebo are shown in  table 1  . these studies had treatment duration of up to 12 weeks.
+
+
+
+ table 1. adverse reactions* reported by >=2.0% of patients treated with livalo and > placebo in short-term controlled studies 
+  * adverse reactions by meddra preferred term.    
+  
+ adversereactions*  placebon= 208        livalo1 mgn=309     livalo2 mgn=951          livalo4 mgn=1540        
+ back pain         2.9%                 3.9%                1.8%                     1.4%                    
+ constipation      1.9%                 3.6%                1.5%                     2.2%                    
+ diarrhea          1.9%                 2.6%                1.5%                     1.9%                    
+ myalgia           1.4%                 1.9%                2.8%                     3.1%                    
+ pain in extremity  1.9%                 2.3%                0.6%                     0.9%                    
+           other adverse reactions reported from clinical studies were arthralgia, headache, influenza, and nasopharyngitis.
+ 
+
+ the following laboratory abnormalities have also been reported: elevated creatine phosphokinase, transaminases, alkaline phosphatase, bilirubin, and glucose.
+
+
+
+ in controlled clinical studies and their open-label extensions, 3.9% (1 mg), 3.3% (2 mg), and 3.7% (4 mg) of pitavastatin-treated patients were discontinued due to adverse reactions. the most common adverse reactions that led to treatment discontinuation were: elevated creatine phosphokinase (0.6% on 4 mg) and myalgia (0.5% on 4 mg).
+
+
+
+ hypersensitivity reactions including rash, pruritus, and urticaria have been reported with livalo.
+
+
+
+   6.2 postmarketing experience
+
+  the following adverse reactions have been identified during postapproval use of livalo. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ adverse reactions associated with livalo therapy reported since market introduction, regardless of causality assessment, include the following: abdominal discomfort, abdominal pain, dyspepsia, nausea, asthenia, fatigue, malaise, hepatitis, jaundice, fatal and non-fatal hepatic failure, dizziness, hypoesthesia, insomnia, depression, interstitial lung disease, erectile dysfunction and muscle spasms.
+
+
+
+ there have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use. these cognitive issues have been reported for all statins. the reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
+
+
+
+ there have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see  warnings and precautions (  5.1  )  ].
+    5 warnings and precautions
+
+
+
+   excerpt:    *   skeletal muscle effects (e.g., myopathy and rhabdomyolysis): risks increase in a dose-dependent manner, with advanced age (>=65), renal impairment, and inadequately treated hypothyroidism. advise patients to promptly report unexplained and/or persistent muscle pain, tenderness, or weakness, and discontinue livalo (  5.1  ) 
+ *   liver enzyme abnormalities: persistent elevations in hepatic transaminases can occur. check liver enzyme tests before initiating therapy and as clinically indicated thereafter (  5.2  ) 
+    
+ 
+
+   5.1 skeletal muscle effects
+
+
+
+   cases of myopathy and rhabdomyolysis with acute renal failure secondary to myoglobinuria have been reported with hmg-coa reductase inhibitors, including livalo.  these risks can occur at any dose level, but increase in a dose-dependent manner.
+
+
+
+ livalo should be prescribed with caution in patients with predisposing factors for myopathy. these factors include advanced age (>=65 years), renal impairment, and inadequately treated hypothyroidism. the risk of myopathy may also be increased with concurrent administration of fibrates or lipid-modifying doses of niacin. livalo should be administered with caution in patients with impaired renal function, in elderly patients, or when used concomitantly with fibrates or lipid-modifying doses of niacin [see drug interactions (  7.6  ), use in specific populations (  8.5  ,  8.6  ) and clinical pharmacology (  12.3  )].  
+
+
+
+ cases of myopathy, including rhabdomyolysis, have been reported with hmg-coa reductase inhibitors coadministered with colchicine, and caution should be exercised when prescribing livalo with colchicine [see drug interactions  (  7.7  )].
+
+
+
+ there have been rare reports of immune-mediated necrotizing myopathy (imnm), an autoimmune myopathy, associated with statin use.  imnm is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
+
+
+
+ livalo therapy should be discontinued if markedly elevated creatine kinase (ck) levels occur or myopathy is diagnosed or suspected. livalo therapy should also be temporarily withheld in any patient with an acute, serious condition suggestive of myopathy or predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., sepsis, hypotension, dehydration, major surgery, trauma, severe metabolic, endocrine, and electrolyte disorders, or uncontrolled seizures). all patients should be advised to promptly report unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing livalo.
+
+
+
+    5.2 liver enzyme abnormalities
+
+
+
+  increases in serum transaminases (aspartate aminotransferase [ast]/serum glutamic-oxaloacetic transaminase, or alanine aminotransferase [alt]/serum glutamic-pyruvic transaminase) have been reported with hmg-coa reductase inhibitors, including livalo. in most cases, the elevations were transient and resolved or improved on continued therapy or after a brief interruption in therapy.
+
+
+
+ in placebo-controlled phase 2 studies, alt >3 times the upper limit of normal was not observed in the placebo, livalo 1 mg, or livalo 2 mg groups. one out of 202 patients (0.5%) administered livalo 4 mg had alt >3 times the upper limit of normal.
+
+
+
+ it is recommended that liver enzyme tests be performed before the initiation of livalo and if signs or symptoms of liver injury occur.
+
+
+
+ there have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including pitavastatin. if serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with livalo, promptly interrupt therapy. if an alternate etiology is not found do not restart livalo.
+
+
+
+ as with other hmg-coa reductase inhibitors, livalo should be used with caution in patients who consume substantial quantities of alcohol. active liver disease, which may include unexplained persistent transaminase elevations, is a contraindication to the use of livalo [see contraindications (  4  )].  
+
+
+
+    5.3 endocrine function
+
+
+
+  increases in hba1c and fasting serum glucose levels have been reported with hmg-coa reductase inhibitors, including livalo.

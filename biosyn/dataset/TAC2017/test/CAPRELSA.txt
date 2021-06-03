@@ -1,0 +1,341 @@
+    6. adverse reactions
+
+  the following serious adverse reactions are discussed elsewhere in the label:
+
+
+
+ *    qt prolongation and torsades de pointes [see   boxed warning  ,  warnings and precautions (5.1)   ] 
+ *    skin reactions and stevens-johnson syndrome [see   warnings and precautions (5.2)   ] 
+ *    interstitial lung disease [see   warnings and precautions (5.3)   ] 
+ *    ischemic cerebrovascular events [see   warnings and precautions (5.4)   ] 
+ *    hemorrhage [see   warnings and precautions (5.5)   ] 
+ *    heart failure [see   warnings and precautions (5.6)   ] 
+ *    diarrhea [see   warnings and precautions (5.7)   ] 
+ *    hypothyroidism [see   warnings and precautions (5.8)   ] 
+ *    hypertension [see   warnings and precautions (5.9)   ] 
+ *    reversible posterior leukoencephalopathy syndrome [see   warnings and precautions (5.10)   ] 
+ *    embryofetal toxicity [see   warnings and precautions (5.1)   ] 
+      excerpt:   the most common adverse drug reactions (>20%) seen with caprelsa and with a between-arm difference of >=5 % have been diarrhea/colitis, rash, acneiform dermatitis, hypertension, nausea, headache, upper respiratory tract infections, decreased appetite and abdominal pain.
+ 
+
+   to report suspected adverse reactions, contact astrazeneca 1-800-236-9933 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1. clinical studies experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ patients with unresectable locally advanced or metastatic medullary thyroid cancer were treated with caprelsa 300 mg (n=231) or placebo (n=99). the population exposed to caprelsa was 58% male, 94% white, and had a median age of 50 years. the data described below reflect a median exposure to caprelsa for 607 days.
+
+
+
+ the most commonly reported adverse drug reactions which occurred in >20% of caprelsa-treated patients and with a between-arm difference of >=5% included, in order of decreasing frequency: diarrhea/colitis, rash, acneiform dermatitis, hypertension, nausea, headache, upper respiratory tract infection, decreased appetite, and abdominal pain.
+
+
+
+ among caprelsa-treated patients, dose interruption occurred in 109 (47%) and dose reduction occurred in 83 (36%). adverse reactions led to study treatment discontinuation in 28 of 231 patients (12%) receiving caprelsa and in 3 of 99 patients (3.0%) receiving placebo. adverse reactions leading to permanent discontinuation in 2 or more (>=0.9%) patients treated with caprelsa were: asthenia (1.7%), rash (1.7%), diarrhea (0.9%), fatigue (0.9%), pyrexia (0.9%), elevated creatinine (0.9%), qt prolongation (0.9%), and hypertension (0.9%).
+
+
+
+ table 1 - per-patient incidence of selected adverse reactions occurring at a higher incidence in caprelsa-treated patients during randomized treatment [between-arm difference of >= 5% (all grades)ctcae version 3 was used to grade adverse events.] 
+                                       preferred term                     
+                                       system organ class                   caprelsa 300 mg  n=231    placebo  n=99    
+                                       all grades (%)    grade 3-4 (%)    all grades (%)    grade 3-4 (%)    
+  gastrointestinal disorders                                                                          
+                                      diarrhea/colitis                    
+                                                                            57             11              27               2              
+                                      nausea                              
+                                                                            33             1               16               0              
+                                     ast_print:dispatch: unexpected key: "footnote" in dispatch table: {'*item_func*': <function ignore_element at 0x7f2967df1578>, 'list': <function print_list at 0x7f2967df1d70>, 'text': <function print_text at 0x7f2967df15f0>, 'caption': <function print_caption at 0x7f2967df19b0>}
+ abdominal pain                      
+                                                                            21             3               11               0              
+                                      vomiting                            
+                                                                            15             1               7                0              
+                                      dyspepsia                           
+                                                                            11             0               4                0              
+                                      dry mouth                           
+                                                                            9              0               3                0              
+  skin and cutaneous disorders                                                                        
+                                     ast_print:dispatch: unexpected key: "footnote" in dispatch table: {'*item_func*': <function ignore_element at 0x7f2967df1578>, 'list': <function print_list at 0x7f2967df1d70>, 'text': <function print_text at 0x7f2967df15f0>, 'caption': <function print_caption at 0x7f2967df19b0>}
+ rash                                
+                                                                            53             5               12               0              
+                                      dermatitis acneiform/acne           
+                                                                            35             1               7                0              
+                                      dry skin                            
+                                                                            15             0               5                0              
+                                      photosensitivity reaction           
+                                                                            13             2               0                0              
+                                      pruritus                            
+                                                                            11             1               4                0              
+                                     ast_print:dispatch: unexpected key: "footnote" in dispatch table: {'*item_func*': <function ignore_element at 0x7f2967df1578>, 'list': <function print_list at 0x7f2967df1d70>, 'text': <function print_text at 0x7f2967df15f0>, 'caption': <function print_caption at 0x7f2967df19b0>}
+ nail abnormalities                  
+                                                                            9              0               0                0              
+                                      alopecia                            
+                                                                            8              n/a             0                n/a            
+  vascular disorders                                                                                  
+                                      hypertension/hypertensive crisis/accelerated hypertension 
+                                                                            33             9               5                1              
+  nervous system disorders                                                                            
+                                      headache                            
+                                                                            26             1               9                0              
+                                      dysgeusia                           
+                                                                            8              0               3                0              
+  general disorders                                                                                   
+                                     ast_print:dispatch: unexpected key: "footnote" in dispatch table: {'*item_func*': <function ignore_element at 0x7f2967df1578>, 'list': <function print_list at 0x7f2967df1d70>, 'text': <function print_text at 0x7f2967df15f0>, 'caption': <function print_caption at 0x7f2967df19b0>}
+ fatigue                             
+                                                                            24             6               23               1              
+  infections                                                                                          
+  upper respiratory tract infectionsincludes laryngitis, nasopharyngitis, pharyngitis, sinusitis, upper respiratory tract infection, acute sinusitis, rhinitis, and tracheitis.    23             0               16               0              
+  metabolic and nutritional disorders                                                                   
+                                      decreased appetite                  
+                                                                            21             4               12               0              
+                                      hypocalcemia                        
+                                                                            11             2               3                0              
+  investigations                                                                                      
+                                     ast_print:dispatch: unexpected key: "footnote" in dispatch table: {'*item_func*': <function ignore_element at 0x7f2967df1578>, 'list': <function print_list at 0x7f2967df1d70>, 'text': <function print_text at 0x7f2967df15f0>, 'caption': <function print_caption at 0x7f2967df19b0>}
+ ecg qt prolonged                    
+                                                                            14             8               1                1              
+  eye disorders                                                                                       
+                                     ast_print:dispatch: unexpected key: "footnote" in dispatch table: {'*item_func*': <function ignore_element at 0x7f2967df1578>, 'list': <function print_list at 0x7f2967df1d70>, 'text': <function print_text at 0x7f2967df15f0>, 'caption': <function print_caption at 0x7f2967df19b0>}
+ corneal abnormalities               
+                                                                            13             0               1                0              
+                                      blurred vision                      
+                                                                            9              0               1                0              
+  renal disorders                                                                                     
+                                      proteinuria                         
+                                                                            10             0               2                0              
+  psychiatric disorders                                                                               
+                                      depression                          
+                                                                            10             2               3                0              
+  endocrine disorders                                                                                 
+                                      hypothyroidism                      
+                                                                            6              0               0                0              
+  musculoskeletal disorders                                                                           
+                                      muscle spasms                       
+                                                                            6              0               1                0              
+           clinically important uncommon adverse drug reactions in patients who received caprelsa versus patients who received placebo included pancreatitis (0.4% vs. 0%) and heart failure (0.9% vs. 0%).
+ 
+
+ blurred vision was more common in patients who received caprelsa versus patients who received placebo for medullary thyroid cancer (9% vs. 1%, respectively). scheduled slit lamp examinations revealed corneal opacities (vortex keratopathies) in treated patients, which can lead to halos and decreased visual acuity. perform ophthalmologic examination, including slit lamp examination, in patients who report visual changes.
+
+
+
+   class effects  
+
+
+
+ caprelsa is an inhibitor of vascular endothelial growth factor receptor (vegfr) signaling. inhibition of vegfr signaling can result in intestinal perforation. intestinal perforation occurred in 0.4% of caprelsa treated patients versus 0% of placebo treated patients.
+
+
+
+ the incidence of grade 1-2 bleeding events was 14% in patients receiving caprelsa compared with 7% on placebo in the randomized portion of the medullary thyroid cancer (mtc) study.
+
+
+
+ table 2 - per-patient incidence of selected laboratory abnormalities in patients with mtc occurring at a higher incidence in caprelsa-treated patients [between-arm difference of >= 5% (all grades)ctcae version 3 was used to grade laboratory abnormalities.] 
+   laboratory abnormalities      caprelsa 300 mg    n=231      placebo    n=99     
+  
+                                all  grades  (%)    grade 3-4  (%)    all  grades  (%)    grade 3-4  (%)    
+  chemistries                                                                      
+                               hypocalcemia                 
+                                                              57         6              25         3             
+                               alt increased                
+                                                              51         2              19         0             
+                               hypoglycemia                 
+                                                              24         0              7          1             
+                               creatinine increased         
+                                                              16         0              1          0             
+                               hypomagnesemia               
+                                                              7          <1             2          0             
+  hematologic                                                                      
+                               neutropenia                  
+                                                              10         <1             5          2             
+                               thrombocytopenia             
+                                                              9          0              3          0             
+           no patient with a grade 3-4 alt elevation had a concomitant increase in bilirubin in the mtc study.
+
+
+    boxed warning: warning: qt prolongation, torsades de pointes, and sudden death
+
+  warning: qt prolongation, torsades de pointes, and sudden death
+
+    caprelsa    can prolong the qt interval. torsades de pointes and sudden death have occurred in patients receiving caprelsa. do not use caprelsa in patients with hypocalcemia, hypokalemia, hypomagnesemia, or long qt syndrome. correct hypocalcemia, hypokalemia and/or hypomagnesemia prior to caprelsa administration. monitor electrolytes periodically. avoid drugs known to prolong the qt interval. only prescribers and pharmacies certified with the restricted distribution program are able to prescribe and dispense caprelsa [see   warnings and precautions (  5.1  ,   5.15  )  ].  
+
+
+
+   excerpt:     warning: qt prolongation, torsades de pointes, and sudden death  
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ caprelsa can prolong the qt interval. torsades de pointes and sudden death have occurred in patients receiving caprelsa. do not use caprelsa in patients with hypocalcemia, hypokalemia, hypomagnesemia, or long qt syndrome. correct hypocalcemia, hypokalemia and/or hypomagnesemia prior to caprelsa administration. monitor electrolytes periodically. avoid drugs known to prolong the qt interval. only prescribers and pharmacies certified with the restricted distribution program are able to prescribe and dispense caprelsa (  5.1  ,   5.15  ).
+    5. warnings and precautions
+
+
+
+   excerpt:    *    prolonged qt interval, torsades de pointes, and sudden death: monitor electrocardiograms and levels of serum potassium, calcium, magnesium and tsh. reduce caprelsa dose as appropriate. (  2.1  ,  5.1  ) 
+ *    severe skin reactions, including stevens-johnson syndrome, some resulting in death: consider discontinuation of caprelsa for severe skin reactions. (  2.1  ,  5.2  ) 
+ *    interstitial lung disease (ild), including fatalities: investigate unexplained non-specific respiratory signs and symptoms. discontinue caprelsa for confirmed ild. (  2.1  ,  5.3  ) 
+ *    ischemic cerebrovascular events, hemorrhage, heart failure, diarrhea, hypertension, and reversible posterior leukoencephalopathy syndrome: discontinue or interrupt caprelsa. (  2.1  ,  5.4  ,  5.5  ,  5.6  ,  5.7  ,  5.8  ,  5.9  ,  5.10  ) 
+ *    embryofetal toxicity: can cause fetal harm. advise women of the potential risk to a fetus and to avoid pregnancy during and for four months following treatment with caprelsa. (  5.14  ,  8.1  ) 
+ *    rems: caprelsa is available only through a restricted distribution program called the caprelsa rems program. (  5.15  ) 
+    
+ 
+
+   5.1 qt prolongation and torsades de pointes
+
+
+
+  caprelsa can prolong the qt interval in a concentration-dependent manner [see   clinical pharmacology (12.2)    ]. torsades de pointes, ventricular tachycardia and sudden deaths have occurred in patients treated with caprelsa.
+
+
+
+ do not start caprelsa treatment in patients whose qtcf interval is greater than 450 ms. do not administer caprelsa to patients who have a history of torsades de pointes, congenital long qt syndrome, bradyarrhythmias or uncompensated heart failure. caprelsa has not been studied in patients with ventricular arrhythmias or recent myocardial infarction. vandetanib exposure is increased in patients with impaired renal function. reduce the starting dose to 200 mg in patients with moderate to severe renal impairment and monitor qt interval frequently.
+
+
+
+ obtain an ecg and serum potassium, calcium, magnesium and tsh at baseline, 2-4 weeks and 8-12 weeks after starting treatment with caprelsa, and every 3 months thereafter. monitor electrolytes and ecgs more frequently in patients who experience diarrhea. following any dose reduction for qt prolongation or any dose interruption greater than 2 weeks, conduct qt assessments as described above. maintain serum potassium levels of 4 meq/l or higher (within normal range) and maintain serum magnesium and calcium levels within normal ranges to reduce the risk of qt prolongation.
+
+
+
+ avoid using caprelsa with drugs known to prolong the qt interval [see   warnings and precautions (5.11)    and   drug interactions (7.4)    ]. if such drugs are given to patients already receiving caprelsa and no alternative therapy exists, perform ecg monitoring of the qt interval more frequently.
+
+
+
+ stop caprelsa in patients who develop a qtcf greater than 500 ms until the qtcf returns to less than 450 ms. dosing of caprelsa can then be resumed at a reduced dose [see   dosage and administration (2.1)    ].
+
+
+
+    5.2 skin reactions and stevens-johnson syndrome
+
+
+
+  severe skin reactions (including stevens-johnson syndrome), some leading to death, have occurred in patients treated with caprelsa. consider permanent discontinuation of caprelsa for severe skin reactions [see   dosage and administration (2.1)    ].
+
+
+
+ photosensitivity reactions can occur during caprelsa treatment and up to 4 months after treatment discontinuation.
+
+
+
+    5.3 interstitial lung disease
+
+
+
+  interstitial lung disease (ild) or pneumonitis, including fatalities, has occurred in patients treated with caprelsa. consider a diagnosis of ild in patients presenting with non-specific respiratory signs and symptoms.
+
+
+
+ interrupt caprelsa for acute or worsening pulmonary symptoms. discontinue caprelsa if ild is confirmed.
+
+
+
+    5.4 ischemic cerebrovascular events
+
+
+
+  ischemic cerebrovascular events, including fatalities, occurred in patients treated with caprelsa. in the randomized medullary thyroid cancer (mtc) study, ischemic cerebrovascular events occurred more frequently with caprelsa compared to placebo (1.3% compared to 0%). the safety of resumption of caprelsa therapy after resolution of an ischemic cerebrovascular event has not been studied. discontinue caprelsa in patients who experience a severe ischemic cerebrovascular event.
+
+
+
+    5.5 hemorrhage
+
+
+
+  serious hemorrhagic events, including fatalities, occurred in patients treated with caprelsa. do not administer caprelsa to patients with a recent history of hemoptysis of >=1/2 teaspoon of red blood. discontinue caprelsa in patients with severe hemorrhage.
+
+
+
+    5.6 heart failure
+
+
+
+  heart failure, including fatalities, occurred in patients treated with caprelsa. monitor for signs and symptoms of heart failure. consider discontinuation of caprelsa in patients with heart failure. heart failure may not be reversible upon stopping caprelsa.
+
+
+
+    5.7 diarrhea
+
+
+
+  diarrhea of grade 3 or greater severity occurred in 11% of patients receiving caprelsa in the randomized mtc study. if diarrhea occurs, carefully monitor serum electrolytes and ecgs to reduce the risk and enable early detection of qt prolongation resulting from dehydration [see   warnings and precautions (5.1)    ]. interrupt caprelsa for severe diarrhea. upon improvement, resume caprelsa at a reduced dose [see   dosage and administration (2.1)    ].
+
+
+
+    5.8 hypothyroidism
+
+
+
+  in the randomized mtc study in which 90% of the patients enrolled had prior thyroidectomy, increased dosing of thyroid replacement therapy was required in 49% of caprelsa-treated patients compared to 17% of placebo-treated patients. obtain thyroid-stimulating hormone (tsh) at baseline, at 2 - 4 weeks and 8 - 12 weeks after starting treatment with caprelsa, and every 3 months thereafter. if signs or symptoms of hypothyroidism occur, examine thyroid hormone levels and adjust thyroid replacement therapy accordingly..
+
+
+
+    5.9 hypertension
+
+
+
+  hypertension, including hypertensive crisis, has occurred in patients treated with caprelsa. monitor all patients for hypertension. dose reduction or interruption for hypertension may be necessary. if hypertension cannot be controlled, do not resume caprelsa [see   dosage and administration, (2.1)    ].
+
+
+
+    5.10 reversible posterior leukoencephalopathy syndrome
+
+
+
+  reversible posterior leukoencephalopathy syndrome (rpls), a syndrome of subcortical vasogenic edema diagnosed by an mri of the brain, has occurred in patients treated with caprelsa. consider this syndrome in any patient presenting with seizures, headache, visual disturbances, confusion or altered mental function. in clinical studies, three of four patients who developed rpls while taking caprelsa also had hypertension. discontinue caprelsa treatment in patients with rpls.
+
+
+
+    5.11 drug interactions
+
+
+
+  avoid administration of caprelsa with anti-arrhythmic drugs (including but not limited to amiodarone, disopyramide, procainamide, sotalol, dofetilide) and other drugs that may prolong the qt interval (including but not limited to chloroquine, clarithromycin, dolasetron, granisetron, haloperidol, methadone, moxifloxacin, and pimozide) [see   drug interactions (7.4)    and   clinical pharmacology (12.2)    ].
+
+
+
+    5.12 renal impairment
+
+
+
+  vandetanib exposure is increased in patients with impaired renal function. reduce the starting dose to 200 mg in patients with moderate to severe renal impairment and monitor the qt interval closely. there is no information available for patients with end-stage renal disease requiring dialysis [see   boxed warning    ,   dosage and administration (2.1)    ,   use in specific populations (8.6)    and   clinical pharmacology (12.3)    ].
+
+
+
+    5.13 hepatic impairment
+
+
+
+  caprelsa is not recommended for use in patients with moderate and severe hepatic impairment, as safety and efficacy have not been established [see   dosage and administration (2.1)    ].
+
+
+
+    5.14 embryofetal toxicity
+
+
+
+  based on its mechanism of action, caprelsa can cause fetal harm when administered to a pregnant woman. in nonclinical studies in rats, vandetanib was embryotoxic, fetotoxic, and teratogenic at exposures equivalent to or lower than those expected at the recommended human dose of 300 mg/day and had adverse effects on female fertility, embryofetal development, and postnatal development of pups.
+
+
+
+ if this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus. women of childbearing potential should avoid pregnancy. advise women of childbearing potential that they must use effective contraception during caprelsa treatment and for at least four months following the last dose of caprelsa [see use in specific populations (  8.1  ,  8.8  )  ].
+
+
+
+    5.15 caprelsa rems (risk evaluation and mitigation strategy) program
+
+
+
+  because of the risk of qt prolongation, torsades de pointes, and sudden death, caprelsa is available only through a restricted distribution program called the caprelsa rems program. only prescribers and pharmacies certified with the program are able to prescribe and dispense caprelsa.
+
+
+
+ to learn about the specific rems requirements and to enroll in the caprelsa rems program, call 1-800-236-9933 or visit www.caprelsarems.com.

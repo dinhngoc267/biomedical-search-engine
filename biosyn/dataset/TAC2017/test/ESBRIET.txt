@@ -1,0 +1,110 @@
+    6 adverse reactions
+
+  the following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *  liver enzyme elevations   [see warnings and precautions (5.1)]    
+ *  photosensitivity reaction or rash   [see warnings and precautions (5.2)]    
+ *  gastrointestinal disorders   [see warnings and precautions (5.3)]    
+      excerpt:   the most common adverse reactions (>=10%) are nausea, rash, abdominal pain, upper respiratory tract infection, diarrhea, fatigue, headache, dyspepsia, dizziness, vomiting, anorexia, gastro-esophageal reflux disease, sinusitis, insomnia, weight decreased, and arthralgia. (  6.1  )
+ 
+
+ to report suspected adverse reactions, contact intermune at 1-888-486-6411 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch  .
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the safety of pirfenidone has been evaluated in more than 1400 subjects with over 170 subjects exposed to pirfenidone for more than 5 years in clinical trials.
+
+
+
+ esbriet was studied in 3 randomized, double-blind, placebo-controlled trials (studies 1, 2, and 3) in which a total of 623 patients received 2403 mg/day of esbriet and 624 patients received placebo. subjects ages ranged from 40 to 80 years (mean age of 67 years). most patients were male (74%) and caucasian (95%). the mean duration of exposure to esbriet was 62 weeks (range: 2 to 118 weeks) in these 3 trials.
+
+
+
+ at the recommended dosage of 2403 mg/day, 14.6% of patients on esbriet compared to 9.6% on placebo permanently discontinued treatment because of an adverse event. the most common (>1%) adverse reactions leading to discontinuation were rash and nausea. the most common (>3%) adverse reactions leading to dosage reduction or interruption were rash, nausea, diarrhea, and photosensitivity reaction.
+
+
+
+ the most common adverse reactions with an incidence of >=10% and more frequent in the esbriet than placebo treatment group are listed in  table 2  .
+
+
+
+ table 2. adverse reactions occurring in >=10% of esbriet-treated patients and more commonly than placebo in studies 1, 2, and 3 
+   1   includes abdominal pain, upper abdominal pain, abdominal distension, and stomach discomfort.   
+  
+                                            % of patients (0 to 118 weeks)    
+ adverse reaction                            esbriet 2403 mg/day(n = 623)         placebo(n = 624)         
+ nausea                                                  36%                             16%               
+ rash                                                    30%                             10%               
+ abdominal pain  1                                       24%                             15%               
+ upper respiratory tract infection                       27%                             25%               
+ diarrhea                                                26%                             20%               
+ fatigue                                                 26%                             19%               
+ headache                                                22%                             19%               
+ dyspepsia                                               19%                             7%                
+ dizziness                                               18%                             11%               
+ vomiting                                                13%                             6%                
+ anorexia                                                13%                             5%                
+ gastro-esophageal reflux disease                        11%                             7%                
+ sinusitis                                               11%                             10%               
+ insomnia                                                10%                             7%                
+ weight decreased                                        10%                             5%                
+ arthralgia                                              10%                             7%                
+         adverse reactions occurring in >=5 to <10% of esbriet-treated patients and more commonly than placebo are photosensitivity reaction (9% vs. 1%), decreased appetite (8% vs. 3%), pruritus (8% vs. 5%), asthenia (6% vs. 4%), dysgeusia (6% vs. 2%), and non-cardiac chest pain (5% vs. 4%).
+ 
+
+   6.2 postmarketing experience
+
+  in addition to adverse reactions identified from clinical trials the following adverse reactions have been identified during postapproval use of pirfenidone. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency.
+
+
+
+   blood and lymphatic system disorders  agranulocytosis
+
+
+
+   immune system disorders  angioedema
+
+
+
+   hepatobiliary disorders  bilirubin increased in combination with increases of alt and ast
+    5 warnings and precautions
+
+
+
+     excerpt:    *  elevated liver enzymes: alt, ast, and bilirubin elevations have occurred with esbriet. monitor alt, ast, and bilirubin before and during treatment. temporary dosage reductions or discontinuations may be required. (  2.1  ,  5.1  ) 
+ *  photosensitivity and rash: photosensitivity and rash have been noted with esbriet. avoid exposure to sunlight and sunlamps. wear sunscreen and protective clothing daily. temporary dosage reductions or discontinuations may be required. (  5.2  ) 
+ *  gastrointestinal disorders: nausea, vomiting, diarrhea, dyspepsia, gastro-esophageal reflux disease, and abdominal pain have occurred with esbriet. temporary dosage reductions or discontinuations may be required. (  5.3  ) 
+    
+ 
+
+   5.1 elevated liver enzymes
+
+
+
+  increases in alt and ast >3 * uln have been reported in patients treated with esbriet. rarely these have been associated with concomitant elevations in bilirubin. patients treated with esbriet 2403 mg/day in the three phase 3 trials had a higher incidence of elevations in alt or ast >=3 * uln than placebo patients (3.7% vs. 0.8%, respectively). elevations >=10 * uln in alt or ast occurred in 0.3% of patients in the esbriet 2403 mg/day group and in 0.2% of patients in the placebo group. increases in alt and ast >=3 * uln were reversible with dose modification or treatment discontinuation. no cases of liver transplant or death due to liver failure that were related to esbriet have been reported. however, the combination of transaminase elevations and elevated bilirubin without evidence of obstruction is generally recognized as an important predictor of severe liver injury, that could lead to death or the need for liver transplants in some patients. conduct liver function tests (alt, ast, and bilirubin) prior to the initiation of therapy with esbriet in all patients, then monthly for the first 6 months and every 3 months thereafter. dosage modifications or interruption may be necessary for liver enzyme elevations   [see dosage and administration (2.1,    2.3)].    
+
+
+
+    5.2 photosensitivity reaction or rash
+
+
+
+  patients treated with esbriet 2403 mg/day in the three phase 3 studies had a higher incidence of photosensitivity reactions (9%) compared with patients treated with placebo (1%). the majority of the photosensitivity reactions occurred during the initial 6 months. instruct patients to avoid or minimize exposure to sunlight (including sunlamps), to use a sunblock (spf 50 or higher), and to wear clothing that protects against sun exposure. additionally, instruct patients to avoid concomitant medications known to cause photosensitivity. dosage reduction or discontinuation may be necessary in some cases of photosensitivity reaction or rash   [see dosage and administration (2.3)]    .
+
+
+
+    5.3 gastrointestinal disorders
+
+
+
+  in the clinical studies, gastrointestinal events of nausea, diarrhea, dyspepsia, vomiting, gastro-esophageal reflux disease, and abdominal pain were more frequently reported by patients in the esbriet treatment groups than in those taking placebo. dosage reduction or interruption for gastrointestinal events was required in 18.5% of patients in the 2403 mg/day group, as compared to 5.8% of patients in the placebo group; 2.2% of patients in the esbriet 2403 mg/day group discontinued treatment due to a gastrointestinal event, as compared to 1.0% in the placebo group. the most common (>2%) gastrointestinal events that led to dosage reduction or interruption were nausea, diarrhea, vomiting, and dyspepsia. the incidence of gastrointestinal events was highest early in the course of treatment (with highest incidence occurring during the initial 3 months) and decreased over time. dosage modifications may be necessary in some cases of gastrointestinal adverse reactions   [see dosage and administration (2.3)]    .

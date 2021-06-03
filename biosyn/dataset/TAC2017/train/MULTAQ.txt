@@ -1,0 +1,224 @@
+    6 adverse reactions
+
+  the following safety concerns are described elsewhere in the label:
+
+
+
+ *    new or worsening heart failure [see  warnings and precautions (5.4)  ]  
+ *    liver injury [see  warnings and precautions (5.5)  ]  
+ *    pulmonary toxicity [see  warnings and precautions (5.6)  ]  
+ *    hypokalemia and hypomagnesemia with potassium-depleting diuretics [see  warnings and precautions (5.7)  ]  
+ *    qt prolongation [see  warnings and precautions (5.8)  ]  
+      excerpt:   most common adverse reactions (>=2%) are diarrhea, nausea, abdominal pain, vomiting, and asthenia (  6  )
+ 
+
+  
+
+
+
+   to report suspected adverse reactions, contact sanofi-aventis u.s. llc at 1-800-633-1610 or fda at 1-800-fda-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  the safety evaluation of dronedarone 400 mg twice daily in patients with af or afl is based on 5 placebo controlled studies, athena, euridis, adonis, erato and dafne. in these studies, a total of 6285 patients were randomized and treated, 3282 patients with multaq 400 mg twice daily, and 2875 with placebo. the mean exposure across studies was 12 months. in athena, the maximum follow-up was 30 months.
+
+
+
+ in clinical trials, premature discontinuation because of adverse reactions occurred in 11.8% of the dronedarone-treated patients and in 7.7% of the placebo-treated group. the most common reasons for discontinuation of therapy with multaq were gastrointestinal disorders (3.2 % versus 1.8% in the placebo group) and qt prolongation (1.5% versus 0.5% in the placebo group).
+
+
+
+ the most frequent adverse reactions observed with multaq 400 mg twice daily in the 5 studies were diarrhea, nausea, abdominal pain, vomiting, and asthenia.
+
+
+
+ table 1 displays adverse reactions more common with dronedarone 400 mg twice daily than with placebo in af or afl patients, presented by system organ class and by decreasing order of frequency. adverse laboratory and ecg effects are presented separately in table 2.
+
+
+
+ table 1: adverse drug reactions that occurred in at least 1% of patients and were more frequent than placebo 
+                                             placebo                                  dronedarone 400 mg twice daily     
+   (n=2875)                                  (n=3282)                                
+  
+  gastrointestinal                                                                                          
+    diarrhea                                6%                                       9%                     
+    nausea                                  3%                                       5%                     
+    abdominal pain                          3%                                       4%                     
+    vomiting                                1%                                       2%                     
+    dyspeptic signs and symptoms            1%                                       2%                     
+  general                                                                                                   
+    asthenic conditions                     5%                                       7%                     
+  cardiac                                                                                                   
+    bradycardia                             1%                                       3%                     
+  skin and subcutaneous tissue                                                                              
+    including rashes (generalized, macular, maculo-papular, erythematous), pruritus, eczema, dermatitis, dermatitis allergic    3%                                       5%                     
+         photosensitivity reaction and dysgeusia have also been reported at an incidence less than 1% in patients treated with multaq.
+ 
+
+ the following laboratory data/ecg parameters were reported with multaq 400 mg twice daily.
+
+
+
+ table 2: laboratory data/ecg parameters not necessarily reported as adverse events 
+                                                       placebo                    multaq    400 mg twice daily     
+  
+                                                      (n=2875)                   (n=3282)                   
+  early increases in creatinine >=10%                 21%                        51%                        
+                                                      (n=2237)                   (n=2701)                   
+  qtc prolonged                                       19%                        28%                        
+         assessment of demographic factors such as gender or age on the incidence of treatment-emergent adverse events did not suggest an excess of adverse events in any particular sub-group.
+ 
+
+   6.2 postmarketing experience
+
+  the following adverse reactions have been identified during post-approval use of multaq. because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+     cardiac:  new or worsening heart failure  [see  warnings and precautions (5.4)  ]  
+
+
+
+ atrial flutter with 1:1 atrioventricular conduction has been reported very rarely.
+
+
+
+     hepatic:  liver injury  [see  warnings and precautions (5.5)  ]  
+
+
+
+     respiratory:  interstitial lung disease including pneumonitis and pulmonary fibrosis  [see  warnings and precautions (5.6)  ]  
+
+
+
+     immune:  anaphylactic reactions including angioedema
+
+
+
+     vascular:  vasculitis, including leukocytoclastic vasculitis
+
+
+    boxed warning: warning: increased risk of death, stroke and heart failure in patients with decompensated heart failure or permanent atrial fibrillation
+
+    warning: increased risk of death, stroke and heart failure in patients with decompensated heart failure or permanent atrial fibrillation  
+
+    in patients with symptomatic heart failure and recent decompensation requiring hospitalization or nyha class iv heart failure; multaq doubles the risk of death. (  14.3  ) multaq is contraindicated in patients with symptomatic heart failure with recent decompensation requiring hospitalization or nyha class iv heart failure. (  4  ,   5.1  )  
+
+
+
+   in patients with permanent atrial fibrillation, multaq doubles the risk of death, stroke and hospitalization for heart failure. (  14.4  ). multaq is contraindicated in patients in atrial fibrillation (af) who will not or cannot be cardioverted into normal sinus rhythm.  (  4  ,   5.2  )  
+
+
+
+   excerpt:   warning: increased risk of death, stroke and heart failure in patients with decompensated heart failure or permanent atrial fibrillation
+
+
+
+  
+
+
+
+   multaq is contraindicated in patients with symptomatic heart failure with recent decompensation requiring hospitalization or nyha class iv heart failure. multaq doubles the risk of death in these patients (  4  ,   5.1  ,   14.3  ).  
+
+
+
+   multaq is contraindicated in patients in atrial fibrillation (af) who will not or cannot be cardioverted into normal sinus rhythm. in patients with permanent af, multaq doubles the risk of death, stroke, and hospitalization for heart failure. (  4  ,   5.2  ,   14.4  )  
+    5 warnings and precautions
+
+
+
+   excerpt:    *    determine cardiac rhythm at least once every 3 months. if af is detected discontinue multaq or cardiovert (  5.2  ) 
+ *    ensure appropriate antithrombotic therapy prior to and throughout multaq use (  5.3  ) 
+ *    liver injury: if hepatic injury is suspected, discontinue multaq (  5.5  ) 
+ *    if pulmonary toxicity is confirmed, discontinue treatment (  5.6  ) 
+ *    hypokalemia and hypomagnesemia: maintain potassium and magnesium levels within the normal range (  5.7  ) 
+ *    renal impairment: monitor renal function periodically (  5.9  ) 
+ *    teratogen: women of childbearing potential should use effective contraception while using multaq (  5.10  ) 
+    
+ 
+
+   5.1 cardiovascular death in nyha class iv or decompensated heart failure
+
+
+
+  multaq is contraindicated in patients with nyha class iv heart failure or symptomatic heart failure with recent decompensation requiring hospitalization because it doubles the risk of death.
+
+
+
+    5.2 cardiovascular death and heart failure in permanent af
+
+
+
+  multaq doubles the risk of cardiovascular death (largely arrhythmic) and heart failure events in patients with permanent af. patients treated with dronedarone should undergo monitoring of cardiac rhythm no less often than every 3 months. cardiovert patients who are in atrial fibrillation (if clinically indicated) or discontinue multaq. multaq offers no benefit in subjects in permanent af.
+
+
+
+    5.3 increased risk of stroke in permanent af
+
+
+
+  in a placebo-controlled study in patients with permanent atrial fibrillation, dronedarone was associated with an increased risk of stroke, particularly in the first two weeks of therapy [   see clinical studies (14.4)    ]. multaq should only be initiated in patients in sinus rhythm who are receiving appropriate antithrombotic therapy [ see  drug interactions (7.3)    ].
+
+
+
+    5.4 new onset or worsening heart failure
+
+
+
+  new onset or worsening of heart failure has been reported during treatment with multaq in the postmarketing setting. in a placebo controlled study in patients with permanent af increased rates of heart failure were observed in patients with normal left ventricular function and no history of symptomatic heart failure, as well as those with a history of heart failure or left ventricular dysfunction.
+
+
+
+ advise patients to consult a physician if they develop signs or symptoms of heart failure, such as weight gain, dependent edema, or increasing shortness of breath. if heart failure develops or worsens and requires hospitalization, discontinue multaq.
+
+
+
+    5.5 liver injury
+
+
+
+    *     hepatocellular liver injury, including acute liver failure requiring transplant, has been reported in patients treated with multaq in the postmarketing setting. advise patients treated with multaq to report immediately symptoms suggesting hepatic injury (such as anorexia, nausea, vomiting, fever, malaise, fatigue, right upper quadrant pain, jaundice, dark urine, or itching). consider obtaining periodic hepatic serum enzymes, especially during the first 6 months of treatment, but it is not known whether routine periodic monitoring of serum enzymes will prevent the development of severe liver injury. if hepatic injury is suspected, promptly discontinue multaq and test serum enzymes, aspartate aminotransferase (ast), alanine aminotransferase (alt) and alkaline phosphatase, as well as serum bilirubin, to establish whether there is liver injury. if liver injury is found, institute appropriate treatment and investigate the probable cause. do not restart multaq in patients without another explanation for the observed liver injury. 
+       5.6 pulmonary toxicity
+ 
+
+  cases of interstitial lung disease including pneumonitis and pulmonary fibrosis have been reported in patients treated with multaq in the post-marketing setting [see  adverse reactions (6.2)  ]  . onset of dyspnea or non-productive cough may be related to pulmonary toxicity and patients should be carefully evaluated clinically. if pulmonary toxicity is confirmed, multaq should be discontinued.
+
+
+
+    5.7 hypokalemia and hypomagnesemia with potassium-depleting diuretics
+
+
+
+  hypokalemia or hypomagnesemia may occur with concomitant administration of potassium-depleting diuretics. potassium levels should be within the normal range prior to administration of multaq and maintained in the normal range during administration of multaq.
+
+
+
+    5.8 qt interval prolongation
+
+
+
+  dronedarone induces a moderate (average of about 10 ms but much greater effects have been observed) qtc (bazett) prolongation [see  clinical pharmacology (12.2)  and  clinical studies (14.1)  ]  . if the qtc bazett interval is >=500 ms, discontinue multaq [see  contraindications (4)  ]  .
+
+
+
+    5.9 renal impairment and failure
+
+
+
+   marked increase in serum creatinine, pre-renal azotemia and acute renal failure, often in the setting of heart failure [ see       warnings and precautions (5.4)     ] or hypovolemia, have been reported in patients taking multaq. in most cases, these effects appear to be reversible upon drug discontinuation and with appropriate medical treatment. monitor renal function periodically.  
+
+
+
+ small increases in creatinine levels (about 0.1 mg/dl) following dronedarone treatment initiation have been shown to be a result of inhibition of creatinine's tubular secretion. the elevation has a rapid onset, reaches a plateau after 7 days and is reversible after discontinuation.
+
+
+
+    5.10 women of childbearing potential
+
+
+
+  premenopausal women who have not undergone a hysterectomy or oophorectomy must use effective contraception while using multaq. dronedarone caused fetal harm in animal studies at doses equivalent to recommended human doses. counsel women of childbearing potential regarding appropriate contraceptive choices [see  use in specific populations (8.1)  ]  .

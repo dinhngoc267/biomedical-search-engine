@@ -1,0 +1,112 @@
+-1||-1|-1||-1||myocardial ischemia||10028600
+-1||-1|-1||-1||sinoatrial nodal block||10040736
+-1||-1|-1||-1||atrioventricular nodal block||10003671
+-1||-1|-1||-1||atrial fibrillation||10003658
+-1||-1|-1||-1||atrial flutter||10003662
+-1||-1|-1||-1||hypersensitivity||10020751
+-1||-1|-1||-1||anaphylaxis||10002198
+-1||-1|-1||-1||hypotension||10021097
+-1||-1|-1||-1||hypertension||10020772
+-1||-1|-1||-1||bronchoconstriction||10006482
+-1||-1|-1||-1||seizure||10039906
+-1||-1|-1||-1||cerebrovascular accident||10008190
+-1||-1|-1||-1||stroke||10008190
+-1||-1|-1||-1||dyspnea||10013968
+-1||-1|-1||-1||headache||10019211
+-1||-1|-1||-1||flushing||10016825
+-1||-1|-1||-1||chest discomfort||10008469
+-1||-1|-1||-1||dizziness||10013573
+-1||-1|-1||-1||angina pectoris||10002383
+-1||-1|-1||-1||chest pain||10008479
+-1||-1|-1||-1||nausea||10028813
+-1||-1|-1||-1||st segment depression||10014391
+-1||-1|-1||-1||abdominal discomfort||10000059
+-1||-1|-1||-1||dysgeusia||10013911
+-1||-1|-1||-1||feeling hot||10016334
+-1||-1|-1||-1||rhythm abnormalities||10003119
+-1||-1|-1||-1||conduction abnormalities||10010276
+-1||-1|-1||-1||pacs||10042602
+-1||-1|-1||-1||pvcs||10047289
+-1||-1|-1||-1||wandering atrial pacemaker||10047818
+-1||-1|-1||-1||supraventricular arrhythmia||10003130
+-1||-1|-1||-1||ventricular arrhythmia||10047281
+-1||-1|-1||-1||av block||10003671
+-1||-1|-1||-1||first-degree av block||10003674
+-1||-1|-1||-1||pr prolongation > 220 msec||10053657
+-1||-1|-1||-1||second-degree av block||10003677
+-1||-1|-1||-1||av conduction abnormalities||10003674|10068180
+-1||-1|-1||-1||ventricular conduction abnormalities||10010276
+-1||-1|-1||-1||respiratory adverse reactions||10075535
+-1||-1|-1||-1||respiratory adverse effects||10075535
+-1||-1|-1||-1||respiratory adverse reaction||10075535
+-1||-1|-1||-1||wheezing||10047924
+-1||-1|-1||-1||obstructive airway disorder||10061877
+-1||-1|-1||-1||dyspnea exertional||10013971
+-1||-1|-1||-1||tachypnea||10043089
+-1||-1|-1||-1||fev1 reduction||10016987
+-1||-1|-1||-1||myocardial infarction||10028596
+-1||-1|-1||-1||cardiac arrest||10007515
+-1||-1|-1||-1||ventricular arrhythmias||10047281
+-1||-1|-1||-1||supraventricular tachyarrhythmias||10065342
+-1||-1|-1||-1||atrial fibrillation with rapid ventricular response new-onset||10003658
+-1||-1|-1||-1||atrial fibrillation with rapid ventricular response recurrent||10003658
+-1||-1|-1||-1||heart block||10003671
+-1||-1|-1||-1||heart block third-degree block||10003673
+-1||-1|-1||-1||asystole||10007515
+-1||-1|-1||-1||symptomatic hypotension||10021097
+-1||-1|-1||-1||transient ischemic attack||10044390
+-1||-1|-1||-1||seizures||10039906
+-1||-1|-1||-1||syncope||10042772
+-1||-1|-1||-1||qtc prolongation||10014387
+-1||-1|-1||-1||tremor||10044565
+-1||-1|-1||-1||intracranial hemorrhage||10018985
+-1||-1|-1||-1||abdominal pain||10000081
+-1||-1|-1||-1||vomiting||10047700
+-1||-1|-1||-1||myalgias||10028411
+-1||-1|-1||-1||diarrhea||10012735
+-1||-1|-1||-1||fecal incontinence||10016092
+-1||-1|-1||-1||angioedema||10002424
+-1||-1|-1||-1||respiratory arrest||10038669
+-1||-1|-1||-1||respiratory distress||10038687
+-1||-1|-1||-1||decreased oxygen saturation||10033318
+-1||-1|-1||-1||throat tightness||10043528
+-1||-1|-1||-1||urticaria||10046735
+-1||-1|-1||-1||rashes||10037844
+-1||-1|-1||-1||musculoskeletal pain||10028391
+-1||-1|-1||-1||pain||10033371
+-1||-1|-1||-1||pain localized in the arms||10033425
+-1||-1|-1||-1||pain localized in the lower back||10003988
+-1||-1|-1||-1||pain extended to the buttocks bilaterally||10028391
+-1||-1|-1||-1||pain extended to the lower legs bilaterally||10033425
+-1||-1|-1||-1||fatal||10011906
+-1||-1|-1||-1||cardiac events||10075534
+-1||-1|-1||-1||depress the av nodes||10003671
+-1||-1|-1||-1||depress the sa nodes||10075889
+-1||-1|-1||-1||first degree av block||10003674
+-1||-1|-1||-1||second degree av block||10003677
+-1||-1|-1||-1||third-degree av block||10003673
+-1||-1|-1||-1||sinus bradycardia||10040741
+-1||-1|-1||-1||new-onset atrial fibrillation with rapid ventricular response||10003658
+-1||-1|-1||-1||recurrent atrial fibrillation with rapid ventricular response||10003658
+-1||-1|-1||-1||vasodilation||10047141
+-1||-1|-1||-1||increases in blood pressure||10005750
+-1||-1|-1||-1||respiratory compromise||10038695
+-1||-1|-1||-1||lower the seizure threshold||10010927
+-1||-1|-1||-1||new onset convulsive seizures||10039906
+-1||-1|-1||-1||recurrence of convulsive seizures||10039906
+-1||-1|-1||-1||seizures prolonged||10039906
+-1||-1|-1||-1||hemorrhagic cerebrovascular accidents||10007948
+-1||-1|-1||-1||ischemic cerebrovascular accidents||10008120
+-1||-1|-1||-1||first- degree av block||10003674
+-1||-1|-1||-1||second- degree av block||10003677
+-1||-1|-1||-1||one dropped beat||10015856
+-1||-1|-1||-1||third-degree heart block||10003673
+-1||-1|-1||-1||hypersensitivity reactions||10020751
+-1||-1|-1||-1||arterial vasodilation||10047141
+-1||-1|-1||-1||decreased systolic blood pressure||10005758
+-1||-1|-1||-1||decreased diastolic blood pressure||10005737
+-1||-1|-1||-1||transient ischemic attacks||10044390
+-1||-1|-1||-1||increase in blood pressure||10005750
+-1||-1|-1||-1||blood pressure increase||10005750
+-1||-1|-1||-1||new-onset convulsive seizures||10039906
+-1||-1|-1||-1||hemodynamic effects||10052076

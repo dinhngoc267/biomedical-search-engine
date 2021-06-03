@@ -1,0 +1,86 @@
+    6 adverse reactions
+
+  serious and important adverse reactions described elsewhere in labeling include:
+
+
+
+ *    gastrointestinal perforation [ see  warnings and precautions (5.1)   ] 
+ *    opioid withdrawal [ see    warnings and precautions (5.2)   ] 
+      excerpt:   the most common adverse reactions in clinical trials (>= 3%) are: abdominal pain, diarrhea, nausea, flatulence, vomiting, and headache  (6.1)  
+ 
+
+ to report suspected adverse reactions, contact astrazeneca at 1-800-236-9933 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the data described below reflect exposure to movantik in 1497 patients in clinical trials, including 537 patients exposed for greater than six months, and 320 patients exposed for 12 months.
+
+
+
+ the safety data described in table 1 are derived from two double-blind, placebo-controlled trials (studies 1 and 2) in patients with oic and non-cancer related pain [  see      clinical studies (14)    ].
+
+
+
+ study 3 (n=302) was a safety extension study that allowed patients from study 1 to continue the same blinded treatment for an additional 12 weeks. safety data for patients in study 3 are similar to those listed in table 1.
+
+
+
+ study 4 (n=844) was a phase 3, 52-week, multi-center, open-label, randomized, parallel group, safety and tolerability study of naloxegol versus usual care treatment for oic (as determined by the investigator and excluding peripheral opioid antagonists) in patients with non-cancer related pain. the population enrolled in study 4 was similar to that of the other studies. eligible patients were randomized in a 2:1 ratio to receive either naloxegol 25 mg once daily or usual care treatment for oic. the most commonly used laxatives in the usual care group were rectal stimulants (e.g., bisacodyl), oral stimulants (e.g., senna), and oral osmotics (e.g., macrogol, magnesium). safety data for patients in study 4 are similar to those listed in table 1.
+
+
+
+ table 1 lists adverse reactions in pooled studies 1 and 2 occurring in >= 3% of patients receiving movantik 12.5 mg or 25 mg and at an incidence greater than placebo.
+
+
+
+ table 1. adverse reactionsadverse reactions occurring in >=3% of patients receiving movantik 12.5 mg or 25 mg and at an incidence greater than placebo. in patients with oic and non-cancer pain (studies 1 and 2) 
+                                adverse reaction            
+                                                              movantik 25 mg  (n=446)    movantik 12.5 mg  (n=441)    placebo  (n=444)         
+                               abdominal pain               
+                                                              21%                      12%                      7%                       
+                               diarrhea                     
+                                                              9%                       6%                       5%                       
+                               nausea                       
+                                                              8%                       7%                       5%                       
+                               flatulence                   
+                                                              6%                       3%                       3%                       
+                               vomiting                     
+                                                              5%                       3%                       4%                       
+                               headache                     
+                                                              4%                       4%                       3%                       
+                               hyperhidrosis                
+                                                              3%                       <1%                      <1%                      
+            opioid withdrawal  
+ 
+
+ possible opioid withdrawal, defined as at least three adverse reactions potentially related to opioid withdrawal that occurred on the same day and were not all related to the gastrointestinal system, occurred in less than 1% (1/444) of placebo subjects, 1% (5/441) receiving movantik 12.5 mg, and 3% (14/446) receiving movantik 25 mg in studies 1 and 2 regardless of maintenance opioid treatment. symptoms included but were not limited to hyperhidrosis, chills, diarrhea, abdominal pain, anxiety, irritability, and yawning. patients receiving methadone as therapy for their pain condition were observed in studies 1 and 2 to have a higher frequency of gastrointestinal adverse reactions than patients receiving other opioids [39% (7/18) vs. 26% (110/423) in the 12.5 mg group; 75% (24/32) vs. 34% (142/414) in the 25 mg group].
+    5 warnings and precautions
+
+
+
+   excerpt:    *     gastrointestinal perforation : consider the overall risk benefit in patients with known or suspected lesions of the gi tract. monitor for severe, persistent or worsening abdominal pain; discontinue if development of symptoms  (5.1)   
+ *     opioid withdrawal : consider the overall risk benefit in patients with disruptions to the blood-brain barrier. monitor for symptoms of opioid withdrawal  (5.2)   
+    
+ 
+
+   5.1 gastrointestinal perforation
+
+
+
+  cases of gastrointestinal perforation have been reported with use of another peripherally acting opioid antagonist in patients with conditions that may be associated with localized or diffuse reduction of structural integrity in the wall of the gastrointestinal tract (e.g., peptic ulcer disease, ogilvie's syndrome, diverticular disease, infiltrative gastrointestinal tract malignancies or peritoneal metastases). take into account the overall risk-benefit profile when using movantik in patients with these conditions or other conditions which might result in impaired integrity of the gastrointestinal tract wall (e.g., crohn's disease). monitor for the development of severe, persistent or worsening abdominal pain; discontinue movantik in patients who develop this symptom [ see     contraindications (4)    ].
+
+
+
+    5.2 opioid withdrawal
+
+
+
+  clusters of symptoms consistent with opioid withdrawal, including hyperhidrosis, chills, diarrhea, abdominal pain, anxiety, irritability, and yawning have occurred in patients treated with movantik [ see     adverse reactions (6.1)    ]. in addition, patients receiving methadone as therapy for their pain condition were observed in clinical trials to have a higher frequency of gastrointestinal adverse reactions that may have been related to opioid withdrawal than patients receiving other opioids [ see     adverse reactions (6.1)    ]. patients having disruptions to the blood-brain barrier may be at increased risk for opioid withdrawal or reduced analgesia. take into account the overall risk-benefit profile when using movantik in such patients. monitor for symptoms of opioid withdrawal in such patients.

@@ -1,0 +1,244 @@
+    6 adverse reactions
+
+  excerpt:   most common adverse reactions (>=5% placebo) are thirst, dry mouth, asthenia, constipation, pollakiuria or polyuria, and hyperglycemia (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact otsuka at 1-877-726-7220 or fda at 1-800-fda-1088 (  www.fda.gov/medwatch  ).  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. the adverse event information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
+
+
+
+ in multiple-dose, placebo-controlled trials, 607 hyponatremic patients (serum sodium <135 meq/l) were treated with samsca. the mean age of these patients was 62 years; 70% of patients were male and 82% were caucasian. one hundred eighty nine (189) tolvaptan-treated patients had a serum sodium <130 meq/l, and 52 patients had a serum sodium <125 meq/l. hyponatremia was attributed to cirrhosis in 17% of patients, heart failure in 68% and siadh/other in 16%. of these patients, 223 were treated with the recommended dose titration (15 mg titrated to 60 mg as needed to raise serum sodium).
+
+
+
+ overall, over 4,000 patients have been treated with oral doses of tolvaptan in open-label or placebo-controlled clinical trials. approximately 650 of these patients had hyponatremia; approximately 219 of these hyponatremic patients were treated with tolvaptan for 6 months or more.
+
+
+
+ the most common adverse reactions (incidence >=5% more than placebo) seen in two 30-day, double-blind, placebo-controlled hyponatremia trials in which tolvaptan was administered in titrated doses (15 mg to 60 mg once daily) were thirst, dry mouth, asthenia, constipation, pollakiuria or polyuria and hyperglycemia. in these trials, 10% (23/223) of tolvaptan-treated patients discontinued treatment because of an adverse event, compared to 12% (26/220) of placebo-treated patients; no adverse reaction resulting in discontinuation of trial medication occurred at an incidence of >1% in tolvaptan-treated patients.
+
+
+
+ table 1 lists the adverse reactions reported in tolvaptan-treated patients with hyponatremia (serum sodium <135 meq/l) and at a rate at least 2% greater than placebo-treated patients in two 30-day, double-blind, placebo-controlled trials. in these studies, 223 patients were exposed to tolvaptan (starting dose 15 mg, titrated to 30 and 60 mg as needed to raise serum sodium). adverse events resulting in death in these trials were 6% in tolvaptan-treated-patients and 6% in placebo-treated patients.
+
+
+
+ table 1. adverse reactions (>2% more than placebo) in tolvaptan-treated patients in double-blind, placebo-controlled hyponatremia trials 
+ system organ classmeddra preferred term   tolvaptan15 mg/day-60 mg/day(n = 223)n (%)      placebo (n = 220)n (%)       
+  
+ the following terms are subsumed under the referenced adr in table 1:   
+  
+   gastrointestinal disorders               
+ dry mouth                                            28 (13)                          9 (4)                
+ constipation                                          16 (7)                          4 (2)                
+   general disorders and administration site conditions     
+ thirst                                               35 (16)                          11 (5)               
+ asthenia                                              19 (9)                          9 (4)                
+ pyrexia                                               9 (4)                           2 (1)                
+   metabolism and nutrition disorders       
+ hyperglycemia                                         14 (6)                          2 (1)                
+ anorexia                                              8 (4)                           2 (1)                
+   renal and urinary disorders              
+ pollakiuria or polyuria                              25 (11)                          7 (3)                
+         in a subgroup of patients with hyponatremia (n = 475, serum sodium <135 meq/l) enrolled in a double-blind, placebo-controlled trial (mean duration of treatment was 9 months) of patients with worsening heart failure, the following adverse reactions occurred in tolvaptan-treated patients at a rate at least 2% greater than placebo: mortality (42% tolvaptan, 38% placebo), nausea (21% tolvaptan, 16% placebo), thirst (12% tolvaptan, 2% placebo), dry mouth (7% tolvaptan, 2% placebo) and polyuria or pollakiuria (4% tolvaptan, 1% placebo).
+ 
+
+     gastrointestinal bleeding in patients with cirrhosis  
+
+
+
+ in patients with cirrhosis treated with tolvaptan in the hyponatremia trials, gastrointestinal bleeding was reported in 6 out of 63 (10%) tolvaptan-treated patients and 1 out of 57 (2%) placebo treated patients.
+
+
+
+ the following adverse reactions occurred in <2% of hyponatremic patients treated with samsca and at a rate greater than placebo in double-blind placebo-controlled trials (n = 607 tolvaptan; n = 518 placebo) or in <2% of patients in an uncontrolled trial of patients with hyponatremia (n = 111) and are not mentioned elsewhere in the label.
+
+
+
+   blood and lymphatic system disorders:  disseminated intravascular coagulation
+
+
+
+   cardiac disorders:  intracardiac thrombus, ventricular fibrillation
+
+
+
+   investigations:  prothrombin time prolonged
+
+
+
+   gastrointestinal disorders:  ischemic colitis
+
+
+
+   metabolism and nutrition disorders:  diabetic ketoacidosis
+
+
+
+   musculoskeletal and connective tissue disorders:  rhabdomyolysis
+
+
+
+   nervous system:  cerebrovascular accident
+
+
+
+   renal and urinary disorders:  urethral hemorrhage
+
+
+
+   reproductive system and breast disorders (female):  vaginal hemorrhage
+
+
+
+   respiratory, thoracic, and mediastinal disorders:  pulmonary embolism, respiratory failure
+
+
+
+   vascular disorder:  deep vein thrombosis
+
+
+
+   6.2 postmarketing experience
+
+  the following adverse reactions have been identified during post-approval use of samsca. because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   neurologic:  osmotic demyelination syndrome
+
+
+
+   investigations:  hypernatremia
+
+
+
+ *     removal of excess free body water increases serum osmolality and serum sodium concentrations. all patients treated with tolvaptan, especially those whose serum sodium levels become normal, should continue to be monitored to ensure serum sodium remains within normal limits. if hypernatremia is observed, management may include dose decreases or interruption of tolvaptan treatment, combined with modification of free-water intake or infusion. during clinical trials of hyponatremic patients, hypernatremia was reported as an adverse event in 0.7% of patients receiving tolvaptan vs. 0.6% of patients receiving placebo; analysis of laboratory values demonstrated an incidence of hypernatremia of 1.7% in patients receiving tolvaptan vs. 0.8% in patients receiving placebo. 
+      immune system disorders:  hypersensitivity reactions including anaphylactic shock and rash generalized  [  see contraindications (4.6)  ].  
+
+
+    boxed warning: warning: initiate and re-initiate in a hospital and monitor serum sodium
+
+    warning: initiate and re-initiate in a hospital and monitor serum sodium  
+
+    samsca should be initiated and re-initiated in patients only in a hospital where serum sodium can be monitored closely.  
+
+
+
+   too rapid correction of hyponatremia (e.g., >12 meq/l/24 hours) can cause osmotic demyelination resulting in dysarthria, mutism, dysphagia, lethargy, affective changes, spastic quadriparesis, seizures, coma and death. in susceptible patients, including those with severe malnutrition, alcoholism or advanced liver disease, slower rates of correction may be advisable.  
+
+
+
+   excerpt:   warning: initiate and re-initiate in a hospital and monitor serum sodium
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  samsca should be initiated and re-initiated in patients only in a hospital where serum sodium can be monitored closely. 
+ *  too rapid correction of hyponatremia (e.g., >12 meq/l/24 hours) can cause osmotic demyelination resulting in dysarthria, mutism, dysphagia, lethargy, affective changes, spastic quadriparesis, seizures, coma and death. in susceptible patients, including those with severe malnutrition, alcoholism or advanced liver disease, slower rates of correction may be advisable. 
+    5 warnings and precautions
+
+
+
+   excerpt:    *  liver injury: limit treatment duration to 30 days. if hepatic injury is suspected, discontinue samsca. avoid use in patients with underlying liver disease. (  5.2  ) 
+ *  dehydration and hypovolemia may require intervention (  5.3  ) 
+ *  avoid use with hypertonic saline (  5.4  ) 
+ *  avoid use with cyp 3a inducers and moderate cyp 3a inhibitors (  5.5  ) 
+ *  consider dose reduction if co-administered with p-gp inhibitors (  5.5  ) 
+ *  monitor serum potassium in patients with potassium >5 meq/l or on drugs known to increase potassium (  5.6  ) 
+    
+ 
+
+   5.1 too rapid correction of serum sodium can cause serious neurologic sequelae
+
+
+
+   (see  boxed warning  )  
+
+
+
+ osmotic demyelination syndrome is a risk associated with too rapid correction of hyponatremia (e.g., >12 meq/l/24 hours). osmotic demyelination results in dysarthria, mutism, dysphagia, lethargy, affective changes, spastic quadriparesis, seizures, coma or death. in susceptible patients, including those with severe malnutrition, alcoholism or advanced liver disease, slower rates of correction may be advisable. in controlled clinical trials in which tolvaptan was administered in titrated doses starting at 15 mg once daily, 7% of tolvaptan-treated subjects with a serum sodium <130 meq/l had an increase in serum sodium greater than 8 meq/l at approximately 8 hours and 2% had an increase greater than 12 meq/l at 24 hours. approximately 1% of placebo-treated subjects with a serum sodium <130 meq/l had a rise greater than 8 meq/l at 8 hours and no patient had a rise greater than 12 meq/l/24 hours. osmotic demyelination syndrome has been reported in association with samsca therapy [see  adverse reactions (6.2)  ]  . patients treated with samsca should be monitored to assess serum sodium concentrations and neurologic status, especially during initiation and after titration. subjects with siadh or very low baseline serum sodium concentrations may be at greater risk for too-rapid correction of serum sodium. in patients receiving samsca who develop too rapid a rise in serum sodium, discontinue or interrupt treatment with samsca and consider administration of hypotonic fluid. fluid restriction during the first 24 hours of therapy with samsca may increase the likelihood of overly-rapid correction of serum sodium, and should generally be avoided.
+
+
+
+    5.2 liver injury
+
+
+
+   samsca can cause serious and potentially fatal liver injury. in a placebo-controlled and open label extension study of chronically administered tolvaptan in patients with autosomal dominant polycystic kidney disease, cases of serious liver injury attributed to tolvaptan were observed. an increased incidence of alt greater than three times the upper limit of normal was associated with tolvaptan (42/958 or 4.4%) compared to placebo (5/484 or 1.0%). cases of serious liver injury were generally observed starting 3 months after initiation of tolvaptan although elevations of alt occurred prior to 3 months.  
+
+
+
+  patients with symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice should discontinue treatment with samsca.  
+
+
+
+  limit duration of therapy with samsca to 30 days. avoid use in patients with underlying liver disease, including cirrhosis, because the ability to recover from liver injury may be impaired [see  adverse reactions (6.1)  ]  .  
+
+
+
+    5.3 dehydration and hypovolemia
+
+
+
+  samsca therapy induces copious aquaresis, which is normally partially offset by fluid intake. dehydration and hypovolemia can occur, especially in potentially volume-depleted patients receiving diuretics or those who are fluid restricted. in multiple-dose, placebo-controlled trials in which 607 hyponatremic patients were treated with tolvaptan, the incidence of dehydration was 3.3% for tolvaptan and 1.5% for placebo-treated patients. in patients receiving samsca who develop medically significant signs or symptoms of hypovolemia, interrupt or discontinue samsca therapy and provide supportive care with careful management of vital signs, fluid balance and electrolytes. fluid restriction during therapy with samsca may increase the risk of dehydration and hypovolemia. patients receiving samsca should continue ingestion of fluid in response to thirst.
+
+
+
+    5.4 co-administration with hypertonic saline
+
+
+
+  concomitant use with hypertonic saline is not recommended.
+
+
+
+    5.5 drug interactions
+
+
+
+   other drugs affecting exposure to tolvaptan  
+
+
+
+   cyp 3a inhibitors
+
+
+
+ tolvaptan is a substrate of cyp 3a. cyp 3a inhibitors can lead to a marked increase in tolvaptan concentrations [see  dosage and administration (2.3)  ,  drug interactions (7.1)  ].  do not use samsca with strong inhibitors of cyp 3a [see  contraindications (4.4)  ]  and avoid concomitant use with moderate cyp 3a inhibitors.
+
+
+
+   cyp 3a inducers
+
+
+
+ avoid co-administration of cyp 3a inducers (e.g., rifampin, rifabutin, rifapentin, barbiturates, phenytoin, carbamazepine, st. john's wort) with samsca, as this can lead to a reduction in the plasma concentration of tolvaptan and decreased effectiveness of samsca treatment. if co-administered with cyp 3a inducers, the dose of samsca may need to be increased [see  dosage and administration (2.3)  ,  drug interactions (7.1)  ].  
+
+
+
+   p-gp inhibitors
+
+
+
+ the dose of samsca may have to be reduced when samsca is co-administered with p-gp inhibitors, e.g., cyclosporine [see  dosage and administration (2.3)  ,  drug interactions (7.1)  ].  
+
+
+
+    5.6 hyperkalemia or drugs that increase serum potassium
+
+
+
+  treatment with tolvaptan is associated with an acute reduction of the extracellular fluid volume which could result in increased serum potassium. serum potassium levels should be monitored after initiation of tolvaptan treatment in patients with a serum potassium >5 meq/l as well as those who are receiving drugs known to increase serum potassium levels.

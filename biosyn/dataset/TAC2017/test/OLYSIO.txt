@@ -1,0 +1,209 @@
+    6 adverse reactions
+
+  olysio should be administered in combination with other antiviral drugs. refer to the prescribing information of the antiviral drugs used in combination with olysio for a description of adverse reactions associated with their use.
+
+
+
+ the following serious and otherwise important adverse drug reactions (adrs) are discussed in detail in another section of the labeling:
+
+
+
+ *  serious symptomatic bradycardia when co-administered with sofosbuvir and amiodarone [see  warnings and precautions (5.1)  and  drug interactions (7.3)  ]  
+ *  hepatic decompensation and hepatic failure [see  warnings and precautions (5.2)  ]  
+ *  photosensitivity [see  warnings and precautions (5.4)  ]  
+ *  rash [see  warnings and precautions (5.5)  ]  
+      excerpt:   most common reported adverse reactions (incidence greater than 20%) (  6.1  ):
+ 
+
+ *  olysio with peginterferon alfa and ribavirin (occurring with at least 3% higher frequency compared to placebo) during first 12 weeks of treatment: rash (including photosensitivity), pruritus and nausea. 
+ *  olysio with sofosbuvir during 12 or 24 weeks of treatment: fatigue, headache and nausea. 
+      to report suspected adverse reactions, contact janssen products, lp at 1-800-janssen (1-800-526-7736) or fda at 1-800-fda-1088 or  www.fda.gov/medwatch.    
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+     adverse reactions when used in combination with peg-ifn-alfa and rbv  
+
+
+
+ the safety profile of olysio in combination with peg-ifn-alfa and rbv in patients with hcv genotype 1 infection who were treatment-naive or who had previously relapsed following interferon therapy with or without rbv is based on pooled data from three phase 3 trials  [see  clinical studies (14)  ]  . these trials included a total of 1178 subjects who received olysio or placebo in combination with 24 or 48 weeks of peg-ifn-alfa and rbv. of the 1178 subjects, 781 subjects were randomized to receive olysio 150 mg once daily for 12 weeks and 397 subjects were randomized to receive placebo once daily for 12 weeks.
+
+
+
+ in the pooled phase 3 safety data, the majority of the adverse reactions reported during 12 weeks treatment with olysio in combination with peg-ifn-alfa and rbv were grade 1 to 2 in severity. grade 3 or 4 adverse reactions were reported in 23% of subjects receiving olysio in combination with peg-ifn-alfa and rbv versus 25% of subjects receiving placebo in combination with peg-ifn-alfa and rbv. serious adverse reactions were reported in 2% of subjects receiving olysio in combination with peg-ifn-alfa and rbv and in 3% of subjects receiving placebo in combination with peg-ifn-alfa and rbv. discontinuation of olysio or placebo due to adverse reactions occurred in 2% and 1% of subjects receiving olysio with peg-ifn-alfa and rbv and subjects receiving placebo with peg-ifn-alfa and rbv, respectively.
+
+
+
+ the following table lists adverse reactions (all grades) that occurred with at least 3% higher frequency among subjects receiving olysio 150 mg once daily in combination with peg-ifn-alfa and rbv, compared to subjects receiving placebo in combination with peg-ifn-alfa and rbv, during the first 12 weeks of treatment in the pooled phase 3 trials in subjects who were treatment-naive or who had previously relapsed after peg-ifn-alfa and rbv therapy (see  table 4  ).
+
+
+
+ table 4: adverse reactions (all grades) that occurred with at least 3% higher frequency among subjects receiving olysio 150 mg once daily in combination with peg-ifn-alfa and rbv compared to subjects receiving placebo in combination with peg-ifn-alfa and rbv during the first 12 weeks of treatment in subjects with chc infectionsubjects were treatment-naive or had previously relapsed after peg-ifn-alfa and rbv therapy. (pooled phase 3 trialspooled phase 3 trials: quest 1, quest 2, promise.) 
+ adverse reaction                olysio 150 mg + peg-ifn-alfa+ rbvfirst 12 weeksn=781% (n)  placebo + peg-ifn-alfa+ rbvfirst 12 weeksn=397% (n)   
+  
+ rash (including photosensitivity)               28 (218)                              20 (79)                 
+ pruritus                                     22 (168)                              15 (58)                 
+ nausea                                       22 (173)                              18 (70)                 
+ myalgia                                      16 (126)                              13 (53)                 
+ dyspnea                                       12 (92)                              8 (30)                  
+             rash and photosensitivity  
+ 
+
+ in the phase 3 clinical trials, rash (including photosensitivity reactions) was observed in 28% of olysio-treated subjects compared to 20% of placebo-treated subjects during the 12 weeks of treatment with olysio or placebo in combination with peg-ifn-alfa and rbv. fifty-six percent (56%) of rash events in the olysio group occurred in the first 4 weeks, with 42% of cases occurring in the first 2 weeks. most of the rash events in olysio-treated subjects were of mild or moderate severity (grade 1 or grade 2). severe (grade 3) rash occurred in 1% of olysio-treated subjects and in none of the placebo-treated subjects. there were no reports of life-threatening (grade 4) rash. discontinuation of olysio or placebo due to rash occurred in 1% of olysio-treated subjects, compared to less than 1% of placebo-treated subjects. the frequencies of rash and photosensitivity reactions were higher in subjects with higher simeprevir exposures.
+
+
+
+ all subjects enrolled in the phase 3 trials were directed to use sun protection measures. in these trials, adverse reactions under the specific category of photosensitivity were reported in 5% of olysio-treated subjects compared to 1% of placebo-treated subjects during the 12 weeks of treatment with olysio or placebo in combination with peg-ifn-alfa and rbv. most photosensitivity reactions in olysio-treated subjects were of mild or moderate severity (grade 1 or 2). two olysio-treated subjects experienced photosensitivity reactions which resulted in hospitalization. no life-threatening photosensitivity reactions were reported.
+
+
+
+     dyspnea  
+
+
+
+ during the 12 weeks of treatment with olysio, dyspnea was reported in 12% of olysio-treated subjects compared to 8% of placebo-treated subjects (all grades; pooled phase 3 trials). all dyspnea events reported in olysio-treated subjects were of mild or moderate severity (grade 1 or 2). there were no grade 3 or 4 dyspnea events reported and no subjects discontinued treatment with olysio due to dyspnea. sixty-one percent (61%) of dyspnea events occurred in the first 4 weeks of treatment with olysio.
+
+
+
+     laboratory abnormalities  
+
+
+
+ there were no differences between treatment groups for the following laboratory parameters: hemoglobin, neutrophils, platelets, aspartate aminotransferase, alanine aminotransferase, amylase, or serum creatinine. laboratory abnormalities that were observed at a higher incidence in olysio-treated subjects than in placebo-treated subjects are listed in table 5.
+
+
+
+ table 5: laboratory abnormalities (who worst toxicity grades 1 to 4) observed at a higher incidence in olysio-treated subjects (pooled phase 3 trialspooled phase 3 trials: quest 1, quest 2, promise.; first 12 weeks of treatment) 
+ laboratory parameter         who toxicity range       olysio 150 mg + peg-ifn-alfa + rbvn=781%  placebo + peg-ifn-alfa + rbvn=397%   
+  
+   chemistry                                                                                                  
+     alkaline phosphatase                                                                                        
+     grade 1                > 1.25 to <= 2.50 * uln                3                          1               
+     grade 2                > 2.50 to <= 5.00 * uln               < 1                         0               
+     hyperbilirubinemia                                                                                        
+     grade 1                 > 1.1 to <= 1.5 * uln                27                         15               
+     grade 2                 > 1.5 to <= 2.5 * uln                18                          9               
+     grade 3                 > 2.5 to <= 5.0 * uln                 4                          2               
+     grade 4                      > 5.0 * uln                     < 1                         0               
+          elevations in bilirubin were predominately mild to moderate (grade 1 or 2) in severity, and included elevation of both direct and indirect bilirubin. elevations in bilirubin occurred early after treatment initiation, peaking by study week 2, and were rapidly reversible upon cessation of olysio. bilirubin elevations were generally not associated with elevations in liver transaminases. the frequency of elevated bilirubin was higher in subjects with higher simeprevir exposures.
+ 
+
+     adverse reactions when used with sofosbuvir  
+
+
+
+ in the cosmos trial, the most common (> 10%) adverse reactions reported during 12 weeks treatment with olysio in combination with sofosbuvir without rbv were fatigue (25%), headache (21%), nausea (21%), insomnia (14%) and pruritus (11%). rash and photosensitivity were reported in 11% and 7% of subjects, respectively. during 24 weeks treatment with olysio in combination with sofosbuvir, dizziness (16%), and diarrhea (16%) were also commonly reported.
+
+
+
+   6.2 postmarketing experience
+
+  the following adverse reactions have been reported during post approval use of olysio. because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship between drug exposure and these adverse reactions.
+
+
+
+     cardiac disorders:  serious symptomatic bradycardia has been reported in patients taking amiodarone who initiate treatment with sofosbuvir in combination with another hcv direct acting antiviral, including olysio  [see  warnings and precautions (5.1)  and  drug interactions (7.3)  ].  
+
+
+
+     hepatobiliary disorders:  hepatic decompensation, hepatic failure  [see  warnings and precautions (5.2)  ]  .
+    5 warnings and precautions
+
+
+
+   excerpt:    *  serious symptomatic bradycardia when co-administered with sofosbuvir and amiodarone: serious symptomatic bradycardia may occur in patients taking amiodarone with sofosbuvir in combination with olysio, particularly in patients also receiving beta blockers, or those with underlying cardiac comorbidities and/or advanced liver disease. co-administration of amiodarone with olysio in combination with sofosbuvir is not recommended. in patients without alternative treatment options, cardiac monitoring is recommended. (  5.1  ,  6.2  ,  7.3  ) 
+ *  hepatic decompensation and hepatic failure: hepatic decompensation and hepatic failure, including fatal cases have been reported in patients with advanced and/or decompensated cirrhosis. monitor liver chemistry tests before and during olysio combination therapy. (  5.2  ) 
+ *  photosensitivity: serious photosensitivity reactions have been observed during olysio combination therapy. use sun protection measures and limit sun exposure during olysio combination therapy. consider discontinuation if a photosensitivity reaction occurs. (  5.4  ) 
+ *  rash: rash has been observed during olysio combination therapy. discontinue olysio if severe rash occurs. (  5.5  ) 
+    
+ 
+
+   5.1 serious symptomatic bradycardia when co-administered with sofosbuvir and amiodarone
+
+
+
+  postmarketing cases of symptomatic bradycardia and cases requiring pacemaker intervention have been reported when amiodarone is co-administered with sofosbuvir in combination with another hcv direct acting antiviral, including olysio. a fatal cardiac arrest was reported in a patient receiving a sofosbuvir-containing regimen (ledipasvir/sofosbuvir). bradycardia has generally occurred within hours to days, but cases have been observed up to 2 weeks after initiating hcv treatment. patients also taking beta blockers, or those with underlying cardiac comorbidities and/or advanced liver disease may be at increased risk for symptomatic bradycardia with co-administration of amiodarone. bradycardia generally resolved after discontinuation of hcv treatment. the mechanism for this bradycardia effect is unknown.
+
+
+
+ co-administration of amiodarone with olysio in combination with sofosbuvir is not recommended. for patients taking amiodarone who have no other alternative treatment options, and who will be co-administered olysio and sofosbuvir:
+
+
+
+ *   counsel patients about the risk of serious symptomatic bradycardia  
+ *   cardiac monitoring in an in-patient setting for the first 48 hours of co-administration is recommended, after which outpatient or self-monitoring of the heart rate should occur on a daily basis through at least the first 2 weeks of treatment.  
+    patients who are taking sofosbuvir in combination with olysio who need to start amiodarone therapy due to no other alternative treatment options should undergo similar cardiac monitoring as outlined above.
+ 
+
+ due to amiodarone's long elimination half-life, patients discontinuing amiodarone just prior to starting sofosbuvir in combination with olysio should also undergo similar cardiac monitoring as outlined above.
+
+
+
+ patients who develop signs or symptoms of bradycardia should seek medical evaluation immediately. symptoms may include near-fainting or fainting, dizziness or lightheadedness, malaise, weakness, excessive tiredness, shortness of breath, chest pain, confusion or memory problems [see  adverse reactions (6.2)  and  drug interactions (7.3)  ]  .
+
+
+
+    5.2 hepatic decompensation and hepatic failure
+
+
+
+   hepatic decompensation and hepatic failure, including fatal cases, have been reported postmarketing in patients treated with olysio in combination with peginterferon alfa and ribavirin or in combination with sofosbuvir. most cases were reported in patients with advanced and/or decompensated cirrhosis who are at increased risk for hepatic decompensation or hepatic failure. because these events have been reported voluntarily during clinical practice, estimates of frequency cannot be made and a causal relationship between treatment with olysio and these events has not been established [see  adverse reactions (6.2)  ]  .  
+
+
+
+  olysio is not recommended for patients with moderate or severe hepatic impairment (child-pugh class b or c) [see  dosage and administration (2.5)  and  use in specific populations (8.8)  ].    
+
+
+
+  in clinical trials of olysio, modest increases in bilirubin levels were observed without impacting hepatic function [see  adverse reactions (6.1)  ]  . postmarketing cases of hepatic decompensation with markedly elevated bilirubin levels have been reported. monitor liver chemistry tests before and as clinically indicated during olysio combination therapy. patients who experience an increase in total bilirubin to greater than 2.5 times the upper limit of normal should be closely monitored:  
+
+
+
+ *   patients should be instructed to contact their healthcare provider if they have onset of fatigue, weakness, lack of appetite, nausea and vomiting, jaundice or discolored feces.  
+ *   discontinue olysio if elevation in bilirubin is accompanied by liver transaminase increases or clinical signs and symptoms of hepatic decompensation.  
+       5.3 risk of serious adverse reactions associated with combination treatment
+ 
+
+   olysio should be used in combination with other antiviral drugs for the treatment of chc infection. therefore, consult the prescribing information for these drugs before starting therapy with olysio. warnings and precautions related to these drugs also apply to their use in olysio combination treatment.  
+
+
+
+    5.4 photosensitivity
+
+
+
+   photosensitivity reactions have been observed with olysio combination therapy. serious photosensitivity reactions resulting in hospitalization have been observed with olysio in combination with peg-ifn-alfa and rbv [see  adverse reactions (6.1)  ]  . photosensitivity reactions occurred most frequently in the first 4 weeks of treatment, but can occur at any time during treatment.  photosensitivity may present as an exaggerated sunburn reaction, usually affecting areas exposed to light (typically the face, "v" area of the neck, extensor surfaces of the forearms, and dorsa of the hands). manifestations may include burning, erythema, exudation, blistering, and edema.
+
+
+
+  use sun protective measures and limit sun exposure during treatment with olysio. avoid use of tanning devices during treatment with olysio.  discontinuation of olysio should be considered if a photosensitivity reaction occurs and patients should be monitored until the reaction has resolved. if a decision is made to continue olysio in the setting of a photosensitivity reaction, expert consultation is advised.
+
+
+
+    5.5 rash
+
+
+
+   rash has been observed with olysio combination therapy [see  adverse reactions (6.1)  ]  . rash occurred most frequently in the first 4 weeks of treatment, but can occur at any time during treatment. severe rash and rash requiring discontinuation of olysio have been reported in subjects receiving olysio in combination with peg-ifn-alfa and rbv.  most of the rash events in olysio-treated patients were of mild or moderate severity [see  adverse reactions (6.1)  ]  . patients with mild to moderate rashes should be followed for possible progression of rash, including the development of mucosal signs (e.g., oral lesions, conjunctivitis) or systemic symptoms. if the rash becomes severe, olysio should be discontinued. patients should be monitored until the rash has resolved.
+
+
+
+    5.6 sulfa allergy
+
+
+
+  olysio contains a sulfonamide moiety. in subjects with a history of sulfa allergy (n=16), no increased incidence of rash or photosensitivity reactions has been observed. however, there are insufficient data to exclude an association between sulfa allergy and the frequency or severity of adverse reactions observed with the use of olysio.
+
+
+
+    5.7 risk of adverse reactions or reduced therapeutic effect due to drug interactions
+
+
+
+   co-administration of olysio with substances that are moderate or strong inducers or inhibitors of cytochrome p450 3a (cyp3a) is not recommended as this may lead to significantly lower or higher exposure of simeprevir, respectively, which may result in reduced therapeutic effect or adverse reactions [see  drug interactions (7)  and  clinical pharmacology (12.3)  ]  .  

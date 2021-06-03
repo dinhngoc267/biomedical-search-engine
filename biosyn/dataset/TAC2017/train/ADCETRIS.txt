@@ -1,0 +1,425 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are discussed in greater detail in other sections of the prescribing information:
+
+
+
+ *  peripheral neuropathy [see  warnings and precautions (      5.1      )  ]  
+ *  anaphylaxis and infusion reactions [see  warnings and precautions (      5.2      )  ]  
+ *  hematologic toxicities [see  warnings and precautions (      5.3      )  ]  
+ *  serious infections and opportunistic infections [see  warnings and precautions (      5.4      )  ]  
+ *  tumor lysis syndrome [see  warnings and precautions (      5.5      )  ]  
+ *  increased toxicity in the presence of severe renal impairment [see  warnings and precautions (      5.6      )  ]  
+ *  increased toxicity in the presence of moderate or severe hepatic impairment [see  warnings and precautions (      5.7      )  ]  
+ *  hepatotoxicity [see  warnings and precautions (      5.8      )  ]  
+ *  progressive multifocal leukoencephalopathy [see  warnings and precautions (      5.9      )  ]  
+ *  pulmonary toxicity [see  warnings and precautions (5.10)  ]  
+ *  serious dermatologic reactions [see  warnings and precautions (5.11)    ]   
+      excerpt:   the most common adverse reactions (>=20%) were:
+ 
+
+ *  relapsed classical hl and relapsed salcl: neutropenia, peripheral sensory neuropathy, fatigue, nausea, anemia, upper respiratory tract infection, diarrhea, pyrexia, rash, thrombocytopenia, cough, and vomiting  (6.1)  . 
+ *  classical hl post-auto-hsct consolidation: neutropenia, peripheral sensory neuropathy, thrombocytopenia, anemia, upper respiratory tract infection, fatigue, peripheral motor neuropathy, nausea, cough, and diarrhea  (6.1)  . 
+      to report suspected adverse reactions, contact seattle genetics, inc. at 1-855-473-2436 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 clinical trial experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the data below reflect exposure to adcetris as monotherapy in 327 patients with classical hodgkin lymphoma (hl) and systemic anaplastic large cell lymphoma (salcl), including 160 patients in two uncontrolled single-arm trials (studies 1 and 2) and 167 patients in one placebo-controlled randomized trial (study 3).
+
+
+
+ in studies 1 and 2, the most common adverse reactions (>=20%), regardless of causality, were neutropenia, peripheral sensory neuropathy, fatigue, nausea, anemia, upper respiratory tract infection, diarrhea, pyrexia, rash, thrombocytopenia, cough, and vomiting. the most common adverse reactions occurring in at least 10% of patients in either study 1 or 2, regardless of causality, using the nci common toxicity criteria (ctc) version 3.0, are shown in   table 2  .
+
+
+
+ in study 3, the most common adverse reactions (>=20%) in the adcetris-treatment arm, regardless of causality, were neutropenia, peripheral sensory neuropathy, thrombocytopenia, anemia, upper respiratory tract infection, fatigue, peripheral motor neuropathy, nausea, cough, and diarrhea. the most common adverse reactions occurring in at least 10% of patients, using the nci ctc version 4, are shown in  table 3  .
+
+
+
+   experience in classical hodgkin lymphoma  
+
+
+
+     summary of clinical trial experience in relapsed classical hl (study 1)    
+
+
+
+ adcetris was studied in 102 patients with classical hl in a single arm clinical trial in which the recommended starting dose and schedule was 1.8 mg/kg intravenously every 3 weeks. median duration of treatment was 9 cycles (range, 1-16)  [see  clinical studies (        14.1        )  ]  .
+
+
+
+ the most common adverse reactions (>=20%), regardless of causality, were neutropenia, peripheral sensory neuropathy, fatigue, upper respiratory tract infection, nausea, diarrhea, anemia, pyrexia, thrombocytopenia, rash, abdominal pain, cough, and vomiting.
+
+
+
+     summary of clinical trial experience in classical hl post-auto-hsct consolidation (study 3)    
+
+
+
+ adcetris was studied in 329 patients with classical hl at high risk of relapse or progression post-auto-hsct in a randomized, double-blind, placebo-controlled clinical trial in which the recommended starting dose and schedule was 1.8 mg/kg of adcetris administered intravenously over 30 minutes every 3 weeks or placebo for up to 16 cycles. of the 329 enrolled patients, 327 (167 brentuximab vedotin, 160 placebo) received at least one dose of study treatment. the median number of treatment cycles in each study arm was 15 (range, 1-16) and 80 patients (48%) in the adcetris-treatment arm received 16 cycles  [see  clinical studies (        14.1        )  ]  .
+
+
+
+ standard international guidelines were followed for infection prophylaxis for herpes simplex virus (hsv), varicella-zoster virus (vzv), and  pneumocystis jiroveci  pneumonia (pcp) post-auto-hsct. overall, 312 patients (95%) received hsv and vzv prophylaxis with a median duration of 11.1 months (range, 0-20) and 319 patients (98%) received pcp prophylaxis with a median duration of 6.5 months (range, 0-20).
+
+
+
+   experience in systemic anaplastic large cell lymphoma  
+
+
+
+     summary of clinical trial experience in relapsed salcl (study 2)    
+
+
+
+ adcetris was studied in 58 patients with salcl in a single arm clinical trial in which the recommended starting dose and schedule was 1.8 mg/kg intravenously every 3 weeks. median duration of treatment was 7 cycles (range, 1-16)  [see  clinical studies (        14.2        )  ]  .
+
+
+
+ the most common adverse reactions (>=20%), regardless of causality, were neutropenia, anemia, peripheral sensory neuropathy, fatigue, nausea, pyrexia, rash, diarrhea, and pain.
+
+
+
+ table 2: most commonly reported (>=10%) adverse reactions in studies 1 and 2 
+                                                 classical hl  salcl       
+                                                 total n = 102% of patients  total n = 58% of patients   
+ adverse reaction                                anygrade   grade3     grade4     anygrade   grade3     grade4      
+   blood and lymphatic system disorders                                                                             
+     neutropenia                                 54         15         6          55         12         9           
+     anemia                                      33         8          2          52         2          -           
+     thrombocytopenia                            28         7          2          16         5          5           
+     lymphadenopathy                             11         -          -          10         -          -           
+   nervous system disorders                                                                                         
+     peripheral sensory neuropathy               52         8          -          53         10         -           
+     peripheral motor neuropathy                 16         4          -          7          3          -           
+     headache                                    19         -          -          16         2          -           
+     dizziness                                   11         -          -          16         -          -           
+   general disorders and administration site conditions                                                                       
+     fatigue                                     49         3          -          41         2          2           
+     pyrexia                                     29         2          -          38         2          -           
+     chills                                      13         -          -          12         -          -           
+     pain                                        7          -          -          28         -          5           
+     edema peripheral                            4          -          -          16         -          -           
+   infections and infestations                                                                                      
+     upper respiratory tract infection           47         -          -          12         -          -           
+   gastrointestinal disorders                                                                                       
+     nausea                                      42         -          -          38         2          -           
+     diarrhea                                    36         1          -          29         3          -           
+     abdominal pain                              25         2          1          9          2          -           
+     vomiting                                    22         -          -          17         3          -           
+     constipation                                16         -          -          19         2          -           
+   skin and subcutaneous tissue disorders                                                                           
+     rash                                        27         -          -          31         -          -           
+     pruritus                                    17         -          -          19         -          -           
+     alopecia                                    13         -          -          14         -          -           
+     night sweats                                12         -          -          9          -          -           
+     dry skin                                    4          -          -          10         -          -           
+   respiratory, thoracic and mediastinal disorders                                                                       
+     cough                                       25         -          -          17         -          -           
+     dyspnea                                     13         1          -          19         2          -           
+     oropharyngeal pain                          11         -          -          9          -          -           
+   musculoskeletal and connective tissue disorders                                                                       
+     arthralgia                                  19         -          -          9          -          -           
+     myalgia                                     17         -          -          16         2          -           
+     back pain                                   14         -          -          10         2          -           
+     pain in extremity                           10         -          -          10         2          2           
+     muscle spasms                               9          -          -          10         2          -           
+   psychiatric disorders                                                                                            
+     insomnia                                    14         -          -          16         -          -           
+     anxiety                                     11         2          -          7          -          -           
+   metabolism and nutrition disorders                                                                               
+     decreased appetite                          11         -          -          16         2          -           
+   investigations                                                                                                   
+     weight decreased                            6          -          -          12         3          -           
+     table 3: most commonly reported (>=10% in the adcetris arm) adverse reactions in study 3 
+                                                 adcetris   placebo     
+                                                 total n = 167% of patients  total n = 160% of patients   
+ adverse reaction                                anygrade   grade3     grade4     anygrade   grade3     grade4      
+   blood and lymphatic system disorders                                                                             
+     neutropenia                                 78         30         9          34         6          4           
+     thrombocytopenia                            41         2          4          20         3          2           
+     anemia                                      27         4          -          19         2          -           
+   nervous system disorders                                                                                         
+     peripheral sensory neuropathy               56         10         -          16         1          -           
+     peripheral motor neuropathy                 23         6          -          2          1          -           
+     headache                                    11         2          -          8          1          -           
+   infections and infestations                                                                                      
+     upper respiratory tract infection           26         -          -          23         1          -           
+   general disorders and administration site conditions                                                                       
+     fatigue                                     24         2          -          18         3          -           
+     pyrexia                                     19         2          -          16         -          -           
+     chills                                      10         -          -          5          -          -           
+   gastrointestinal disorders                                                                                       
+     nausea                                      22         3          -          8          -          -           
+     diarrhea                                    20         2          -          10         1          -           
+     vomiting                                    16         2          -          7          -          -           
+     abdominal pain                              14         2          -          3          -          -           
+     constipation                                13         2          -          3          -          -           
+   respiratory, thoracic and mediastinal disorders                                                                       
+     cough                                       21         -          -          16         -          -           
+     dyspnea                                     13         -          -          6          -          1           
+   investigations                                                                                                   
+     weight decreased                            19         1          -          6          -          -           
+   musculoskeletal and connective tissue disorders                                                                       
+     arthralgia                                  18         1          -          9          -          -           
+     muscle spasms                               11         -          -          6          -          -           
+     myalgia                                     11         1          -          4          -          -           
+   skin and subcutaneous tissue disorders                                                                           
+     pruritus                                    12         1          -          8          -          -           
+   metabolism and nutrition disorders                                                                               
+     decreased appetite                          12         1          -          6          -          -           
+        additional important adverse reactions  
+ 
+
+   peripheral neuropathy  
+
+
+
+ in studies 1 and 2, 54% of patients experienced any grade of neuropathy. of these patients, 49% had complete resolution, 31% had partial improvement, and 20% had no improvement. of the patients who reported neuropathy, 51% had residual neuropathy at the time of their last evaluation.
+
+
+
+ in study 3, 67% of patients treated with adcetris experienced any grade of neuropathy. the median time to first onset of any grade was 14 weeks (range, 0.1-47), of grade 2 was 27 weeks (range, 0.4-52) and of grade 3 was 34 weeks (range, 7-106). the median time from onset to resolution or improvement of any grade was 23 weeks (range, 0.1-138), of grade 2 was 24 weeks (range, 1-108) and of grade 3 was 25 weeks (range, 2-98). of the patients who reported neuropathy, 59% had complete resolution and 41% had residual neuropathy (26% partial improvement, 15% no improvement) at the time of their last evaluation.
+
+
+
+   infusion reactions  
+
+
+
+ two cases of anaphylaxis were reported in the dose-finding trials. there were no grade 3 or 4 infusion-related reactions reported in studies 1 and 2; however, grade 1 or 2 infusion-related reactions were reported for 19 patients (12%). in studies 1 and 2, the most common adverse reactions (>=2%) associated with infusion-related reactions were chills (4%), nausea (3%), dyspnea (3%), pruritus (3%), pyrexia (2%), and cough (2%).
+
+
+
+ in study 3, infusion-related reactions were reported in 25 patients (15%) in the adcetris-treated arm and 3 patients (2%) in the placebo arm. grade 3 events were reported in 3 of the 25 patients treated with adcetris who experienced infusion-related reactions. no grade 4 infusion-related reactions were reported. the most common adverse reactions (>=2%) associated with infusion-related reactions were nausea (4%), chills (4%), dyspnea (2%), headache (2%), pruritus (2%), rash (2%), back pain (2%), and vomiting (2%).
+
+
+
+   pulmonary toxicity  
+
+
+
+ in a trial in patients with classical hl that studied adcetris with bleomycin as part of a combination regimen, the rate of non-infectious pulmonary toxicity was higher than the historical incidence reported with abvd (adriamycin, bleomycin, vinblastine, dacarbazine). patients typically reported cough and dyspnea. interstitial infiltration and/or inflammation were observed on radiographs and computed tomographic imaging of the chest. most patients responded to corticosteroids. the concomitant use of adcetris with bleomycin is contraindicated  [see  contraindications (        4        )  ].  
+
+
+
+ cases of pulmonary toxicity have also been reported in patients receiving adcetris. in study 3, pulmonary toxicity was reported in 8 patients (5%) in the adcetris-treated arm and 5 patients (3%) in the placebo arm. a causal association with single-agent adcetris has not been established.
+
+
+
+   serious adverse reactions  
+
+
+
+ in studies 1 and 2, serious adverse reactions, regardless of causality, were reported in 31% of patients receiving adcetris. the most common serious adverse reactions experienced by patients with classical hl include peripheral motor neuropathy (4%), abdominal pain (3%), pulmonary embolism (2%), pneumonitis (2%), pneumothorax (2%), pyelonephritis (2%), and pyrexia (2%). the most common serious adverse reactions experienced by patients with salcl were septic shock (3%), supraventricular arrhythmia (3%), pain in extremity (3%), and urinary tract infection (3%). other important serious adverse reactions reported include pml, stevens-johnson syndrome, and tumor lysis syndrome.
+
+
+
+ in study 3, serious adverse reactions, regardless of causality, were reported in 25% of adcetris-treated patients. the most common serious adverse reactions were pneumonia (4%), pyrexia (4%), vomiting (3%), nausea (2%), hepatotoxicity (2%) and peripheral sensory neuropathy (2%).
+
+
+
+   dose modifications  
+
+
+
+ adverse reactions that led to dose delays in more than 5% of patients in studies 1 and 2 were neutropenia (14%) and peripheral sensory neuropathy (11%)  [see  dosage and administration (        2.2        )  ]  .
+
+
+
+ adverse reactions that led to dose delays in more than 5% of adcetris-treated patients in study 3 were neutropenia (22%), peripheral sensory neuropathy (16%), upper respiratory tract infection (6%), and peripheral motor neuropathy (6%)  [see  dosage and administration (        2.2        )  ]  .
+
+
+
+   discontinuations  
+
+
+
+ adverse reactions led to treatment discontinuation in 21% of patients in studies 1 and 2. adverse reactions that led to treatment discontinuation in 2 or more patients with classical hl or salcl were peripheral sensory neuropathy (8%) and peripheral motor neuropathy (3%).
+
+
+
+ adverse reactions led to treatment discontinuation in 32% of adcetris-treated patients in study 3. adverse reactions that led to treatment discontinuation in 2 or more patients were peripheral sensory neuropathy (14%), peripheral motor neuropathy (7%), acute respiratory distress syndrome (1%), paraesthesia (1%) and vomiting (1%).
+
+
+
+   6.2 post marketing experience
+
+  the following adverse reactions have been identified during post-approval use of adcetris.  because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   blood and lymphatic system disorders  : febrile neutropenia  [see  warnings and precautions (        5.3        )  ]  .
+
+
+
+   hepatobiliary disorders  : hepatotoxicity  [see  warnings and precautions (        5.8        )  ]  .
+
+
+
+   infections  : pml  [see  boxed warning,     warnings and precautions (5.9)  ]  , serious infections and opportunistic infections  [see  warnings and precautions (        5.4        )  ]  .
+
+
+
+   metabolism and nutrition disorders  : hyperglycemia.
+
+
+
+   gastrointestinal disorders  : pancreatitis (including fatal outcomes).  consider the diagnosis of pancreatitis for patients presenting with severe abdominal pain.
+
+
+
+   respiratory, thoracic and mediastinal disorders  : noninfectious pulmonary toxicity including pneumonitis, interstitial lung disease, and ards (some with fatal outcomes)  [see  warnings and precautions (5.10)  and  adverse reactions (        6.1        )  ]  .
+
+
+
+   skin and subcutaneous tissue disorders  : toxic epidermal necrolysis, including fatal outcomes  [see  warnings and precautions (5.11)  ]  .
+
+
+
+   6.3 immunogenicity
+
+  patients with classical hl and salcl in studies 1 and 2  [see  clinical studies (      14)    ]  were tested for antibodies to brentuximab vedotin every 3 weeks using a sensitive electrochemiluminescent immunoassay. approximately 7% of patients in these trials developed persistently positive antibodies (positive test at more than 2 timepoints) and 30% developed transiently positive antibodies (positive in 1 or 2 post-baseline timepoints). the anti-brentuximab antibodies were directed against the antibody component of brentuximab vedotin in all patients with transiently or persistently positive antibodies. two of the patients (1%) with persistently positive antibodies experienced adverse reactions consistent with infusion reactions that led to discontinuation of treatment. overall, a higher incidence of infusion related reactions was observed in patients who developed persistently positive antibodies.
+
+
+
+ a total of 58 patient samples that were either transiently or persistently positive for anti-brentuximab vedotin antibodies were tested for the presence of neutralizing antibodies. sixty-two percent of these patients had at least one sample that was positive for the presence of neutralizing antibodies. the effect of anti-brentuximab vedotin antibodies on safety and efficacy is not known.
+
+
+
+ immunogenicity assay results are highly dependent on several factors including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of incidence of antibodies to adcetris with the incidence of antibodies to other products may be misleading.
+
+
+    boxed warning: warning: progressive multifocal leukoencephalopathy (pml)
+
+    warning: progressive multifocal leukoencephalopathy (pml)  
+
+    jc virus infection resulting in pml and death can occur in patients receiving adcetris   [see   warnings and precautions (      5.9      )    ,     adverse reactions (    6.1    )    ]      
+
+
+
+   excerpt:     warning: progressive multifocal leukoencephalopathy (pml)  
+
+
+
+     see full prescribing information for complete boxed warning.    
+
+
+
+   jc virus infection resulting in pml and death can occur in patients receiving adcetris   (5.9  ,   6.2)  .  
+    5 warnings and precautions
+
+
+
+     excerpt:    *   peripheral neuropathy : monitor patients for neuropathy and institute dose modifications accordingly  (5.1)  . 
+ *   anaphylaxis and infusion reactions : if an infusion reaction occurs, interrupt the infusion.  if anaphylaxis occurs, immediately discontinue the infusion  (5.2)  . 
+ *   hematologic toxicities : monitor complete blood counts prior to each dose of adcetris.  closely monitor patients for fever.  if grade 3 or 4 neutropenia develops, consider dose delays, reductions, discontinuation, or g-csf prophylaxis with subsequent doses  (5.3)  . 
+ *   serious infections and opportunistic infections : closely monitor patients for the emergence of bacterial, fungal or viral infections  (5.4)  . 
+ *   tumor lysis syndrome : closely monitor patients with rapidly proliferating tumor or high tumor burden  (5.5)  . 
+ *   hepatotoxicity : monitor liver enzymes and bilirubin  (5.8)  . 
+ *   pulmonary toxicity : monitor patients for new or worsening symptoms  (5.10)  . 
+ *   serious dermatologic reactions : discontinue if stevens-johnson syndrome or toxic epidermal necrolysis occurs  (5.10)  . 
+ *   embryo-fetal toxicity : fetal harm can occur.  advise pregnant women of the potential hazard to the fetus  (5.12)  . 
+    
+ 
+
+   5.1 peripheral neuropathy
+
+
+
+  adcetris treatment causes a peripheral neuropathy that is predominantly sensory. cases of peripheral motor neuropathy have also been reported. adcetris-induced peripheral neuropathy is cumulative. in the relapsed classical hl and salcl clinical trials, 54% of patients experienced any grade of neuropathy. of these patients, 49% had complete resolution, 31% had partial improvement, and 20% had no improvement. of the patients who reported neuropathy, 51% had residual neuropathy at the time of their last evaluation. monitor patients for symptoms of neuropathy, such as hypoesthesia, hyperesthesia, paresthesia, discomfort, a burning sensation, neuropathic pain, or weakness. patients experiencing new or worsening peripheral neuropathy may require a delay, change in dose, or discontinuation of adcetris [see  dosage and administration (       2.2       )  and  adverse reactions (6.1)  ]  .
+
+
+
+    5.2 anaphylaxis and infusion reactions
+
+
+
+  infusion-related reactions, including anaphylaxis, have occurred with adcetris. monitor patients during infusion. if anaphylaxis occurs, immediately and permanently discontinue administration of adcetris and administer appropriate medical therapy. if an infusion-related reaction occurs, the infusion should be interrupted and appropriate medical management instituted. patients who have experienced a prior infusion-related reaction should be premedicated for subsequent infusions. premedication may include acetaminophen, an antihistamine, and a corticosteroid.
+
+
+
+    5.3 hematologic toxicities
+
+
+
+  prolonged (>=1 week) severe neutropenia and grade 3 or grade 4 thrombocytopenia or anemia can occur with adcetris. febrile neutropenia has been reported with treatment with adcetris. complete blood counts should be monitored prior to each dose of adcetris and more frequent monitoring should be considered for patients with grade 3 or 4 neutropenia. monitor patients for fever. if grade 3 or 4 neutropenia develops, consider dose delays, reductions, discontinuation, or g-csf prophylaxis with subsequent adcetris doses [see  dosage and administration (       2.2       )  ]  .
+
+
+
+    5.4 serious infections and opportunistic infections
+
+
+
+  serious infections and opportunistic infections such as pneumonia, bacteremia, and sepsis or septic shock (including fatal outcomes) have been reported in patients treated with adcetris. patients should be closely monitored during treatment for the emergence of possible bacterial, fungal, or viral infections.
+
+
+
+    5.5 tumor lysis syndrome
+
+
+
+  patients with rapidly proliferating tumor and high tumor burden may be at increased risk of tumor lysis syndrome. monitor closely and take appropriate measures.
+
+
+
+     5.6 increased toxicity in the presence of severe renal impairment  
+
+
+
+   the frequency of >=grade 3 adverse reactions and deaths was greater in patients with severe renal impairment compared to patients with normal renal function. due to higher mmae exposure, >=grade 3 adverse reactions may be more frequent in patients with severe renal impairment compared to patients with normal renal function. avoid the use of adcetris in patients with severe renal impairment [creatinine clearance (clcr) <30 ml/min] [see  use in specific populations (       8.6       )  ].    
+
+
+
+     5.7 increased toxicity in the presence of moderate or severe hepatic impairment  
+
+
+
+   the frequency of >=grade 3 adverse reactions and deaths was greater in patients with moderate and severe hepatic impairment compared to patients with normal hepatic function. avoid the use of adcetris in patients with moderate (child-pugh b) or severe (child-pugh c) hepatic impairment [see  use in specific populations (       8.7       )  ]  .  
+
+
+
+     5.8 hepatotoxicity  
+
+
+
+   serious cases of hepatotoxicity, including fatal outcomes, have occurred in patients receiving adcetris. cases were consistent with hepatocellular injury, including elevations of transaminases and/or bilirubin. cases have occurred after the first dose of adcetris or after adcetris rechallenge. preexisting liver disease, elevated baseline liver enzymes, and concomitant medications may also increase the risk. monitor liver enzymes and bilirubin. patients experiencing new, worsening, or recurrent hepatotoxicity may require a delay, change in dose, or discontinuation of adcetris.   
+
+
+
+    5.9 progressive multifocal leukoencephalopathy
+
+
+
+   jc virus infection resulting in pml and death has been reported in adcetris-treated patients. first onset of symptoms occurred at various times from initiation of adcetris therapy, with some cases occurring within 3 months of initial exposure. in addition to adcetris therapy, other possible contributory factors include prior therapies and underlying disease that may cause immunosuppression. consider the diagnosis of pml in any patient presenting with new-onset signs and symptoms of central nervous system abnormalities. hold adcetris dosing for any suspected case of pml and discontinue adcetris dosing if a diagnosis of pml is confirmed.  
+
+
+
+     5.10 pulmonary toxicity  
+
+
+
+   events of noninfectious pulmonary toxicity including pneumonitis, interstitial lung disease, and acute respiratory distress syndrome (ards), some with fatal outcomes, have been reported. monitor patients for signs and symptoms of pulmonary toxicity, including cough and dyspnea. in the event of new or worsening pulmonary symptoms, hold adcetris dosing during evaluation and until symptomatic improvement.  
+
+
+
+     5.11 serious dermatologic reactions  
+
+
+
+   stevens-johnson syndrome (sjs) and toxic epidermal necrolysis (ten), including fatal outcomes, have been reported with adcetris. if sjs or ten occurs, discontinue adcetris and administer appropriate medical therapy.  
+
+
+
+    5.12 embryo-fetal toxicity
+
+
+
+  there are no adequate and well-controlled studies of adcetris in pregnant women. however, based on its mechanism of action and findings in animals, adcetris can cause fetal harm when administered to a pregnant woman. brentuximab vedotin caused embryo-fetal toxicities, including significantly decreased embryo viability and fetal malformations, in animals at maternal exposures that were similar to human exposures at the recommended doses for patients with classical hl and salcl. if this drug is used during pregnancy, or if the patient becomes pregnant while receiving the drug, the patient should be apprised of the potential hazard to the fetus [see  use in specific populations (       8.1       )  ]  .

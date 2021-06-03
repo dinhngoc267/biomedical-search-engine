@@ -1,0 +1,165 @@
+    6 adverse reactions
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of dalvance cannot be directly compared to rates in the clinical trials of another drug and may not reflect rates observed in practice.
+
+
+
+   excerpt:   the most common adverse reactions in patients treated with dalvance were nausea (5.5%), headache (4.7%), and diarrhea (4.4%).
+
+
+
+        to report suspected adverse reactions, contact durata therapeutics, inc. at 1-855-387-2825 or fda at 1-800-fda-1088 or      www.fda.gov  /medwatch.  
+
+
+
+ 
+
+  6.1 adverse reactions in clinical trials
+
+  adverse reactions were evaluated for 1778 patients treated with dalvance and 1224 patients treated with comparator antibacterial drugs in seven phase 2 and phase 3 clinical trials. a causal relationship between study drug and adverse reactions was not always established. the median age of patients treated with dalvance was 47 years, ranging between 16 and 93 years old. patients treated with dalvance were predominantly male (60%) and caucasian (78%).
+
+
+
+   serious adverse reactions and adverse reactions leading to discontinuation  
+
+
+
+ serious adverse reactions occurred in 109/1778 (6.1%) of patients treated with dalvance and in 80/1224 (6.5%) of patients treated with comparator. dalvance was discontinued due to an adverse reaction in 53/1778 (3%) patients and the comparator was discontinued due to an adverse reaction in 35/1224 (2.8%) patients.
+
+
+
+   most common adverse reactions  
+
+
+
+ the most common adverse reactions in patients treated with dalvance were nausea (5.5%), headache (4.7%), and diarrhea (4.4%). the median duration of adverse reactions was 4.0 days in both treatment groups.
+
+
+
+ table 1 lists selected adverse reactions occurring in more than 2% of patients treated with dalvance in clinical trials.
+
+
+
+
+  table1. selected adverse reactions in phase 2/3 trials  (number (%) of patients)    
+                    dalbavancin       comparator*      
+                  (n = 1778)       (n = 1224)        
+  nausea           98 (5.5)         78 (6.4)         
+  vomiting         50 (2.8)         37 (3)           
+  diarrhea         79 (4.4)         72 (5.9)         
+  headache         83 (4.7)         59 (4.8)         
+  rash             48 (2.7)         30 (2.4)         
+  pruritus         38 (2.1)         41 (3.3)         
+  * comparators included linezolid, cefazolin, cephalexin, and vancomycin.    
+         the following selected adverse reactions were reported in dalvance treated patients at a rate of less than 2% in these clinical trials:
+ 
+
+   blood and lymphatic system disorders  : anemia, hemorrhagic anemia, leucopenia, neutropenia, thrombocytopenia, petechiae, eosinophilia, thrombocytosis
+
+
+
+   gastrointestinal disorders  : gastrointestinal hemorrhage, melena, hematochezia, abdominal pain
+
+
+
+   general disorders and administration site conditions  : infusion-related reactions
+
+
+
+   hepatobiliary disorders  : hepatotoxicity
+
+
+
+   immune system disorders  : anaphylactoid reaction
+
+
+
+   infections and infestations  :  clostridium difficile  colitis, oral candidiasis, vulvovaginal mycotic infection
+
+
+
+   investigations  : hepatic transaminases increased, blood alkaline phosphatase increased, international normalized ratio increased
+
+
+
+   metabolism and nutrition disorders  : hypoglycemia
+
+
+
+   nervous system disorders  : dizziness
+
+
+
+   respiratory, thoracic and mediastinal disorders  : bronchospasm
+
+
+
+   skin and subcutaneous tissue disorders  : urticaria
+
+
+
+   vascular disorders  : flushing, phlebitis, wound hemorrhage, spontaneous hematoma      
+
+
+
+   alanine aminotransferase (alt) elevations  
+
+
+
+ among patients with normal baseline alt levels, more dalvance- than comparator-treated patients had post-baseline alt elevations greater than 3 times the upper limit of normal (uln), 12 (0.8%) vs. 2 (0.2%), respectively including three subjects with post-baseline alt values greater than 10 times uln. eight of 12 patients treated with dalvance and one comparator patient had underlying conditions which could affect liver enzymes, including chronic viral hepatitis and a history of alcohol abuse. in addition, one dalvance-treated subject in a phase 1 trial had post-baseline alt elevations greater than 20 times uln. alt elevations were reversible in all subjects. no comparator-treated subject with normal baseline transaminases had post-baseline alt elevation greater than 10 times uln.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  serious hypersensitivity (anaphylactic) and skin reactions have been reported with glycopeptide antibacterial agents, including dalvance; exercise caution in patients with known hypersensitivity to glycopeptides. (  5.1  ) 
+ *  rapid intravenous infusion of glycopeptide antibacterial agents can cause reactions. (  5.2  ) 
+ *  alt elevations with dalvance treatment were reported in clinical trials. (  5.3  ) 
+ *   clostridium difficile -associated diarrhea (cdad) has been reported with nearly all systemic antibacterial agents, including dalvance. evaluate if diarrhea occurs. (  5.4  ) 
+    
+ 
+
+   5.1 hypersensitivity reactions
+
+
+
+  serious hypersensitivity (anaphylactic) and skin reactions have been reported in patients treated with dalvance. if an allergic reaction occurs, treatment with dalvance should be discontinued. before using dalvance, inquire carefully about previous hypersensitivity reactions to glycopeptides, and due to the possibility of cross-sensitivity, exercise caution in patients with a history of glycopeptide allergy [see patient counseling information (  17  )]  .
+
+
+
+    5.2 infusion-related reactions
+
+
+
+  dalvance is administered via intravenous infusion, using a total infusion time of 30 minutes to minimize the risk of infusion-related reactions. rapid intravenous infusions of dalvance can cause reactions that resemble "red-man syndrome," including flushing of the upper body, urticaria, pruritus, and/or rash. stopping or slowing the infusion may result in cessation of these reactions.
+
+
+
+    5.3 hepatic effects
+
+
+
+  in phase 2 and 3 clinical trials, more dalvance- than comparator-treated subjects with normal baseline transaminase levels had post-baseline alanine aminotransferase (alt) elevation greater than 3 times the upper limit of normal (uln). overall, abnormalities in liver tests (alt, ast, bilirubin) were reported with similar frequency in the dalvance and comparator arms [see adverse reactions (  6.1  )].  
+
+
+
+    5.4 clostridium difficile-associated diarrhea
+
+
+
+   clostridium difficile  -associated diarrhea (cdad) has been reported in users of nearly all systemic antibacterial drugs, including dalvance, with severity ranging from mild diarrhea to fatal colitis. treatment with antibacterial agents can alter the normal flora of the colon, and may permit overgrowth of c. difficile  .
+
+
+
+  c. difficile  produces toxins a and b which contribute to the development of cdad. hypertoxin-producing strains of c. difficile  cause increased morbidity and mortality, as these infections can be refractory to antibacterial therapy and may require colectomy. cdad must be considered in all patients who present with diarrhea following antibacterial use. careful medical history is necessary because cdad has been reported to occur more than 2 months after the administration of antibacterial agents.
+
+
+
+ if cdad is suspected or confirmed, ongoing antibacterial use not directed against c. difficile  should be discontinued, if possible. appropriate measures such as fluid and electrolyte management, protein supplementation, antibacterial treatment of c. difficile  , and surgical evaluation should be instituted as clinically indicated.
+
+
+
+    5.5 development of drug-resistant bacteria
+
+
+
+  prescribing dalvance in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

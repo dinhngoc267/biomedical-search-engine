@@ -1,0 +1,177 @@
+    6 adverse reactions
+
+  the most commonly reported adverse reactions are hypersensitivity (e.g., rash, urticaria) reactions due to the effect of gh (e.g., arthralgia, extremity pain, peripheral edema, hyperglycemia, carpal tunnel syndrome), injection site reactions (injection site erythema, pruritus, pain, urticaria, irritation, swelling, hemorrhage).
+
+
+
+ during the first 26 weeks of treatment (main phase), discontinuations as a result of adverse reactions occurred in 9.6% of patients receiving egrifta  (r)  and 6.8% of patients receiving placebo. apart from patients with hypersensitivity reactions identified during the studies and who were discontinued per protocol (2.2%), the most common reasons for discontinuation of egrifta  (r)  treatment were adverse reactions due to the effect of gh (4.2%) and local injection site reactions (4.6%).
+
+
+
+ during the following 26 weeks of treatment (extension phase), discontinuations as a result of adverse events occurred in 2.4% of patients in the t-t group (patients treated with tesamorelin for week 0-26 and with tesamorelin for week 26-52) and 5.2% of patients in the t-p group (patients treated with tesamorelin for week 0-26 and with placebo for week 26-52).
+
+
+
+   excerpt:   most commonly reported adverse reactions (>5% and more frequent than placebo): arthralgia, injection site erythema, injection site pruritus, pain in extremity, peripheral edema, and myalgia. (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact    egrifta assist  tm  toll free at 1-844-egrifta (1-844-347-4382) or fda at 1-800-fda-1088 or    www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 clinical trial experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ seven hundred and forty hiv-infected patients with lipodystrophy and excess abdominal fat were exposed to egrifta  (r)  in the phase 3 clinical trials; of these 543 received egrifta  (r)  during the initial 26-week placebo-controlled phase  [see clinical studies (  14  )].  
+
+
+
+ adverse reactions that occurred more frequently with egrifta  (r)  relative to placebo and had an incidence >=1% during the first 26 weeks across all studies are presented in  table 1  .
+
+
+
+ table 1. adverse reactions reported in >= 1% and more frequent in egrifta(r) -treated than placebo patients during the 26-week main phase (combined studies) 
+                                              incidence of patients (%) with adverse drug reactions   
+   system organ class  preferred term         egrifta  (r)  (n=543)        placebo(n=263)                  
+   musculoskeletal and connective tissue disorders                                                                 
+      arthralgia     pain in extremity     myalgia     musculoskeletal pain     musculoskeletal stiffness     joint stiffness     muscle spasms     joint swelling  13.36.15.51.81.71.51.11.1    11.04.61.90.80.40.80.80.0       
+   general disorders and administration site conditions                                                                 
+      injection site erythema     injection site pruritus     edema peripheral     injection site pain     injection site irritation     pain     injection site hemorrhage     injection site urticaria     injection site swelling     injection site reaction     chest pain     injection site rash  8.57.66.14.12.91.71.71.71.51.31.11.1  2.70.82.33.01.11.10.40.40.40.80.80.0   
+   nervous system disorders       paresthesia     hypoesthesia     carpal tunnel syndrome  4.84.21.5                    2.31.50.0                       
+   gastrointestinal disorders       nausea     vomiting     dyspepsia     abdominal pain upper  4.42.61.71.1                 3.80.00.80.8                    
+   cardiac disorders       palpitations       1.1                          0.4                             
+   psychiatric disorders       depression     2.0                          1.5                             
+   skin and subcutaneous tissue disorders                                                                  
+      rash     pruritus     night sweats      3.72.41.1                    1.51.10.4                       
+   vascular disorders       hypertension      1.3                          0.8                             
+   injury, poisoning and procedural complications                                                                 
+      muscle strain                           1.1                          0.0                             
+   investigations                                                                                          
+       blood creatine phosphokinase increased  1.5                          0.4                             
+         mean levels of fasting blood glucose and fasting insulin were not significantly different between egrifta  (r)  -treated and placebo-treated patients after 26 weeks of treatment.
+ 
+
+ in the egrifta  (r)  phase 3 clinical trials, mean baseline (week 0) hba1cwas 5.26% among patients in the egrifta  (r)  group and 5.28% among those in the placebo group. at week 26, mean hba1cwas higher among patients treated with egrifta  (r)  compared with placebo (5.39% vs. 5.28% for the egrifta  (r)  and placebo groups, respectively, mean treatment difference of 0.12%, p=0.0004). patients receiving egrifta  (r)  had an increased risk of developing diabetes (hba1clevel >= 6.5%) compared with placebo (4.5% vs. 1.3%), with a hazard ratio of 3.3 (ci 1.4, 9.6).
+
+
+
+ adverse reactions observed during week 26 to 52 of the phase 3 clinical trials which had an incidence of >=1% and were seen more frequently with egrifta  (r)  relative to placebo are presented in  table 2  :
+
+
+
+ table 2. adverse reactions reported in >= 1% and more frequent in egrifta(r)-treated than placebo patients during the 26-week extension phase of the combined studies (week 26 to week 52 of the studies) 
+  1t-t = tesamorelin for week 0-26 and tesamorelin for week 26-52    
+  2t-p = tesamorelin for week 0-26 and placebo for week 26-52    
+  for patients who continued from week 26-52, mean levels of fasting blood glucose, fasting insulin, and hba1c were not different between the t-t and t-p groups.    
+  
+                                     incidence of patients (%) with adverse drug reactions   
+   system organ class  preferred term  t-t  1  (week 26-52)(n=246)              t-p  2  (week 26-52)(n=135)   
+   musculoskeletal and connective tissue disorders                                                                         
+      pain in extremity     myalgia  3.31.2                                   0.70.0                      
+   general disorders and administration site conditions                                                                         
+      injection site pruritus     edema peripheral     injection site erythema  2.02.01.2                                0.00.00.0                   
+   nervous system disorders       paresthesia     hypoesthesia     neuropathy peripheral  1.61.61.6                                1.50.71.5                   
+   gastrointestinal disorders       vomiting  2.0                                      0.7                         
+   psychiatric disorders       depression     insomnia  1.61.2                                   0.70.0                      
+   skin and subcutaneous tissue disorders                                                                         
+      pruritus     urticaria     night sweats  1.21.21.2                                0.70.00.0                   
+   vascular disorders       hypertension     hot flush  1.61.2                                   1.50.7                      
+           6.2 immunogenicity
+   as with all therapeutic proteins and peptides, there is a potential for in vivo development of anti- egrifta  (r)  antibodies. in the combined phase 3 clinical trials anti-tesamorelin igg antibodies were detected in 49.5% of patients treated with egrifta  (r)  for 26 weeks and 47.4% of patients who received egrifta  (r)  for 52 weeks. in the subset of patients with hypersensitivity reactions, anti-tesamorelin igg antibodies were detected in 85.2%. cross-reactivity to endogenous growth hormone-releasing hormone (ghrh) was observed in approximately 60% of patients who developed anti-tesamorelin antibodies. patients with and without anti-tesamorelin igg antibodies had similar mean reductions in visceral adipose tissue (vat) and igf-1 response suggesting that the presence of antibodies did not alter the efficacy of egrifta  (r)  . in a group of patients who had antibodies to tesamorelin after 26 weeks of treatment (56%) and were re-assessed 6 months later, after stopping egrifta  (r)  treatment, 18% were still antibody positive.
+
+
+
+ neutralizing antibodies to tesamorelin and hghrh were detected in vitro at week 52 in 10% and 5% of egrifta  (r)  -treated patients, respectively. they did not appear to have an impact on efficacy, as evidenced by comparable changes in vat and igf-1 level in patients with or without in vitro neutralizing antibodies.
+
+
+
+ the observed incidence of antibody positivity in an assay is highly dependent on several factors including assay sensitivity and specificity, methodology, sample handling, timing of sample collection, concomitant medication and underlying disease. for these reasons, comparison of the incidence of antibodies to egrifta  (r)  with the incidence of antibodies to other products may be misleading.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  neoplasms: preexisting malignancy should be inactive and its treatment complete prior to starting egrifta  (r)  therapy. (  5.1  ) 
+ *  elevated igf-1: monitor regularly in all patients. consider discontinuation in patients with persistent elevations. (  5.2  ) 
+ *  fluid retention: may include edema, arthralgia, and carpal tunnel syndrome. (  5.3  ) 
+ *  glucose intolerance: may develop with egrifta  (r)  use. evaluate glucose status prior to and during therapy with egrifta  (r)  . (  5.4  ) 
+ *  hypersensitivity reactions (e.g., rash, urticaria): advise patients to seek immediate medical attention if suspected. (  5.5  ) 
+ *  injection site reactions: advise patients to rotate sites. (  5.6  ) 
+ *  acute critical illness: consider discontinuation. (  5.7  ) 
+    
+ 
+
+   5.1 neoplasms
+
+
+
+  egrifta  (r)  induces the release of endogenous growth hormone (gh), a known growth factor. thus, patients with active malignancy should not be treated with egrifta  (r)   [see contraindications (  4.2  )]  .
+
+
+
+ for patients with a history of non-malignant neoplasms, egrifta  (r)  therapy should be initiated after careful evaluation of the potential benefit of treatment. for patients with a history of treated and stable malignancies, egrifta  (r)  therapy should be initiated only after careful evaluation of the potential benefit of treatment relative to the risk of re-activation of the underlying malignancy.
+
+
+
+ in addition, the decision to start treatment with egrifta  (r)  should be considered carefully based on the increased background risk of malignancies in hiv-positive patients.
+
+
+
+    5.2 elevated igf-1
+
+
+
+  egrifta  (r)  stimulates gh production and increases serum igf-1. given that igf-1 is a growth factor and the effect of prolonged elevations in igf-1 levels on the development or progression of malignancies is unknown, igf-1 levels should be monitored closely during egrifta  (r)  therapy. careful consideration should be given to discontinuing egrifta  (r)  in patients with persistent elevations of igf-1 levels (e.g., >3 sds), particularly if the efficacy response is not robust (e.g., based on visceral adipose tissue changes measured by waist circumference or ct scan).
+
+
+
+ during the clinical trials, patients were monitored every three months. among patients who received egrifta  (r)  for 26 weeks, 47.4% had igf-1 levels greater than 2 standard deviation scores (sds), and 35.6% had sds >3, with this effect seen as early as 13 weeks of treatment. among those patients who remained on egrifta  (r)  for a total of 52 weeks, at the end of treatment 33.7% had igf-1 sds >2 and 22.6% had igf-1 sds >3.
+
+
+
+    5.3 fluid retention
+
+
+
+  fluid retention may occur during egrifta  (r)  therapy and is thought to be related to the induction of gh secretion. it manifests as increased tissue turgor and musculoskeletal discomfort resulting in a variety of adverse reactions (e.g. edema, arthralgia, carpal tunnel syndrome) which are either transient or resolve with discontinuation of treatment.
+
+
+
+    5.4 glucose intolerance
+
+
+
+  egrifta  (r)  treatment may result in glucose intolerance. during the phase 3 clinical trials, the percentages of patients with elevated hba1c(>= 6.5%) from baseline to week 26 were 4.5% and 1.3% in the egrifta  (r)  and placebo groups, respectively. an increased risk of developing diabetes with egrifta  (r)  (hba1clevel >= 6.5%) relative to placebo was observed [intent-to-treat hazard odds ratio of 3.3 (ci 1.4, 9.6)]. therefore, glucose status should be carefully evaluated prior to initiating egrifta  (r)  treatment. in addition, all patients treated with egrifta  (r)  should be monitored periodically for changes in glucose metabolism to diagnose those who develop impaired glucose tolerance or diabetes. diabetes is a known cardiovascular risk factor and patients who develop glucose intolerance have an elevated risk for developing diabetes. caution should be exercised in treating hiv-positive patients with lipodystrophy with egrifta  (r)  if they develop glucose intolerance or diabetes, and careful consideration should be given to discontinuing egrifta  (r)  treatment in patients who do not show a clear efficacy response as judged by the degree of reduction in visceral adipose tissue by waist circumference or ct scan measurements.
+
+
+
+ since egrifta  (r)  increases igf-1, patients with diabetes who are receiving ongoing treatment with egrifta  (r)  should be monitored at regular intervals for potential development or worsening of retinopathy.
+
+
+
+    5.5 hypersensitivity reactions
+
+
+
+  hypersensitivity reactions may occur in patients treated with egrifta  (r)  . hypersensitivity reactions occurred in 3.6% of patients with hiv-associated lipodystrophy treated with egrifta  (r)  in the phase 3 clinical trials. these reactions included pruritus, erythema, flushing, urticaria, and other rash. in cases of suspected hypersensitivity reactions, patients should be advised to seek prompt medical attention and treatment with egrifta  (r)  should be discontinued immediately.
+
+
+
+    5.6 injection site reactions
+
+
+
+  egrifta  (r)  treatment may cause injection site reactions, including injection site erythema, pruritus, pain, irritation, and bruising. the incidence of injection site reactions was 24.5% in egrifta  (r)  -treated patients and 14.4% in placebo-treated patients during the first 26 weeks of treatment in the phase 3 clinical trials. for patients who continued egrifta  (r)  for an additional 26 weeks, the incidence of injection site reactions was 6.1%. in order to reduce the incidence of injection site reactions, it is recommended to rotate the site of injection to different areas of the abdomen.
+
+
+
+    5.7 acute critical illness
+
+
+
+  increased mortality in patients with acute critical illness due to complications following open heart surgery, abdominal surgery or multiple accidental trauma, or those with acute respiratory failure has been reported after treatment with pharmacologic amounts of growth hormone. egrifta  (r)  has not been studied in patients with acute critical illness. since egrifta  (r)  stimulates growth hormone production, careful consideration should be given to discontinuing egrifta  (r)  in critically ill patients.

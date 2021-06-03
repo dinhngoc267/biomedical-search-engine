@@ -1,0 +1,176 @@
+      6     adverse reactions  
+
+  the following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *  severe or persistent gastrointestinal toxicity [see warnings and precautions (5.1)]  
+ *  hepatotoxicity [see warnings and precautions (5.2)]  
+ *  interstitial lung disease/pneumonitis [see warnings and precautions (5.3)]  
+ *  qt interval prolongation [see warnings and precautions (5.4) and clinical pharmacology (12.2)]  
+ *  hyperglycemia [see warnings and precautions (5.5)]  
+ *  bradycardia [see warnings and precautions (5.6) and clinical pharmacology (12.2)]  
+ *  pancreatitis [see warnings and precautions (5.7)]  
+      excerpt:   the most common adverse reactions (incidence of at least 25%) are diarrhea, nausea, elevated transaminases, vomiting, abdominal pain, fatigue, decreased appetite, and constipation. (  6  )
+ 
+
+   to report suspected adverse reactions, contact novartis pharmaceuticals corporation at 1-888-669-6682 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1     clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the safety evaluation of zykadia is based on 255 alk-positive patients in study 1 (246 patients with nsclc and 9 patients with other cancers who received zykadia at a dose of 750 mg daily). the median duration of exposure to zykadia was 6 months. the study population characteristics were: median age 53 years, age less than 65 (84%), female (53%), caucasian (63%), asian (34%), nsclc adenocarcinoma histology (90%), never or former smoker (97%), ecog ps 0 or 1 (89%), brain metastasis (49%), and number of prior therapies 2 or more (67%).
+
+
+
+ dose reductions due to adverse reactions occurred in 59% of patients treated with zykadia. the most frequent adverse reactions, reported in at least 10% of patients, that led to dose reductions or interruptions were: increased alt (29%), nausea (20%), increased ast (16%), diarrhea (16%), and vomiting (16%). serious adverse drug reactions reported in 2% or more of patients in study 1 were convulsion, pneumonia, ild/pneumonitis, dyspnea, dehydration, hyperglycemia, and nausea. fatal adverse reactions in patients treated with zykadia occurred in 5% of patients, consisting of: pneumonia (4 patients), respiratory failure, ild/pneumonitis, pneumothorax, gastric hemorrhage, general physical health deterioration, pulmonary tuberculosis, cardiac tamponade, and sepsis (1 patient each). discontinuation of therapy due to adverse reactions occurred in 10% of patients treated with zykadia. the most frequent adverse drug reactions that led to discontinuation in 1% or more of patients in study 1 were pneumonia, ild/pneumonitis, and decreased appetite.
+
+
+
+ tables 2 and 3 summarize the common adverse reactions and laboratory abnormalities observed in zykadia-treated patients.
+
+
+
+ table 2: adverse reactions (>10% for all nci ctcae* grades or >=2% for grades 3-4) in alk-positive patients treated with zykadia in study 1 
+ *national cancer institute common terminology criteria for adverse events (version 4.03)  a  abdominal pain (abdominal pain, upper abdominal pain, abdominal discomfort, epigastric discomfort)  b  esophageal disorder (dyspepsia, gastroesophageal reflux disease, dysphagia)  c  fatigue (fatigue, asthenia)  d  rash (rash, maculopapular rash, acneiform dermatitis)   
+  
+                    zykadian=255     
+                    all grades       grade 3-4       
+                    %                %               
+   gastrointestinal disorders                                       
+     diarrhea     86               6                 
+     nausea       80               4                 
+     vomiting     60               4                 
+     abdominal pain  a    54               2                 
+     constipation  29               0                 
+     esophageal disorder  b    16               1                 
+   general disorders and administration site conditions                                       
+     fatigue  c    52               5                 
+   metabolism and nutrition disorders                                       
+     decreased appetite  34               1                 
+   skin and subcutaneous tissue disorders                                       
+     rash  d      16               0                 
+   respiratory, thoracic and mediastinal disorders                                       
+     interstitial lung disease/pneumonitis  4                3                 
+         additional clinically significant adverse reactions occurring in 2% or more of patients treated with zykadia included neuropathy (17%; comprised of paresthesia, muscular weakness, gait disturbance, peripheral neuropathy, hypoesthesia, peripheral sensory neuropathy, dysesthesia, neuralgia, peripheral motor neuropathy, hypotonia, or polyneuropathy), vision disorder (9%; comprised of vision impairment, blurred vision, photopsia, accommodation disorder, presbyopia, or reduced visual acuity), prolonged qt interval (4%), and bradycardia (3%).
+ 
+
+ table 3: key laboratory abnormalities occurring in >10% (all nci ctcae grades) of alk-positive patients treated with zykadia in study 1 
+                    zykadian=255     
+                    all grades       grade 3-4       
+                    %                %               
+     hemoglobin decreased  84               5                 
+     alanine transaminase (alt) increased  80               27                
+     aspartate transaminase (ast) increased  75               13                
+     creatinine increased  58               2                 
+     glucose increased  49               13                
+     phosphate decreased  36               7                 
+     lipase increased  28               10                
+     bilirubin (total) increased  15               1                 
+    5     warnings and precautions
+
+
+
+   excerpt:    *   severe or persistent gastrointestinal toxicity : dose modification due to diarrhea, nausea, vomiting or abdominal pain occurred in 38% of patients. withhold if not responsive to anti-emetics or anti-diarrheals, then dose reduce zykadia. (  2.2  ,  5.1  ) 
+ *   hepatotoxicity : zykadia can cause hepatotoxicity. monitor liver laboratory tests at least monthly. withhold then dose reduce, or permanently discontinue zykadia. (  2.2  ,  5.2  ) 
+ *   interstitial lung disease (ild)/pneumonitis : occurred in 4% of patients. permanently discontinue zykadia in patients diagnosed with treatment-related ild/pneumonitis. (  2.2  ,  5.3  ) 
+ *   qt interval prolongation : zykadia can cause qtc interval prolongation. monitor electrocardiograms and electrolytes in patients with congestive heart failure, bradyarrhythmias, electrolyte abnormalities, or those who are taking medications that are known to prolong the qtc interval. withhold then dose reduce, or permanently discontinue zykadia. (  2.2  ,  5.4  ) 
+ *   hyperglycemia : zykadia can cause hyperglycemia. monitor fasting glucose prior to treatment and periodically thereafter as clinically indicated. initiate or optimize anti-hyperglycemic medications as indicated. withhold then dose reduce, or permanently discontinue zykadia. (  2.2  ,  5.5  ) 
+ *   bradycardia : zykadia can cause bradycardia. monitor heart rate and blood pressure regularly. withhold then dose reduce, or permanently discontinue zykadia. (  2.2  ,  5.6  ) 
+ *   pancreatitis : elevations of lipase and/or amylase and pancreatitis can occur. monitor lipase and amylase prior to treatment and periodically thereafter as clinically indicated. (  2.2  ,  5.7  ) 
+ *   embryofetal toxicity : zykadia may cause fetal harm. advise females of reproductive potential of the potential risk to a fetus. (  5.8  ,  8.1  ,  8.7  ) 
+    
+ 
+
+   5.1     severe or persistent gastrointestinal toxicity
+
+
+
+  diarrhea, nausea, vomiting, or abdominal pain occurred in 96% of 255 patients including severe cases in 14% of patients treated with zykadia in study 1. dose modification due to diarrhea, nausea, vomiting, or abdominal pain occurred in 38% of patients.
+
+
+
+ monitor and manage patients using standards of care, including anti-diarrheals, anti-emetics, or fluid replacement, as indicated. based on the severity of the adverse drug reaction, withhold zykadia with resumption at a reduced dose as described in table 1 [see dosage and administration (2.2) and adverse reactions (6)]  .
+
+
+
+    5.2     hepatotoxicity
+
+
+
+   drug-induced hepatotoxicity occurred in patients treated with zykadia. elevations in alanine aminotransferase (alt) greater than 5 times the upper limit of normal (uln) occurred in 27% of 255 patients in study 1. one patient (0.4%) required permanent discontinuation due to elevated transaminases, and jaundice. concurrent elevations in alt greater than 3 times the uln and total bilirubin greater than 2 times the uln, with normal alkaline phosphatase, occurred in less than 1% of patients in clinical studies.  
+
+
+
+ monitor with liver laboratory tests including alt, aspartate aminotransferase (ast), and total bilirubin once a month and as clinically indicated, with more frequent testing in patients who develop transaminase elevations. based on the severity of the adverse drug reaction, withhold zykadia with resumption at a reduced dose, or permanently discontinue zykadia as described in table 1 [see dosage and administration (2.2) and adverse reactions (6)]  .
+
+
+
+    5.3     interstitial lung disease (ild)/pneumonitis
+
+
+
+  severe, life-threatening, or fatal ild/pneumonitis can occur in patients treated with zykadia. in study 1, pneumonitis was reported in 4% of 255 patients treated with zykadia. ctcae grade 3 or 4 ild/pneumonitis was reported in 3% of patients, and fatal ild/pneumonitis was reported in 1 patient (0.4%) in study 1. one percent (1%) of patients discontinued zykadia in study 1 due to ild/pneumonitis.
+
+
+
+ monitor patients for pulmonary symptoms indicative of ild/pneumonitis. exclude other potential causes of ild/pneumonitis, and permanently discontinue zykadia in patients diagnosed with treatment-related ild/pneumonitis [see dosage and administration (2.2) and adverse reactions (6)]  .
+
+
+
+    5.4     qt interval prolongation
+
+
+
+   qtc interval prolongation, which may lead to an increased risk for ventricular tachyarrhythmias (e.g., torsade de pointes) or sudden death, occurred in patients treated with zykadia in clinical trials. three percent (3%) of 255 patients experienced a qtc interval increase over baseline greater than 60 msec in study 1. across the development program of zykadia, one of 304 patients (less than 1%) treated with zykadia doses ranging from 50 to 750 mg was found to have a qtc greater than 500 msec and 3% of patients had an increase from baseline qtc greater than 60 msec. a pharmacokinetic analysis suggested that zykadia causes concentration-dependent increases in the qtc interval.  
+
+
+
+ when possible, avoid use of zykadia in patients with congenital long qt syndrome. conduct periodic monitoring with electrocardiograms (ecgs) and electrolytes in patients with congestive heart failure, bradyarrhythmias, electrolyte abnormalities, or those who are taking medications that are known to prolong the qtc interval. withhold zykadia in patients who develop a qtc interval greater than 500 msec on at least 2 separate ecgs until the qtc interval is less than 481 msec or recovery to baseline if the qtc interval is greater than or equal to 481 msec, then resume zykadia at a reduced dose as described in table 1. permanently discontinue zykadia in patients who develop qtc interval prolongation in combination with torsade de pointes or polymorphic ventricular tachycardia or signs/symptoms of serious arrhythmia [see dosage and administration (2.2) and clinical pharmacology (12.2)]  .
+
+
+
+    5.5     hyperglycemia
+
+
+
+  hyperglycemia can occur in patients receiving zykadia. in study 1, ctcae grade 3-4 hyperglycemia, based on laboratory values, occurred in 13% of 255 patients. there was a 6-fold increase in the risk of ctcae grade 3-4 hyperglycemia in patients with diabetes or glucose intolerance and a 2-fold increase in patients taking corticosteroids.
+
+
+
+  monitor fasting serum glucose prior to the start of zykadia treatment and periodically thereafter as clinically indicated. initiate or optimize anti-hyperglycemic medications as indicated. based on the severity of the adverse drug reaction, withhold zykadia until hyperglycemia is adequately controlled, then resume zykadia at a reduced dose as described in table 1. if adequate hyperglycemic control cannot be achieved with optimal medical management, permanently discontinue zykadia [see dosage and administration (2.2) and adverse reactions (6)]  .  
+
+
+
+    5.6     bradycardia
+
+
+
+  bradycardia can occur in patients receiving zykadia. in study 1, sinus bradycardia, defined as a heart rate of less than 50 beats per minute, was noted as a new finding in 1% of 255 patients. bradycardia was reported as an adverse drug reaction in 3% of patients in study 1.
+
+
+
+ avoid using zykadia in combination with other agents known to cause bradycardia (e.g., beta-blockers, non-dihydropyridine calcium channel blockers, clonidine, and digoxin) to the extent possible. monitor heart rate and blood pressure regularly. in cases of symptomatic bradycardia that is not life-threatening, withhold zykadia until recovery to asymptomatic bradycardia or to a heart rate of 60 bpm or above, evaluate the use of concomitant medications, and adjust the dose of zykadia. permanently discontinue zykadia for life-threatening bradycardia if no contributing concomitant medication is identified; however, if associated with a concomitant medication known to cause bradycardia or hypotension, withhold zykadia until recovery to asymptomatic bradycardia or to a heart rate of 60 bpm or above, and if the concomitant medication can be adjusted or discontinued, resume zykadia at a reduced dose as described in table 1 upon recovery to asymptomatic bradycardia or to a heart rate of 60 bpm or above, with frequent monitoring [see dosage and administration (2.2) and adverse reactions (6)]  .
+
+
+
+    5.7     pancreatitis
+
+
+
+   pancreatitis, including one fatality, has been reported in less than 1% of patients receiving zykadia in clinical trials. ctcae grade 3-4 elevations of lipase and/or amylase occurred in 15% of patients receiving zykadia in study 1. monitor lipase and amylase prior to the start of zykadia treatment and periodically thereafter as clinically indicated. based on the severity of the laboratory abnormalities, withhold zykadia with resumption at a reduced dose as described in table 1 [see dosage and administration (2.2) and adverse reactions (6)]  .  
+
+
+
+    5.8     embryofetal toxicity
+
+
+
+  based on its mechanism of action, zykadia may cause fetal harm when administered to a pregnant woman. in animal studies, administration of ceritinib to rats and rabbits during organogenesis at maternal plasma exposures below the recommended human dose of 750 mg daily caused increases in skeletal anomalies in rats and rabbits. apprise women of reproductive potential of the potential hazard to a fetus [see use in specific populations (8.1)]  . advise females of reproductive potential to use effective contraception during treatment with zykadia and for at least 2 weeks following completion of therapy [see use in specific populations (8.7)]  .

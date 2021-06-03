@@ -1,0 +1,111 @@
+    6 adverse reactions
+
+  the following adverse reactions with northera are included in more detail in the warnings and precautions section of the label:
+
+
+
+ *  supine hypertension [see warnings and precautions (  5.1  )]  
+ *  hyperpyrexia and confusion [see warnings and precautions (  5.2  )]  
+ *  may exacerbate existing ischemic heart disease, arrhythmias, and congestive heart failure [see warnings and precautions (  5.3  )]  
+      excerpt:   headache, dizziness, nausea, hypertension, and fatigue (greater than 5%) (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact lundbeck at 1-800-455-1141 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch.      
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ the safety evaluation of northera is based on two placebo-controlled studies 1 to 2 weeks in duration (studies 301 and 302), one 8-week placebo-controlled study (study 306), and two long-term, open-label extension studies (studies 303 and 304).  in the placebo-controlled studies, a total of 485 patients with parkinson's disease, multiple system atrophy, pure autonomic failure, dopamine beta-hydroxylase deficiency, or non-diabetic autonomic neuropathy were randomized and treated, 245 with northera and 240 with placebo  [see clinical studies (  14  )]  . 
+
+
+
+     placebo-controlled        experience    
+
+
+
+ the most commonly observed adverse reactions (those occurring at an incidence of greater than 5%  in the northera group and with at least a 3% greater incidence in the northera group than in the placebo group) in northera-treated patients during the three placebo-controlled trials were headache, dizziness, nausea, hypertension.  the most common adverse reactions leading to discontinuation from northera were hypertension or increased blood pressure and nausea.
+
+
+
+ table 1. most common adverse reactions occurring more frequently in the northera group 
+                      study 301 and study 302    (1 to 2 weeks randomized treatment)        study 306    (8 to 10 weeks randomized treatment)     
+     placebo    (n=132)      n (%)        northera    (n=131)      n (%)        placebo    (n=108)      n (%)        northera    (n=114)     
+     n (%)         
+    headache         4 (3.0)          8 (6.1)          8 (7.4)          15 (13.2)      
+    dizziness        2 (1.5)          5 (3.8)          5 (4.6)          11 (9.6)       
+    nausea           2 (1.5)          2 (1.5)          5 (4.6)          10 (8.8)       
+    hypertension     0                2 (1.5)          1 (0.9)          8 (7.0)        
+           note: n=number of patients.  table displays adverse reactions that were reported in greater than 5% of patients in the northera group and with at least a 3% greater incidence in the northera group than in the placebo group.
+ 
+
+     long-term, open-label trials with northera    in the long-term, open-label extension studies, a total of 422 patients, mean age 65 years, were treated with northera for a mean total exposure of approximately one year. the commonly reported adverse events were falls (24%), urinary tract infections (15%), headache (13%), syncope (13%), and dizziness (10%).
+
+
+    boxed warning: warning: supine hypertension
+
+    warning: supine hypertension  
+
+    monitor supine blood pressure prior to and during treatment and more frequently when increasing doses.  elevating the head of the bed lessens the risk of supine hypertension, and blood pressure should be measured in this position.  if supine hypertension cannot be managed by elevation of the head of the bed, reduce or discontinue northera       [see warnings and precautions (  5.1  )].    
+
+
+
+   excerpt:       warning: supine hypertension        see full prescribing information for complete boxed warning.    
+
+
+
+          
+
+
+
+   monitor supine blood pressure prior to and during treatment and more frequently when increasing doses.  elevating the head of the bed lessens the risk of supine     hypertension, and blood pressure should be measured in this position.  if supine hypertension cannot be managed by elevation of the head of the bed, reduce or discontinue northera   [see warnings and         precautions (  5.1  )].    
+    5 warnings and precautions
+
+
+
+   excerpt:    *  northera can cause supine hypertension and may increase cardiovascular risk if supine hypertension is not well-managed (  5.1  ). 
+ *  hyperpyrexia and confusion (  5.2  ) 
+ *  may exacerbate symptoms in patients with existing ischemic heart disease, arrhythmias, and congestive heart failure (  5.3  ) 
+ *  allergic reactions (  5.4  ) 
+    
+ 
+
+   5.1 supine hypertension
+
+
+
+  northera therapy may cause or exacerbate supine hypertension in patients with noh. patients should be advised to elevate the head of the bed when resting or sleeping. monitor blood pressure, both in the supine position and in the recommended head-elevated sleeping position. reduce or discontinue northera if supine hypertension persists. if supine hypertension is not well-managed, northera may increase the risk of cardiovascular events.
+
+
+
+    5.2 hyperpyrexia and confusion
+
+
+
+  post-marketing cases of a symptom complex resembling neuroleptic malignant syndrome (nms) have been reported with northera use during post-marketing surveillance in japan.  observe patients carefully when the dosage of northera is changed or when concomitant levodopa is reduced abruptly or discontinued, especially if the patient is receiving neuroleptics.
+
+
+
+ nms is an uncommon but life-threatening syndrome characterized by fever or hyperthermia, muscle rigidity, involuntary movements, altered consciousness, and mental status changes.  the early diagnosis of this condition is important for the appropriate management of these patients.
+
+
+
+    5.3 ischemic heart disease, arrhythmias, and congestive heart failure
+
+
+
+  northera may exacerbate existing ischemic heart disease, arrhythmias, and congestive heart failure.  careful consideration should be given to this potential risk prior to initiating therapy in patients with these conditions.
+
+
+
+    5.4 allergic reactions
+
+
+
+  this product contains fd&c yellow no. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons. although the overall incidence of fd&c yellow no. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.

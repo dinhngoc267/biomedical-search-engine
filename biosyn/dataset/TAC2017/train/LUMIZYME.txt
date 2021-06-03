@@ -1,0 +1,239 @@
+    6 adverse reactions
+
+   excerpt:    *  the most frequently reported adverse reactions (>= 5%) in clinical trials were hypersensitivity reactions and included: anaphylaxis, rash, pyrexia, flushing/feeling hot, urticaria, headache, hyperhidrosis, nausea, cough, decreased oxygen saturation, tachycardia, tachypnea, chest discomfort, dizziness, muscle twitching, agitation, cyanosis, erythema, hypertension/increased blood pressure, pallor, rigors, tremor, vomiting, fatigue, and myalgia (6.1). 
+      to report suspected adverse reactions, contact genzyme at 1-800-745-4447 or fda at 1-800-fda-1088 or www.fda.gov/medwatch  
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ the following serious adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *  anaphylaxis and hypersensitivity reactions [seewarnings and precautions (5.1)] . 
+    in clinical trials, the most common adverse reactions (>= 5%) following alglucosidase alfa treatment were hypersensitivity reactions, and included anaphylaxis, rash, pyrexia, flushing/feeling hot, urticaria, headache, hyperhidrosis, nausea, cough, decreased oxygen saturation, tachycardia, tachypnea, chest discomfort, dizziness, muscle twitching, agitation, cyanosis, erythema, hypertension/increased blood pressure, pallor, rigors, tremor, vomiting, fatigue, and myalgia.
+ 
+
+     clinical trials in infantile-onset and juvenile-onset pompe disease  
+
+
+
+ two multicenter, open-label clinical trials were conducted in 39 infantile-onset pompe disease patients, ages 1 month to 3.5 years old. approximately half of the patients (54%) were male. patients were treated with alglucosidase alfa 20 or 40 mg/kg every other week for periods ranging from 1 to 106 weeks (mean: 61 weeks).
+
+
+
+ the most serious adverse reactions reported with alglucosidase alfa treatment included anaphylaxis and acute cardiorespiratory failure.
+
+
+
+ the most common adverse reactions requiring intervention in clinical trials were hypersensitivity reactions, occurring in 20 of 39 (51%) patients treated with alglucosidase alfa, and included rash, pyrexia, urticaria, flushing, decreased oxygen saturation, cough, tachypnea, tachycardia, hypertension/increased blood pressure, pallor, rigors, vomiting, cyanosis, agitation, and tremor. these reactions were more likely to occur with higher infusion rates. some patients who were pre-treated with antihistamines, antipyretics and/or corticosteroids still experienced hypersensitivity reactions.
+
+
+
+   table 2  summarizes all adverse reactions occurring in >= 5% of patients (2 or more patients) treated with alglucosidase alfa in clinical trials described above.
+
+
+
+ table 2: adverse reactions that occurred in at least 5% of infantile-onset patients treated with alglucosidase alfa in clinical trials 
+                                                                       number of patients(n=39)n (%)      
+ adverse reaction                                                                 20 (51)                 
+  
+   rash (including rash erythematous, rash macular and maculo-papular)                7 (18)                  
+   pyrexia                                                                        6 (15)                  
+   urticaria                                                                      5 (13)                  
+   flushing                                                                       5 (13)                  
+   hypertension/increased blood pressure                                          4 (10)                  
+   decreased oxygen saturation                                                     3 (8)                  
+   cough                                                                           3 (8)                  
+   tachypnea                                                                       3 (8)                  
+   tachycardia                                                                     3 (8)                  
+   erythema                                                                        2 (5)                  
+   vomiting                                                                        2 (5)                  
+   rigors                                                                          2 (5)                  
+   pallor                                                                          2 (5)                  
+   cyanosis                                                                        2 (5)                  
+   agitation                                                                       2 (5)                  
+   tremor                                                                          2 (5)                  
+        an open-label, single-center trial was conducted in 18 treatment-naive infantile-onset pompe disease patients who were treated exclusively with alglucosidase alfa. adverse reactions observed in these patients were similar to infantile-onset pompe disease patients who received alglucosidase alfa in other clinical trials.
+ 
+
+ additional hypersensitivity reactions observed in infantile-onset pompe disease patients treated in other clinical trials and expanded access programs with alglucosidase alfa included livedo reticularis, irritability, retching, increased lacrimation, ventricular extrasystoles, nodal rhythm, rales, respiratory tract irritation, and cold sweat.
+
+
+
+ safety was also evaluated in 99 patients (51 male, 48 females) with pompe disease in an ongoing, open-label, prospective study in patients 12 months of age and older who were previously treated with the 160 l scale of alglucosidase alfa and switched to the 4000 l scale of alglucosidase alfa. patients were aged 1 to 18 years with a median duration of treatment of 437 days (range 13 to 466 days). no new safety findings were observed following the switch to 4000 l scale of alglucosidase alfa.
+
+
+
+     clinical trials in late-onset pompe disease  
+
+
+
+ assessment of adverse reactions in patients with late-onset pompe disease is based on the exposure of 90 patients (45 male, 45 female), aged 10 to 70 years, to 20 mg/kg alglucosidase alfa or placebo in a randomized, double-blind, placebo-controlled trial. the youngest alglucosidase alfa-treated patient was 16 years of age, and the youngest placebo-treated patient was 10 years of age. all patients were naive to enzyme replacement therapy. patients were randomized in a 2:1 ratio and received alglucosidase alfa or placebo every other week for 78 weeks (18 months). the study population included 34 males and 26 females (n=60) in the alglucosidase alfa group and 11 males and 19 females (n=30) in the placebo group. two patients receiving alglucosidase alfa discontinued the trial due to anaphylactic reactions.
+
+
+
+ serious adverse reactions reported with alglucosidase alfa included anaphylaxis, which presented as angioedema, throat tightness and chest pain/discomfort. one patient with a history of wolff-parkinson-white syndrome experienced a serious adverse reaction of supraventricular tachycardia.
+
+
+
+ the most common adverse reactions (>= 3%; 2 or more patients) observed in alglucosidase alfa-treated patients were hypersensitivity reactions and included anaphylaxis, headache, nausea, urticaria, dizziness, chest discomfort, vomiting, hyperhidrosis, flushing/feeling hot, increased blood pressure, paresthesia, pyrexia, local swelling, diarrhea, pruritus, rash, and throat tightness.
+
+
+
+ delayed-onset reactions, defined as adverse reactions occurring 2 - 48 hours after completion of alglucosidase alfa infusion, that were observed in >= 3% more patients in the alglucosidase alfa-treated group compared to patients in the placebo-treated group in the controlled trial, included hyperhidrosis. additional delayed-onset reactions occurring in alglucosidase alfa-treated patients included fatigue, myalgia, and nausea. patients should be counseled about the possibility of delayed-onset hypersensitivity reactions and given proper follow-up instructions.
+
+
+
+   table 3  summarizes the most common adverse reactions that occurred in at least 3% of alglucosidase alfa-treated patients and with a higher incidence than the placebo-treated patients during the randomized, double-blind, placebo-controlled study described above.
+
+
+
+ table 3: adverse reactions occurring in at least 3% of alglucosidase alfa-treated late-onset patients and with a higher incidence than the placebo-treated patients 
+ adverse reaction                     alglucosidase alfan=60n (%)          placebon=30n (%)                 
+  
+ hyperhidrosis                        5 (8.3)                              0 (0)                            
+ urticaria                            5 (8.3)                              0 (0)                            
+ anaphylaxis                          4 (6.7)                              0 (0)                            
+ chest discomfort                     4 (6.7)                              1 (3.3)                          
+ muscle twitching                     4 (6.7)                              1 (3.3)                          
+ myalgia                              3 (5.0)                              1 (3.3)                          
+ flushing/feeling hot                 3 (5.0)                              0 (0)                            
+ increased blood pressure             3 (5.0)                              0 (0)                            
+ vomiting                             3 (5.0)                              0 (0)                            
+ edema, peripheral                    2 (3.3)                              0 (0)                            
+ pruritus                             2 (3.3)                              0 (0)                            
+ rash papular                         2 (3.3)                              0 (0)                            
+ throat tightness                     2 (3.3)                              0 (0)                            
+         in clinical trials, anaphylaxis and hypersensitivity reactions were managed with infusion interruption, decreased infusion rate, administration of antihistamines, corticosteroids, intravenous fluids, and/or oxygen, when clinically indicated. in some cases of anaphylactic reactions, epinephrine was administered. patients who have experienced anaphylaxis or hypersensitivity reactions should be treated with caution when they are re-administered alglucosidase alfa.
+ 
+
+   6.2 immunogenicity
+
+  as with all therapeutic proteins, there is potential for immunogenicity. the data reflect the percentage of patients whose test results were considered positive for antibodies to alglucosidase alfa using an enzyme-linked immunosorbent assay (elisa) and confirmed by a radioimmunoprecipitation (rip) assay for alglucosidase alfa-specific igg antibodies.
+
+
+
+ in the two clinical trials in infantile-onset patients, the majority of patients (34 of 38; 89%) tested positive for igg antibodies to alglucosidase alfa. there is evidence to suggest that some patients who develop high sustained titers of anti-alglucosidase alfa antibodies may experience reduced clinical efficacy to alglucosidase alfa treatment  [seewarnings and precautions (5.5)]  . some igg-positive patients in clinical trials who were retrospectively evaluated for the presence of inhibitory antibodies tested positive for inhibition of enzyme activity and/or uptake in  in vitro  assays. furthermore, crim-negative infants have shown reduced clinical effect in the presence of high sustained igg antibody titers with inhibitory activity. alglucosidase alfa-treated patients who experience a decrease in motor function should be tested for the presence of inhibitory antibodies that neutralize enzyme uptake or activity.
+
+
+
+ in the randomized, double-blind, placebo-controlled trial in late-onset patients, all alglucosidase alfa-treated patients with available samples (n=59, 100%) developed igg antibodies to alglucosidase alfa. most patients who developed igg antibodies did so within the first 3 months of exposure (median time to seroconversion was 4 weeks). there was no apparent association between mean or peak igg antibody titers and the occurrence of adverse reactions.
+
+
+
+ none of the 59 evaluable patients tested positive for inhibition of enzyme activity. antibody titers for cellular uptake inhibition were present in 18 of 59 (31%) patients by week 78. all other patients tested negative for inhibition of cellular uptake. patients who tested positive for uptake inhibition tended to have higher igg titers than patients who tested negative for uptake inhibition. among the 32 patients with evaluable pharmacokinetic (pk) samples, 5 patients tested positive for uptake inhibition. the clinical relevance of this  in vitro  inhibition is not fully understood. the clearance values for 4 of these 5 patients were approximately 1.2- to 1.8-fold greater in the presence of inhibitory antibodies (week 52) as compared to in the absence of inhibitory antibodies (week 0)  [seeclinical pharmacology (12.3)]  .
+
+
+
+ some patients in the clinical studies or in the postmarketing setting have undergone testing for alglucosidase alfa-specific ige antibodies. testing was performed in patients who experienced moderate to severe or recurrent hypersensitivity reactions, for which mast-cell activation was suspected. some of the patients who tested positive for alglucosidase alfa-specific ige antibodies experienced anaphylactic reactions  [seeboxed warningandwarnings and precautions (5.1)].  
+
+
+
+ some patients who tested positive for alglucosidase alfa-specific ige antibodies and experienced hypersensitivity reactions were able to be rechallenged with alglucosidase alfa using a slower infusion rate at lower starting doses and have continued to receive treatment under close clinical supervision  [seewarnings and precautions (5.1)]  . since patients who develop ige antibodies to alglucosidase alfa appear to be at a higher risk for developing anaphylaxis and hypersensitivity reactions, these patients should be monitored more closely during administration of alglucosidase alfa.
+
+
+
+ the detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of the incidence of antibodies to alglucosidase alfa with the incidence of antibodies to other products may be misleading.
+
+
+
+   6.3 postmarketing experience
+
+  the following adverse reactions have been identified during post approval use of alglucosidase alfa  .  because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. in postmarketing experience with alglucosidase alfa, serious adverse reactions have been reported, including anaphylaxis  [seeboxed warningandwarnings and precautions (5.1)]  . acute cardiorespiratory failure, possibly associated with fluid overload, has been reported in infantile-onset pompe disease patients with pre-existing hypertrophic cardiomyopathy  [seeboxed warningandwarning and precautions (5.3)].  
+
+
+
+ recurrent reactions consisting of flu-like illness or a combination of events such as pyrexia, chills, myalgia, arthralgia, pain, or fatigue occurring after completion of infusions and lasting usually for 1 - 3 days have been observed in some patients treated with alglucosidase alfa. the majority of patients were able to be rechallenged with alglucosidase alfa using lower doses and/or pretreatment with anti-inflammatory drugs and/or corticosteroids and were able to continue treatment under close clinical supervision.
+
+
+
+ in addition to the hypersensitivity reactions reported in clinical trials  [seeadverse reactions (6.1)]  , the following hypersensitivity reactions have been reported in at least 2 patients and included: anaphylactic shock, respiratory failure, respiratory arrest, cardiac arrest, hypoxia, dyspnea, wheezing, convulsions, peripheral coldness, restlessness, nervousness, back pain, stridor, pharyngeal edema, abdominal pain, apnea, muscle spasm, and conjunctivitis. in addition, one case of hyperparathyroidism has been reported.
+
+
+
+ systemic and cutaneous immune-mediated reactions, including proteinuria and nephrotic syndrome secondary to membranous glomerulonephritis, and necrotizing skin lesions have been reported in postmarketing safety experience with alglucosidase alfa  [seewarnings and precautions (5.2)]  .
+
+
+    boxed warning: warning:  risk of anaphylaxis, hypersensitivity and immune-mediated reactions, and risk of cardiorespiratory failure
+
+    warning:  risk of anaphylaxis, hypersensitivity and immune-mediated reactions, and risk of cardiorespiratory failure  
+
+      life-threatening anaphylactic reactions and severe hypersensitivity reactions, presenting as respiratory distress, hypoxia, apnea, dyspnea, bradycardia, tachycardia, bronchospasm, throat tightness, hypotension, angioedema (including tongue or lip swelling, periorbital edema, and face edema), and urticaria, have occurred in some patients during and after alglucosidase alfa infusions.  immune-mediated reactions presenting as proteinuria, nephrotic syndrome, and necrotizing skin lesions have occurred in some patients following alglucosidase alfa treatment.  closely observe patients during and after alglucosidase alfa administration and be prepared to manage anaphylaxis and hypersensitivity reactions. inform patients of the signs and symptoms of anaphylaxis, hypersensitivity reactions, and immune-mediated reactions and have them seek immediate medical care should signs and symptoms occur   [see warnings and precautions (5.1, 5.2)]  .    
+
+
+
+     infantile-onset pompe disease patients with compromised cardiac or respiratory function may be at risk of serious acute exacerbation of their cardiac or respiratory compromise due to fluid overload, and require additional monitoring   [see warnings and precautions (5.3)]  .    
+
+
+
+   warning:  risk of anaphylaxis, hypersensitivity and immune-mediated reactions, and risk of cardiorespiratory failure
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  life-threatening anaphylactic reactions and severe hypersensitivity reactions have occurred in some patients during and after alglucosidase alfa infusions. immune-mediated reactions presenting as proteinuria, nephrotic syndrome, and necrotizing skin lesions have occurred in some patients following alglucosidase alfa treatment. closely observe patients during and after alglucosidase alfa administration and be prepared to manage anaphylaxis and hypersensitivity reactions. inform patients of the signs and symptoms of anaphylaxis, hypersensitivity reactions, and immune-mediated reactions and have them seek immediate medical care should signs and symptoms occur (5.1, 5.2). 
+ *  infantile-onset pompe disease patients with compromised cardiac or respiratory function may be at risk of serious acute exacerbation of their cardiac or respiratory compromise due to fluid overload, and require additional monitoring (5.3). 
+    5 warnings and precautions
+
+   excerpt:    *   anaphylaxis and hypersensitivity reactions: life-threatening anaphylaxis and hypersensitivity reactions have been observed in some patients during and after treatment with alglucosidase alfa. ensure that appropriate medical support measures, including cardiopulmonary resuscitation equipment, are readily available. if anaphylaxis or severe hypersensitivity reactions occur, immediately discontinue infusion and initiate appropriate medical treatment (5.1). 
+ *   immune-mediated reactions: monitor patients for the development of systemic immune-mediated reactions involving skin and other organs (5.2). 
+ *   risk of acute cardiorespiratory failure: patients with compromised cardiac or respiratory function may be at risk of acute cardiorespiratory failure. caution should be exercised when administering alglucosidase alfa to patients susceptible to fluid volume overload. appropriate medical support and monitoring measures should be available during infusion (5.3). 
+ *   risk of cardiac arrhythmia and sudden cardiac death during general anesthesia for central venous catheter placement: caution should be used when administering general anesthesia for the placement of a central venous catheter intended for alglucosidase alfa infusion (5.4). 
+    
+   5.1 anaphylaxis and hypersensitivity reactions
+
+    anaphylaxis and hypersensitivity reactions have been observed in patients during and up to 3 hours after alglucosidase alfa infusion. some of the reactions were life-threatening and included anaphylactic shock, cardiac arrest, respiratory arrest, respiratory distress, hypoxia, apnea, dyspnea, bradycardia, tachycardia, bronchospasm, throat tightness, hypotension, angioedema (including tongue or lip swelling, periorbital edema, and face edema), and urticaria. other accompanying reactions included chest discomfort/pain, wheezing, tachypnea, cyanosis, decreased oxygen saturation, convulsions, pruritus, rash, hyperhidrosis, nausea, dizziness, hypertension/increased blood pressure, flushing/feeling hot, erythema, pyrexia, pallor, peripheral coldness, restlessness, nervousness, headache, back pain, and paresthesia. some of these reactions were ige-mediated.  
+
+
+
+ if anaphylaxis or severe hypersensitivity reactions occur, immediately discontinue administration of alglucosidase alfa, and initiate appropriate medical treatment. severe reactions are generally managed with infusion interruption, administration of antihistamines, corticosteroids, intravenous fluids, and/or oxygen, when clinically indicated. in some cases of anaphylaxis, epinephrine has been administered. appropriate medical support, including cardiopulmonary resuscitation equipment, should be readily available when alglucosidase alfa is administered.
+
+
+
+ the risks and benefits of re-administering alglucosidase alfa following an anaphylactic or hypersensitivity reaction should be considered. some patients have been rechallenged and have continued to receive alglucosidase alfa under close clinical supervision. extreme care should be exercised, with appropriate resuscitation measures available, if the decision is made to re-administer the product  [seeadverse reactions (6.2)]  .
+
+
+
+   5.2 immune-mediated reactions
+
+  immune-mediated cutaneous reactions have been reported with alglucosidase alfa including necrotizing skin lesions  [seeadverse reactions (6.3)]  . systemic immune-mediated reactions, including possible type iii immune-mediated reactions have been observed with alglucosidase alfa. these reactions occurred several weeks to 3 years after initiation of alglucosidase alfa infusions. skin biopsy in one patient demonstrated deposition of anti-rhgaa antibodies in the lesion. another patient developed severe inflammatory arthropathy in association with pyrexia and elevated erythrocyte sedimentation rate. nephrotic syndrome secondary to membranous glomerulonephritis was observed in some pompe disease patients treated with alglucosidase alfa who had persistently positive anti-rhgaa igg antibody titers. in these patients, renal biopsy was consistent with immune complex deposition. patients improved following treatment interruption. therefore, patients receiving alglucosidase alfa should undergo periodic urinalysis  [seeadverse reactions (6.3)]  .
+
+
+
+ patients should be monitored for the development of systemic immune-mediated reactions involving skin and other organs while receiving alglucosidase alfa. if immune-mediated reactions occur, consider discontinuation of the administration of alglucosidase alfa, and initiate appropriate medical treatment. the risks and benefits of re-administering alglucosidase alfa following an immune-mediated reaction should be considered. some patients have been able to be rechallenged and have continued to receive alglucosidase alfa under close clinical supervision.
+
+
+
+   5.3 risk of acute cardiorespiratory failure
+
+  patients with acute underlying respiratory illness or compromised cardiac and/or respiratory function may be at risk of serious exacerbation of their cardiac or respiratory compromise during infusions. appropriate medical support and monitoring measures should be readily available during alglucosidase alfa infusion, and some patients may require prolonged observation times that should be individualized based on the needs of the patient. acute cardiorespiratory failure has been observed in infantile-onset pompe disease patients with underlying cardiac hypertrophy, possibly associated with fluid overload with intravenous administration of alglucosidase alfa  [seedosage and administration (2.2)]  .
+
+
+
+   5.4 risk of cardiac arrhythmia and sudden cardiac death during general anesthesia for central venous catheter placement
+
+    administration of general anesthesia can be complicated by the presence of severe cardiac and skeletal (including respiratory) muscle weakness. therefore, caution should be used when administering general anesthesia. ventricular arrhythmias and bradycardia, resulting in cardiac arrest or death, or requiring cardiac resuscitation or defibrillation have been observed in infantile-onset pompe disease patients with cardiac hypertrophy during general anesthesia for central venous catheter placement.  
+
+
+
+   5.5 risk of antibody development
+
+    as with all therapeutic proteins, there is potential for immunogenicity. in clinical studies, the majority of patients developed igg antibodies to alglucosidase alfa, typically within 3 months of treatment. there is evidence to suggest that some patients who develop high and sustained igg antibody titers may experience reduced clinical efficacy to alglucosidase alfa treatment, such as loss of motor function, ventilator dependence, or death. the effect of antibody development on the long term efficacy of alglucosidase alfa is not fully understood.  
+
+
+
+   patients should be monitored for igg antibody formation every 3 months for 2 years and then annually thereafter. testing for igg titers may also be considered if patients develop hypersensitivity reactions, other immune-mediated reactions, or lose clinical response. patients who experience reduced clinical response may also be tested for inhibitory antibody activity. patients who experience anaphylactic or hypersensitivity reactions may also be tested for ige antibodies to alglucosidase alfa and other mediators of anaphylaxis  [seeadverse reactions (6.2)]  .  
+
+
+
+ there are currently no marketed tests for antibodies against alglucosidase alfa; however, a testing service is provided by genzyme. contact your local genzyme representative or genzyme corporation at 1-800-745-4447 for information on testing and to obtain a sample collection box.

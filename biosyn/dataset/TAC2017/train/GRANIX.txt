@@ -1,0 +1,130 @@
+    6 adverse reactions
+
+  the following potential serious adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+  splenic rupture [  see  warnings and precautions (5.1)    ]
+
+
+
+  acute respiratory distress syndrome [  see  warnings and precautions (5.2)    ]
+
+
+
+  serious allergic reactions [  see  warnings and precautions (5.3)    ]
+
+
+
+  use in patients with sickle cell disease [  see  warnings and precautions (5.4)    ]
+
+
+
+  capillary leak syndrome [  see      warnings and precautions (5.5)    ]
+
+
+
+  potential for tumor growth stimulatory effects on malignant cells [  see  warnings and precautions (5.6)    ]
+
+
+
+ the most common treatment-emergent adverse reaction that occurred at an incidence of at least 1% or greater in patients treated with granix at the recommended dose and was numerically two times more frequent than in the placebo group was bone pain.
+
+
+
+    excerpt:    *    most common adverse reaction to granix is bone pain (  6  ) 
+    to report suspected adverse reactions, contact teva at 1-866-832-8537 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ granix clinical trials safety data are based upon the results of three randomized clinical trials in patients receiving myeloablative chemotherapy for breast cancer (n=348), lung cancer (n=240) and non-hodgkin's lymphoma (n=92). in the breast cancer study, 99% of patients were female, the median age was 50 years, and 86% of patients were caucasian. in the lung cancer study, 80% of patients were male, the median age was 58 years, and 95% of patients were caucasian. in the non-hodgkin's lymphoma study, 52% of patients were male, the median age was 55 years, and 88% of patients were caucasian. in all three studies a placebo (cycle 1 of the breast cancer study only) or a non-us-approved filgrastim product were used as controls. both granix and the non-us-approved filgrastim product were administered at 5 mcg/kg subcutaneously once daily beginning one day after chemotherapy for at least five days and continued to a maximum of 14 days or until an anc of >=10,000 x 10  6  /l after nadir was reached.
+
+
+
+ bone pain was the most frequent treatment-emergent adverse reaction that occurred in at least 1% or greater in patients treated with granix at the recommended dose and was numerically two times more frequent than in the placebo group. the    overall incidence of bone pain in cycle 1 of treatment was 3.4% (3.4% granix, 1.4% placebo, 7.5% non-us-approved filgrastim product).
+
+
+
+   leukocytosis  
+
+
+
+ in clinical studies, leukocytosis (wbc counts > 100,000 x 10  6  /l) was observed in less than 1% patients with non-myeloid malignancies receiving granix. no complications attributable to leukocytosis were reported in clinical studies.
+
+
+
+ additional adverse reactions
+
+
+
+ other adverse reactions known to occur following administration of human granulocyte colony-stimulating factors include myalgia, headache, vomiting, sweet's syndrome (acute febrile neutrophilic dermatosis), cutaneous vasculitis and thrombocytopenia.
+
+
+
+   6.2 immunogenicity
+
+  as with all therapeutic proteins, there is a potential for immunogenicity. the incidence of antibody development in patients receiving granix has not been adequately determined.
+    5 warnings and precautions
+
+
+
+   excerpt:    *    splenic rupture: discontinue granix if suspected (  5.1  ) 
+ *    acute respiratory distress syndrome (ards): monitor for and manage immediately. discontinue granix if suspected (  5.2  ) 
+ *    allergic reactions (angioneurotic edema, dermatitis allergic, drug hypersensitivity, hypersensitivity, rash, pruritic rash and urticaria) (  5.3  ) 
+ *    sickle cell crisis: severe and sometimes fatal crisis can occur. discontinue granix if suspected (  5.4  ) 
+ *    capillary leak syndrome: monitor if symptoms develop and administer standard symptomatic treatment (5.5) 
+    
+ 
+
+   5.1 splenic rupture
+
+
+
+  splenic rupture, including fatal cases, can occur following administration of human granulocyte colony-stimulating factors. in patients who report upper abdominal or shoulder pain after receiving granix, discontinue granix and evaluate for an enlarged spleen or splenic rupture.
+
+
+
+    5.2 acute respiratory distress syndrome (ards)
+
+
+
+  acute respiratory distress syndrome (ards) can occur in patients receiving human granulocyte colony-stimulating factors. evaluate patients who develop fever and lung infiltrates or respiratory distress after receiving granix, for ards. discontinue granix in patients with ards.
+
+
+
+    5.3 allergic reactions
+
+
+
+  serious allergic reactions including anaphylaxis can occur in patients receiving human granulocyte colony-stimulating factors. reactions can occur on initial exposure. the administration of antihistamines, steroids, bronchodilators, and/or epinephrine may reduce the severity of the reactions. permanently discontinue granix in patients with serious allergic reactions. do not administer granix to patients with a history of serious allergic reactions to filgrastim or pegfilgrastim.
+
+
+
+    5.4 use in patients with sickle cell disease
+
+
+
+  severe and sometimes fatal sickle cell crises can occur in patients with sickle cell disease receiving human granulocyte colony-stimulating factors. consider the potential risks and benefits prior to the administration of human granulocyte colony-stimulating factors in patients with sickle cell disease. discontinue granix in patients undergoing a sickle cell crisis.
+
+
+
+    5.5 capillary leak syndrome
+
+
+
+  capillary leak syndrome (cls) can occur in patients receiving human granulocyte colony-stimulating factors and is characterized by hypotension, hypoalbuminemia, edema and hemoconcentration. episodes vary in frequency, severity and may be life-threatening if treatment is delayed. patients who develop symptoms of capillary leak syndrome should be closely monitored and receive standard symptomatic treatment, which may include a need for intensive care.
+
+
+
+    5.6 potential for tumor growth stimulatory effects on malignant cells
+
+
+
+  the granulocyte colony-stimulating factor (g-csf) receptor through which granix acts has been found on tumor cell lines. the possibility that granix acts as a growth factor for any tumor type, including myeloid malignancies and myelodysplasia, diseases for which granix is not approved, cannot be excluded.

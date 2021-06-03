@@ -1,0 +1,313 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are discussed elsewhere in the labeling:
+
+
+
+ *    hepatotoxicity [see warnings and precautions (  5.1  )]  
+ *    hemorrhage [see warnings and precautions (   5.2   )]  
+ *    dermatological toxicity [see warnings and precautions (   5.3   )]  
+ *    hypertension [see warnings and precautions (  5.4  )]  
+ *    cardiac ischemia and infarction [see warnings and precautions (   5.5   )]  
+ *    reversible posterior leukoencephalopathy syndrome (rpls) [see warnings and precautions (   5.6   )]  
+ *    gastrointestinal perforation or fistula [see warnings and precautions (   5.7   )]  
+    because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rate observed in practice.
+ 
+
+ the most frequently observed adverse drug reactions (>=20%) in patients receiving stivarga are asthenia/fatigue, hfsr, diarrhea, decreased appetite/food intake, hypertension, mucositis, dysphonia, infection, pain (not otherwise specified), decreased weight, gastrointestinal and abdominal pain, rash, fever, and nausea.
+
+
+
+ the most serious adverse drug reactions in patients receiving stivarga are hepatotoxicity, hemorrhage, and gastrointestinal perforation.
+
+
+
+   excerpt:   the most common adverse reactions (>=20%) are asthenia/fatigue, hfsr, diarrhea, decreased appetite/food intake, hypertension, mucositis, dysphonia, infection, pain (not otherwise specified), decreased weight, gastrointestinal and abdominal pain, rash, fever, and nausea. (  6  )
+
+
+
+   to report suspected adverse reactions, contact bayer healthcare pharmaceuticals inc. at 1-888-842-2937 or fda at 1-800-fda-1088 or    www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+    colorectal cancer  
+
+
+
+ the safety data described below, except where noted, are derived from a randomized (2:1), double-blind, placebo-controlled trial (study 1) in which 500 patients (median age 61 years; 61% men) with previously-treated metastatic colorectal cancer received stivarga as a single agent at the dose of 160 mg daily for the first 3 weeks of each 4 week treatment cycle and 253 patients (median age 61 years; 60% men) received placebo. the median duration of therapy was 7.3 (range 0.3, 47.0) weeks for patients receiving stivarga. due to adverse reactions, 61% of the patients receiving stivarga required a dose interruption and 38% of the patients had their dose reduced. drug-related adverse reactions that resulted in treatment discontinuation were reported in 8.2% of stivarga-treated patients compared to 1.2% of patients who received placebo. hand-foot skin reaction (hfsr) and rash were the most common reasons for permanent discontinuation of stivarga.
+
+
+
+   table 1  compares the incidence of adverse reactions (>=10%) in patients receiving stivarga and reported more commonly than in patients receiving placebo (study 1).
+
+
+
+ table 1 adverse drug reactions (>=10%) reported in patients treated with stivarga in study 1 and reported more commonly than in patients receiving placebo 
+   adverse reactions         stivarga    (n=500)      placebo    (n=253)     
+   grade                     grade                   
+   all    %                  >= 3    %                all    %                >= 3    %            
+  
+                           asthenia/fatigue         
+                           pain                     
+                            general disorders and administration site conditions  fever                            64                      
+                          29                      
+                          28                      
+                                                                           15                     
+                         3                      
+                         2                      
+                                                  46  21  15            9  2  0      
+  metabolism and nutrition disorders  decreased appetite and food intake    47                       5                       28                    4            
+  skin and subcutaneous tissue disorders  hfsr/ppe  rash the term rash represents reports of events of drug eruption, rash, erythematous rash, generalized rash, macular rash, maculo-papular rash, papular rash, and pruritic rash.    45  26                   17  6                   7  4                  0  <1        
+  gastrointestinal disorders  diarrhea  mucositis    43  33                   8  4                    17  5                 2  0         
+  investigations  weight loss    32                       <1                      10                    0            
+  infections and infestations  infection    31                       9                       17                    6            
+  vascular disorders  hypertension  hemorrhage fatal outcomes observed.    30  21                   8  2                    8  8                  <1  <1       
+  respiratory, thoracic and mediastinal disorders  dysphonia    30                       0                       6                     0            
+  nervous system disorders  headache    10                       <1                      7                     0            
+             laboratory abnormalities  
+ 
+
+ laboratory abnormalities observed in study 1 are shown in  table 2  .
+
+
+
+ table 2 laboratory test abnormalities reported in study 1 
+   laboratory parameter      stivarga    (n=500    )      placebo    (n=253    )     
+   grade                  grade              
+   all    %               3    %              4    %             all    %           3    %      4    %     
+  
+  blood and lymphatic system disorders                                                                                                
+  anemia                 79                  5                  1                  66         3          0           
+  thrombocytopenia       41                  2                  <1                 17         <1         0           
+  neutropenia            3                   1                  0                  0          0          0           
+                        lymphopenia           
+                                                54                  9                  0                  34         3          0           
+  metabolism and nutrition disorders                                                                                                
+  hypocalcemia           59                  1                  <1                 18         1          0           
+  hypokalemia            26                  4                  0                  8          <1         0           
+  hyponatremia           30                  7                  1                  22         4          0           
+  hypophosphatemia       57                  31                 1                  11         4          0           
+  hepatobiliary disorders                                                                                                
+  hyperbilirubinemia     45                  10                 3                  17         5          3           
+  increased ast          65                  5                  1                  46         4          1           
+  increased alt          45                  5                  1                  30         3          <1          
+  renal and urinary disorders                                                                                                
+  proteinuria            60                  <1                 0                  34         <1                    0          
+                          
+  investigations                                                                                                     
+  increased inr international normalized ratio: no grade 4 denoted in ctcae, v3.0.    24                  4                  n/a                17         2          n/a         
+  increased lipase       46                  9                  2                  19         3          2           
+  increased amylase      26                  2                  <1                 17         2          <1          
+               gastrointestinal stromal tumors  
+ 
+
+ the safety data described below are derived from a randomized (2:1), double-blind, placebo-controlled trial (study 2) in which 132 patients (median age 60 years; 64% men) with previously-treated gist received stivarga as a single agent at a dose of 160 mg daily for the first 3 weeks of each 4 week treatment cycle and 66 patients (median age 61 years; 64% men) received placebo. the median duration of therapy was 22.9 (range 0.1, 50.9) weeks for patients receiving stivarga. dose interruptions for adverse events were required in 58% of patients receiving stivarga and 50% of patients had their dose reduced. drug-related adverse reactions that resulted in treatment discontinuation were reported in 2.3% of stivarga-treated patients compared to 1.5% of patients who received placebo.
+
+
+
+   table 3  compares the incidence of adverse reactions (>=10%) in gist patients receiving stivarga and reported more commonly than in patients receiving placebo (study 2).
+
+
+
+ table 3 adverse reactions (>=10%) reported in patients treated with stivarga in study 2 and reported more commonly than in patients receiving placebo 
+   adverse reactions        stivarga    (n=132)      placebo    (n=66)      
+   grade                    grade                  
+   all    %                 >= 3    %               all    %                >= 3    %             
+  
+                           skin and subcutaneous tissue disorders  
+                          hfsr/ppe                
+                         
+ rash                    
+                          alopecia                
+                                                    67  30  24              22  7  2                12  3  2               2  0  0       
+                           general disorders and administration site conditions  
+                          asthenia/fatigue        
+                          fever                   
+                                                    52  21                  4  0                    39  11                 2  2          
+                           vascular disorders     
+                          hypertension            
+                          hemorrhage              
+                                                    59  11                  28  4                   27  3                  5  0          
+                           gastrointestinal disorders  
+                          diarrhea                
+                          mucositis               
+                          nausea                  
+                          vomiting                
+                                                    47  40  20  17          8  2  2  <1             9  8  12  8            0  2  2  0    
+                           respiratory, thoracic and mediastinal disorders  
+                          dysphonia               
+                                                    39                      0                       9                      0             
+                           infections and infestations  
+                          infection               
+                                                                           32                     
+                                                                         5                      
+                                                                        5                     
+                                                             0            
+                              
+                           metabolism and nutrition disorders  
+                          decreased appetite and food intake 
+                          hypothyroidism          
+                                                    31  18                  <1  0                   21  6                  3  0          
+                           nervous system disorders  
+                          headache                
+                                                    16                      0                       9                      0             
+                           investigations         
+                          weight loss             
+                                                    14                      0                       8                      0             
+                           musculoskeletal and connective tissue disorders  
+                          musculoskeletal stiffness 
+                                                    14                      0                       3                      0             
+           laboratory abnormalities observed in study 2 are shown in  table 4  .
+ 
+
+ table 4 laboratory test abnormalities reported in study 2 
+   laboratory parameter      stivarga    (n=132    )      placebo    (n=66    )     
+   grade                grade               
+   all    %             3    %               4    %              all    %            3    %      4    %     
+  
+  blood and lymphatic system disorders  thrombocytopenia  neutropenia  lymphopenia    13  16  30           1  2  8             0  0  0             2  12  24    0  3  3    2  0  0    
+  metabolism and nutrition disorders  hypocalcemia  hypokalemia  hypophosphatemia    17  21  55           2  3  20            0  0  2             5  3  3    0  0  2    0  0  0    
+  hepatobiliary disorders  hyperbilirubinemia  increased ast  increased alt    33  58  39           3  3  4             1  1  1             12  47  39    2  3  2    0  0  0    
+  renal and urinary disorders  proteinuria    33                   3                   - no grade 4 denoted in ctcae, v4.0.    30         3          -          
+  investigations  increased lipase    14                   0                   1                   5          0          0          
+               6.2 postmarketing experience
+   the following adverse reaction has been identified during postapproval use of stivarga. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
+
+
+
+ *    hypersensitivity reaction 
+
+
+    boxed warning: warning: hepatotoxicity
+
+  warning: hepatotoxicity
+
+    *  severe and sometimes fatal hepatotoxicity has been observed in clinical trials [see warnings and precautions (5.1)]. 
+ *  monitor hepatic function prior to and during treatment [see warnings and precautions (5.1)]. 
+ *  interrupt and then reduce or discontinue stivarga for hepatotoxicity as manifested by elevated liver function tests or hepatocellular necrosis, depending upon severity and persistence [see dosage and administration (2.2)]. 
+      excerpt:   warning: hepatotoxicity
+ 
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  severe and sometimes fatal hepatotoxicity has been observed in clinical trials. (5.1) 
+ *  monitor hepatic function prior to and during treatment. (5.1) 
+ *  interrupt and then reduce or discontinue stivarga for hepatotoxicity as manifested by elevated liver function tests or hepatocellular necrosis, depending upon severity and persistence. (2.2) 
+    5 warnings and precautions
+
+
+
+   excerpt:    *    hemorrhage: permanently discontinue stivarga for severe or life-threatening hemorrhage. (  5.2  ) 
+ *    dermatological toxicity: interrupt and then reduce or discontinue stivarga depending on severity and persistence of dermatologic toxicity. (  5.3  ) 
+ *    hypertension: temporarily or permanently discontinue stivarga for severe or uncontrolled hypertension. (  5.4  ) 
+ *    cardiac ischemia and infarction: withhold stivarga for new or acute cardiac ischemia/infarction and resume only after resolution of acute ischemic events. (  5.5  ) 
+ *    reversible posterior leukoencephalopathy syndrome (rpls): discontinue stivarga. (  5.6  ) 
+ *    gastrointestinal perforation or fistulae: discontinue stivarga. (  5.7  ) 
+ *    wound healing complications: stop stivarga before surgery. discontinue in patients with wound dehiscence. (  5.8  ) 
+ *    embryofetal toxicity: can cause fetal harm. advise women of potential risk to a fetus. (  5.9  ,  8.1  ) 
+    
+ 
+
+   5.1 hepatotoxicity
+
+
+
+  severe drug induced liver injury with fatal outcome occurred in 0.3% of 1200 stivarga-treated patients across all clinical trials. liver biopsy results, when available, showed hepatocyte necrosis with lymphocyte infiltration. in study 1, fatal hepatic failure occurred in 1.6% of patients in the regorafenib arm and in 0.4% of patients in the placebo arm; all the patients with hepatic failure had metastatic disease in the liver. in study 2, fatal hepatic failure occurred in 0.8% of patients in the regorafenib arm [see adverse reactions (  6.1  )]  .
+
+
+
+ obtain liver function tests (alt, ast and bilirubin) before initiation of stivarga and monitor at least every two weeks during the first 2 months of treatment. thereafter, monitor monthly or more frequently as clinically indicated. monitor liver function tests weekly in patients experiencing elevated liver function tests until improvement to less than 3 times the uln or baseline.
+
+
+
+ temporarily hold and then reduce or permanently discontinue stivarga depending on the severity and persistence of hepatotoxicity as manifested by elevated liver function tests or hepatocellular necrosis [see dosage and administration (  2.2  )]  .
+
+
+
+    5.2 hemorrhage
+
+
+
+  stivarga caused an increased incidence of hemorrhage. the overall incidence (grades 1-5) was 21% and 11% in stivarga-treated patients compared to 8% and 3% in placebo-treated patients in studies 1 and 2. fatal hemorrhage occurred in 4 of 632 (0.6%) of stivarga-treated patients in studies 1 and 2 and involved the respiratory, gastrointestinal, or genitourinary tracts.
+
+
+
+ permanently discontinue stivarga in patients with severe or life-threatening hemorrhage. monitor inr levels more frequently in patients receiving warfarin [see clinical pharmacology (  12.3  )]  .
+
+
+
+    5.3 dermatological toxicity
+
+
+
+  stivarga caused increased incidences of adverse reactions involving the skin and subcutaneous tissues (72% versus 24% in study 1 and 78% versus 24% in study 2), including hand-foot skin reaction (hfsr) also known as palmar-plantar erythrodysesthesia (ppe), and severe rash requiring dose modification.
+
+
+
+ the overall incidence of hfsr was higher in stivarga-treated patients, (45% versus 7% in study 1 and 67% versus 12% in study 2), than in the placebo-treated patients. most cases of hfsr in stivarga-treated patients appeared during the first cycle of treatment (69% and 71% of patients who developed hfsr in study 1 and study 2, respectively). the incidence of grade 3 hfsr (17% versus 0% in study 1 and 22% versus 0% in study 2), grade 3 rash (6% versus <1% in study 1 and 7% versus 0% in study 2), serious adverse reactions of erythema multiforme (0.2% vs. 0% in study 1) and stevens johnson syndrome (0.2% vs. 0% in study 1) was higher in stivarga-treated patients [see adverse reactions (  6.1  )]  .
+
+
+
+ toxic epidermal necrolysis occurred in 0.17% of 1200 stivarga-treated patients across all clinical trials.
+
+
+
+ withhold stivarga, reduce the dose, or permanently discontinue stivarga depending on the severity and persistence of dermatologic toxicity [see dosage and administration (  2.2  )]  . institute supportive measures for symptomatic relief.
+
+
+
+    5.4 hypertension
+
+
+
+  stivarga caused an increased incidence of hypertension (30% versus 8% in study 1 and 59% versus 27% in study 2) [see adverse reactions (  6.1  )]  . hypertensive crisis occurred in 0.25% of 1200 stivarga-treated patients across all clinical trials. the onset of hypertension occurred during the first cycle of treatment in most patients who developed hypertension (72% in study 1 and study 2).
+
+
+
+ do not initiate stivarga unless blood pressure is adequately controlled. monitor blood pressure weekly for the first 6 weeks of treatment and then every cycle, or more frequently, as clinically indicated. temporarily or permanently withhold stivarga for severe or uncontrolled hypertension [see dosage and administration (  2.2  )]  .
+
+
+
+    5.5 cardiac ischemia and infarction
+
+
+
+  stivarga increased the incidence of myocardial ischemia and infarction in study 1 (1.2% versus 0.4%) [see adverse reactions (  6.1  )]  . withhold stivarga in patients who develop new or acute onset cardiac ischemia or infarction. resume stivarga only after resolution of acute cardiac ischemic events, if the potential benefits outweigh the risks of further cardiac ischemia.
+
+
+
+    5.6 reversible posterior leukoencephalopathy syndrome (rpls)
+
+
+
+  reversible posterior leukoencephalopathy syndrome (rpls), a syndrome of subcortical vasogenic edema diagnosed by characteristic finding on mri, occurred in one of 1200 stivarga-treated patients across all clinical trials. perform an evaluation for rpls in any patient presenting with seizures, headache, visual disturbances, confusion or altered mental function. discontinue stivarga in patients who develop rpls.
+
+
+
+    5.7 gastrointestinal perforation or fistula
+
+
+
+  gastrointestinal perforation or fistula occurred in 0.6% of 1200 patients treated with stivarga across all clinical trials; this included four fatal events. in study 2, 2.1% (4/188) of stivarga-treated patients who were treated during the blinded or open-label portion of the study developed gastrointestinal fistula or perforation; of these, two cases of gastrointestinal perforation were fatal. permanently discontinue stivarga in patients who develop gastrointestinal perforation or fistula.
+
+
+
+    5.8 wound healing complications
+
+
+
+  no formal studies of the effect of regorafenib on wound healing have been conducted. since vascular endothelial growth factor receptor (vegfr) inhibitors such as regorafenib can impair wound healing, treatment with regorafenib should be stopped at least 2 weeks prior to scheduled surgery. the decision to resume regorafenib after surgery should be based on clinical judgment of adequate wound healing. regorafenib should be discontinued in patients with wound dehiscence.
+
+
+
+    5.9 embryo-fetal toxicity
+
+
+
+  stivarga can cause fetal harm when administered to a pregnant woman. regorafenib was embryolethal and teratogenic in rats and rabbits at exposures lower than human exposures at the recommended dose, with increased incidences of cardiovascular, genitourinary, and skeletal malformations. if this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see use in specific populations (  8.1  )]  .

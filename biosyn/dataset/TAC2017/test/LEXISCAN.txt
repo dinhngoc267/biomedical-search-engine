@@ -1,0 +1,226 @@
+    6 adverse reactions
+
+  the following adverse reactions are discussed in more detail in other sections of the labeling.
+
+
+
+ *    myocardial ischemia [ see  warnings and precautions  (  5.1  ) ] 
+ *    sinoatrial and atrioventricular nodal block [ see  warnings and precautions  (  5.2  ) ] 
+ *    atrial fibrillation/atrial flutter [ see  warnings and precautions  (  5.3  ) ] 
+ *    hypersensitivity, including anaphylaxis [ see  warnings and precautions  (  5.4  ) ] 
+ *    hypotension [ see  warnings and precautions  (  5.5  ) ] 
+ *    hypertension [ see  warnings and precautions  (  5.6  ) ] 
+ *    bronchoconstriction [ see  warnings and precautions  (  5.7  ) ] 
+ *    seizure [ see  warnings and precautions  (  5.8  ) ] 
+ *    cerebrovascular accident (stroke) [ see  warnings and precautions  (  5.9  ) ] 
+      excerpt:   the most common (incidence >= 5%) adverse reactions to lexiscan are dyspnea, headache, flushing, chest discomfort, dizziness, angina pectoris, chest pain, and nausea (  6  ).
+ 
+
+   to report suspected adverse reactions, contact astellas pharma us, inc. at 1-800-727-7003 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ during clinical development, 1,651 subjects were exposed to lexiscan, with most receiving 0.4 mg as a rapid (<= 10 seconds) intravenous injection. most of these subjects received lexiscan in two clinical studies that enrolled patients who had no history of bronchospastic lung disease as well as no history of a cardiac conduction block of greater than first-degree av block, except for patients with functioning artificial pacemakers. in these studies (studies 1 and 2), 2,015 patients underwent myocardial perfusion imaging after administration of lexiscan (n = 1,337) or adenoscan  (r)  (n = 678). the population was 26-93 years of age (median 66 years), 70% male and primarily caucasian (76% caucasian, 7% african american, 9% hispanic, 5% asian).  table 1  shows the most frequently reported adverse reactions.
+
+
+
+ overall, any adverse reaction occurred at similar rates between the study groups (80% for the lexiscan group and 83% for the adenoscan group). aminophylline was used to treat the reactions in 3% of patients in the lexiscan group and 2% of patients in the adenoscan group. most adverse reactions began soon after dosing, and generally resolved within approximately 15 minutes, except for headache which resolved in most patients within 30 minutes.
+
+
+
+ table 1 adverse reactions in studies 1 and 2 pooled (frequency >= 5%) 
+                                                       lexiscann = 1,337           adenoscan n = 678        
+  dyspnea                                              28%                         26%                      
+  headache                                             26%                         17%                      
+  flushing                                             16%                         25%                      
+  chest discomfort                                     13%                         18%                      
+  angina pectoris or st segment depression             12%                         18%                      
+  dizziness                                            8%                          7%                       
+  chest pain                                           7%                          10%                      
+  nausea                                               6%                          6%                       
+  abdominal discomfort                                 5%                          2%                       
+  dysgeusia                                            5%                          7%                       
+  feeling hot                                          5%                          8%                       
+           ecg abnormalities  
+ 
+
+ the frequency of rhythm or conduction abnormalities following lexiscan or adenoscan is shown in  table 2  [  see  warnings and precautions  (  5.2  )  ].
+
+
+
+ table 2 rhythm or conduction abnormalities12-lead ecgs were recorded before and for up to 2 hrs after dosing in studies 1 and 2 
+                                                       lexiscann / n evaluable (%)    adenoscann / n evaluable (%)    
+  rhythm or conduction abnormalitiesincludes rhythm abnormalities (pacs, pvcs, atrial fibrillation/flutter, wandering atrial pacemaker, supraventricular or ventricular arrhythmia) or conduction abnormalities, including av block    332/1275 (26%)            192/645 (30%)              
+  rhythm abnormalities                                 260/1275 (20%)            131/645 (20%)              
+  pacs                                                 86/1274 (7%)              57/645 (9%)                
+  pvcs                                                 179/1274 (14%)            79/645 (12%)               
+  first-degree av block (pr prolongation > 220 msec)    34/1209 (3%)              43/618 (7%)                
+  second-degree av block                               1/1209 (0.1%)             9/618 (1%)                 
+  av conduction abnormalities (other than av blocks)    1/1209 (0.1%)             0/618 (0%)                 
+  ventricular conduction abnormalities                 64/1152 (6%)              31/581 (5%)                
+           respiratory abnormalities  
+ 
+
+ in a randomized, placebo-controlled trial (study 3) of 999 subjects with asthma (n=532) or stable chronic obstructive pulmonary disease (n=467), the overall incidence of pre-specified respiratory adverse reactions was greater in the lexiscan group compared to the placebo group (p < 0.001). most respiratory adverse reactions resolved without therapy; a few subjects received aminophylline or a short acting bronchodilator. no differences were observed between treatment arms in the reduction of >15% from baseline at two-hours in fev1(  table 3  ).
+
+
+
+ table 3 respiratory adverse effects in study 3all subjects continued the use of their respiratory medications as prescribed prior to administration of lexiscan. 
+                                                        asthma cohort      copd cohort     
+  
+                                                       lexiscan  (n=356)    placebo  (n=176)    lexiscan  (n=316)    placebo  (n=151)    
+  overall pre-specified respiratory adverse reactionpatients may have reported more than one type of adverse reaction. adverse reactions were collected up to 24 hours following drug administration. pre-specified respiratory adverse reactions included dyspnea, wheezing, obstructive airway disorder, dyspnea exertional, and tachypnea.    12.9%         2.3%           19.0%          4.0%         
+      dyspnea                                          10.7%         1.1%           18.0%          2.6%         
+      wheezing                                         3.1%          1.1%           0.9%           0.7%         
+  fev1 reduction >15%change from baseline at 2 hours    1.1%          2.9%           4.2%           5.4%         
+             renal impairment  
+ 
+
+ in a randomized, placebo-controlled trial of 504 subjects (lexiscan n=334 and placebo n=170) with a diagnosis or risk factors for coronary artery disease and nkfk/doqi stage iii or iv renal impairment (defined as gfr 15-59 ml/min/1.73 m  2  ), no serious adverse events were reported through the 24-hour follow-up period.
+
+
+
+   6.2 post-marketing experience
+
+    cardiovascular  
+
+
+
+ myocardial infarction, cardiac arrest, ventricular arrhythmias, supraventricular tachyarrhythmias including atrial fibrillation with rapid ventricular response (new-onset or recurrent), atrial flutter, heart block (including third-degree block), asystole, marked hypertension, symptomatic hypotension in association with transient ischemic attack, seizures and syncope [  see  warnings and precautions  (  5.1  ), (  5.2  ), (  5.3  ), (  5.5  ), (  5.6  ) and (  5.8  )  ] have been reported. some events required intervention with fluids and/or aminophylline [  see  overdosage  (  10  )  ]. qtc prolongation shortly after lexiscan administration has been reported.
+
+
+
+   central nervous system  
+
+
+
+ tremor, seizure, transient ischemic attack, and cerebrovascular accident including intracranial hemorrhage [  see  warnings and precautions  (  5.8  ) and (  5.9  )  ].
+
+
+
+   gastrointestinal  
+
+
+
+ abdominal pain, occasionally severe, has been reported a few minutes after lexiscan administration, in association with nausea, vomiting, or myalgias; administration of aminophylline, an adenosine antagonist, appeared to lessen the pain. diarrhea and fecal incontinence have also been reported following lexiscan administration.
+
+
+
+   hypersensitivity  
+
+
+
+ anaphylaxis, angioedema, cardiac or respiratory arrest, respiratory distress, decreased oxygen saturation, hypotension, throat tightness, urticaria, rashes have occurred and have required treatment including resuscitation [  see  warnings and precautions  (  5.4  )  ].
+
+
+
+   musculoskeletal  
+
+
+
+ musculoskeletal pain has occurred, typically 10-20 minutes after lexiscan administration; the pain was occasionally severe, localized in the arms and lower back and extended to the buttocks and lower legs bilaterally. administration of aminophylline appeared to lessen the pain.
+
+
+
+   respiratory  
+
+
+
+ respiratory arrest, dyspnea and wheezing have been reported following lexiscan administration.
+
+
+
+ because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to lexiscan exposure.
+    5 warnings and precautions
+
+
+
+   excerpt:    *    myocardial ischemia. fatal cardiac events have occurred. avoid use in patients with symptoms or signs of acute myocardial ischemia, for example unstable angina or cardiovascular instability, who may be at greater risk. cardiac resuscitation equipment and trained staff should be available before administration (  5.1  ) 
+ *    sinoatrial (sa) and atrioventricular (av) nodal block. adenosine receptor agonists, including lexiscan, can depress the sa and av nodes and may cause first-, second- or third-degree av block, or sinus bradycardia (  5.2  ) 
+ *    atrial fibrillation/atrial flutter. new-onset or recurrent atrial fibrillation with rapid ventricular response and atrial flutter have been reported (  5.3  ) 
+ *    hypersensitivity, including anaphylaxis. anaphylaxis, angioedema, cardiac or respiratory arrest, respiratory distress, decreased oxygen saturation, hypotension, throat tightness, urticaria, and rashes have occurred. have personnel and resuscitative equipment immediately available (  5.4  ) 
+ *    hypotension. adenosine receptor agonists, including lexiscan, induce vasodilation and hypotension. the risk of serious hypotension may be higher in patients with autonomic dysfunction, stenotic valvular heart disease, pericarditis or pericardial effusions, stenotic carotid artery disease with cerebrovascular insufficiency, or hypovolemia (  5.5  ) 
+ *    hypertension. adenosine receptor agonists, including lexiscan, may induce clinically significant increases in blood pressure particularly in patients with a history of hypertension and when the mpi includes low level exercise (  5.6  ) 
+ *    bronchoconstriction. adenosine receptor agonists, including lexiscan, may induce dyspnea, bronchoconstriction and respiratory compromise in patients with copd or asthma. resuscitative measures should be available (  5.7  ) 
+ *    seizure. lexiscan may lower the seizure threshold. new onset or recurrence of convulsive seizures has occurred. some seizures are prolonged and require urgent anticonvulsive management. methylxanthine use is not recommended in patients who experience a seizure in association with lexiscan (  5.8  ) 
+ *    cerebrovascular accident (stroke). hemorrhagic and ischemic cerebrovascular accidents have occurred (  5.9  ) 
+    
+ 
+
+    5.1 myocardial ischemia  
+
+
+
+   fatal and nonfatal myocardial infarction, ventricular arrhythmias, and cardiac arrest have occurred following lexiscan injection. avoid use in patients with symptoms or signs of acute myocardial ischemia, for example unstable angina or cardiovascular instability; these patients may be at greater risk of serious cardiovascular reactions to lexiscan. cardiac resuscitation equipment and trained staff should be available before administering lexiscan. if serious reactions to lexiscan occur, consider the use of aminophylline, an adenosine antagonist, to shorten the duration of increased coronary blood flow induced by lexiscan [ see  overdosage  (  10  )  ].  
+
+
+
+    5.2 sinoatrial and atrioventricular nodal block
+
+
+
+  adenosine receptor agonists, including lexiscan, can depress the sa and av nodes and may cause first-, second- or third-degree av block, or sinus bradycardia requiring intervention. in clinical trials first-degree av block (pr prolongation > 220 msec) developed in 3% of patients within 2 hours of lexiscan administration; transient second-degree av block with one dropped beat was observed in one patient receiving lexiscan. in post-marketing experience, third-degree heart block and asystole within minutes of lexiscan administration have occurred [ see  adverse reactions  (  6.2  )  ].
+
+
+
+     5.3 atrial fibrillation/atrial flutter  
+
+
+
+   new-onset or recurrent atrial fibrillation with rapid ventricular response and atrial flutter have been reported following lexiscan injection [ see  adverse reactions  (  6.2  )  ].  
+
+
+
+    5.4 hypersensitivity, including anaphylaxis
+
+
+
+  anaphylaxis, angioedema, cardiac or respiratory arrest, respiratory distress, decreased oxygen saturation, hypotension, throat tightness, urticaria and rashes have occurred. in clinical trials, hypersensitivity reactions were reported in fewer than 1 percent of patients [ see  adverse reactions  (  6.1  )  ]. have personnel and resuscitative equipment immediately available.
+
+
+
+    5.5 hypotension
+
+
+
+  adenosine receptor agonists, including lexiscan, induce arterial vasodilation and hypotension. in clinical trials, decreased systolic blood pressure (> 35 mm hg) was observed in 7% of patients and decreased diastolic blood pressure (> 25 mm hg) was observed in 4% of patients within 45 min of lexiscan administration. the risk of serious hypotension may be higher in patients with autonomic dysfunction, hypovolemia, left main coronary artery stenosis, stenotic valvular heart disease, pericarditis or pericardial effusions, or stenotic carotid artery disease with cerebrovascular insufficiency. in post-marketing experience, syncope, transient ischemic attacks and seizures have been observed [ see  adverse reactions   (  6.2  )  ].
+
+
+
+    5.6 hypertension
+
+
+
+  administration of adenosine receptor agonists, including lexiscan, may result in clinically significant increases in blood pressure in some patients. among patients who experienced an increase in blood pressure in clinical trials, the increase was observed within minutes of lexiscan administration. most increases resolved within 10 to 15 minutes, but in some cases, increases were observed at 45 minutes following administration [ see  clinical pharmacology  (  12.2  )  ]. in post-marketing experience, cases of potentially clinically significant hypertension have been reported, particularly with underlying hypertension and when low-level exercise was included in the mpi [ see  adverse reactions  (  6.2  )  ].
+
+
+
+    5.7 bronchoconstriction
+
+
+
+  adenosine receptor agonists, including lexiscan, may cause dyspnea, bronchoconstriction, and respiratory compromise. appropriate bronchodilator therapy and resuscitative measures should be available prior to lexiscan administration [ see  adverse reactions  (  6.1  ),  clinical pharmacology  (  12.2  ),  overdosage  (  10  ) and  patient counseling information  (  17  )  ].
+
+
+
+     5.8 seizure  
+
+
+
+   lexiscan may lower the seizure threshold. new-onset or recurrence of convulsive seizures has occurred following lexiscan injection. some seizures are prolonged and require emergent anticonvulsive management. aminophylline may increase the risk of seizures associated with lexiscan injection. methylxanthine use is not recommended in patients who experience a seizure in association with lexiscan administration.  
+
+
+
+     5.9 cerebrovascular accident (stroke)  
+
+
+
+   hemorrhagic and ischemic cerebrovascular accidents have occurred. hemodynamic effects of lexiscan including hypotension or hypertension may be associated with these adverse reactions [ see  warnings and precautions  (  5.5  ) and (  5.6  )  ].  

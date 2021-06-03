@@ -1,0 +1,29 @@
+    6 adverse reactions
+
+  excerpt:   common adverse reactions occurring in >=1% in subjects treated with kerydin included application site exfoliation, ingrown toenail, application site erythema, and application site dermatitis. (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact anacor pharmaceuticals at 1-844-4anacor [1-844-426-2267] or fda at 1-800-fda-1088 or    www.fda.gov/medwatch    .  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ in two clinical trials, 791 subjects were treated with kerydin. the most commonly reported adverse reactions are listed below (  table 1  ).
+
+
+
+ table 1: adverse reactions occurring in >=1% of kerydin topical solution, 5%-treated subjects and at a greater frequency than observed with vehicle 
+   preferred term                                          kerydinn=791    n(%)      vehiclen=395    n(%)     
+ application site exfoliation                            21 (2.7%)               1 (0.3%)                 
+ ingrown toenail                                         20 (2.5%)               1 (0.3%)                 
+ application site erythema                               13 (1.6%)               0 (0%)                   
+ application site dermatitis                             10 (1.3%)               0 (0%)                   
+         a cumulative irritancy study revealed the potential for kerydin to cause skin irritation. there was no evidence that kerydin causes contact sensitization.

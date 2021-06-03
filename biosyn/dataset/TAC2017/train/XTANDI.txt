@@ -1,0 +1,161 @@
+    6 adverse reactions
+
+  the following is discussed in more detail in other sections of the labeling:
+
+
+
+ *    seizure [see  warnings and precautions  (  5.1  )]  
+      excerpt:   the most common adverse reactions (>= 10%) are asthenia/fatigue, back pain, decreased appetite, constipation, arthralgia, diarrhea, hot flush, upper respiratory tract infection, peripheral edema, dyspnea, musculoskeletal pain, weight decreased, headache, hypertension, and dizziness/vertigo. (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact astellas pharma us, inc. at 1-800-727-7003 or fda at 1-800-fda-1088 or    www.fda.gov/medwatch    .  
+
+
+
+ 
+
+  6.1 clinical trial experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ two randomized clinical trials enrolled patients with metastatic prostate cancer that has progressed on androgen deprivation therapy (gnrh therapy or bilateral orchiectomy), a disease setting that is also defined as metastatic crpc. in both studies, patients received xtandi 160 mg orally once daily in the active treatment arm or placebo in the control arm. all patients continued androgen deprivation therapy. patients were allowed, but not required, to take glucocorticoids.
+
+
+
+ the most common adverse reactions (>= 10%) that occurred more commonly (>= 2% over placebo) in the xtandi-treated patients from the two randomized clinical trials were asthenia/fatigue, back pain, decreased appetite, constipation, arthralgia, diarrhea, hot flush, upper respiratory tract infection, peripheral edema, dyspnea, musculoskeletal pain, weight decreased, headache, hypertension, and dizziness/vertigo.
+
+
+
+   study 1: metastatic castration-resistant prostate cancer following chemotherapy  study 1 enrolled 1199 patients with metastatic crpc who had previously received docetaxel. the median duration of treatment was 8.3 months with xtandi and 3.0 months with placebo. during the trial, 48% of patients on the xtandi arm and 46% of patients on the placebo arm received glucocorticoids.
+
+
+
+ grade 3 and higher adverse reactions were reported among 47% of xtandi-treated patients and 53% of placebo-treated patients. discontinuations due to adverse events were reported for 16% of xtandi-treated patients and 18% of placebo-treated patients. the most common adverse reaction leading to treatment discontinuation was seizure, which occurred in 0.9% of the xtandi-treated patients compared to none (0%) of the placebo-treated patients.  table 1  shows adverse reactions reported in study 1 that occurred at a >= 2% higher frequency in the xtandi arm compared to the placebo arm.
+
+
+
+ table 1. adverse reactions in study 1 
+                                  xtandi  n = 800    placebo  n = 399    
+  grade 1-4a  (%)                 grade 3-4  (%)     grade 1-4  (%)     grade 3-4  (%)     
+  general disorders               
+      asthenic conditionsb        50.6               9.0                44.4               9.3                
+      peripheral edema            15.4               1.0                13.3               0.8                
+  musculoskeletal and connective tissue disorders    
+      back pain                   26.4               5.3                24.3               4.0                
+      arthralgia                  20.5               2.5                17.3               1.8                
+      musculoskeletal pain        15.0               1.3                11.5               0.3                
+      muscular weakness           9.8                1.5                6.8                1.8                
+      musculoskeletal stiffness    2.6                0.3                0.3                0.0                
+  gastrointestinal disorders      
+      diarrhea                    21.8               1.1                17.5               0.3                
+  vascular disorders              
+      hot flush                   20.3               0.0                10.3               0.0                
+      hypertension                6.4                2.1                2.8                1.3                
+  nervous system disorders        
+      headache                    12.1               0.9                5.5                0.0                
+      dizzinessc                  9.5                0.5                7.5                0.5                
+      spinal cord compression     and cauda equina syndrome    7.4                6.6                4.5                3.8                
+      paresthesia                 6.6                0.0                4.5                0.0                
+      mental impairment disordersd    4.3                0.3                1.8                0.0                
+      hypoesthesia                4.0                0.3                1.8                0.0                
+  infections and infestations     
+      upper respiratory tract     infectione    10.9               0.0                6.5                0.3                
+      lower respiratory tract and     lung infectionf    8.5                2.4                4.8                1.3                
+  psychiatric disorders           
+      insomnia                    8.8                0.0                6.0                0.5                
+      anxiety                     6.5                0.3                4.0                0.0                
+  renal and urinary disorders     
+      hematuria                   6.9                1.8                4.5                1.0                
+      pollakiuria                 4.8                0.0                2.5                0.0                
+  injury, poisoning and procedural complications    
+      fall                        4.6                0.3                1.3                0.0                
+      non-pathologic fractures    4.0                1.4                0.8                0.3                
+  skin and subcutaneous tissue disorders    
+      pruritus                    3.8                0.0                1.3                0.0                
+      dry skin                    3.5                0.0                1.3                0.0                
+  respiratory disorders           
+      epistaxis                   3.3                0.1                1.3                0.3                
+  a    ctcae v4b    includes asthenia and fatigue.c    includes dizziness and vertigo.d    includes amnesia, memory impairment, cognitive disorder, and disturbance in attention.e    includes nasopharyngitis, upper respiratory tract infection, sinusitis, rhinitis, pharyngitis, and laryngitis.f    includes pneumonia, lower respiratory tract infection, bronchitis, and lung infection.    
+             study 2: chemotherapy-naive metastatic castration-resistant prostate cancer  study 2 enrolled 1717 patients with metastatic crpc who had not received prior cytotoxic chemotherapy, of whom 1715 received at least one dose of study drug. the median duration of treatment was 17.5 months with xtandi and 4.6 months with placebo. grade 3-4 adverse reactions were reported in 44% of xtandi-treated patients and 37% of placebo-treated patients. discontinuations due to adverse events were reported for 6% of xtandi-treated patients and 6% of placebo-treated patients. the most common adverse reaction leading to treatment discontinuation was fatigue/asthenia, which occurred in 1% of patients on each treatment arm.  table 2  includes adverse reactions reported in study 2 that occurred at a >= 2% higher frequency in the xtandi arm compared to the placebo arm.
+ 
+
+ table 2. adverse reactions in study 2 
+                                    xtandi    n = 871      placebo    n = 844     
+   grade 1-4  a      (%)            grade 3-4    (%)      grade 1-4    (%)      grade 3-4    (%)     
+  
+  general disorders                
+      asthenic conditionsb         46.9               3.4                33.0               2.8                
+      peripheral edema             11.5               0.2                8.2                0.4                
+  musculoskeletal and connective tissue disorders    
+      back pain                    28.6               2.5                22.4               3.0                
+      arthralgia                   21.4               1.6                16.1               1.1                
+  gastrointestinal disorders       
+      constipation                 23.2               0.7                17.3               0.4                
+      diarrhea                     16.8               0.3                14.3               0.4                
+  vascular disorders               
+      hot flush                    18.0               0.1                7.8                0.0                
+      hypertension                 14.2               7.2                4.1                2.3                
+  nervous system disorders         
+      dizzinessc                   11.3               0.3                7.1                0.0                
+      headache                     11.0               0.2                7.0                0.4                
+      dysgeusia                    7.6                0.1                3.7                0.0                
+      mental impairment disordersd    5.7                0.0                1.3                0.1                
+      restless legs syndrome       2.1                0.1                0.4                0.0                
+  respiratory disorders            
+      dyspneae                     11.0               0.6                8.5                0.6                
+  infections and infestations      
+      upper respiratory tract     infectionf    16.4               0.0                10.5               0.0                
+      lower respiratory tract and     lung infectiong    7.9                1.5                4.7                1.1                
+  psychiatric disorders            
+      insomnia                     8.2                0.1                5.7                0.0                
+  renal and urinary disorders      
+      hematuria                    8.8                1.3                5.8                1.3                
+  injury, poisoning and procedural complications    
+      fall                         12.7               1.6                5.3                0.7                
+      non-pathological fracture    8.8                2.1                3.0                1.1                
+  metabolism and nutrition disorders    
+      decreased appetite           18.9               0.3                16.4               0.7                
+  investigations                   
+      weight decreased             12.4               0.8                8.5                0.2                
+  reproductive system and breast disorders    
+      gynecomastia                 3.4                0.0                1.4                0.0                
+  a    ctcae v4b    includes asthenia and fatigue.c    includes dizziness and vertigo.d    includes amnesia, memory impairment, cognitive disorder, and disturbance in attention.e    includes dyspnea, exertional dyspnea, and dyspnea at rest.f    includes nasopharyngitis, upper respiratory tract infection, sinusitis, rhinitis, pharyngitis, and laryngitis.g    includes pneumonia, lower respiratory tract infection, bronchitis, and lung infection.    
+             laboratory abnormalities  in the two randomized clinical trials, grade 1-4 neutropenia occurred in 15% of patients treated with xtandi (1% grade 3-4) and in 6% of patients treated with placebo (0.5% grade 3-4). the incidence of grade 1-4 thrombocytopenia was 6% of patients treated with xtandi (0.3% grade 3-4) and 5% of patients treated with placebo (0.5% grade 3-4). grade 1-4 elevations in alt occurred in 10% of patients treated with xtandi (0.2% grade 3-4) and 16% of patients treated with placebo (0.2% grade 3-4). grade 1-4 elevations in bilirubin occurred in 3% of patients treated with xtandi (0.1% grade 3-4) and 2% of patients treated with placebo (no grade 3-4).
+ 
+
+   infections  in study 1, 1% of patients treated with xtandi compared to 0.3% of patients treated with placebo died from infections or sepsis. in study 2, 1 patient in each treatment group (0.1%) had an infection resulting in death.
+
+
+
+   falls and fall-related injuries  in the two randomized clinical trials, falls including fall-related injuries, occurred in 9% of patients treated with xtandi compared to 4% of patients treated with placebo. falls were not associated with loss of consciousness or seizure. fall-related injuries were more severe in patients treated with xtandi and included non-pathologic fractures, joint injuries, and hematomas.
+
+
+
+   hypertension  in the two randomized trials, hypertension was reported in 11% of patients receiving xtandi and 4% of patients receiving placebo. no patients experienced hypertensive crisis. medical history of hypertension was balanced between arms. hypertension led to study discontinuation in < 1% of patients in each arm.
+    5 warnings and precautions
+
+
+
+  excerpt:   seizure occurred in 0.9% of patients receiving xtandi who previously received docetaxel and in 0.1% of patients who were chemotherapy-naive. there is no clinical trial experience with xtandi in patients who have had a seizure. permanently discontinue xtandi in patients who develop a seizure during treatment. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 seizure
+
+
+
+   in study 1, which enrolled patients who previously received docetaxel, 7 of 800 (0.9%) patients treated with xtandi experienced a seizure and no patients treated with placebo experienced a seizure. seizure occurred from 31 to 603 days after initiation of xtandi. in study 2, 1 of 871 (0.1%) chemotherapy-naive patients treated with xtandi and 1 of 844 (0.1%) patients treated with placebo experienced a seizure. patients experiencing seizure were permanently discontinued from therapy and all seizure events resolved. there is no clinical trial experience re-administering xtandi to patients who experienced seizure.  
+
+
+
+  limited safety data are available in patients with predisposing factors for seizure because these patients were generally excluded from the trials. these exclusion criteria included a history of seizure, underlying brain injury with loss of consciousness, transient ischemic attack within the past 12 months, cerebral vascular accident, brain metastases, and brain arteriovenous malformation. study 1 excluded the use of concomitant medications that may lower the seizure threshold, whereas study 2 permitted the use of these medications.  
+
+
+
+  because of the risk of seizure associated with xtandi use, patients should be advised of the risk of engaging in any activity where sudden loss of consciousness could cause serious harm to themselves or others. permanently discontinue xtandi in patients who develop a seizure during treatment.  

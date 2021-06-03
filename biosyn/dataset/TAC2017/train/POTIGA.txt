@@ -1,0 +1,371 @@
+    6 adverse reactions
+
+  the following adverse reactions are described in more detail in the  warnings and precautions  section of the label:
+
+
+
+ *    retinal abnormalities and potential vision loss [see warnings and precautions (5.1)]  
+ *    urinary retention [see warnings and precautions (5.2)]  
+ *    skin discoloration [see warnings and precautions (5.3)]  
+ *    neuropsychiatric symptoms [see warnings and precautions (5.4)]  
+ *    dizziness and somnolence [see warnings and precautions (5.5)]  
+ *    qt interval effect [see warnings and precautions (5.6)]  
+ *    suicidal behavior and ideation [see warnings and precautions (5.7)]  
+ *    withdrawal seizures [see warnings and precautions (5.8)]  
+      excerpt:   most common adverse reactions (incidence >=4% and twice placebo) were dizziness, somnolence, fatigue, confusional state, vertigo, tremor, abnormal coordination, diplopia, disturbance in attention, memory impairment, asthenia, blurred vision, gait disturbance, aphasia, dysarthria, and balance disorder. (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact glaxosmithkline at 1-888-825-5249 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ potiga was administered as adjunctive therapy to 1,365 patients with epilepsy in all controlled and uncontrolled clinical studies during the premarketing development. a total of 801 patients were treated for at least 6 months, 585 patients were treated for 1 year or longer, and 311 patients were treated for at least 2 years.
+
+
+
+   adverse reactions leading to discontinuation in all controlled clinical studies  
+
+
+
+ in the 3 randomized, double-blind, placebo-controlled studies, 199 of 813 patients (25%) receiving potiga and 45 of 427 patients (11%) receiving placebo discontinued treatment because of adverse reactions. the most common adverse reactions leading to withdrawal in patients receiving potiga were dizziness (6%), confusional state (4%), fatigue (3%), and somnolence (3%).
+
+
+
+   common adverse reactions in all controlled clinical studies  
+
+
+
+ overall, the most frequently reported adverse reactions in patients receiving potiga (>=4% and occurring approximately twice the placebo rate) were dizziness (23%), somnolence (22%), fatigue (15%), confusional state (9%), vertigo (8%), tremor (8%), abnormal coordination (7%), diplopia (7%), disturbance in attention (6%), memory impairment (6%), asthenia (5%), blurred vision (5%), gait disturbance (4%), aphasia (4%), dysarthria (4%), and balance disorder (4%) (see table 4). in most cases the reactions were of mild or moderate intensity.
+
+
+
+   table 4. adverse reactions incidence in placebo-controlled adjunctive trials in adult patients with partial-onset seizures (adverse reactions in at least 2% of patients treated with potiga in any treatment group and numerically more frequent than in the placebo group.)  
+
+
+
+
+  body system/adverse reaction    placebo      potiga          
+  600 mg/day                   900 mg/day    1,200 mg/day    all             
+  (n = 427)  %                 (n = 281)  %    (n = 273)  %    (n = 259)  %    (n = 813)  %     
+                              eye                         
+                                                                                                                                       
+                              diplopia                    
+                                                            2            8               6               7                7            
+                              blurred vision              
+                                                            2            2               4               10               5            
+                              gastrointestinal            
+                                                                                                                                       
+                              nausea                      
+                                                            5            6               6               9                7            
+                              constipation                
+                                                            1            1               4               5                3            
+                              dyspepsia                   
+                                                            2            3               2               3                2            
+                              general                     
+                                                                                                                                       
+                              fatigue                     
+                                                            6            16              15              13               15           
+                              asthenia                    
+                                                            2            4               6               4                5            
+                              infections and infestations 
+                                                                                                                                       
+                              influenza                   
+                                                            2            4               1               5                3            
+                              investigations              
+                                                                                                                                       
+                              weight increased            
+                                                            1            2               3               3                3            
+                              nervous system              
+                                                                                                                                       
+                              dizziness                   
+                                                            9            15              23              32               23           
+                              somnolence                  
+                                                            12           15              25              27               22           
+                              memory impairment           
+                                                            3            3               6               9                6            
+                              tremor                      
+                                                            3            3               10              12               8            
+                              vertigo                     
+                                                            2            8               8               9                8            
+                              abnormal coordination       
+                                                            3            5               5               12               7            
+                              disturbance in attention    
+                                                            <1           6               6               7                6            
+                              gait disturbance            
+                                                            1            2               5               6                4            
+                              aphasia                     
+                                                            <1           1               3               7                4            
+                              dysarthria                  
+                                                            <1           4               2               8                4            
+                              balance disorder            
+                                                            <1           3               3               5                4            
+                              paresthesia                 
+                                                            2            3               2               5                3            
+                              amnesia                     
+                                                            <1           <1              3               3                2            
+                              dysphasia                   
+                                                            <1           1               1               3                2            
+                              psychiatric                 
+                                                                                                                                       
+                              confusional state           
+                                                            3            4               8               16               9            
+                              anxiety                     
+                                                            2            3               2               5                3            
+                              disorientation              
+                                                            <1           <1              <1              5                2            
+                              psychotic disorder          
+                                                            0            0               <1              2                <1           
+                              renal and urinary           
+                                                                                                                                       
+                              dysuria                     
+                                                            <1           1               2               4                2            
+                              urinary hesitation          
+                                                            <1           2               1               4                2            
+                              hematuria                   
+                                                            <1           2               1               2                2            
+                              chromaturia                 
+                                                            <1           <1              2               3                2            
+            other adverse reactions reported in these 3 studies in <2% of patients treated with potiga and numerically greater than placebo were increased appetite, hallucinations, myoclonus, peripheral edema, hypokinesia, dry mouth, dysphagia, hyperhydrosis, urinary retention, malaise, and increased liver enzymes.
+ 
+
+ most of the adverse reactions appear to be dose related (especially those classified as psychiatric and nervous system symptoms), including dizziness, somnolence, confusional state, tremor, abnormal coordination, memory impairment, blurred vision, gait disturbance, aphasia, balance disorder, constipation, dysuria, and chromaturia.
+
+
+
+ potiga was associated with dose-related weight gain, with mean weight increasing by 0.2 kg, 1.2 kg, 1.6 kg, and 2.7 kg in the placebo, 600 mg per day, 900 mg per day, and 1,200 mg per day groups, respectively.
+
+
+
+   additional adverse reactions observed during all phase 2 and 3 clinical trials  
+
+
+
+ following is a list of adverse reactions reported by patients treated with potiga during all clinical trials: rash, nystagmus, dyspnea, leukopenia, muscle spasms, alopecia, nephrolithiasis, syncope, neutropenia, thrombocytopenia, euphoric mood, renal colic, coma, encephalopathy.
+
+
+
+   comparison of gender, age, and race  
+
+
+
+ the overall adverse reaction profile of potiga was similar for females and males.
+
+
+
+ there are insufficient data to support meaningful analyses of adverse reactions by age or race. approximately 86% of the population studied was caucasian, and 0.8% of the population was aged 65 years or older.
+
+
+    boxed warning: warning: retinal abnormalities and potential vision loss
+
+  warning: retinal abnormalities and potential vision loss
+
+    potiga can cause retinal abnormalities with funduscopic features similar to those seen in retinal pigment dystrophies, which are known to result in damage to the photoreceptors and vision loss.  
+
+
+
+   some patients with retinal abnormalities have been found to have abnormal visual acuity. it is not possible to determine whether potiga caused this decreased visual acuity, as baseline assessments are not available for these patients.  
+
+
+
+   approximately one third of the patients who had eye examinations performed after approximately 4 years of treatment were found to have retinal pigmentary abnormalities. an earlier onset cannot be ruled out, and it is possible that retinal abnormalities were present earlier in the course of exposure to potiga. the rate of progression of retinal abnormalities and their reversibility are unknown.  
+
+
+
+   potiga should only be used in patients who have responded inadequately to several alternative treatments and for whom the benefits outweigh the potential risk of vision loss. patients who fail to show substantial clinical benefit after adequate titration should be discontinued from potiga.  
+
+
+
+   all patients taking potiga should have baseline and periodic (every 6 months) systematic visual monitoring by an ophthalmic professional. testing should include visual acuity and dilated fundus photography. additional testing may include fluorescein angiograms (fa), optical coherence tomography (oct), perimetry, and electroretinograms (erg).  
+
+
+
+   if retinal pigmentary abnormalities or vision changes are detected, potiga should be discontinued unless no other suitable treatment options are available and the benefits of treatment outweigh the potential risk of vision loss.  
+
+
+
+   excerpt:   warning: retinal abnormalities and potential vision loss
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  potiga can cause retinal abnormalities with funduscopic features similar to those seen in retinal pigment dystrophies, which are known to result in damage to the photoreceptors and vision loss. (5.1) 
+ *  some patients with retinal abnormalities have been found to have abnormal visual acuity. it is not possible to determine whether potiga caused this decreased visual acuity. (5.1) 
+ *  the rate of progression of retinal abnormalities and their reversibility are unknown. (5.1) 
+ *  patients who fail to show substantial clinical benefit after adequate titration should be discontinued from potiga. (5.1) 
+ *  all patients taking potiga should have baseline and periodic (every 6 months) systematic visual monitoring by an ophthalmic professional. testing should include visual acuity and dilated fundus photography. (5.1) 
+ *  if retinal pigmentary abnormalities or vision changes are detected, potiga should be discontinued unless no other suitable treatment options are available and the benefits of treatment outweigh the potential risk of vision loss. (5.1) 
+    5 warnings and precautions
+
+
+
+   excerpt:    *    urinary retention: patients should be carefully monitored for urologic symptoms. (  5.2  ) 
+ *    potiga can cause skin discoloration. if a patient develops skin discoloration, serious consideration should be given to an alternative treatment. (  5.3  ) 
+ *    neuropsychiatric symptoms: monitor for confusional state, psychotic symptoms, and hallucinations. (  5.4  ) 
+ *    monitor for dizziness and somnolence. (  5.5  ) 
+ *    qt prolongation: qt interval should be monitored in patients taking concomitant medications known to increase the qt interval or with certain heart conditions. (  5.6  ) 
+ *    monitor for suicidal thoughts or behaviors. (  5.7  ) 
+    
+ 
+
+   5.1 retinal abnormalities and potential vision loss
+
+
+
+  potiga can cause abnormalities of the retina. the abnormalities seen in patients treated with potiga have funduscopic features similar to those seen in retinal pigment dystrophies that are known to result in damage to photoreceptors and vision loss.
+
+
+
+ the retinal abnormalities observed with potiga have been reported in patients who were originally enrolled in clinical trials with potiga and who have generally taken the drug for a long period of time in 2 ongoing extension trials. approximately one third of the patients who had eye examinations performed after approximately 4 years of treatment were found to have retinal pigmentary abnormalities. however, an earlier onset cannot be ruled out, and it is possible that retinal abnormalities were present earlier in the course of exposure to potiga. potiga causes skin, scleral, nail, and mucous membrane discoloration and it is not clear whether this discoloration is related to retinal abnormalities [see warnings and precautions (5.3)]  . approximately 15% of patients with retinal pigmentary abnormalities had no such discoloration.
+
+
+
+ funduscopic abnormalities have most commonly been described as perivascular pigmentation (bone spicule pattern) in the retinal periphery and/or as areas of focal retinal pigment epithelium clumping. although some of the patients with retinal abnormalities have been found to have abnormal visual acuity, it is not possible to assess whether potiga caused their decreased visual acuity, as baseline assessments are not available for these patients. two patients with retinal abnormalities have had more extensive diagnostic retinal evaluations. the results of these evaluations were consistent with a retinal dystrophy, including abnormalities in the electroretinogram and electrooculogram of both patients, with abnormal fluorescein angiography and diminished sensitivity on visual field testing in one patient.
+
+
+
+ the rate of progression of retinal abnormalities and the reversibility after drug discontinuation are unknown.
+
+
+
+ because of the observed ophthalmologic adverse reactions, potiga should only be used in patients who have responded inadequately to several alternative treatments and for whom the benefits outweigh the risk of retinal abnormalities and potential vision loss. patients who fail to show substantial clinical benefit after adequate titration should be discontinued from potiga.
+
+
+
+ patients should have baseline ophthalmologic testing by an ophthalmic professional and follow-up testing every 6 months. the best method of detection of these abnormalities and the optimal frequency of periodic ophthalmologic monitoring are unknown. patients who cannot be monitored should usually not be treated with potiga. the ophthalmologic monitoring program should include visual acuity testing and dilated fundus photography. additional testing may include fluorescein angiograms (fa), optical coherence tomography (oct), perimetry, and electroretinograms (erg). if retinal pigmentary abnormalities or vision changes are detected, potiga should be discontinued unless no other suitable treatment options are available and the benefits of treatment outweigh the potential risk of vision loss.
+
+
+
+    5.2 urinary retention
+
+
+
+  potiga caused urinary retention in clinical trials. urinary retention was generally reported within the first 6 months of treatment, but was also observed later. urinary retention was reported as an adverse event in 29 of 1,365 (approximately 2%) patients treated with potiga in the open-label and placebo-controlled epilepsy database [see clinical studies (14)]  . of these 29 patients, 5 (17%) required catheterization, with post-voiding residuals of up to 1,500 ml. potiga was discontinued in 3 of the 5 patients who required catheterization, and all were able to void spontaneously; however, 1 of the 3 patients continued intermittent self-catheterization. two patients continued treatment with potiga and were able to void spontaneously after catheter removal. hydronephrosis occurred in 2 patients, one of whom had associated renal function impairment that resolved upon discontinuation of potiga. hydronephrosis was not reported in placebo patients.
+
+
+
+ in the placebo-controlled epilepsy trials, "urinary retention," "urinary hesitation," and "dysuria" were reported in 0.9%, 2.2%, and 2.3% of patients on potiga, respectively, and in 0.5%, 0.9%, and 0.7% of patients on placebo, respectively.
+
+
+
+ because of the increased risk of urinary retention on potiga, urologic symptoms should be carefully monitored. closer monitoring is recommended for patients who have other risk factors for urinary retention (e.g., benign prostatic hyperplasia [bph]), patients who are unable to communicate clinical symptoms (e.g., cognitively impaired patients), or patients who use concomitant medications that may affect voiding (e.g., anticholinergics). in these patients, a comprehensive evaluation of urologic symptoms prior to and during treatment with potiga may be appropriate.
+
+
+
+    5.3 skin discoloration
+
+
+
+  potiga can cause skin discoloration. the skin discoloration is generally described as blue, but has also been described as grey-blue or brown. it is predominantly on or around the lips or in the nail beds of the fingers or toes, but more widespread involvement of the face and legs has also been reported. discoloration of the palate, sclera, and conjunctiva has also been reported.
+
+
+
+ approximately 10% of patients in long-term clinical trials developed skin discoloration, generally after 2 or more years of treatment and at higher doses (900 mg or greater) of potiga. among patients in whom the status of both skin, nail, lip, or mucous membrane discoloration and retinal pigmentary abnormalities are reported, approximately a quarter of those with skin, nail, lip, or mucous membrane discoloration had concurrent retinal pigmentary abnormalities [see warnings and precautions (5.1)]  .
+
+
+
+ information on the consequences, reversibility, time to onset, and pathophysiology of the skin abnormalities remains incomplete. the possibility of more extensive systemic involvement has not been excluded. if a patient develops skin discoloration, serious consideration should be given to changing to an alternate medication.
+
+
+
+    5.4 neuropsychiatric symptoms
+
+
+
+  confusional state, psychotic symptoms, and hallucinations were reported more frequently as adverse reactions in patients treated with potiga than in those treated with placebo in placebo-controlled epilepsy trials (see table 2). discontinuations resulting from these reactions were more common in the drug-treated group (see table 2). these effects were dose-related and generally appeared within the first 8 weeks of treatment. half of the patients in the controlled trials who discontinued potiga due to hallucinations or psychosis required hospitalization. approximately two-thirds of patients with psychosis in controlled trials had no prior psychiatric history. the psychiatric symptoms in the vast majority of patients in both controlled and open-label trials resolved within 7 days of discontinuation of potiga. rapid titration at greater than the recommended doses appeared to increase the risk of psychosis and hallucinations.
+
+
+
+  table 2. major neuropsychiatric symptoms in placebo-controlled epilepsy trials  
+
+
+
+
+  adverse reaction      number (%) with adverse reaction    number (%) discontinuing    
+  potiga  (n = 813)     placebo  (n = 427)    potiga  (n = 813)    placebo  (n = 427)    
+  confusional state     75 (9%)              11 (3%)              32 (4%)          4 (<1%)         
+  psychosis             9 (1%)               0                    6 (<1%)          0               
+  hallucinationsa       14 (2%)              2 (<1%)              6 (<1%)          0               
+             a  hallucinations includes visual, auditory, and mixed hallucinations.
+ 
+
+    5.5 dizziness and somnolence
+
+
+
+  potiga causes dose-related increases in dizziness and somnolence [see adverse reactions (6.1)]  . in placebo-controlled trials in patients with epilepsy, dizziness was reported in 23% of patients treated with potiga and 9% of patients treated with placebo. somnolence was reported in 22% of patients treated with potiga and 12% of patients treated with placebo. in these trials 6% of patients on potiga and 1.2% on placebo discontinued treatment because of dizziness; 3% of patients on potiga and <1.0% on placebo discontinued because of somnolence.
+
+
+
+ most of these adverse reactions were mild to moderate in intensity and occurred during the titration phase. for those patients continued on potiga, dizziness and somnolence appeared to diminish with continued use.
+
+
+
+    5.6 qt interval effect
+
+
+
+  a study of cardiac conduction showed that potiga produced a mean 7.7-msec qt prolongation in healthy volunteers titrated to 400 mg 3 times daily. the qt-prolonging effect occurred within 3 hours. the qt interval should be monitored when potiga is prescribed with medicines known to increase qt interval and in patients with known prolonged qt interval, congestive heart failure, ventricular hypertrophy, hypokalemia, or hypomagnesemia [see clinical pharmacology (12.2)]  .
+
+
+
+    5.7 suicidal behavior and ideation
+
+
+
+  antiepileptic drugs (aeds), including potiga, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication. patients treated with any aed for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
+
+
+
+ pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive-therapy) of 11 different aeds showed that patients randomized to one of the aeds had approximately twice the risk (adjusted relative risk 1.8, 95% confidence interval [ci]: 1.2, 2.7) of suicidal thinking or behavior compared with patients randomized to placebo. in these trials, which had a median treatment duration of 12 weeks, the estimated incidence of suicidal behavior or ideation among 27,863 aed-treated patients was 0.43% compared with 0.24% among 16,029 placebo-treated patients, representing an increase of approximately 1 case of suicidal thinking or behavior for every 530 patients treated. there were 4 suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
+
+
+
+ the increased risk of suicidal thoughts or behavior with aeds was observed as early as 1 week after starting treatment with aeds and persisted for the duration of treatment assessed. because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
+
+
+
+ the risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed. the finding of increased risk with aeds of varying mechanism of action and across a range of indications suggests that the risk applies to all aeds used for any indication. the risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
+
+
+
+ table 3 shows absolute and relative risk by indication for all evaluated aeds.
+
+
+
+  table 3. risk of suicidal thoughts or behaviors by indication for antiepileptic drugs in the pooled analysis  
+
+
+
+
+  indication    placebo patients with events per 1,000 patients    drug patients with events per 1,000 patients    relative risk: incidence of events in drug patients/incidence in placebo patients    risk difference: additional drug patients with events per 1,000 patients    
+  epilepsy     1.0                3.4                3.5                              2.4                        
+  psychiatric    5.7                8.5                1.5                              2.9                        
+  other        1.0                1.8                1.9                              0.9                        
+  total        2.4                4.3                1.8                              1.9                        
+           the relative risk for suicidal thoughts or behavior was higher in clinical trials in patients with epilepsy than in clinical trials in patients with psychiatric or other conditions, but the absolute risk differences were similar for epilepsy and psychiatric indications.
+ 
+
+ anyone considering prescribing potiga or any other aed must balance this risk with the risk of untreated illness. epilepsy and many other illnesses for which aeds are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior. should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
+
+
+
+ patients, their caregivers, and families should be informed that aeds increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression; any unusual changes in mood or behavior; or the emergence of suicidal thoughts, behavior, or thoughts about self-harm. behaviors of concern should be reported immediately to healthcare providers.
+
+
+
+    5.8 withdrawal seizures
+
+
+
+  as with all aeds, when potiga is discontinued, it should be withdrawn gradually when possible to minimize the potential of increased seizure frequency [see dosage and administration (2.1)]  . the dosage of potiga should be reduced over a period of at least 3 weeks, unless safety concerns require abrupt withdrawal.

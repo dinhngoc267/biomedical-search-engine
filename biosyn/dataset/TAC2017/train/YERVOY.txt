@@ -1,0 +1,296 @@
+    6    adverse reactions
+
+  the following adverse reactions are discussed in greater detail in other sections of the labeling.
+
+
+
+ *  ?  immune-mediated enterocolitis [see  warnings and precautions (5.1)  ] . 
+ *  ?  immune-mediated hepatitis [see  warnings and precautions (5.2)  ] . 
+ *  ?  immune-mediated dermatitis [see  warnings and precautions (5.3)  ] . 
+ *  ?  immune-mediated neuropathies [see  warnings and precautions (5.4)  ] . 
+ *  ?  immune-mediated endocrinopathies [see  warnings and precautions (5.5)  ] . 
+ *  ?  other immune-mediated adverse reactions, including ocular manifestations [see  warnings and precautions (5.6)  ] . 
+      excerpt:   most common adverse reactions (>=5%) are fatigue, diarrhea, pruritus, rash, and colitis.  (6.1)  
+ 
+
+   to report suspected adverse reactions, contact bristol-myers squibb at 1-800-721-5072 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1   clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared with rates in other clinical trials or experience with therapeutics in the same class and may not reflect the rates observed in clinical practice.
+
+
+
+ the clinical development program excluded patients with active autoimmune disease or those receiving systemic immunosuppression for organ transplantation. exposure to yervoy 3 mg/kg for 4 doses given by intravenous infusion in previously treated patients with unresectable or metastatic melanoma was assessed in a randomized, double-blind clinical study (study 1).  [see  clinical studies (14)  .]  one hundred thirty-one patients (median age 57 years, 60% male) received yervoy as a single agent, 380 patients (median age 56 years, 61% male) received yervoy with an investigational gp100 peptide vaccine (gp100), and 132 patients (median age 57 years, 54% male) received gp100 peptide vaccine alone. patients in the study received a median of 4 doses (range: 1-4 doses). yervoy was discontinued for adverse reactions in 10% of patients.
+
+
+
+ the most common adverse reactions (>=5%) in patients who received yervoy at 3 mg/kg were fatigue, diarrhea, pruritus, rash, and colitis.
+
+
+
+ table 1 presents selected adverse reactions from study 1, which occurred in at least 5% of patients in the yervoy-containing arms and with at least 5% increased incidence over the control gp100 arm for all-grade events and at least 1% incidence over the control group for grade 3-5 events.
+
+
+
+ table 1:     selected adverse reactions in study 1 
+   a     incidences presented in this table are based on reports of adverse events regardless of causality.   
+  
+                                      percentage (%) of patientsa    
+                                      yervoy3 mg/kgn=131    yervoy3 mg/kg+gp100n=380    gp100n=132    
+  system organ class/preferred term    anygrade     grade3-5     anygrade     grade3-5     anygrade     grade3-5     
+  gastrointestinal disorders                       
+      diarrhea                        32           5            37           4            20           1            
+      colitis                         8            5            5            3            2            0            
+  skin and subcutaneous tissue disorders                 
+      pruritus                        31           0            21           <1           11           0            
+      rash                            29           2            25           2            8            0            
+  general disorders and administration site conditions                 
+      fatigue                         41           7            34           5            31           3            
+             table 2 presents the per-patient incidence of severe, life-threatening, or fatal immune-mediated adverse reactions from study 1.
+ 
+
+ table 2:     severe to fatal immune-mediated adverse reactions in study 1 
+   a     including fatal outcome.  b     including intestinal perforation.  c     underlying etiology not established.   
+  
+                                            percentage (%) of patients      
+                                            yervoy3 mg/kgn=131              yervoy3 mg/kg+gp100n=380        
+  any immune-mediated adverse reaction      15                              12                              
+  enterocolitisa,b                          7                               7                               
+  hepatotoxicitya                           1                               2                               
+  dermatitisa                               2                               3                               
+  neuropathya                               1                               <1                              
+  endocrinopathy                            4                               1                               
+      hypopituitarism                       4                               1                               
+      adrenal insufficiency                 0                               1                               
+  other                                                                                                     
+      pneumonitis                           0                               <1                              
+      meningitis                            0                               <1                              
+      nephritis                             1                               0                               
+      eosinophiliac                         1                               0                               
+      pericarditisa,c                       0                               <1                              
+         across clinical studies that utilized yervoy doses ranging from 0.3 to 10 mg/kg, the following adverse reactions were also reported (incidence less than 1% unless otherwise noted): urticaria (2%), large intestinal ulcer, esophagitis, acute respiratory distress syndrome, renal failure, and infusion reaction.
+ 
+
+ based on the experience in the entire clinical program for melanoma, the incidence and severity of enterocolitis and hepatitis appear to be dose dependent.
+
+
+
+   6.2   postmarketing experience
+
+  the following adverse reactions have been identified during postapproval use of yervoy. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   skin and subcutaneous tissue disorders:  drug reaction with eosinophilia and systemic symptoms (dress syndrome)
+
+
+
+   6.3   immunogenicity
+
+  in clinical studies, 1.1% of 1024 evaluable patients tested positive for binding antibodies against ipilimumab in an electrochemiluminescent (ecl) based assay. this assay has substantial limitations in detecting anti-ipilimumab antibodies in the presence of ipilimumab. infusion-related or peri-infusional reactions consistent with hypersensitivity or anaphylaxis were not reported in these 11 patients nor were neutralizing antibodies against ipilimumab detected.
+
+
+
+ because trough levels of ipilimumab interfere with the ecl assay results, a subset analysis was performed in the dose cohort with the lowest trough levels. in this analysis, 6.9% of 58 evaluable patients, who were treated with 0.3 mg/kg dose, tested positive for binding antibodies against ipilimumab.
+
+
+
+ immunogenicity assay results are highly dependent on several factors including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of incidence of antibodies to yervoy with the incidences of antibodies to other products may be misleading.
+
+
+    boxed warning: warning: immune-mediated adverse reactions
+
+  warning: immune-mediated adverse reactions
+
+    yervoy can result in severe and fatal immune-mediated adverse reactions due to t-cell activation and proliferation. these immune-mediated reactions may involve any organ system; however, the most common severe immune-mediated adverse reactions are enterocolitis, hepatitis, dermatitis (including toxic epidermal necrolysis), neuropathy, and endocrinopathy. the majority of these immune-mediated reactions initially manifested during treatment; however, a minority occurred weeks to months after discontinuation of yervoy.  
+
+
+
+   permanently discontinue yervoy and initiate systemic high-dose corticosteroid therapy for severe immune-mediated reactions.   [see   dosage and administration (2.2)  .]    
+
+
+
+   assess patients for signs and symptoms of enterocolitis, dermatitis, neuropathy, and endocrinopathy and evaluate clinical chemistries including liver function tests and thyroid function tests at baseline and before each dose.   [see   warnings and precautions (5.1  ,   5.2  ,   5.3  ,   5.4  ,   5.5)  .]    
+
+
+
+   excerpt:   warning: immune-mediated adverse reactions
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+   yervoy can result in severe and fatal immune-mediated adverse reactions due to t-cell activation and proliferation. these immune-mediated reactions may involve any organ system; however, the most common severe immune-mediated adverse reactions are enterocolitis, hepatitis, dermatitis (including toxic epidermal necrolysis), neuropathy, and endocrinopathy. the majority of these immune-mediated reactions initially manifested during treatment; however, a minority occurred weeks to months after discontinuation of yervoy.  
+
+
+
+   permanently discontinue yervoy and initiate systemic high-dose corticosteroid therapy for severe immune-mediated reactions.   (2.2)    
+
+
+
+   assess patients for signs and symptoms of enterocolitis, dermatitis, neuropathy, and endocrinopathy and evaluate clinical chemistries including liver function tests and thyroid function tests at baseline and before each dose.   (5.1  ,   5.2  ,   5.3  ,   5.4  ,   5.5)    
+    5    warnings and precautions
+
+
+
+  yervoy can result in severe and fatal immune-mediated reactions due to t-cell activation and proliferation. [see  boxed warning  .]  
+
+
+
+   excerpt:   immune-mediated adverse reactions: permanently discontinue for severe reactions. withhold dose for moderate immune-mediated adverse reactions until return to baseline, improvement to mild severity, or complete resolution, and patient is receiving less than 7.5 mg prednisone or equivalent per day. administer systemic high-dose corticosteroids for severe, persistent, or recurring immune-mediated reactions.  (5.1  ,  5.2  ,  5.3  ,  5.4  ,  5.5)  
+
+
+
+ *  ?  immune-mediated hepatitis: evaluate liver function tests before each dose of yervoy.  (5.2)   
+ *  ?  immune-mediated endocrinopathies: monitor thyroid function tests and clinical chemistries prior to each dose. evaluate at each visit for signs and symptoms of endocrinopathy. institute hormone replacement therapy as needed.  (5.5)   
+    
+ 
+
+   5.1   immune-mediated enterocolitis
+
+
+
+  in study 1, severe, life-threatening, or fatal (diarrhea of 7 or more stools above baseline, fever, ileus, peritoneal signs; grade 3-5) immune-mediated enterocolitis occurred in 34 (7%) yervoy-treated patients, and moderate (diarrhea with up to 6 stools above baseline, abdominal pain, mucus or blood in stool; grade 2) enterocolitis occurred in 28 (5%) yervoy-treated patients. across all yervoy-treated patients (n=511), 5 (1%) patients developed intestinal perforation, 4 (0.8%) patients died as a result of complications, and 26 (5%) patients were hospitalized for severe enterocolitis.
+
+
+
+ the median time to onset was 7.4 weeks (range: 1.6-13.4) and 6.3 weeks (range: 0.3-18.9) after the initiation of yervoy for patients with grade 3-5 enterocolitis and with grade 2 enterocolitis, respectively.
+
+
+
+ twenty-nine patients (85%) with grade 3-5 enterocolitis were treated with high-dose (>=40 mg prednisone equivalent per day) corticosteroids, with a median dose of 80 mg/day of prednisone or equivalent; the median duration of treatment was 2.3 weeks (ranging up to 13.9 weeks) followed by corticosteroid taper. of the 28 patients with moderate enterocolitis, 46% were not treated with systemic corticosteroids, 29% were treated with <40 mg prednisone or equivalent per day for a median duration of 5.1 weeks, and 25% were treated with high-dose corticosteroids for a median duration of 10 days prior to corticosteroid taper. infliximab was administered to 5 of the 62 patients (8%) with moderate, severe, or life-threatening immune-mediated enterocolitis following inadequate response to corticosteroids.
+
+
+
+ of the 34 patients with grade 3-5 enterocolitis, 74% experienced complete resolution, 3% experienced improvement to grade 2 severity, and 24% did not improve. among the 28 patients with grade 2 enterocolitis, 79% experienced complete resolution, 11% improved, and 11% did not improve.
+
+
+
+ monitor patients for signs and symptoms of enterocolitis (such as diarrhea, abdominal pain, mucus or blood in stool, with or without fever) and of bowel perforation (such as peritoneal signs and ileus). in symptomatic patients, rule out infectious etiologies and consider endoscopic evaluation for persistent or severe symptoms.
+
+
+
+ permanently discontinue yervoy in patients with severe enterocolitis and initiate systemic corticosteroids at a dose of 1 to 2 mg/kg/day of prednisone or equivalent. upon improvement to grade 1 or less, initiate corticosteroid taper and continue to taper over at least 1 month. in clinical trials, rapid corticosteroid tapering resulted in recurrence or worsening symptoms of enterocolitis in some patients.
+
+
+
+ withhold yervoy dosing for moderate enterocolitis; administer anti-diarrheal treatment and, if persistent for more than 1 week, initiate systemic corticosteroids at a dose of 0.5 mg/kg/day prednisone or equivalent. [see  dosage and administration (2.2)  .]  
+
+
+
+    5.2   immune-mediated hepatitis
+
+
+
+  in study 1, severe, life-threatening, or fatal hepatotoxicity (ast or alt elevations of more than 5 times the upper limit of normal or total bilirubin elevations more than 3 times the upper limit of normal; grade 3-5) occurred in 8 (2%) yervoy-treated patients, with fatal hepatic failure in 0.2% and hospitalization in 0.4% of yervoy-treated patients. an additional 13 (2.5%) patients experienced moderate hepatotoxicity manifested by liver function test abnormalities (ast or alt elevations of more than 2.5 times but not more than 5 times the upper limit of normal or total bilirubin elevation of more than 1.5 times but not more than 3 times the upper limit of normal; grade 2). the underlying pathology was not ascertained in all patients but in some instances included immune-mediated hepatitis. there were insufficient numbers of patients with biopsy-proven hepatitis to characterize the clinical course of this event.
+
+
+
+ monitor liver function tests (hepatic transaminase and bilirubin levels) and assess patients for signs and symptoms of hepatotoxicity before each dose of yervoy. in patients with hepatotoxicity, rule out infectious or malignant causes and increase frequency of liver function test monitoring until resolution.
+
+
+
+ permanently discontinue yervoy in patients with grade 3-5 hepatotoxicity and administer systemic corticosteroids at a dose of 1 to 2 mg/kg/day of prednisone or equivalent. when liver function tests show sustained improvement or return to baseline, initiate corticosteroid tapering and continue to taper over 1 month. across the clinical development program for yervoy, mycophenolate treatment has been administered in patients who have persistent severe hepatitis despite high-dose corticosteroids. withhold yervoy in patients with grade 2 hepatotoxicity. [see  dosage and administration (2.2)  .]  
+
+
+
+    concurrent administration with vemurafenib
+
+
+
+  in a dose-finding trial, grade 3 increases in transaminases with or without concomitant increases in total bilirubin occurred in 6 of 10 patients who received concurrent yervoy (3 mg/kg) and vemurafenib (960 mg bid or 720 mg bid).
+
+
+
+    5.3   immune-mediated dermatitis
+
+
+
+  in study 1, severe, life-threatening, or fatal immune-mediated dermatitis (eg, stevens-johnson syndrome, toxic epidermal necrolysis, or rash complicated by full thickness dermal ulceration, or necrotic, bullous, or hemorrhagic manifestations; grade 3-5) occurred in 13 (2.5%) yervoy-treated patients. one (0.2%) patient died as a result of toxic epidermal necrolysis and one additional patient required hospitalization for severe dermatitis. there were 63 (12%) patients with moderate (grade 2) dermatitis.
+
+
+
+ the median time to onset of moderate, severe, or life-threatening immune-mediated dermatitis was 3.1 weeks and ranged up to 17.3 weeks from the initiation of yervoy.
+
+
+
+ seven (54%) yervoy-treated patients with severe dermatitis received high-dose corticosteroids (median dose 60 mg prednisone/day or equivalent) for up to 14.9 weeks followed by corticosteroid taper. of these 7 patients, 6 had complete resolution; time to resolution ranged up to 15.6 weeks.
+
+
+
+ of the 63 patients with moderate dermatitis, 25 (40%) were treated with systemic corticosteroids (median of 60 mg/day of prednisone or equivalent) for a median of 2.1 weeks, 7 (11%) were treated with only topical corticosteroids, and 31 (49%) did not receive systemic or topical corticosteroids. forty-four (70%) patients with moderate dermatitis were reported to have complete resolution, 7 (11%) improved to mild (grade 1) severity, and 12 (19%) had no reported improvement.
+
+
+
+ monitor patients for signs and symptoms of dermatitis such as rash and pruritus. unless an alternate etiology has been identified, signs or symptoms of dermatitis should be considered immune-mediated.
+
+
+
+ permanently discontinue yervoy in patients with stevens-johnson syndrome, toxic epidermal necrolysis, or rash complicated by full thickness dermal ulceration, or necrotic, bullous, or hemorrhagic manifestations. administer systemic corticosteroids at a dose of 1 to 2 mg/kg/day of prednisone or equivalent. when dermatitis is controlled, corticosteroid tapering should occur over a period of at least 1 month. withhold yervoy dosing in patients with moderate to severe signs and symptoms. [see  dosage and administration (2.2)  .]  
+
+
+
+ for mild to moderate dermatitis, such as localized rash and pruritus, treat symptomatically. administer topical or systemic corticosteroids if there is no improvement of symptoms within 1 week.
+
+
+
+    5.4   immune-mediated neuropathies
+
+
+
+  in study 1, 1 case of fatal guillain-barre syndrome and 1 case of severe (grade 3) peripheral motor neuropathy were reported. across the clinical development program of yervoy, myasthenia gravis and additional cases of guillain-barre syndrome have been reported.
+
+
+
+ monitor for symptoms of motor or sensory neuropathy such as unilateral or bilateral weakness, sensory alterations, or paresthesia. permanently discontinue yervoy in patients with severe neuropathy (interfering with daily activities) such as guillain-barre-like syndromes. institute medical intervention as appropriate for management of severe neuropathy. consider initiation of systemic corticosteroids at a dose of 1 to 2 mg/kg/day prednisone or equivalent for severe neuropathies. withhold yervoy dosing in patients with moderate neuropathy (not interfering with daily activities). [see  dosage and administration (2.2)  .]  
+
+
+
+    5.5   immune-mediated endocrinopathies
+
+
+
+  in study 1, severe to life-threatening immune-mediated endocrinopathies (requiring hospitalization, urgent medical intervention, or interfering with activities of daily living; grade 3-4) occurred in 9 (1.8%) yervoy-treated patients. all 9 patients had hypopituitarism and some had additional concomitant endocrinopathies such as adrenal insufficiency, hypogonadism, and hypothyroidism. six of the 9 patients were hospitalized for severe endocrinopathies. moderate endocrinopathy (requiring hormone replacement or medical intervention; grade 2) occurred in 12 (2.3%) patients and consisted of hypothyroidism, adrenal insufficiency, hypopituitarism, and 1 case each of hyperthyroidism and cushing's syndrome. the median time to onset of moderate to severe immune-mediated endocrinopathy was 11 weeks and ranged up to 19.3 weeks after the initiation of yervoy.
+
+
+
+ of the 21 patients with moderate to life-threatening endocrinopathy, 17 patients required long-term hormone replacement therapy including, most commonly, adrenal hormones (n=10) and thyroid hormones (n=13).
+
+
+
+ monitor patients for clinical signs and symptoms of hypophysitis, adrenal insufficiency (including adrenal crisis), and hyper- or hypothyroidism. patients may present with fatigue, headache, mental status changes, abdominal pain, unusual bowel habits, and hypotension, or nonspecific symptoms which may resemble other causes such as brain metastasis or underlying disease. unless an alternate etiology has been identified, signs or symptoms of endocrinopathies should be considered immune-mediated.
+
+
+
+ monitor thyroid function tests and clinical chemistries at the start of treatment, before each dose, and as clinically indicated based on symptoms. in a limited number of patients, hypophysitis was diagnosed by imaging studies through enlargement of the pituitary gland.
+
+
+
+ withhold yervoy dosing in symptomatic patients. initiate systemic corticosteroids at a dose of 1 to 2 mg/kg/day of prednisone or equivalent, and initiate appropriate hormone replacement therapy. [see  dosage and administration (2.2)  .]  
+
+
+
+    5.6   other immune-mediated adverse reactions, including ocular manifestations
+
+
+
+  the following clinically significant immune-mediated adverse reactions were seen in less than 1% of yervoy-treated patients in study 1: nephritis, pneumonitis, meningitis, pericarditis, uveitis, iritis, and hemolytic anemia.
+
+
+
+ across the clinical development program for yervoy, the following likely immune-mediated adverse reactions were also reported with less than 1% incidence: myocarditis, angiopathy, temporal arteritis, vasculitis, polymyalgia rheumatica, conjunctivitis, blepharitis, episcleritis, scleritis, leukocytoclastic vasculitis, erythema multiforme, psoriasis, pancreatitis, arthritis, autoimmune thyroiditis, sarcoidosis, neurosensory hypoacusis, autoimmune central neuropathy (encephalitis), myositis, polymyositis, and ocular myositis.
+
+
+
+ permanently discontinue yervoy for clinically significant or severe immune-mediated adverse reactions. initiate systemic corticosteroids at a dose of 1 to 2 mg/kg/day prednisone or equivalent for severe immune-mediated adverse reactions.
+
+
+
+ administer corticosteroid eye drops to patients who develop uveitis, iritis, or episcleritis. permanently discontinue yervoy for immune-mediated ocular disease that is unresponsive to local immunosuppressive therapy. [see  dosage and administration (2.2)  .]  

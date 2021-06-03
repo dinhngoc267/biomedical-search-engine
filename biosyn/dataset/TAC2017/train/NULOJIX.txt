@@ -1,0 +1,470 @@
+    6 adverse reactions
+
+  the most serious adverse reactions reported with nulojix are:
+
+
+
+ *    ptld, predominantly cns ptld, and other malignancies [see   boxed warning   and   warnings and precautions (5.1  ,  5.3)   ] 
+ *    serious infections, including jc virus-associated pml and polyoma virus nephropathy [see   warnings and precautions (5.4  ,  5.5  ,  5.6)   ] 
+      excerpt:   most common adverse reactions (>=20% on nulojix treatment) are anemia, diarrhea, urinary tract infection, peripheral edema, constipation, hypertension, pyrexia, graft dysfunction, cough, nausea, vomiting, headache, hypokalemia, hyperkalemia, and leukopenia.  (6.1)  
+ 
+
+   to report suspected adverse reactions, contact bristol-myers squibb at 1-800-721-5072 or fda at 1-800-fda-1088 or    www.fda.gov/medwatch    .  
+
+
+
+ 
+
+  6.1 clinical studies experience
+
+  the data described below primarily derive from two randomized, active-controlled three-year trials of nulojix in  de novo  kidney transplant patients. in study 1 and study 2, nulojix was studied at the recommended dose and frequency [see    dosage and administration (2.1)    ] in a total of 401 patients compared to a cyclosporine control regimen in a total of 405 patients. these two trials also included a total of 403 patients treated with a nulojix regimen of higher cumulative dose and more frequent dosing than recommended [see    clinical studies (14.1)    ]. all patients also received basiliximab induction, mycophenolate mofetil, and corticosteroids. patients were treated and followed for 3 years.
+
+
+
+ cns ptld, pml, and other cns infections were more frequently observed in association with a nulojix regimen of higher cumulative dose and more frequent dosing compared to the recommended regimen; therefore, administration of higher than the recommended doses and/or more frequent dosing of nulojix is not recommended [see    dosage and administration (2.1)    ].
+
+
+
+ the average age of patients in studies 1 and 2 in the nulojix recommended dose and cyclosporine control regimens was 49 years, ranging from 18 to 79 years. approximately 70% of patients were male; 67% were white, 11% were black, and 22% other races. about 25% of patients were from the united states and 75% from other countries.
+
+
+
+ because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.
+
+
+
+ the most commonly reported adverse reactions occurring in >=20% of patients treated with the recommended dose and frequency of nulojix were anemia, diarrhea, urinary tract infection, peripheral edema, constipation, hypertension, pyrexia, graft dysfunction, cough, nausea, vomiting, headache, hypokalemia, hyperkalemia, and leukopenia.
+
+
+
+ the proportion of patients who discontinued treatment due to adverse reactions was 13% for the recommended nulojix regimen and 19% for the cyclosporine control arm through three years of treatment. the most common adverse reactions leading to discontinuation in nulojix-treated patients were cytomegalovirus infection (1.5%) and complications of transplanted kidney (1.5%).
+
+
+
+ information on selected significant adverse reactions observed during clinical trials is summarized below.
+
+
+
+   post-transplant lymphoproliferative disorder
+
+  reported cases of post-transplant lymphoproliferative disorder (ptld) up to 36 months post transplant were obtained for nulojix by pooling both dosage regimens of nulojix in studies 1 and 2 (804 patients) with data from a third study in kidney transplantation (study 3, 145 patients) which evaluated two nulojix dosage regimens similar, but slightly different, from those of studies 1 and 2 (see table 2). the total number of nulojix patients from these three studies (949) was compared to the pooled cyclosporine control groups from all three studies (476 patients).
+
+
+
+ among 401 patients in studies 1 and 2 treated with the recommended regimen of nulojix and the 71 patients in study 3 treated with a very similar (but non-identical) nulojix regimen, there were 5 cases of ptld: 3 in ebv seropositive patients and 2 in ebv seronegative patients. two of the 5 cases presented with cns involvement.
+
+
+
+ among the 477 patients in studies 1, 2, and 3 treated with the nulojix regimen of higher cumulative dose and more frequent dosing than recommended, there were 8 cases of ptld: 2 in ebv seropositive patients and 6 in ebv seronegative or serostatus unknown patients. six of the 8 cases presented with cns involvement. therefore, administration of higher than the recommended doses or more frequent dosing of nulojix is not recommended. [see    dosage and administration (2.1)    and    warnings and precautions (5.1)    .]
+
+
+
+ one of the 476 patients treated with cyclosporine developed ptld, without cns involvement.
+
+
+
+ all cases of ptld reported up to 36 months post transplant in nulojix- or cyclosporine-treated patients presented within 18 months of transplantation.
+
+
+
+ overall, the rate of ptld in 949 patients treated with any of the nulojix regimens was 9-fold higher in those who were ebv seronegative or ebv serostatus unknown (8/139) compared to those who were ebv seropositive (5/810 patients). therefore nulojix is recommended for use only in patients who are ebv seropositive [see    boxed warning    and    contraindications (4)    ].
+
+
+
+ table 2: summary of ptld reported in studies 1, 2, and 3 through three years of treatment 
+                    nulojix    non-recommended    regimen*    (n=477)      nulojix    recommended    regimen        (n=472)      cyclosporine    (n=476)     
+   trial            ebv    positive    (n=406)      ebv    negative    (n=43)      ebv    unknown    (n=28)      ebv    positive    (n=404)      ebv    negative    (n=48)      ebv    unknown    (n=20)      ebv    positive    (n=399)      ebv    negative    (n=57)      ebv    unknown    (n=20)     
+  
+ *  regimen with higher cumulative dose and more frequent dosing than the recommended nulojix regimen.      in studies 1 and 2 the nulojix regimen is identical to the recommended regimen, but is slightly different in study 3.   
+  
+  study 1          
+  cns ptld         1           1                                                                                          
+  non-cnsptld                  1                      2                                             1                     
+  study 2          
+  cns ptld         1           1                      1           1                                                       
+  non-cnsptld                                                     1                                                       
+  study 3          
+  cns ptld                     2                                                                                          
+  non-cnsptld                             1                                                                               
+  total (%)        2 (0.5)     5 (11.6)    1 (3.6)     3 (0.7)     2 (4.1)    0           0           1 (1.8)    0           
+                  ebv seropositive subpopulation
+   among the 806 ebv seropositive patients with known cmv serostatus treated with either nulojix regimen in studies 1, 2, and 3, two percent (2%; 4/210) of cmv seronegative patients developed ptld compared to 0.2% (1/596) of cmv seropositive patients. among the 404 ebv seropositive recipients treated with the recommended dosage regimen of nulojix, three ptld cases were detected among 99 cmv seronegative patients (3%) and there was no case detected among 303 cmv seropositive patients. the clinical significance of cmv serology as a risk factor for ptld remains to be determined; however, these findings should be considered when prescribing nulojix [see    warnings and precautions (5.1)    ].
+
+
+
+   other malignancies
+
+  malignancies, excluding non-melanoma skin cancer and ptld, were reported in study 1 and study 2 in 3.5% (14/401) of patients treated with the recommended nulojix regimen and 3.7% (15/405) of patients treated with the cyclosporine control regimen. non-melanoma skin cancer was reported in 1.5% (6/401) of patients treated with the recommended nulojix regimen and in 3.7% (15/405) of patients treated with cyclosporine [see    warnings and precautions (5.3)    ].
+
+
+
+   progressive multifocal leukoencephalopathy
+
+  two fatal cases of progressive multifocal leukoencephalopathy (pml) have been reported among 1096 patients treated with a nulojix-containing regimen: one patient in clinical trials of kidney transplant (studies 1, 2, and 3 described above) and one patient in a trial of liver transplant (trial of 250 patients). no cases of pml were reported in patients treated with the recommended nulojix regimen or the control regimen in these trials.
+
+
+
+ the kidney transplant recipient was treated with the nulojix regimen of higher cumulative dose and more frequent dosing than recommended, mycophenolate mofetil (mmf), and corticosteroids for 2 years. the liver transplant recipient was treated with 6 months of a nulojix dosage regimen that was more intensive than that studied in kidney transplant recipients, mmf at doses higher than the recommended dose, and corticosteroids [see    warnings and precautions (5.4)    ].
+
+
+
+   bacterial, mycobacterial, viral, and fungal infections
+
+  adverse reactions of infectious etiology were reported based on clinical assessment by physicians. the causative organisms for these reactions are identified when provided by the physician. the overall number of infections, serious infections, and select infections with identified etiology reported in patients treated with the nulojix recommended regimen or the cyclosporine control in studies 1 and 2 are shown in table 3. fungal infections were reported in 18% of patients receiving nulojix compared to 22% receiving cyclosporine, primarily due to skin and mucocutaneous fungal infections. tuberculosis and herpes infections were reported more frequently in patients receiving nulojix than cyclosporine. of the patients who developed tuberculosis through 3 years, all but one nulojix patient lived in countries with a high prevalence of tuberculosis [see    warnings and precautions (5.5)    ].
+
+
+
+ table 3: overall infections and select infections with identified etiology by treatment group following one and three years of treatment in studies 1 and 2* 
+                                 up to year 1        up to year 3         
+                                 nulojix    recommended    regimen    n=401    n (%)      cyclosporine    n=405    n (%)      nulojix    recommended    regimen    n=401    n (%)      cyclosporine    n=405    n (%)     
+  
+ *  studies 1 and 2 were not designed to support comparative claims for nulojix for the adverse reactions reported in this table.      median exposure in days for pooled studies: 1203 for nulojix recommended regimen and 1163 for cyclosporine in studies 1 and 2.  ?    all infections include bacterial, viral, fungal, and other organisms. for infectious adverse reactions, the causative organism is reported if specified by the physician in the clinical trials.  s    a medically important event that may be life-threatening or result in death or hospitalization or prolongation of existing hospitalization. infections not meeting these criteria are considered non-serious.       bk virus-associated nephropathy was reported in 6 nulojix patients (4 of which resulted in graft loss) and 6 cyclosporine patients (none of which resulted in graft loss) by year 3.  #    most herpes infections were non-serious and 1 led to treatment discontinuation.   
+  
+  all infections?               287 (72)            299 (74)            329 (82)            327 (81)            
+     serious infectionss        98 (24)             113 (28)            144 (36)            157 (39)            
+  cmv                           44 (11)             52 (13)             53 (13)             56 (14)             
+  polyoma virus                 10 (3)              23 (6)              17 (4)              27 (7)              
+  herpes#                       27 (7)              26 (6)              55 (14)             46 (11)             
+  tuberculosis                  2 (1)               1 (<1)              6 (2)               1 (<1)              
+             infections reported in the cns
+   following three years of treatment in studies 1 and 2, cryptococcal meningitis was reported in one patient out of 401 patients treated with the nulojix recommended regimen (0.2%) and one patient out of the 405 treated with the cyclosporine control (0.2%).
+
+
+
+ six patients out of the 403 who were treated with the nulojix regimen of higher cumulative dose and more frequent dosing than recommended in studies 1 and 2 (1.5%) were reported to have developed cns infections, including 2 cases of cryptococcal meningitis, one case of chagas encephalitis with cryptococcal meningitis, one case of cerebral aspergillosis, one case of west nile encephalitis, and one case of pml (discussed above).
+
+
+
+   infusion reactions
+
+  there were no reports of anaphylaxis or drug hypersensitivity in patients treated with nulojix in studies 1 and 2 through three years.
+
+
+
+ infusion-related reactions within one hour of infusion were reported in 5% of patients treated with the recommended dose of nulojix, similar to the placebo rate. no serious events were reported through year 3. the most frequent reactions were hypotension and hypertension.
+
+
+
+   proteinuria
+
+  at month 1 after transplantation in studies 1 and 2, the frequency of 2+ proteinuria on urine dipstick in patients treated with the nulojix recommended regimen was 33% (130/390) and 28% (107/384) in patients treated with the cyclosporine control regimen. the frequency of 2+ proteinuria was similar between the two treatment groups between one and three years after transplantation (<10% in both studies). there were no differences in the occurrence of 3+ proteinuria (<4% in both studies) at any time point, and no patients experienced 4+ proteinuria. the clinical significance of this increase in early proteinuria is unknown.
+
+
+
+   immunogenicity
+
+  antibodies directed against the belatacept molecule were assessed in 398 patients treated with the nulojix recommended regimen in studies 1 and 2 (212 of these patients were treated for at least 2 years). of the 372 patients with immunogenicity assessment at baseline (prior to receiving belatacept treatment), 29 patients tested positive for anti-belatacept antibodies; 13 of these patients had antibodies to the modified cytotoxic t-lymphocyte-associated antigen 4 (ctla-4). anti-belatacept antibody titers did not increase during treatment in these 29 patients.
+
+
+
+ eight (2%) patients developed antibodies during treatment with the nulojix recommended regimen. in the patients who developed antibodies during treatment, the median titer (by dilution method) was 8, with a range of 5 to 80. of 56 patients who tested negative for antibodies during treatment and reassessed approximately 7 half-lives after discontinuation of nulojix, 1 tested antibody positive. anti-belatacept antibody development was not associated with altered clearance of belatacept.
+
+
+
+ samples from 6 patients with confirmed binding activity to the modified cytotoxic t-lymphocyte-associated antigen 4 (ctla-4) region of the belatacept molecule were assessed by an  in vitro  bioassay for the presence of neutralizing antibodies. three of these 6 patients tested positive for neutralizing antibodies. however, the development of neutralizing antibodies may be underreported due to lack of assay sensitivity.
+
+
+
+ the clinical impact of anti-belatacept antibodies (including neutralizing anti-belatacept antibodies) could not be determined in the studies.
+
+
+
+ the data reflect the percentage of patients whose test results were positive for antibodies to belatacept in specific assays. the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of the incidence of antibodies to belatacept with the incidence of antibodies to other products may be misleading.
+
+
+
+   new-onset diabetes after transplantation
+
+  the incidence of new-onset diabetes after transplantation (nodat) was defined in studies 1 and 2 as use of an antidiabetic agent for >=30 days or >=2 fasting plasma glucose values >=126 mg/dl (7.0 mmol/l) post-transplantation. of the patients treated with the nulojix recommended regimen, 5% (14/304) developed nodat by the end of one year compared to 10% (27/280) of patients on the cyclosporine control regimen. however, by the end of the third year, the cumulative incidence of nodat was 8% (24/304) in patients treated with the nulojix recommended regimen and 10% (29/280) in patients treated with the cyclosporine regimen.
+
+
+
+   hypertension
+
+  blood pressure and use of antihypertensive medications were reported in studies 1 and 2. by year 3, one or more antihypertensive medications were used in 85% of nulojix-treated patients and 92% of cyclosporine-treated patients. at one year after transplantation, systolic blood pressures were 8 mmhg lower and diastolic blood pressures were 3 mmhg lower in patients treated with the nulojix recommended regimen compared to the cyclosporine control regimen. at three years after transplantation, systolic blood pressures were 6 mmhg lower and diastolic blood pressures were 3 mmhg lower in nulojix-treated patients compared to cyclosporine-treated patients. hypertension was reported as an adverse reaction in 32% of nulojix-treated patients and 37% of cyclosporine-treated patients (see table 4).
+
+
+
+   dyslipidemia
+
+  mean values of total cholesterol, hdl, ldl, and triglycerides were reported in studies 1 and 2. at one year after transplantation these values were 183 mg/dl, 50 mg/dl, 102 mg/dl, and 151 mg/dl, respectively, in 401 patients treated with the nulojix recommended regimen and 196 mg/dl, 48 mg/dl, 108 mg/dl, and 195 mg/dl, respectively, in 405 patients treated with the cyclosporine control regimen. at three years after transplantation, the total cholesterol, hdl, ldl, and triglycerides were 176 mg/dl, 49 mg/dl, 100 mg/dl, and 141 mg/dl, respectively, in nulojix-treated patients compared to 193 mg/dl, 48 mg/dl, 106 mg/dl, and 180 mg/dl in cyclosporine-treated patients.
+
+
+
+ the clinical significance of the lower mean triglyceride values in nulojix-treated patients at one and three years is unknown.
+
+
+
+   other adverse reactions
+
+  adverse reactions that occurred at a frequency of >=10% in patients treated with the nulojix recommended regimen or cyclosporine control regimen in studies 1 and 2 through three years are summarized by preferred term in decreasing order of frequency within table 4.
+
+
+
+ table 4: adverse reactions reported by >=10% of patients treated with either the nulojix recommended regimen or control in studies 1 and 2 through three years*, 
+   adverse reaction                                nulojix    recommended regimen    n=401    %      cyclosporine    n=405    %     
+  
+ * all randomized and transplanted patients in studies 1 and 2.    studies 1 and 2 were not designed to support comparative claims for nulojix for the adverse reactions reported in this table.   
+  
+  infections and infestations                                                                               
+      urinary tract infection                     37                           36                           
+      upper respiratory infection                 15                           16                           
+      nasopharyngitis                             13                           16                           
+      cytomegalovirus infection                   12                           12                           
+      influenza                                   11                           8                            
+      bronchitis                                  10                           7                            
+  gastrointestinal disorders                                                                                
+      diarrhea                                    39                           36                           
+      constipation                                33                           35                           
+      nausea                                      24                           27                           
+      vomiting                                    22                           20                           
+      abdominal pain                              19                           16                           
+      abdominal pain upper                        9                            10                           
+  metabolism and nutrition disorders                                                                        
+      hyperkalemia                                20                           20                           
+      hypokalemia                                 21                           14                           
+      hypophosphatemia                            19                           13                           
+      dyslipidemia                                19                           24                           
+      hyperglycemia                               16                           17                           
+      hypocalcemia                                13                           11                           
+      hypercholesterolemia                        11                           11                           
+      hypomagnesemia                              7                            10                           
+      hyperuricemia                               5                            12                           
+  procedural complications                                                                                  
+      graft dysfunction                           25                           34                           
+  general disorders                                                                                         
+      peripheral edema                            34                           42                           
+      pyrexia                                     28                           26                           
+  blood and lymphatic system disorders                                                                      
+      anemia                                      45                           44                           
+      leukopenia                                  20                           23                           
+  renal and urinary disorders                                                                               
+      hematuria                                   16                           18                           
+      proteinuria                                 16                           12                           
+      dysuria                                     11                           11                           
+      renal tubular necrosis                      9                            13                           
+  vascular disorders                                                                                        
+      hypertension                                32                           37                           
+      hypotension                                 18                           12                           
+  respiratory, thoracic, and mediastinal disorders                                                              
+      cough                                       24                           18                           
+      dyspnea                                     12                           15                           
+  investigations                                                                                            
+      blood creatinine increased                  15                           20                           
+  musculoskeletal and connective tissue disorders                                                              
+      arthralgia                                  17                           13                           
+      back pain                                   13                           13                           
+  nervous system disorders                                                                                  
+      headache                                    21                           18                           
+      dizziness                                   9                            10                           
+      tremor                                      8                            17                           
+  skin and subcutaneous tissue disorders                                                                    
+      acne                                        8                            11                           
+  psychiatric disorders                                                                                     
+      insomnia                                    15                           18                           
+      anxiety                                     10                           11                           
+         selected adverse reactions occurring in <10% from nulojix-treated patients in either regimen through three years in studies 1 and 2 are listed below:
+ 
+
+   immune system disorders:  guillain-barre syndrome
+
+
+
+   infections and infestations:  see table 3
+
+
+
+   gastrointestinal disorders:  stomatitis, including aphthous stomatitis
+
+
+
+   injury, poisoning, and procedural complications:  chronic allograft nephropathy, complications of transplanted kidney, including wound dehiscence, arteriovenous fistula thrombosis
+
+
+
+   blood and lymphatic system disorders:  neutropenia
+
+
+
+   renal and urinary disorders:  renal impairment, including acute renal failure, renal artery stenosis, urinary incontinence, hydronephrosis
+
+
+
+   vascular disorders:  hematoma, lymphocele
+
+
+
+   musculoskeletal and connective tissue disorders:  musculoskeletal pain
+
+
+
+   skin and subcutaneous tissue disorders:  alopecia, hyperhidrosis
+
+
+
+   cardiac disorders:  atrial fibrillation
+
+
+    boxed warning: warning: post-transplant lymphoproliferative disorder, other malignancies, and serious infections
+
+  warning: post-transplant lymphoproliferative disorder, other malignancies, and serious infections
+
+    increased risk for developing post-transplant lymphoproliferative disorder (ptld), predominantly involving the central nervous system (cns). recipients without immunity to epstein-barr virus (ebv) are at a particularly increased risk; therefore, use in ebv seropositive patients only. do not use nulojix in transplant recipients who are ebv seronegative or with unknown ebv serostatus [see     contraindications (4)     and     warnings and precautions (5.1)    ].  
+
+
+
+   only physicians experienced in immunosuppressive therapy and management of kidney transplant patients should prescribe nulojix. patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources. the physician responsible for maintenance therapy should have complete information requisite for the follow-up of the patient [see     warnings and precautions (5.2)    ].  
+
+
+
+   increased susceptibility to infection and the possible development of malignancies may result from immunosuppression [see     warnings and precautions (5.1  ,   5.3  ,   5.4  ,   5.5)    ].  
+
+
+
+   use in liver transplant patients is not recommended due to an increased risk of graft loss and death [see     warnings and precautions (5.6)    ].  
+
+
+
+   excerpt:   warning: post-transplant lymphoproliferative disorder, other malignancies, and serious infections
+
+
+
+     see full prescribing information for complete boxed warning.    
+
+
+
+ *  increased risk for developing post-transplant lymphoproliferative disorder (ptld), predominantly involving the central nervous system (cns). recipients without immunity to epstein-barr virus (ebv) are at a particularly increased risk; therefore, use in ebv seropositive patients only. do not use nulojix in transplant recipients who are ebv seronegative or with unknown serostatus. (4, 5.1) 
+ *  only physicians experienced in immunosuppressive therapy and management of kidney transplant patients should prescribe nulojix. (5.2) 
+ *  increased susceptibility to infection and the possible development of malignancies may result from immunosuppression. (5.1, 5.3, 5.4, 5.5) 
+ *  use in liver transplant patients is not recommended due to an increased risk of graft loss and death. (5.6) 
+    5 warnings and precautions
+
+
+
+   excerpt:    *     post-transplant lymphoproliferative disorder (ptld) : increased risk, predominantly involving the cns; monitor for new or worsening neurological, cognitive, or behavioral signs and symptoms.  (boxed warning  ,  4  ,  5.1  ,  5.6)   
+ *     other malignancies : increased risk with all immunosuppressants; appears related to intensity and duration of use. avoid prolonged exposure to uv light and sunlight.  (5.3)   
+ *     progressive multifocal leukoencephalopathy (pml) : increased risk; consider in the diagnosis of patients reporting new or worsening neurological, cognitive, or behavioral signs and symptoms. recommended doses of immunosuppressants should not be exceeded.  (5.4)   
+ *     other serious infections : increased risk of bacterial, viral, fungal, and protozoal infections, including opportunistic infections and tuberculosis. some infections were fatal. polyoma virus-associated nephropathy can lead to kidney graft loss; consider reduction in immunosuppression. evaluate for tuberculosis and initiate treatment for latent infection prior to nulojix use. cytomegalovirus and pneumocystis prophylaxis are recommended after transplantation.  (5.1  ,  5.4  ,  5.5)   
+ *     liver transplant : use is not recommended.  (5.6)   
+ *     acute rejection and graft loss with corticosteroid minimization : corticosteroid utilization should be consistent with the nulojix clinical trial experience.  (2.1  ,  5.7  ,  14.1)   
+ *     immunizations : avoid use of live vaccines during treatment.  (5.8)   
+    
+ 
+
+   5.1 post-transplant lymphoproliferative disorder
+
+
+
+  nulojix-treated patients have an increased risk for developing post-transplant lymphoproliferative disorder (ptld), predominantly involving the cns, compared to patients on a cyclosporine-based regimen [see   adverse reactions (6.1)    and table 2  ]. as the total burden of immunosuppression is a risk factor for ptld, higher than the recommended doses or more frequent dosing of nulojix and higher than recommended doses of concomitant immunosuppressive agents are not recommended [see   dosage and administration (2.1)    and   warnings and precautions (5.6)    ]. physicians should consider ptld in patients reporting new or worsening neurological, cognitive, or behavioral signs or symptoms.
+
+
+
+    ebv serostatus
+
+
+
+  the risk of ptld was higher in ebv seronegative patients compared to ebv seropositive patients. ebv seropositive patients are defined as having evidence of acquired immunity shown by the presence of igg antibodies to viral capsid antigen (vca) and ebv nuclear antigen (ebna).
+
+
+
+ epstein-barr virus serology should be ascertained before starting administration of nulojix, and only patients who are ebv seropositive should receive nulojix. transplant recipients who are ebv seronegative, or with unknown serostatus, should not receive nulojix [see   boxed warning    and   contraindications (4)    ].
+
+
+
+    other risk factors
+
+
+
+  other known risk factors for ptld include cytomegalovirus (cmv) infection and t-cell-depleting therapy. t-cell-depleting therapies to treat acute rejection should be used cautiously. cmv prophylaxis is recommended for at least 3 months after transplantation [see   warnings and precautions (5.5)    ].
+
+
+
+ patients who are ebv seropositive and cmv seronegative may be at increased risk for ptld compared to patients who are ebv seropositive and cmv seropositive [see   adverse reactions (6.1)    ]. since cmv seronegative patients are at increased risk for cmv disease (a known risk factor for ptld), the clinical significance of cmv serology for ptld remains to be determined; however, these findings should be considered when prescribing nulojix.
+
+
+
+    5.2 management of immunosuppression
+
+
+
+  only physicians experienced in management of systemic immunosuppressant therapy in transplantation should prescribe nulojix. patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources. the physician responsible for the maintenance therapy should have complete information requisite for the follow-up of the patient [see   boxed warning    ].
+
+
+
+    5.3 other malignancies
+
+
+
+  patients receiving immunosuppressants, including nulojix, are at increased risk of developing malignancies, in addition to ptld, including the skin [see   boxed warning    and   warnings and precautions (5.1)    ]. exposure to sunlight and ultraviolet (uv) light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+
+
+
+    5.4 progressive multifocal leukoencephalopathy
+
+
+
+  progressive multifocal leukoencephalopathy (pml) is an often rapidly progressive and fatal opportunistic infection of the cns that is caused by the jc virus, a human polyoma virus. in clinical trials with nulojix, two cases of pml were reported in patients receiving nulojix at higher cumulative doses and more frequently than the recommended regimen, along with mycophenolate mofetil (mmf) and corticosteroids; one case occurred in a kidney transplant recipient and the second case occurred in a liver transplant recipient [see   warnings and precautions (5.6)    ]. as pml has been associated with high levels of overall immunosuppression, the recommended doses and frequency of nulojix and concomitant immunosuppressives, including mmf, should not be exceeded.
+
+
+
+ physicians should consider pml in the differential diagnosis in patients with new or worsening neurological, cognitive, or behavioral signs or symptoms. pml is usually diagnosed by brain imaging, cerebrospinal fluid (csf) testing for jc viral dna by polymerase chain reaction (pcr), and/or brain biopsy. consultation with a specialist (e.g., neurologist and/or infectious disease) should be considered for any suspected or confirmed cases of pml.
+
+
+
+ if pml is diagnosed, consideration should be given to reduction or withdrawal of immunosuppression taking into account the risk to the allograft.
+
+
+
+    5.5 other serious infections
+
+
+
+  patients receiving immunosuppressants, including nulojix, are at increased risk of developing bacterial, viral (cytomegalovirus [cmv] and herpes), fungal, and protozoal infections, including opportunistic infections. these infections may lead to serious, including fatal, outcomes [see   boxed warning    and   adverse reactions (6.1)    ].
+
+
+
+ prophylaxis for cytomegalovirus is recommended for at least 3 months after transplantation. prophylaxis for pneumocystis jiroveci  is recommended after transplantation.
+
+
+
+    tuberculosis
+
+
+
+  tuberculosis was more frequently observed in patients receiving nulojix than cyclosporine in clinical trials [see   adverse reactions (6.1)    ]. patients should be evaluated for tuberculosis and tested for latent infection prior to initiating nulojix. treatment of latent tuberculosis infection should be initiated prior to nulojix use.
+
+
+
+    polyoma virus nephropathy
+
+
+
+  in addition to cases of jc virus-associated pml [see   warnings and precautions (5.4)    ], cases of polyoma virus-associated nephropathy (pvan), mostly due to bk virus infection, have been reported. pvan is associated with serious outcomes; including deteriorating renal function and kidney graft loss [see   adverse reactions (6.1)    ]. patient monitoring may help detect patients at risk for pvan. reductions in immunosuppression should be considered for patients who develop evidence of pvan. physicians should also consider the risk that reduced immunosuppression represents to the functioning allograft.
+
+
+
+    5.6 liver transplant
+
+
+
+  use of nulojix in liver transplant patients is not recommended [see   boxed warning    ]. in a clinical trial of liver transplant patients, use of nulojix regimens with more frequent administration of belatacept than any of those studied in kidney transplant, along with mycophenolate mofetil (mmf) and corticosteroids, was associated with a higher rate of graft loss and death compared to the tacrolimus control arms. in addition, two cases of ptld involving the liver allograft (one fatal) and one fatal case of pml were observed among the 147 patients randomized to nulojix. the two cases of ptld were reported among the 140 ebv seropositive patients (1.4%). the fatal case of pml was reported in a patient receiving higher than recommended doses of nulojix and mmf [see   warnings and precautions (5.4)    ].
+
+
+
+    5.7 acute rejection and graft loss with corticosteroid minimization
+
+
+
+  in postmarketing experience, use of nulojix in conjunction with basiliximab induction, mmf, and corticosteroid minimization to 5 mg per day between day 3 and week 6 post-transplant was associated with an increased rate and grade of acute rejection, particularly grade iii rejection. these grade iii rejections occurred in patients with 4 to 6 hla mismatches. graft loss was a consequence of grade iii rejection in some patients.
+
+
+
+ corticosteroid utilization should be consistent with the nulojix clinical trial experience [see   dosage and administration (2.1)    and   clinical studies (14.1)    ].
+
+
+
+    5.8 immunizations
+
+
+
+  the use of live vaccines should be avoided during treatment with nulojix, including but not limited to the following: intranasal influenza, measles, mumps, rubella, oral polio, bcg, yellow fever, varicella, and ty21a typhoid vaccines.

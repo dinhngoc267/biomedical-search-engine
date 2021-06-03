@@ -1,0 +1,101 @@
+    6 adverse reactions
+
+  excerpt:   the most common adverse reactions (>= 5%) in the clinical trials were headache (18%), abdominal pain (12%), nausea (12%), dysmenorrhea (9%), fatigue (6%) and dizziness (5%). (  6  )  to report suspected adverse reactions, contact afaxys, inc. at 1-855-888-2467 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+   ella  was studied in an open-label multicenter trial (open-label study) and in a comparative, randomized, single-blind, multicenter trial (single-blind comparative study). in these studies, a total of 2,637 (1,533 + 1,104) women in the 30 mg ulipristal acetate groups were included in the safety analysis. the mean age of women who received ulipristal acetate was 24.5 years and the mean body mass index (bmi) was 25.3. the racial demographics of those enrolled were 67% caucasian, 20% black or african american, 2% asian, and 12% other. 
+
+
+
+ the most common adverse reactions (>= 10%) in the clinical trials for women receiving  ella  were headache (18% overall) and nausea (12% overall) and abdominal and upper abdominal pain (12% overall). table 1 lists those adverse reactions that were reported in >= 5% of subjects in the clinical studies (  14  ).
+
+
+
+ table 1: adverse reactions in >= 5% of women (%) receiving a single dose of ella (30 mg ulipristal acetate) 
+   most common adverse reactions      open-label study                                                                                                                                        single-blind comparative study                                                                                                                         
+    n = 1,533        n = 1,104                                                                                                                                             
+   headache        18                                                                                                                                                      19                                                                                                                                                      
+   nausea          12                                                                                                                                                      13                                                                                                                                                      
+   abdominal and upper abdominal pain     15                                                                                                                                                      8                                                                                                                                                       
+    dysmenorrhea     7                                                                                                                                                       13                                                                                                                                                      
+   fatigue         6                                                                                                                                                       6                                                                                                                                                       
+   dizziness       5                                                                                                                                                       5                                                                                                                                                       
+           6.2 postmarketing experience
+   the following adverse reactions have been identified during post-approval use of  ella:          skin and subcutaneous tissue disorders: acnebecause these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+    5 warnings and precautions
+
+
+
+   excerpt:    *   ella is not indicated for termination of an existing pregnancy. exclude pregnancy before administering. (  5.1)   
+ *  ectopic pregnancy: women who become pregnant or complain of lower abdominal pain after taking ella should be evaluated for ectopic pregnancy. (  5.2  ) 
+ *  effect on menstrual cycle: ella may alter the next expected menses. if menses is delayed beyond 1 week, pregnancy should be ruled out. (  5.5  ) 
+ *   ella does not protect against sti/hiv. (  5.6  ) 
+    
+ 
+
+   5.1 existing pregnancy
+
+
+
+   ella  is not indicated for termination of an existing pregnancy. pregnancy should be excluded before prescribing ella.  if pregnancy cannot be excluded on the basis of history and/or physical examination, pregnancy testing should be performed. a follow-up physical or pelvic examination is recommended if there is any doubt concerning the general health or pregnancy status of any woman after taking ella  .
+
+
+
+    5.2 ectopic pregnancy
+
+
+
+  a history of ectopic pregnancy is not a contraindication to use of this emergency contraceptive method.  healthcare providers, however, should consider the possibility of ectopic pregnancy in women who become pregnant or complain of lower abdominal pain after taking ella  .  a follow-up physical or pelvic examination is recommended if there is any doubt concerning the general health or pregnancy status of any woman after taking ella  .
+
+
+
+    5.3 repeated use
+
+
+
+   ella  is for occasional use as an emergency contraceptive. it should not replace a regular method of contraception. repeated use of ella  within the same menstrual cycle is not recommended, as safety and efficacy of repeat use within the same cycle has not been evaluated.
+
+
+
+    5.4 cyp3a4 inducers
+
+
+
+  a cyp3a4 inducer, rifampin, decreases the plasma concentration of ella significantly. ella  should not be administered with cyp3a4 inducers [see drug interactions (  7.1  ) and pharmacokinetics (  12.3  )]  .
+
+
+
+    5.5 fertility following use
+
+
+
+  a rapid return of fertility is likely following treatment with ella  for emergency contraception; therefore, routine contraception should be continued or initiated as soon as possible following use of ella  to ensure ongoing prevention of pregnancy. while there are no data about use of ella  with regular hormonal contraceptives, due to its high affinity binding to the progesterone receptor, use of ella  may reduce the contraceptive action of regular hormonal contraceptive methods. therefore, after use of ella  , a reliable barrier method of contraception should be used with subsequent acts of intercourse that occur in that same menstrual cycle.
+
+
+
+    5.6 effect on menstrual cycle
+
+
+
+  after ella  intake, menses sometimes occur earlier or later than expected by a few days. in clinical trials, cycle length was increased by a mean of 2.5 days but returned to normal in the subsequent cycle. seven percent of subjects reported menses occurring more than 7 days earlier than expected, and 19% reported a delay of more than 7 days. if there is a delay in the onset of expected menses beyond 1 week, rule out pregnancy.
+
+
+
+ nine percent of women studied reported intermenstrual bleeding after use of ella.  
+
+
+
+    5.7 sexually transmitted infections/hiv
+
+
+
+   ella  does not protect against hiv infection (aids) or other sexually transmitted infections (stis).

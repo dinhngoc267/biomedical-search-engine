@@ -1,0 +1,117 @@
+    6 adverse reactions
+
+  excerpt:   the most common adverse reaction (incidence >=1.5%) occurring with a higher frequency than placebo among entereg-treated patients undergoing surgeries that included a bowel resection was dyspepsia. (6.1)
+
+
+
+   to report suspected adverse reactions, contact merck sharp & dohme corp., a subsidiary of merck & co., inc., at 1-877-888-4231 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be compared directly with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. the adverse event information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
+
+
+
+ the data described below reflect exposure to entereg 12 mg in 1,793 patients in 10 placebo-controlled studies. the population was 19 to 97 years old, 64% were female, and 84% were caucasian; 64% were undergoing a surgery that included bowel resection. the first dose of entereg was administered 30 minutes to 5 hours before the scheduled start of surgery and then twice daily until hospital discharge (or for a maximum of 7 days of postoperative treatment).
+
+
+
+ among entereg-treated patients undergoing surgeries that included a bowel resection, the most common adverse reaction (incidence >=1.5%) occurring with a higher frequency than placebo was dyspepsia (entereg, 1.5%; placebo, 0.8%). adverse reactions are events that occurred after the first dose of study medication treatment and within 7 days of the last dose of study medication or events present at baseline that increased in severity after the start of study medication treatment.
+
+
+    boxed warning: warning: potential risk of myocardial infarction with long-term use: for short-term hospital use only
+
+    warning: potential risk of myocardial infarction with long-term use: for short-term hospital use only  
+
+    there was a greater incidence of myocardial infarction in alvimopan-treated patients compared to placebo-treated patients in a 12-month clinical trial, although a causal relationship has not been established. in short-term trials with entereg(r)    , no increased risk of myocardial infarction was observed     [see warnings and precautions (5.1)].   
+
+
+
+   because of the potential risk of myocardial infarction with long-term use, entereg is available only through a restricted program for short-term use (15 doses) under a risk evaluation and mitigation strategy (rems) called the entereg access support and education (e.a.s.e.(r)) program   [see warnings and precautions (5.1) and (5.2)].      
+
+
+
+     warning:  potential risk of myocardial infarction with long-term use: for short-term hospital use only  
+
+
+
+   see full prescribing information for complete boxed warning.   
+
+
+
+ *  increased incidence of myocardial infarction was seen in a clinical trial of patients taking alvimopan for long-term use. (5.1) 
+ *  entereg is available only through a restricted program for short-term use (15 doses) called the entereg access support and education (e.a.s.e.(r)) program. (5.1, 5.2) 
+    5 warnings and precautions
+
+   excerpt:    *  a higher number of myocardial infarctions was reported in patients treated with alvimopan 0.5 mg twice daily compared with placebo in a 12-month study in patients treated with opioids for chronic non-cancer pain, although a causal relationship with long-term use has not been established. (5.1) 
+ *  patients recently exposed to opioids are expected to be more sensitive to the effects of entereg and therefore may experience abdominal pain, nausea and vomiting, and diarrhea. (5.3) 
+ *  not recommended in patients with severe hepatic impairment. (5.4) 
+ *  not recommended in patients with end-stage renal disease. (5.5) 
+ *  not recommended in patients with complete gastrointestinal obstruction or in patients who have surgery for correction of complete bowel obstruction. (5.6) 
+ *  not recommended in pancreatic or gastric anastomosis. (5.7) 
+    
+   5.1 potential risk of myocardial infarction with long-term use
+
+  there were more reports of myocardial infarctions in patients treated with alvimopan 0.5 mg twice daily compared with placebo-treated patients in a 12-month study of patients treated with opioids for chronic non-cancer pain (alvimopan 0.5 mg, n = 538; placebo, n = 267). in this study, the majority of myocardial infarctions occurred between 1 and 4 months after initiation of treatment. this imbalance has not been observed in other studies of entereg in patients treated with opioids for chronic pain, nor in patients treated within the surgical setting, including patients undergoing surgeries that included bowel resection who received entereg 12 mg twice daily for up to 7 days (the indicated dose and patient population; entereg 12 mg, n = 1,142; placebo, n = 1,120). a causal relationship with alvimopan with long-term use has not been established.
+
+
+
+ entereg is available only through a program under a rems that restricts use to enrolled hospitals  [seewarnings and precautions (5.2)].  
+
+
+
+   5.2 e.a.s.e. entereg rems program
+
+  entereg is available only through a program called the entereg access support and education (e.a.s.e.) entereg rems program that restricts use to enrolled hospitals because of the potential risk of myocardial infarction with long-term use of entereg  [seewarnings and precautions (5.1)].  
+
+
+
+ notable requirements of the e.a.s.e. program include the following:
+
+
+
+ entereg is available only for short-term (15 doses) use in hospitalized patients. only hospitals that have enrolled in and met all of the requirements for the e.a.s.e. program may use entereg.
+
+
+
+ to enroll in the e.a.s.e. program, an authorized hospital representative must acknowledge that:
+
+
+
+ *  hospital staff who prescribe, dispense, or administer entereg have been provided the educational materials on the need to limit use of entereg to short-term, inpatient use; 
+ *  patients will not receive more than 15 doses of entereg; and 
+ *  entereg will not be dispensed to patients after they have been discharged from the hospital. 
+    further information is available at www.enteregrems.com or 1-800-278-0340.
+ 
+
+   5.3 gastrointestinal-related adverse reactions in opioid-tolerant patients
+
+  patients recently exposed to opioids are expected to be more sensitive to the effects of mu-opioid receptor antagonists, such as entereg. since entereg acts peripherally, clinical signs and symptoms of increased sensitivity would be related to the gastrointestinal tract (e.g., abdominal pain, nausea and vomiting, diarrhea). patients receiving more than 3 doses of an opioid within the week prior to surgery were not studied in the postoperative ileus clinical trials. therefore, if entereg is administered to these patients, they should be monitored for gastrointestinal adverse reactions. entereg is contraindicated in patients who have taken therapeutic doses of opioids for more than 7 consecutive days immediately prior to taking entereg.
+
+
+
+   5.4 risk of serious adverse reactions in patients with severe hepatic impairment
+
+  patients with severe hepatic impairment may be at higher risk of serious adverse reactions (including dose-related serious adverse reactions) because up to 10-fold higher plasma levels of drug have been observed in such patients compared with patients with normal hepatic function. therefore, the use of entereg is not recommended in this population.
+
+
+
+   5.5 end-stage renal disease
+
+  no studies have been conducted in patients with end-stage renal disease. entereg is not recommended for use in these patients.
+
+
+
+   5.6 risk of serious adverse reactions in patients with complete gastrointestinal obstruction
+
+  no studies have been conducted in patients with complete gastrointestinal obstruction or in patients who have surgery for correction of complete bowel obstruction. entereg is not recommended for use in these patients.
+
+
+
+   5.7 risk of serious adverse reactions in pancreatic and gastric anastomoses
+
+  entereg has not been studied in patients having pancreatic or gastric anastomosis. therefore, entereg is not recommended for use in these patients.

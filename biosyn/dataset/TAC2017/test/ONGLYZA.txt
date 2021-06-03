@@ -1,0 +1,196 @@
+    6 adverse reactions
+
+   excerpt:    *    adverse reactions reported in >=5% of patients treated with onglyza and more commonly than in patients treated with placebo are upper respiratory tract infection, urinary tract infection, and headache.  (6.1)   
+ *    peripheral edema was reported more commonly in patients treated with the combination of onglyza and a thiazolidinedione (tzd) than in patients treated with the combination of placebo and tzd.  (6.1)   
+      to report suspected adverse reactions, contact astrazeneca at 1-800-236-9933 or fda at 1-800-fda-1088 or    www.fda.gov/medwatch    .  
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+     adverse reactions with monotherapy and with add-on combination therapy  
+
+  in two placebo-controlled monotherapy trials of 24-weeks duration, patients were treated with onglyza 2.5 mg daily, onglyza 5 mg daily, and placebo. three 24-week, placebo-controlled, add-on combination therapy trials were also conducted: one with metformin, one with a thiazolidinedione (pioglitazone or rosiglitazone), and one with glyburide. in these three trials, patients were randomized to add-on therapy with onglyza 2.5 mg daily, onglyza 5 mg daily, or placebo. a saxagliptin 10 mg treatment arm was included in one of the monotherapy trials and in the add-on combination trial with metformin. the 10 mg dosage is not an approved dosage.
+
+
+
+ in a prespecified pooled analysis of the 24-week data (regardless of glycemic rescue) from the two monotherapy trials, the add-on to metformin trial, the add-on to thiazolidinedione (tzd) trial, and the add-on to glyburide trial, the overall incidence of adverse events in patients treated with onglyza 2.5 mg and onglyza 5 mg was similar to placebo (72% and 72.2% versus 70.6%, respectively). discontinuation of therapy due to adverse events occurred in 2.2%, 3.3%, and 1.8% of patients receiving onglyza 2.5 mg, onglyza 5 mg, and placebo, respectively. the most common adverse events (reported in at least 2 patients treated with onglyza 2.5 mg or at least 2 patients treated with onglyza 5 mg) associated with premature discontinuation of therapy included lymphopenia (0.1% and 0.5% versus 0%, respectively), rash (0.2% and 0.3% versus 0.3%), blood creatinine increased (0.3% and 0% versus 0%), and blood creatine phosphokinase increased (0.1% and 0.2% versus 0%). the adverse reactions in this pooled analysis reported (regardless of investigator assessment of causality) in >=5% of patients treated with onglyza 5 mg, and more commonly than in patients treated with placebo are shown in table 1.
+
+
+
+ table 1: adverse reactions in placebo-controlled trialsthe 5 placebo-controlled trials include two monotherapy trials and one add-on combination therapy trial with each of the following: metformin, thiazolidinedione, or glyburide. table shows 24-week data regardless of glycemic rescue. reported in >=5% of patients treated with onglyza 5 mg and more commonly than in patients treated with placebo 
+                                                          number (%) of patients          
+                                                          onglyza 5 mg    n=882            placebo    n=799     
+  
+  upper respiratory tract infection                      68 (7.7)                         61 (7.6)          
+  urinary tract infection                                60 (6.8)                         49 (6.1)          
+  headache                                               57 (6.5)                         47 (5.9)          
+         in patients treated with onglyza 2.5 mg, headache (6.5%) was the only adverse reaction reported at a rate >=5% and more commonly than in patients treated with placebo.
+ 
+
+ in this pooled analysis, adverse reactions that were reported in >=2% of patients treated with onglyza 2.5 mg or onglyza 5 mg and >=1% more frequently compared to placebo included: sinusitis (2.9% and 2.6% versus 1.6%, respectively), abdominal pain (2.4% and 1.7% versus 0.5%), gastroenteritis (1.9% and 2.3% versus 0.9%), and vomiting (2.2% and 2.3% versus 1.3%).
+
+
+
+ in the add-on to tzd trial, the incidence of peripheral edema was higher for onglyza 5 mg versus placebo (8.1% and 4.3%, respectively). the incidence of peripheral edema for onglyza 2.5 mg was 3.1%. none of the reported adverse reactions of peripheral edema resulted in study drug discontinuation. rates of peripheral edema for onglyza 2.5 mg and onglyza 5 mg versus placebo were 3.6% and 2% versus 3% given as monotherapy, 2.1% and 2.1% versus 2.2% given as add-on therapy to metformin, and 2.4% and 1.2% versus 2.2% given as add-on therapy to glyburide.
+
+
+
+ the incidence rate of fractures was 1.0 and 0.6 per 100 patient-years, respectively, for onglyza (pooled analysis of 2.5 mg, 5 mg, and 10 mg) and placebo. the 10 mg dosage is not an approved dosage. the incidence rate of fracture events in patients who received onglyza did not increase over time. causality has not been established and nonclinical studies have not demonstrated adverse effects of onglyza on bone.
+
+
+
+ an event of thrombocytopenia, consistent with a diagnosis of idiopathic thrombocytopenic purpura, was observed in the clinical program. the relationship of this event to onglyza is not known.
+
+
+
+     adverse reactions in patients with renal impairment  
+
+  onglyza 2.5 mg was compared to placebo in a 12-week trial in 170 patients with type 2 diabetes and moderate or severe renal impairment or end-stage renal disease (esrd). the incidence of adverse events, including serious adverse events and discontinuations due to adverse events, was similar between onglyza and placebo.
+
+
+
+     adverse reactions with concomitant use with insulin  
+
+  in the add-on to insulin trial [  see  clinical studies (14.2)    ], the incidence of adverse events, including serious adverse events and discontinuations due to adverse events, was similar between onglyza and placebo, except for confirmed hypoglycemia [  see  adverse reactions (6.1)    ].
+
+
+
+     adverse reactions with concomitant use with metformin in treatment-naive patients with type 2 diabetes  
+
+  table 2 shows the adverse reactions reported (regardless of investigator assessment of causality) in >=5% of patients participating in an additional 24-week, active-controlled trial of coadministered onglyza and metformin in treatment-naive patients.
+
+
+
+ table 2: initial therapy with combination of onglyza and metformin in treatment-naive patients: adverse reactions reported in >=5% of patients treated with combination therapy of onglyza 5 mg plus metformin (and more commonly than in patients treated with metformin alone) 
+                                number (%) of patients                               
+                                onglyza 5 mg + metformin    n=320                     metformin    n=328     
+  
+  headache                     24 (7.5)                                              17 (5.2)                
+  nasopharyngitis              22 (6.9)                                              13 (4.0)                
+             hypoglycemia  
+   adverse reactions of hypoglycemia were based on all reports of hypoglycemia. a concurrent glucose measurement was not required or was normal in some patients. therefore, it is not possible to conclusively determine that all these reports reflect true hypoglycemia.
+
+
+
+ in the add-on to glyburide study, the overall incidence of reported hypoglycemia was higher for onglyza 2.5 mg and onglyza 5 mg (13.3% and 14.6%) versus placebo (10.1%). the incidence of confirmed hypoglycemia in this study, defined as symptoms of hypoglycemia accompanied by a fingerstick glucose value of <=50 mg/dl, was 2.4% and 0.8% for onglyza 2.5 mg and onglyza 5 mg and 0.7% for placebo [  see  warnings and precautions (5.2)    ]. the incidence of reported hypoglycemia for onglyza 2.5 mg and onglyza 5 mg versus placebo given as monotherapy was 4% and 5.6% versus 4.1%, respectively, 7.8% and 5.8% versus 5% given as add-on therapy to metformin, and 4.1% and 2.7% versus 3.8% given as add-on therapy to tzd. the incidence of reported hypoglycemia was 3.4% in treatment-naive patients given onglyza 5 mg plus metformin and 4% in patients given metformin alone.
+
+
+
+ in the active-controlled trial comparing add-on therapy with onglyza 5 mg to glipizide in patients inadequately controlled on metformin alone, the incidence of reported hypoglycemia was 3% (19 events in 13 patients) with onglyza 5 mg versus 36.3% (750 events in 156 patients) with glipizide. confirmed symptomatic hypoglycemia (accompanying fingerstick blood glucose <=50 mg/dl) was reported in none of the onglyza-treated patients and in 35 glipizide-treated patients (8.1%) (p<0.0001).
+
+
+
+ during 12 weeks of treatment in patients with moderate or severe renal impairment or esrd, the overall incidence of reported hypoglycemia was 20% among patients treated with onglyza 2.5 mg and 22% among patients treated with placebo. four onglyza-treated patients (4.7%) and three placebo-treated patients (3.5%) reported at least one episode of confirmed symptomatic hypoglycemia (accompanying fingerstick glucose <=50 mg/dl).
+
+
+
+ in the add-on to insulin trial, the overall incidence of reported hypoglycemia was 18.4% for onglyza 5 mg and 19.9% for placebo. however, the incidence of confirmed symptomatic hypoglycemia (accompanying fingerstick blood glucose <=50 mg/dl) was higher with onglyza 5 mg (5.3%) versus placebo (3.3%).
+
+
+
+ in the add-on to metformin plus sulfonylurea trial, the overall incidence of reported hypoglycemia was 10.1% for onglyza 5 mg and 6.3% for placebo. confirmed hypoglycemia was reported in 1.6% of the onglyza-treated patients and in none of the placebo-treated patients [  see      warnings and precautions (5.2)    ].
+
+
+
+     hypersensitivity reactions  
+
+  hypersensitivity-related events, such as urticaria and facial edema in the 5-study pooled analysis up to week 24 were reported in 1.5%, 1.5%, and 0.4% of patients who received onglyza 2.5 mg, onglyza 5 mg, and placebo, respectively. none of these events in patients who received onglyza required hospitalization or were reported as life-threatening by the investigators. one onglyza-treated patient in this pooled analysis discontinued due to generalized urticaria and facial edema.
+
+
+
+     infections  
+
+  in the unblinded, controlled, clinical trial database for onglyza to date, there have been 6 (0.12%) reports of tuberculosis among the 4959 onglyza-treated patients (1.1 per 1000 patient-years) compared to no reports of tuberculosis among the 2868 comparator-treated patients. two of these six cases were confirmed with laboratory testing. the remaining cases had limited information or had presumptive diagnoses of tuberculosis. none of the six cases occurred in the united states or in western europe. one case occurred in canada in a patient originally from indonesia who had recently visited indonesia. the duration of treatment with onglyza until report of tuberculosis ranged from 144 to 929 days. post-treatment lymphocyte counts were consistently within the reference range for four cases. one patient had lymphopenia prior to initiation of onglyza that remained stable throughout onglyza treatment. the final patient had an isolated lymphocyte count below normal approximately four months prior to the report of tuberculosis. there have been no spontaneous reports of tuberculosis associated with onglyza use. causality has not been estimated and there are too few cases to date to determine whether tuberculosis is related to onglyza use.
+
+
+
+ there has been one case of a potential opportunistic infection in the unblinded, controlled clinical trial database to date in an onglyza-treated patient who developed suspected foodborne fatal salmonella sepsis after approximately 600 days of onglyza therapy. there have been no spontaneous reports of opportunistic infections associated with onglyza use.
+
+
+
+     vital signs  
+
+  no clinically meaningful changes in vital signs have been observed in patients treated with onglyza.
+
+
+
+     laboratory tests  
+
+    absolute lymphocyte counts  
+
+  there was a dose-related mean decrease in absolute lymphocyte count observed with onglyza. from a baseline mean absolute lymphocyte count of approximately 2200 cells/microl, mean decreases of approximately 100 and 120 cells/microl with onglyza 5 mg and 10 mg, respectively, relative to placebo were observed at 24 weeks in a pooled analysis of five placebo-controlled clinical studies. similar effects were observed when onglyza 5 mg was given in initial combination with metformin compared to metformin alone. there was no difference observed for onglyza 2.5 mg relative to placebo. the proportion of patients who were reported to have a lymphocyte count <=750 cells/microl was 0.5%, 1.5%, 1.4%, and 0.4% in the onglyza 2.5 mg, 5 mg, 10 mg, and placebo groups, respectively. in most patients, recurrence was not observed with repeated exposure to onglyza although some patients had recurrent decreases upon rechallenge that led to discontinuation of onglyza. the decreases in lymphocyte count were not associated with clinically relevant adverse reactions. the 10 mg dosage is not an approved dosage.
+
+
+
+ the clinical significance of this decrease in lymphocyte count relative to placebo is not known. when clinically indicated, such as in settings of unusual or prolonged infection, lymphocyte count should be measured. the effect of onglyza on lymphocyte counts in patients with lymphocyte abnormalities (e.g., human immunodeficiency virus) is unknown.
+
+
+
+   6.2 postmarketing experience
+
+  additional adverse reactions have been identified during postapproval use of onglyza. because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ *    hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions [ see  contraindications (4)  and  warnings and precautions (5.3)   ]. 
+ *    acute pancreatitis [ see  indications and usage (1.2)  and  warnings and precautions (5.1)   ]. 
+ *    severe and disabling arthralgia [ see  warnings and precautions (5.4)   ]. 
+    5 warnings and precautions
+
+
+
+   excerpt:    *     acute pancreatitis (postmarketing reports): if pancreatitis is suspected, promptly discontinue onglyza.  (5.1)   
+ *     hypoglycemia: in add-on to sulfonylurea, add-on to insulin, and add-on to metformin plus sulfonylurea trials, confirmed hypoglycemia was more common in patients treated with onglyza compared to placebo. when used with an insulin secretagogue (e.g., sulfonylurea) or insulin, a lower dose of the insulin secretagogue or insulin may be required to minimize the risk of hypoglycemia.  (5.2  ,  6.1)   
+ *     hypersensitivity-related events (e.g., urticaria, facial edema): more common in patients treated with onglyza than in patients treated with placebo; and postmarketing reports of serious hypersensitivity reactions such as anaphylaxis, angioedema, and exfoliative skin conditions. promptly discontinue onglyza, assess for other potential causes, institute appropriate monitoring and treatment, and initiate alternative treatment for diabetes.  (5.3  ,  6.1  ,  6.2)   
+ *     arthralgia: severe and disabling arthralgia has been reported in patients taking dpp4 inhibitors. consider as a possible cause for severe joint pain and discontinue drug if appropriate. (  5.4  ) 
+ *    there have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with onglyza or any other antidiabetic drug.  (5.5)   
+    
+ 
+
+   5.1 pancreatitis
+
+
+
+  there have been postmarketing reports of acute pancreatitis in patients taking onglyza. after initiation of onglyza, patients should be observed carefully for signs and symptoms of pancreatitis. if pancreatitis is suspected, onglyza should promptly be discontinued and appropriate management should be initiated. it is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using onglyza.
+
+
+
+    5.2 hypoglycemia with concomitant use of sulfonylurea or insulin
+
+
+
+  when onglyza was used in combination with a sulfonylurea or with insulin, medications known to cause hypoglycemia, the incidence of confirmed hypoglycemia was increased over that of placebo used in combination with a sulfonylurea or with insulin. [ see  adverse reactions (6.1)    ]. therefore, a lower dose of the insulin secretagogue or insulin may be required to minimize the risk of hypoglycemia when used in combination with onglyza [ see  dosage and administration (2.4)    ].
+
+
+
+    5.3 hypersensitivity reactions
+
+
+
+  there have been postmarketing reports of serious hypersensitivity reactions in patients treated with onglyza. these reactions include anaphylaxis, angioedema, and exfoliative skin conditions. onset of these reactions occurred within the first 3 months after initiation of treatment with onglyza, with some reports occurring after the first dose. if a serious hypersensitivity reaction is suspected, discontinue onglyza, assess for other potential causes for the event, and institute alternative treatment for diabetes [ see  adverse reactions (6.2)    ].
+
+
+
+ use caution in a patient with a history of angioedema to another dipeptidyl peptidase-4 (dpp4) inhibitor because it is unknown whether such patients will be predisposed to angioedema with onglyza.
+
+
+
+    5.4 severe and disabling arthralgia
+
+
+
+  there have been postmarketing reports of severe and disabling arthralgia in patients taking dpp4 inhibitors. the time to onset of symptoms following initiation of drug therapy varied from one day to years. patients experienced relief of symptoms upon discontinuation of the medication. a subset of patients experienced a recurrence of symptoms when restarting the same drug or a different dpp4 inhibitor. consider dpp4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
+
+
+
+    5.5 macrovascular outcomes
+
+
+
+  there have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with onglyza or any other antidiabetic drug.

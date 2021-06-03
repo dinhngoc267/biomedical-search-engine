@@ -1,0 +1,48 @@
+    6 adverse reactions
+
+  excerpt:   the most common adverse reactions (incidence < 1%) are injection site irritation and/or pain.  (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact navidea biopharmaceuticals, inc.  at 1-800-476-5270 or www.lymphoseek.com or fda at 1-800-fda-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ in open label, single arm clinical trials, 553 patients with either breast cancer, malanoma, or squamous cell carcinoma of the oral cavity, skin, and lip received lymphoseek.  no patients experienced serious adverse reactions.  injection site irritation (4 patients; 0.7%) and pain (1 patient; 0.2%) were reported.
+    5 warnings and precautions
+
+
+
+  excerpt:    hypersensitivity: ask patients about prior reactions to drugs, especially dextran or modified forms of dextran.  observe for hypersensitivity signs and symptoms following lymphoseek injection.  have resuscitation equipment and trained personnel immediately available. (  5.1  )  
+
+
+
+ 
+
+
+
+   5.1 hypersensitivity reactions
+
+
+
+   lymphoseek may pose a risk of hypersensitivity reactions due to its chemical similarity to dextran [see  description (11)  ]  .  serious hypersensitivity reactions have been associated with dextran and modified forms of dextran (such as iron dextran drugs).  
+
+
+
+ before administering lymphoseek, ask patients about prior hypersensitivity reactions to drugs, especially to dextran and modified forms of dextran.  have resuscitation equipment and trained personnel immediately available at the time of lymphoseek administration.
+
+
+
+    5.2 radiation risks
+
+
+
+   any radiation-emitting product may increase the risk for cancer, especially in pediatric patients.  adhere to the dose recommendations and ensure safe handling to minimize the risk for excessive radiation exposure to either patients or health care workers.  

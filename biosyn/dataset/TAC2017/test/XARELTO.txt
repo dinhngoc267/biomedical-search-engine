@@ -1,0 +1,408 @@
+    6 adverse reactions
+
+  the following adverse reactions are also discussed in other sections of the labeling:
+
+
+
+ *    increased risk of stroke after discontinuation in nonvalvular atrial fibrillation [see  boxed warning   and   warnings and precautions (5.1)  ]  
+ *    bleeding risk [see  warnings and precautions (5.2  ,  5.4  ,  5.5  ,  5.6  ,  5.7)  ]  
+ *    spinal/epidural hematoma [see  boxed warning   and   warnings and precautions (5.3)  ]  
+      excerpt:     the most common adverse reaction (>5%) was bleeding. (    6.1    )to report suspected adverse reactions, contact janssen pharmaceuticals, inc. at 1-800-526-7736 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ during clinical development for the approved indications, 16326 patients were exposed to xarelto. these included 7111 patients who received xarelto 15 mg or 20 mg orally once daily for a mean of 19 months (5558 for 12 months and 2512 for 24 months) to reduce the risk of stroke and systemic embolism in nonvalvular atrial fibrillation (rocket af); 4728 patients who received either xarelto 15 mg orally twice daily for three weeks followed by 20 mg orally once daily (einstein dvt, einstein pe) or 20 mg orally once daily (einstein extension) to treat dvt, pe, and to reduce the risk of recurrence of dvt and of pe; and 4487 patients who received xarelto 10 mg orally once daily for prophylaxis of dvt following hip or knee replacement surgery (record 1-3).
+
+
+
+   hemorrhage
+
+
+
+ the most common adverse reactions with xarelto were bleeding complications  [see  warnings and precautions (5.2)  ]  .
+
+
+
+       nonvalvular atrial fibrillation    
+
+
+
+ in the rocket af trial, the most frequent adverse reactions associated with permanent drug discontinuation were bleeding events, with incidence rates of 4.3% for xarelto vs. 3.1% for warfarin. the incidence of discontinuations for non-bleeding adverse events was similar in both treatment groups.
+
+
+
+ table 1 shows the number of patients experiencing various types of bleeding events in the rocket af trial.
+
+
+
+ table 1: bleeding events in rocket affor all sub-types of major bleeding, single events may be represented in more than one row, and individual patients may have more than one event. 
+   parameter                       xarelto    n = 7111    n (%)      event rate    (per 100 pt-yrs)      warfarin    n = 7125    n (%)      event rate    (per 100 pt-yrs)     
+  
+  major bleedingdefined as clinically overt bleeding associated with a decrease in hemoglobin of >=2 g/dl, transfusion of >=2 units of packed red blood cells or whole blood, bleeding at a critical site, or with a fatal outcome. hemorrhagic strokes are counted as both bleeding and efficacy events. major bleeding rates excluding strokes are 3.3 per 100 pt-yrs for xarelto vs. 2.9 per 100 pt-yrs for warfarin.    395 (5.6)        3.6                   386 (5.4)        3.5                   
+    bleeding into a critical organthe majority of the events were intracranial, and also included intraspinal, intraocular, pericardial, intra-articular, intramuscular with compartment syndrome, or retroperitoneal.    91 (1.3)         0.8                   133 (1.9)        1.2                   
+    fatal bleeding                27 (0.4)         0.2                   55 (0.8)         0.5                   
+    bleeding resulting in transfusion of >=2 units of whole blood or packed red blood cells    183 (2.6)        1.7                   149 (2.1)        1.3                   
+  gastrointestinal bleeding       221 (3.1)        2.0                   140 (2.0)        1.2                   
+                 treatment of deep vein thrombosis (dvt), pulmonary embolism (pe), and to reduce the risk of recurrence of dvt and of pe    
+ 
+
+   einstein dvt and einstein pe studies
+
+
+
+ in the pooled analysis of the einstein dvt and einstein pe clinical studies, the most frequent adverse reactions leading to permanent drug discontinuation were bleeding events, with xarelto vs. enoxaparin/vitamin k antagonist (vka) incidence rates of 1.7% vs. 1.5%, respectively. the mean duration of treatment was 208 days for xarelto-treated patients and 204 days for enoxaparin/vka-treated patients.
+
+
+
+ table 2 shows the number of patients experiencing major bleeding events in the pooled analysis of the einstein dvt and einstein pe studies.
+
+
+
+ table 2: bleeding eventsbleeding event occurred after randomization and up to 2 days after the last dose of study drug. although a patient may have had 2 or more events, the patient is counted only once in a category. in the pooled analysis of einstein dvt and einstein pe studies 
+   parameter                                                     xarelto    n = 4130    n (%)      enoxaparin/    vka    n = 4116    n (%)     
+  
+  major bleeding event                                          40 (1.0)              72 (1.7)              
+    fatal bleeding                                              3 (<0.1)              8 (0.2)               
+      intracranial                                              2 (<0.1)              4 (<0.1)              
+    non-fatal critical organ bleeding                           10 (0.2)              29 (0.7)              
+      intracranialtreatment-emergent major bleeding events with at least >2 subjects in any pooled treatment group    3 (<0.1)              10 (0.2)              
+      retroperitoneal                                           1 (<0.1)              8 (0.2)               
+      intraocular                                               3 (<0.1)              2 (<0.1)              
+      intra-articular                                           0                     4 (<0.1)              
+    non-fatal non-critical organ bleedingmajor bleeding which is not fatal or in a critical organ, but resulting in a decrease in hb >= 2 g/dl and/or transfusion of >=2 units of whole blood or packed red blood cells    27 (0.7)              37 (0.9)              
+    decrease in hb >= 2g/dl                                     28 (0.7)              42 (1.0)              
+    transfusion of >=2 units of whole blood or packed red blood cells    18 (0.4)              25 (0.6)              
+  clinically relevant non-major bleeding                        357 (8.6)             357 (8.7)             
+  any bleeding                                                  1169 (28.3)           1153 (28.0)           
+           einstein extension study
+ 
+
+ in the einstein extension clinical study, the most frequent adverse reactions associated with permanent drug discontinuation were bleeding events, with incidence rates of 1.8% for xarelto vs. 0.2% for placebo treatment groups. the mean duration of treatment was 190 days for both xarelto and placebo treatment groups.
+
+
+
+ table 3 shows the number of patients experiencing bleeding events in the einstein extension study.
+
+
+
+ table 3: bleeding eventsbleeding event occurred after the first dose and up to 2 days after the last dose of study drug. although a patient may have had 2 or more events, the patient is counted only once in a category. in einstein extension study 
+   parameter                                                     xarelto    20 mg    n = 598    n (%)      placebo    n = 590    n (%)     
+  
+  major bleeding eventthere were no fatal or critical organ bleeding events.    4 (0.7)               0                     
+    decrease in hb >=2 g/dl                                     4 (0.7)               0                     
+    transfusion of >=2 units of whole blood or packed red blood cells    2 (0.3)               0                     
+    gastrointestinal                                            3 (0.5)               0                     
+    menorrhagia                                                 1 (0.2)               0                     
+  clinically relevant non-major bleeding                        32 (5.4)              7 (1.2)               
+  any bleeding                                                  104 (17.4)            63 (10.7)             
+               prophylaxis of deep vein thrombosis following hip or knee replacement surgery    
+ 
+
+ in the record clinical trials, the overall incidence rate of adverse reactions leading to permanent treatment discontinuation was 3.7% with xarelto.
+
+
+
+ the rates of major bleeding events and any bleeding events observed in patients in the record clinical trials are shown in table 4.
+
+
+
+ table 4: bleeding eventsbleeding events occurring any time following the first dose of double-blind study medication (which may have been prior to administration of active drug) until two days after the last dose of double-blind study medication. patients may have more than one event. in patients undergoing hip or knee replacement surgeries (record 1-3) 
+                                             xarelto 10 mg                   enoxaparin                     
+  
+  total treated patients                    n = 4487n (%)                   n = 4524n (%)                   
+    major bleeding event                    14 (0.3)                        9 (0.2)                         
+      fatal bleeding                        1 (<0.1)                        0                               
+      bleeding into a critical organ        2 (<0.1)                        3 (0.1)                         
+      bleeding that required re-operation    7 (0.2)                         5 (0.1)                         
+      extra-surgical site bleeding requiring transfusion of >2 units of whole blood or packed cells    4 (0.1)                         1 (<0.1)                        
+    any bleeding eventincludes major bleeding events    261 (5.8)                       251 (5.6)                       
+  hip surgery studies                       n = 3281n (%)                   n = 3298n (%)                   
+    major bleeding event                    7 (0.2)                         3 (0.1)                         
+      fatal bleeding                        1 (<0.1)                        0                               
+      bleeding into a critical organ        1 (<0.1)                        1 (<0.1)                        
+      bleeding that required re-operation    2 (0.1)                         1 (<0.1)                        
+      extra-surgical site bleeding requiring transfusion of >2 units of whole blood or packed cells    3 (0.1)                         1 (<0.1)                        
+    any bleeding event                      201 (6.1)                       191 (5.8)                       
+  knee surgery study                        n = 1206n (%)                   n = 1226n (%)                   
+    major bleeding event                    7 (0.6)                         6 (0.5)                         
+      fatal bleeding                        0                               0                               
+      bleeding into a critical organ        1 (0.1)                         2 (0.2)                         
+      bleeding that required re-operation    5 (0.4)                         4 (0.3)                         
+      extra-surgical site bleeding requiring transfusion of >2 units of whole blood or packed cells    1 (0.1)                         0                               
+    any bleeding event                      60 (5.0)                        60 (4.9)                        
+         following xarelto treatment, the majority of major bleeding complications (>=60%) occurred during the first week after surgery.
+ 
+
+   other adverse reactions
+
+
+
+ non-hemorrhagic adverse reactions reported in >=1% of xarelto-treated patients in the einstein extension study are shown in table 5.
+
+
+
+ table 5: other adverse reactionsadverse reaction (with relative risk >1.5 for xarelto versus placebo) occurred after the first dose and up to 2 days after the last dose of study drug. incidences are based on the number of patients, not the number of events. although a patient may have had 2 or more clinical adverse reactions, the patient is counted only once in a category. the same patient may appear in different categories. reported by >=1% of xarelto-treated patients in einstein extension study 
+   system organ class      preferred term                        xarelto    n = 598    n (%)      placebo    n = 590    n (%)     
+  
+  gastrointestinal disorders                                                                                
+    abdominal pain upper                                        10 (1.7)              1 (0.2)               
+    dyspepsia                                                   8 (1.3)               4 (0.7)               
+    toothache                                                   6 (1.0)               0                     
+  general disorders and administration site conditions                                                      
+    fatigue                                                     6 (1.0)               3 (0.5)               
+  infections and infestations                                                                               
+    sinusitis                                                   7 (1.2)               3 (0.5)               
+    urinary tract infection                                     7 (1.2)               3 (0.5)               
+  musculoskeletal and connective tissue disorders                                                           
+    back pain                                                   22 (3.7)              7 (1.2)               
+    osteoarthritis                                              10 (1.7)              5 (0.8)               
+  respiratory, thoracic and mediastinal disorders                                                           
+    oropharyngeal pain                                          6 (1.0)               2 (0.3)               
+         non-hemorrhagic adverse reactions reported in >=1% of xarelto-treated patients in record 1-3 studies are shown in table 6.
+ 
+
+ table 6: other adverse drug reactionsadverse reaction occurring any time following the first dose of double-blind medication, which may have been prior to administration of active drug, until two days after the last dose of double-blind study medication reported by >=1% of xarelto-treated patients in record 1-3 studies 
+   system/organ class      adverse reaction      xarelto    10 mg                enoxaparin                     
+                                             n = 4487    n (%)               n = 4524    n (%)              
+  
+  injury, poisoning and procedural complications                                                                    
+    wound secretion                         125 (2.8)                       89 (2.0)                        
+  musculoskeletal and connective tissue disorders                                                                    
+    pain in extremity                       74 (1.7)                        55 (1.2)                        
+    muscle spasm                            52 (1.2)                        32 (0.7)                        
+  nervous system disorders                                                                                  
+    syncope                                 55 (1.2)                        32 (0.7)                        
+  skin and subcutaneous tissue disorders                                                                    
+    pruritus                                96 (2.1)                        79 (1.8)                        
+    blister                                 63 (1.4)                        40 (0.9)                        
+             other clinical trial experience:  in an investigational study of acute medically ill patients being treated with xarelto 10 mg tablets, cases of pulmonary hemorrhage and pulmonary hemorrhage with bronchiectasis were observed.
+ 
+
+   6.2 postmarketing experience
+
+  the following adverse reactions have been identified during post-approval use of rivaroxaban. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   blood and lymphatic system disorders:  agranulocytosis, thrombocytopenia
+
+
+
+   gastrointestinal disorders:  retroperitoneal hemorrhage
+
+
+
+   hepatobiliary disorders:  jaundice, cholestasis, hepatitis (including hepatocellular injury)
+
+
+
+   immune system disorders:  hypersensitivity, anaphylactic reaction, anaphylactic shock, angioedema
+
+
+
+   nervous system disorders:  cerebral hemorrhage, subdural hematoma, epidural hematoma, hemiparesis
+
+
+
+   skin and subcutaneous tissue disorders:  stevens-johnson syndrome
+
+
+    boxed warning: warning: (a) premature discontinuation of xarelto increases the risk of thrombotic events,(b) spinal/epidural hematoma
+
+    warning: (a) premature discontinuation of xarelto increases the risk of thrombotic events,    (b) spinal/epidural hematoma  
+
+    *   a. premature discontinuation of xarelto increases the risk of thrombotic events 
+      premature discontinuation of any oral anticoagulant, including xarelto, increases the risk of thrombotic events. if anticoagulation with xarelto is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant   [see   dosage and administration (2.2  ,   2.6  ),   warnings and precautions (5.1)  , and   clinical studies (14.1)  ]  .  
+ 
+
+   b.   spinal/epidural hematoma  
+
+
+
+   epidural or spinal hematomas have occurred in patients treated with xarelto who are receiving neuraxial anesthesia or undergoing spinal puncture. these hematomas may result in long-term or permanent paralysis. consider these risks when scheduling patients for spinal procedures. factors that can increase the risk of developing epidural or spinal hematomas in these patients include:  
+
+
+
+ *  use of indwelling epidural catheters 
+ *  concomitant use of other drugs that affect hemostasis, such as non-steroidal anti-inflammatory drugs (nsaids), platelet inhibitors, other anticoagulants 
+ *  a history of traumatic or repeated epidural or spinal punctures 
+ *  a history of spinal deformity or spinal surgery 
+ *  optimal timing between the administration of xarelto and neuraxial procedures is not known 
+        [see   warnings and precautions (5.2  ,   5.3)   and   adverse reactions (6.2)  ].    
+ 
+
+   monitor patients frequently for signs and symptoms of neurological impairment. if neurological compromise is noted, urgent treatment is necessary   [see   warnings and precautions (5.3)  ]  .  
+
+
+
+   consider the benefits and risks before neuraxial intervention in patients anticoagulated or to be anticoagulated for thromboprophylaxis   [see   warnings and precautions (5.3)  ]  .  
+
+
+
+    excerpt:    *   warning: (a) premature discontinuation of xarelto increases the risk of thrombotic events, and (b) spinal/epidural hematoma 
+      see full prescribing information for complete boxed warning  
+ 
+
+   (a) premature discontinuation of xarelto increases the risk of thrombotic events  
+
+
+
+   premature discontinuation of any oral anticoagulant, including xarelto, increases the risk of thrombotic events. to reduce this risk, consider coverage with another anticoagulant if xarelto is discontinued for a reason other than pathological bleeding or completion of a course of therapy (  2.2  ,   2.6  ,   5.1  ,   14.1  ).  
+
+
+
+   (b) spinal/epidural hematoma  
+
+
+
+   epidural or spinal hematomas have occurred in patients treated with xarelto who are receiving neuraxial anesthesia or undergoing spinal puncture. these hematomas may result in long-term or permanent paralysis (  5.2  ,   5.3  ,   6.2  ).  
+
+
+
+   monitor patients frequently for signs and symptoms of neurological impairment and if observed, treat urgently. consider the benefits and risks before neuraxial intervention in patients who are or who need to be anticoagulated (  5.3  ).  
+    5 warnings and precautions
+
+
+
+   excerpt:    *    risk of bleeding: xarelto can cause serious and fatal bleeding. promptly evaluate signs and symptoms of blood loss. (  5.2  ) 
+ *    pregnancy-related hemorrhage: use xarelto with caution in pregnant women due to the potential for obstetric hemorrhage and/or emergent delivery. promptly evaluate signs and symptoms of blood loss. (  5.7  ) 
+ *    prosthetic heart valves: xarelto use not recommended (  5.8  ) 
+    
+ 
+
+   5.1 increased risk of thrombotic events after premature discontinuation
+
+
+
+  premature discontinuation of any oral anticoagulant, including xarelto, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events. an increased rate of stroke was observed during the transition from xarelto to warfarin in clinical trials in atrial fibrillation patients. if xarelto is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see  dosage and administration (2.2  ,  2.6  ) and  clinical studies (14.1)  ]  .
+
+
+
+    5.2 risk of bleeding
+
+
+
+  xarelto increases the risk of bleeding and can cause serious or fatal bleeding. in deciding whether to prescribe xarelto to patients at increased risk of bleeding, the risk of thrombotic events should be weighed against the risk of bleeding.
+
+
+
+ promptly evaluate any signs or symptoms of blood loss and consider the need for blood replacement. discontinue xarelto in patients with active pathological hemorrhage. the terminal elimination half-life of rivaroxaban is 5 to 9 hours in healthy subjects aged 20 to 45 years.
+
+
+
+ concomitant use of other drugs that impair hemostasis increases the risk of bleeding. these include aspirin, p2y12platelet inhibitors, other antithrombotic agents, fibrinolytic therapy, and non-steroidal anti-inflammatory drugs (nsaids) [see  drug interactions (7.3)  ].  
+
+
+
+ concomitant use of drugs that are combined p-gp and cyp3a4 inhibitors (e.g., ketoconazole and ritonavir) increases rivaroxaban exposure and may increase bleeding risk [see  drug interactions (7.1)  ]  .
+
+
+
+    reversal of anticoagulant effect:  
+
+
+
+ a specific antidote for rivaroxaban is not available. because of high plasma protein binding, rivaroxaban is not expected to be dialyzable [see  clinical pharmacology (12.3)  ]  . protamine sulfate and vitamin k are not expected to affect the anticoagulant activity of rivaroxaban. partial reversal of prothrombin time prolongation has been seen after administration of prothrombin complex concentrates (pccs) in healthy volunteers. the use of other procoagulant reversal agents like activated prothrombin complex concentrate (apcc) or recombinant factor viia (rfviia) has not been evaluated.
+
+
+
+    5.3 spinal/epidural anesthesia or puncture
+
+
+
+  when neuraxial anesthesia (spinal/epidural anesthesia) or spinal puncture is employed, patients treated with anticoagulant agents for prevention of thromboembolic complications are at risk of developing an epidural or spinal hematoma which can result in long-term or permanent paralysis [see  boxed warning  ]  .
+
+
+
+  to reduce the potential risk of bleeding associated with the concurrent use of rivaroxaban and epidural or spinal anesthesia/analgesia or spinal puncture, consider the pharmacokinetic profile of rivaroxaban [see       clinical pharmacology (12.3)   ]     . placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of rivaroxaban is low; however, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known.  
+
+
+
+ an epidural catheter should not be removed earlier than 18 hours after the last administration of xarelto. the next xarelto dose is not to be administered earlier than 6 hours after the removal of the catheter. if traumatic puncture occurs, the administration of xarelto is to be delayed for 24 hours.
+
+
+
+  should the physician decide to administer anticoagulation in the context of epidural or spinal anesthesia/analgesia or lumbar puncture, monitor frequently to detect any signs or symptoms of neurological impairment, such as midline back pain, sensory and motor deficits (numbness, tingling, or weakness in lower limbs), bowel and/or bladder dysfunction. instruct patients to immediately report if they experience any of the above signs or symptoms. if signs or symptoms of spinal hematoma are suspected, initiate urgent diagnosis and treatment including consideration for spinal cord decompression even though such treatment may not prevent or reverse neurological sequelae.  
+
+
+
+    5.4 use in patients with renal impairment
+
+
+
+  nonvalvular atrial fibrillation
+
+
+
+ avoid the use of xarelto in patients with crcl <15 ml/min since drug exposure is increased. periodically assess renal function as clinically indicated (i.e., more frequently in situations in which renal function may decline) and adjust therapy accordingly .  discontinue xarelto in patients who develop acute renal failure while on xarelto [see  use in specific populations (8.7)  ].  
+
+
+
+   treatment of deep vein thrombosis (dvt), pulmonary embolism (pe), and reduction in the risk of recurrence of dvt and of pe
+
+
+
+ avoid the use of xarelto in patients with crcl <30 ml/min due to an expected increase in rivaroxaban exposure and pharmacodynamic effects in this patient population [see  use in specific populations (8.7)  ]  .
+
+
+
+   prophylaxis of deep vein thrombosis following hip or knee replacement surgery
+
+
+
+ avoid the use of xarelto in patients with crcl <30 ml/min due to an expected increase in rivaroxaban exposure and pharmacodynamic effects in this patient population. observe closely and promptly evaluate any signs or symptoms of blood loss in patients with crcl 30 to 50 ml/min. patients who develop acute renal failure while on xarelto should discontinue the treatment [see  use in specific populations (8.7)  ].  
+
+
+
+    5.5 use in patients with hepatic impairment
+
+
+
+  no clinical data are available for patients with severe hepatic impairment.
+
+
+
+ avoid use of xarelto in patients with moderate (child-pugh b) and severe (child-pugh c) hepatic impairment or with any hepatic disease associated with coagulopathy since drug exposure and bleeding risk may be increased [see  use in specific populations (8.8)  ]  .
+
+
+
+    5.6 use with p-gp and strong cyp3a4 inhibitors or inducers
+
+
+
+  avoid concomitant use of xarelto with combined p-gp and strong cyp3a4 inhibitors (e.g., ketoconazole, itraconazole, lopinavir/ritonavir, ritonavir, indinavir, and conivaptan) [see  drug interactions (7.1)  ]  .
+
+
+
+ avoid concomitant use of xarelto with drugs that are combined p-gp and strong cyp3a4 inducers (e.g., carbamazepine, phenytoin, rifampin, st. john's wort) [see  drug interactions (7.2)  ]  .
+
+
+
+    5.7 risk of pregnancy-related hemorrhage
+
+
+
+  in pregnant women, xarelto should be used only if the potential benefit justifies the potential risk to the mother and fetus. xarelto dosing in pregnancy has not been studied. the anticoagulant effect of xarelto cannot be monitored with standard laboratory testing nor readily reversed. promptly evaluate any signs or symptoms suggesting blood loss (e.g., a drop in hemoglobin and/or hematocrit, hypotension, or fetal distress).
+
+
+
+    5.8 patients with prosthetic heart valves
+
+
+
+  the safety and efficacy of xarelto have not been studied in patients with prosthetic heart valves. therefore, use of xarelto is not recommended in these patients.
+
+
+
+    5.9 acute pe in hemodynamically unstable patients or patients who require thrombolysis or pulmonary embolectomy
+
+
+
+  initiation of xarelto is not recommended acutely as an alternative to unfractionated heparin in patients with pulmonary embolism who present with hemodynamic instability or who may receive thrombolysis or pulmonary embolectomy.

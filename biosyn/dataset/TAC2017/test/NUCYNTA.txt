@@ -1,0 +1,332 @@
+    6 adverse reactions
+
+  the following adverse reactions are discussed in more detail in other sections of the labeling:
+
+
+
+ *  respiratory depression [see  warnings and precautions (5.2)  ]  
+ *  interaction with alcohol [see  warnings and precautions (5.4)  ]  
+ *  chronic pulmonary disease [see  warnings and precautions (5.6)  ]  
+ *  hypotensive effects [see  warnings and precautions (5.8)  ]  
+ *  interactions with other cns depressants [see  warnings and precautions (5.7)  ]  
+ *  drug abuse, addiction, and dependence [see  drug abuse and dependence (9.2  ,  9.3)  ]  
+ *  gastrointestinal effects [see  warnings and precautions (5.12)  ]  
+ *  seizures [see  warnings and precautions (5.10)  ]  
+ *  serotonin syndrome [see  warnings and precautions (5.11)  ]  
+      excerpt:   the most common (>=10%) adverse reactions were nausea, dizziness, vomiting and somnolence. (  6  )
+ 
+
+   to report suspected adverse reactions, contact janssen pharmaceuticals, inc. at 1-800-526-7736 (1-800-janssen    ) or fda at 1-800-fda-1088 or  www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 clinical studies experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ based on data from nine phase 2/3 studies that administered multiple doses (seven placebo- and/or active-controlled, one noncontrolled and one phase 3 active-controlled safety study) the most common adverse reactions (reported by >=10% in any nucynta  (r)  dose group) were: nausea, dizziness, vomiting and somnolence.
+
+
+
+ the most common reasons for discontinuation due to adverse reactions in the studies described above (reported by >=1% in any nucynta  (r)  dose group) were dizziness (2.6% vs. 0.5%), nausea (2.3% vs. 0.6%), vomiting (1.4% vs. 0.2%), somnolence (1.3% vs. 0.2%) and headache (0.9% vs. 0.2%) for nucynta  (r)  - and placebo-treated patients, respectively.
+
+
+
+ seventy-six percent of nucynta  (r)  -treated patients from the nine studies experienced adverse events.
+
+
+
+ nucynta  (r)  was studied in multiple-dose, active- or placebo-controlled studies, or noncontrolled studies (n = 2178), in single-dose studies (n = 870), in open-label study extension (n = 483) and in phase 1 studies (n = 597). of these, 2034 patients were treated with doses of 50 mg to 100 mg of nucynta  (r)  dosed every 4 to 6 hours.
+
+
+
+ the data described below reflect exposure to nucynta  (r)  in 3161 patients, including 449 exposed for 45 days. nucynta  (r)  was studied primarily in placebo- and active-controlled studies (n = 2266, and n = 2944, respectively). the population was 18 to 85 years old (mean age 46 years), 68% were female, 75% white and 67% were postoperative. most patients received nucynta  (r)  doses of 50 mg, 75 mg, or 100 mg every 4 to 6 hours.
+
+
+
+ table 1 adverse reactions reported by >=1% of nucynta(r)-treated patients in seven phase 2/3 placebo- and/or oxycodone-controlled, one non-controlled, and one phase 3 oxycodone-controlled safety, multiple-dose clinical studies 
+ system/organ class  meddra preferred term  nucynta  (r)  21 mg - 120 mg(n=2178)%           placebo(n=619)%            
+  
+ gastrointestinal disorders                                                                                 
+   nausea                                           30                                 13                   
+   vomiting                                         18                                  4                   
+   constipation                                     8                                   3                   
+   dry mouth                                        4                                  <1                   
+   dyspepsia                                        2                                  <1                   
+ general disorders and administration site conditions                                                                          
+   fatigue                                          3                                  <1                   
+   feeling hot                                      1                                  <1                   
+ infections and infestations                                                                                
+   nasopharyngitis                                  1                                  <1                   
+   upper respiratory tract infection                  1                                  <1                   
+   urinary tract infection                          1                                  <1                   
+ metabolism and nutrition disorders                                                                          
+   decreased appetite                               2                                   0                   
+ nervous system disorders                                                                                   
+   dizziness                                        24                                  8                   
+   somnolence                                       15                                  3                   
+   tremor                                           1                                  <1                   
+   lethargy                                         1                                  <1                   
+ psychiatric disorders                                                                                      
+   insomnia                                         2                                  <1                   
+   confusional state                                1                                   0                   
+   abnormal dreams                                  1                                  <1                   
+   anxiety                                          1                                  <1                   
+ skin and subcutaneous tissue disorders                                                                          
+   pruritus                                         5                                   1                   
+   hyperhidrosis                                    3                                  <1                   
+   pruritus generalized                             3                                  <1                   
+   rash                                             1                                  <1                   
+ vascular disorders                                                                                         
+   hot flush                                        1                                  <1                   
+         the following adverse drug reactions occurred in less than 1% of nucynta  (r)  -treated patients in the pooled safety data from nine phase 2/3 clinical studies:
+ 
+
+   cardiac disorders:  heart rate increased, heart rate decreased
+
+
+
+   eye disorders:  visual disturbance
+
+
+
+   gastrointestinal disorders:  abdominal discomfort, impaired gastric emptying
+
+
+
+   general disorders and administration site conditions:  irritability, edema, drug withdrawal syndrome, feeling drunk
+
+
+
+   immune system disorders:  hypersensitivity
+
+
+
+   investigations:  gamma-glutamyltransferase increased, alanine aminotransferase increased, aspartate aminotransferase increased
+
+
+
+   musculoskeletal and connective tissue disorders:  involuntary muscle contractions, sensation of heaviness
+
+
+
+   nervous system disorders:  hypoesthesia, paresthesia, disturbance in attention, sedation, dysarthria, depressed level of consciousness, memory impairment, ataxia, presyncope, syncope, coordination abnormal, seizure
+
+
+
+   psychiatric disorders:  euphoric mood, disorientation, restlessness, agitation, nervousness, thinking abnormal
+
+
+
+   renal and urinary disorders:  urinary hesitation, pollakiuria
+
+
+
+   respiratory, thoracic and mediastinal disorders:  oxygen saturation decreased, cough, dyspnea, respiratory depression
+
+
+
+   skin and subcutaneous tissue disorders:  urticaria
+
+
+
+   vascular disorders:  blood pressure decreased
+
+
+
+ in the pooled safety data, the overall incidence of adverse reactions increased with increased dose of nucynta  (r)  , as did the percentage of patients with adverse reactions of nausea, dizziness, vomiting, somnolence, and pruritus.
+
+
+
+   6.2 post-marketing experience
+
+  the following additional adverse reactions have been identified during post-approval use of nucynta  (r)  . because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably.
+
+
+
+   gastrointestinal disorders:  diarrhea
+
+
+
+   nervous system disorders:  headache
+
+
+
+   psychiatric disorders:  hallucination, suicidal ideation, panic attack
+
+
+
+   cardiac disorders:  palpitations
+
+
+
+ anaphylaxis, angioedema, and anaphylactic shock have been reported very rarely with ingredients contained in nucynta  (r)  . advise patients how to recognize such reactions and when to seek medical attention.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  misuse, abuse and diversion: nucynta  (r)  is a schedule ii controlled substance with abuse liability similar to other opioids: monitor patients closely for signs of misuse, abuse and addiction. (  5.1  ) 
+ *  elderly, cachectic, and debilitated patients and patients with chronic pulmonary disease: monitor closely because of increased risk of respiratory depression. (  5.5  ) 
+ *  interaction with cns depressants including other opioids, sedatives, alcohol, and illicit drugs: consider dose reduction of one or both drugs because of additive effects. (  5.7  ) 
+ *  hypotensive effect: monitor for signs of hypotension.(  5.8  ) 
+ *  patients with head injury or increased intracranial pressure: monitor for sedation and respiratory depression. avoid use of nucynta  (r)  in patients with impaired consciousness or coma susceptible to intracranial effects of co2retention. (  5.9  ) 
+ *  seizures: use with caution in patients with a history of seizures. (  5.10  ) 
+ *  serotonin syndrome: potentially life-threatening condition could result from concomitant serotonergic administration. (  5.11  ) 
+ *  withdrawal: withdrawal symptoms may occur if nucynta  (r)  is discontinued abruptly. (  5.13  ) 
+ *  impaired mental/physical abilities: caution must be used with potentially hazardous activities. (  5.14  ) 
+    
+ 
+
+   5.1 abuse potential
+
+
+
+   nucynta  (r)  contains tapentadol, an opioid agonist and a schedule ii controlled substance. tapentadol can be abused in a manner similar to other opioid agonists legal or illicit. opioid agonists are sought by drug abusers and people with addiction disorders and are subject to criminal diversion. consider these risks when prescribing or dispensing nucynta  (r)  in situations where there is concern about increased risks of misuse, abuse, or diversion. concerns about abuse, addiction, and diversion should not, however, prevent the proper management of pain.  
+
+
+
+  assess each patient's risk for opioid abuse or addiction prior to prescribing nucynta  (r)  . the risk for opioid abuse is increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression). patients at increased risk may still be appropriately treated with opioids; however these patients will require intensive monitoring for signs of misuse, abuse, or addiction. routinely monitor all patients receiving opioids for signs of misuse, abuse, and addiction because these drugs carry a risk for addiction even under appropriate medical use.  
+
+
+
+ misuse or abuse of nucynta  (r)  by crushing, chewing, snorting or injecting will pose a significant risk that could result in overdose and death [see  overdosage (10)  ].  
+
+
+
+ contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product [see  drug abuse and dependence (9)  ]  .
+
+
+
+    5.2 life threatening respiratory depression
+
+
+
+   respiratory depression is the chief hazard of opioid agonists, including nucynta  (r)  . respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death. respiratory depression from opioids is manifested by a reduced urge to breathe and a decreased rate of respiration, often associated with a "sighing" pattern of breathing (deep breaths separated by abnormally long pauses). carbon dioxide (co2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids. management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see  overdosage (10)  ]  .  
+
+
+
+  instruct patients against use by individuals other than the patient for whom nucynta  (r)  was prescribed and to keep nucynta  (r)  out of the reach of children, as such inappropriate use may result in fatal respiratory depression.  
+
+
+
+  patients with conditions accompanied by hypoxia, hypercarbia or decreased respiratory reserve such as: asthma, chronic obstructive pulmonary disease or cor pulmonale, central nervous system (cns) depression, or coma may be at increased risk for increased airway resistance and decreased respiratory drive to the point of apnea even with usual therapeutic doses of nucynta  (r)  . consider the use of alternative non-mu-opioid agonist analgesics and use nucynta  (r)  only under careful medical supervision at the lowest effective dose in such patients. if respiratory depression occurs, treat the patient for mu-opioid agonist-induced respiratory depression [see  overdosage (10.2)  ]  . to reduce the risk of respiratory depression, proper dosing of nucynta  (r)  is essential [see  dosage and administration (2)  ]  .  
+
+
+
+    5.3 accidental exposure
+
+
+
+   accidental ingestion of nucynta  (r)  , especially in children, can result in a fatal overdose of tapentadol.  
+
+
+
+    5.4 interactions with alcohol, other opioids, and drugs of abuse
+
+
+
+   due to its mu-opioid agonist activity, nucynta  (r)  may be expected to have additive effects when used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression, respiratory depression, hypotension, and profound sedation, coma or death [see  drug interactions (7.3)  ]  . instruct patients not to consume alcoholic beverages or use prescription or non-prescription products containing alcohol, other opioids, or drugs of abuse while on nucynta  (r)  therapy [see  drug interactions (7.1)  ]  .  
+
+
+
+    5.5 elderly, cachectic, and debilitated patients
+
+
+
+   respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients. therefore, closely monitor such patients, particularly when nucynta  (r)  is given concomitantly with other drugs that depress respiration [see  warnings and precautions (5.2)  ]  .  
+
+
+
+    5.6 use in patients with chronic pulmonary disease
+
+
+
+   monitor for respiratory depression those patients with significant chronic obstructive pulmonary disease or cor pulmonale, and patients having a substantially decreased respiratory reserve, hypoxia, hypercarbia, or pre-existing respiratory depression, as in these patients, even usual therapeutic doses of nucynta  (r)  may decrease respiratory drive to the point of apnea [see  warnings and precautions (5.2)  ].  consider the use of alternative non-opioid analgesics in these patients if possible.  
+
+
+
+    5.7 interactions with cns depressants and illicit drugs
+
+
+
+  hypotension, and profound sedation, coma or respiratory depression may result if nucynta  (r)  is used concomitantly with other cns depressants (e.g., sedatives, anxiolytics, hypnotics, neuroleptics, muscle relaxants, other opioids and illicit drugs). when considering the use of nucynta  (r)  in a patient taking a cns depressant, assess the duration of use of the cns depressant and the patient's response, including the degree of tolerance that has developed to cns depression. additionally, consider the patient's use, if any, of alcohol and/or illicit drugs that can cause cns depression. if nucynta  (r)  therapy is to be initiated in a patient taking a cns depressant, start with a lower nucynta  (r)  dose than usual and monitor patients for signs of sedation and respiratory depression and consider using a lower dose of the concomitant cns depressant [see  drug interactions (7.3)  ]  .
+
+
+
+    5.8 hypotensive effect
+
+
+
+   nucynta  (r)  may cause severe hypotension. there is an increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain cns depressant drugs (e.g., phenothiazines or general anesthetics) [see  drug interactions (7.3)  ]  . monitor these patients for signs of hypotension after the dose of nucynta  (r)  . in patients with circulatory shock, nucynta  (r)  may cause vasodilation that can further reduce cardiac output and blood pressure. avoid the use of nucynta  (r)  in patients with circulatory shock.  
+
+
+
+    5.9 use in patients with head injury or increased intracranial pressure
+
+
+
+   monitor patients taking nucynta  (r)  who may be susceptible to the intracranial effects of co2retention (e.g., those with evidence of increased intracranial pressure or brain tumors) for signs of sedation and respiratory depression. nucynta  (r)  may reduce respiratory drive, and the resultant co2retention can further increase intracranial pressure. opioids may also obscure the clinical course in a patient with a head injury.  
+
+
+
+ avoid the use of nucynta  (r)  in patients with impaired consciousness or coma.
+
+
+
+    5.10 seizures
+
+
+
+   nucynta  (r)  has not been evaluated in patients with a predisposition to a seizure disorder, and such patients were excluded from clinical studies. the active ingredient tapentadol in nucynta  (r)  may aggravate convulsions in patients with convulsive disorders, and may induce or aggravate seizures in some clinical settings. monitor patients with a history of seizure disorders for worsened seizure control during nucynta  (r)  therapy.  
+
+
+
+    5.11 serotonin syndrome risk
+
+
+
+   cases of life-threatening serotonin syndrome have been reported with the concurrent use of tapentadol and serotonergic drugs. serotonergic drugs comprise selective serotonin reuptake inhibitors (ssris), serotonin and norepinephrine reuptake inhibitors (snris), tricyclic antidepressants (tcas), triptans, drugs that affect the serotonergic neurotransmitter system (e.g. mirtazapine, trazodone, and tramadol), and drugs that impair metabolism of serotonin (including maois). this may occur within the recommended dose. serotonin syndrome may include mental-status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea) and can be fatal [see  drug interactions (7.4)  ]  .  
+
+
+
+    5.12 use in patients with gastrointestinal conditions
+
+
+
+  nucynta  (r)  is contraindicated in patients with gi obstruction, including paralytic ileus. the tapentadol in nucynta  (r)  may cause spasm of the sphincter of oddi. monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+
+
+    5.13 withdrawal
+
+
+
+  withdrawal symptoms may occur if nucynta  (r)  is discontinued abruptly. these symptoms may include: anxiety, sweating, insomnia, rigors, pain, nausea, tremors, diarrhea, upper respiratory symptoms, piloerection, and rarely, hallucinations. withdrawal symptoms may be reduced by tapering nucynta  (r)   [see  drug abuse and dependence (9.3)  ]  .
+
+
+
+    5.14 driving and operating heavy machinery
+
+
+
+   nucynta  (r)  may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery. warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of nucynta  (r)  and know how they will react to the medication.  
+
+
+
+    5.15 hepatic impairment
+
+
+
+  a study with nucynta  (r)  in subjects with hepatic impairment showed higher serum concentrations of tapentadol than in those with normal hepatic function. avoid use of nucynta  (r)  in patients with severe hepatic impairment. reduce the dose of nucynta  (r)  in patients with moderate hepatic impairment [see  dosage and administration (2.4)  and  clinical pharmacology (12.3)  ]  . closely monitor patients with moderate hepatic impairment for respiratory and central nervous system depression when receiving nucynta  (r)  .
+
+
+
+    5.16 renal impairment
+
+
+
+   use of nucynta  (r)  in patients with severe renal impairment is not recommended due to accumulation of a metabolite formed by glucuronidation of tapentadol. the clinical relevance of the elevated metabolite is not known [see  clinical pharmacology (12.3)  ]  .  

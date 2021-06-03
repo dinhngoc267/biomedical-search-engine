@@ -1,0 +1,113 @@
+-1||-1|-1||-1||hypertension||10020772
+-1||-1|-1||-1||arterial thromboembolic events||10014513
+-1||-1|-1||-1||venous thromboembolic events||10014522
+-1||-1|-1||-1||hemorrhage||10055798
+-1||-1|-1||-1||cardiac failure||10007554
+-1||-1|-1||-1||gastrointestinal perforation||10018001
+-1||-1|-1||-1||fistula formation||10016717
+-1||-1|-1||-1||thyroid dysfunction||10043709
+-1||-1|-1||-1||wound healing complications||10021519|10053692
+-1||-1|-1||-1||rpls||10071066
+-1||-1|-1||-1||proteinuria||10037032
+-1||-1|-1||-1||elevation of liver enzymes||10060795
+-1||-1|-1||-1||hepatic impairment||10024670
+-1||-1|-1||-1||diarrhea||10012735
+-1||-1|-1||-1||fatigue||10016256
+-1||-1|-1||-1||decreased appetite||10061428
+-1||-1|-1||-1||nausea||10028813
+-1||-1|-1||-1||dysphonia||10013952
+-1||-1|-1||-1||palmar-plantar erythrodysesthesia syndrome||10033553
+-1||-1|-1||-1||hand-foot syndrome||10033553
+-1||-1|-1||-1||weight decreased||10047895
+-1||-1|-1||-1||vomiting||10047700
+-1||-1|-1||-1||asthenia||10003549
+-1||-1|-1||-1||constipation||10010774
+-1||-1|-1||-1||hypothyroidism||10021114
+-1||-1|-1||-1||cough||10011224
+-1||-1|-1||-1||mucosal inflammation||10028116
+-1||-1|-1||-1||arthralgia||10003239
+-1||-1|-1||-1||stomatitis||10042128
+-1||-1|-1||-1||dyspnea||10013968
+-1||-1|-1||-1||abdominal pain||10000081
+-1||-1|-1||-1||headache||10019211
+-1||-1|-1||-1||pain in extremity||10033425
+-1||-1|-1||-1||rash||10037844
+-1||-1|-1||-1||dysgeusia||10013911
+-1||-1|-1||-1||dry skin||10013786
+-1||-1|-1||-1||dyspepsia||10013946
+-1||-1|-1||-1||pruritus||10037087
+-1||-1|-1||-1||alopecia||10001760
+-1||-1|-1||-1||erythema||10015150
+-1||-1|-1||-1||dizziness||10013573
+-1||-1|-1||-1||upper abdominal pain||10000087
+-1||-1|-1||-1||myalgia||10028411
+-1||-1|-1||-1||dehydration||10012174
+-1||-1|-1||-1||epistaxis||10015090
+-1||-1|-1||-1||anemia||10002034
+-1||-1|-1||-1||hemorrhoids||10019022
+-1||-1|-1||-1||hematuria||10018867
+-1||-1|-1||-1||tinnitus||10043882
+-1||-1|-1||-1||lipase increased||10024574
+-1||-1|-1||-1||glossodynia||10018388
+-1||-1|-1||-1||pulmonary embolism||10037377
+-1||-1|-1||-1||rectal hemorrhage||10038063
+-1||-1|-1||-1||hemoptysis||10018964
+-1||-1|-1||-1||deep vein thrombosis||10051055
+-1||-1|-1||-1||retinal-vein occlusion||10038907
+-1||-1|-1||-1||retinal-vein thrombosis||10038908
+-1||-1|-1||-1||polycythemia||10036051
+-1||-1|-1||-1||transient ischemic attack||10044390
+-1||-1|-1||-1||hemoglobin decreased||10018884
+-1||-1|-1||-1||lymphocytes (absolute) decreased||10025256
+-1||-1|-1||-1||platelets decreased||10035528
+-1||-1|-1||-1||white blood cells decreased||10047942
+-1||-1|-1||-1||creatinine increased||10005483
+-1||-1|-1||-1||bicarbonate decreased||10005359
+-1||-1|-1||-1||hypocalcemia||10020947
+-1||-1|-1||-1||alp increased||10059570
+-1||-1|-1||-1||hyperglycemia||10020635
+-1||-1|-1||-1||amylase increased||10002016
+-1||-1|-1||-1||alt increased||10001551
+-1||-1|-1||-1||ast increased||10003481
+-1||-1|-1||-1||hypernatremia||10020679
+-1||-1|-1||-1||hypoalbuminemia||10020942
+-1||-1|-1||-1||hyperkalemia||10020646
+-1||-1|-1||-1||hypoglycemia||10020993
+-1||-1|-1||-1||hyponatremia||10021036
+-1||-1|-1||-1||hypophosphatemia||10021058
+-1||-1|-1||-1||hemoglobin increased||10018888
+-1||-1|-1||-1||hypercalcemia||10020583
+-1||-1|-1||-1||hypertensive crisis||10020802
+-1||-1|-1||-1||arterial thrombotic events||10003178
+-1||-1|-1||-1||venous thrombotic events||10047249
+-1||-1|-1||-1||fatal||10011906
+-1||-1|-1||-1||hemorrhagic events||10055798
+-1||-1|-1||-1||gastrointestinal fistula||10017877
+-1||-1|-1||-1||death||10011906
+-1||-1|-1||-1||reversible posterior leukoencephalopathy syndrome||10071066
+-1||-1|-1||-1||liver enzyme elevation||10060795
+-1||-1|-1||-1||fetal harm||10016852
+-1||-1|-1||-1||systolic blood pressure >150 mmhg||10005760
+-1||-1|-1||-1||diastolic blood pressure >100 mmhg||10005739
+-1||-1|-1||-1||blood pressure increases||10005750
+-1||-1|-1||-1||deaths||10011906
+-1||-1|-1||-1||cerebrovascular accident||10008190
+-1||-1|-1||-1||myocardial infarction||10028596
+-1||-1|-1||-1||retinal artery occlusion||10038827
+-1||-1|-1||-1||retinal vein occlusion||10038907
+-1||-1|-1||-1||retinal vein thrombosis||10038908
+-1||-1|-1||-1||cerebral hemorrhage||10008111
+-1||-1|-1||-1||lower gastrointestinal hemorrhage||10050953
+-1||-1|-1||-1||melena||10027141
+-1||-1|-1||-1||gastric hemorrhage||10017788
+-1||-1|-1||-1||gastrointestinal fistulas||10017877
+-1||-1|-1||-1||hyperthyroidism||10020850
+-1||-1|-1||-1||elevations of tsh||10005833
+-1||-1|-1||-1||seizure||10039906
+-1||-1|-1||-1||lethargy||10024264
+-1||-1|-1||-1||confusion||10010305
+-1||-1|-1||-1||blindness||10005169
+-1||-1|-1||-1||visual disturbances||10047571
+-1||-1|-1||-1||neurologic disturbances||10060860
+-1||-1|-1||-1||alanine aminotransferase elevations||10001551
+-1||-1|-1||-1||alt elevations||10001551

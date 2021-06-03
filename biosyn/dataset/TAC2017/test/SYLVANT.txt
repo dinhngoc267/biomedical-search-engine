@@ -1,0 +1,161 @@
+    6 adverse reactions
+
+  the following adverse reactions are also discussed in other sections of the labeling:
+
+
+
+ *  concurrent active severe infections [see  warnings and precautions (5.1)  ]  
+ *  infusion-related reactions and hypersensitivity [see  warnings and precautions (5.3)  ]  
+      excerpt:   the most common adverse reactions (>10% compared to placebo) during treatment with sylvant in the mcd clinical trial were pruritus, increased weight, rash, hyperuricemia, and upper respiratory tract infection.
+ 
+
+   to report suspected adverse reactions, contact janssen biotech, inc. at 1-800-526-7736 (1-800-janssen) or fda at 1-800-fda-1088 or  www.fda.gov/medwatch.         
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ the most common adverse reactions (> 10% compared to placebo) during treatment with sylvant in the mcd clinical trial were pruritus, increased weight, rash, hyperuricemia, and upper respiratory tract infection.
+
+
+
+ the data presented below in  table 3  were collected from study 1. study 1, in mcd, was an international, multicenter, randomized phase 2 study of every 3 week infusions comparing sylvant and best supportive care (bsc) to placebo and bsc. there were 53 patients randomized to the sylvant arm at a dose of 11 mg/kg and 26 patients randomized to the placebo arm. of the 26 placebo-treated patients, 13 patients subsequently crossed-over to receive sylvant. the median age was 48 years (range 20 to 78), 66% male, 48% asian, 39% white, 4% black or african american, 7% other. the patients randomized to sylvant received a median of 19 infusions (range 1 to 50) compared to patients randomized to placebo who received a median of 8 infusions (range 2 to 32). to control for disparate exposure between arms,  table 3  reports the per patient incidence of adverse reactions that occurred during the first 8 infusions. adverse reactions that occurred >3% in the sylvant arm are presented.
+
+
+
+ table 3: per patient incidence of common adverse reactions in study 1 during initial 8 infusions 
+                                           sylvant+bscn=53  placebo+bscn=26   
+                                             all grades       grades 3-4       all grades       grades 3-4      
+  
+ skin disorders                                                                                                 
+   rash (rash, rash generalized, rash maculo-papular, rash popular and rash pruritic)     15 (28%)          1 (2%)           3 (12%)             0          
+   pruritis                                   15 (28%)             0             2 (8%)              0          
+   skin hyperpigmentation                      2 (4%)              0                0                0          
+   eczema                                      2 (4%)              0                0                0          
+   psoriasis                                   2 (4%)              0                0                0          
+   dry skin                                    2 (4%)              0                0                0          
+ infections                                                                                                     
+   lower respiratory tract                     4 (8%)           2 (4%)           1 (4%)           1 (4%)        
+   upper respiratory tract                    14 (26%)          1 (2%)           4 (15%)          1 (4%)        
+ blood and lymphatic system disorders                                                                           
+   thrombocytopenia                            5 (9%)           2 (4%)           1 (4%)           1 (4%)        
+ general disorders                                                                                              
+   edema (general and localized)              14 (26%)          4 (8%)           7 (27%)             0          
+ gastrointestinal disorders                                                                                     
+   constipation                                4 (8%)              0             1 (4%)              0          
+ metabolism                                                                                                     
+   hypertriglyceridemia                        4 (8%)              0                0                0          
+   hypercholesterolemia                        2 (4%)              0                0                0          
+   hyperuricemia                               6 (11%)          1 (2%)              0                0          
+ respiratory, thoracic and mediastinal disorders                                                                       
+   oropharyngeal pain                          4 (8%)              0             1 (4%)              0          
+ renal and urinary disorders                                                                                    
+   renal impairment                            4 (8%)              0                0                0          
+ nervous system disorders                                                                                       
+   headache                                    4 (8%)              0             1 (4%)              0          
+ investigations                                                                                                 
+   weight increased                           10 (19%)          1 (2%)              0                0          
+ vascular disorders                                                                                             
+   hypotension                                 2 (4%)           1 (2%)              0                0          
+           sylvant was also evaluated as a single agent in another hematologic disease in study 2. study 2 was an international, multicenter, randomized phase 2 study of every 4 week infusions comparing sylvant and bsc to placebo and bsc. there were 50 patients randomized to the sylvant arm at a dose of 15 mg/kg (unapproved dose) and 26 patients randomized to the placebo arm. the median age was 72 years (range 50 to 85), 58% male, 96% white, 1% asian, 1% black, and 1% other. the median number of infusions in both arms was 3 (range 1 to 4). the study was stopped early due to a lack of efficacy. adverse reactions that occurred > 3% in the sylvant arm are presented in  table 4  .
+ 
+
+ table 4: per patient incidence of common adverse reactions in study 2 
+                                           sylvant+bscn=50  placebo+bscn=26   
+                                             all grades       grades 3-4       all grades       grades 3-4      
+  
+ infections                                                                                                     
+   lower respiratory tract                     4 (8%)           4 (8%)              0                0          
+ general disorders                                                                                              
+   edema(peripheral)                           8 (16%)             0             2 (8%)              0          
+ gastrointestinal disorders                                                                                     
+   abdominal pain/abdominal distension         6 (12%)             0                0                0          
+ metabolism                                                                                                     
+   decreased appetite                          2 (4%)              0                0                0          
+   dehydration                                 2 (4%)           1 (2%)              0                0          
+ vascular disorders                                                                                             
+   hypotension                                 3 (6%)              0                0                0          
+               long term exposure  
+ 
+
+ the safety of long term administration of sylvant to patients with mcd was evaluated in study 3. study 3 enrolled patients from the initial dose finding study of sylvant with mcd who were benefiting from chronic sylvant therapy. sylvant was administered at a dose of 11 mg/kg every 3 to 6 weeks. at the time of data cut off 19 patients were enrolled. the median age was 44 years (range 18 - 76), 63% male, 84% caucasian, 11% asian, and 5% black. the median exposure to sylvant for these 19 patients was 5.1 years (range 3.4 to 7.2). the most common adverse reaction (> 20%) reported by subjects receiving sylvant in this study was upper respiratory tract infection (63%); diarrhea (32%); pain in extremities, arthralgia and fatigue (21% each). no patient was removed from therapy for any reason. there were no deaths. there were no cumulative toxicities identified with prolonged treatment with sylvant.
+
+
+
+     anaphylaxis and infusion related reactions  
+
+
+
+ approximately 750 patients have been treated with sylvant. of these, one patient experienced an anaphylactic reaction. data from 249 patients treated with sylvant monotherapy forms the basis of the safety evaluation of infusion related reactions. infusion related reactions were reported in 4.8% of these patients. symptoms of infusion reactions consisted of back pain, chest pain or discomfort, nausea and vomiting, flushing, erythema, and palpitations.
+
+
+
+     immunogenicity  
+
+
+
+ immunogenicity data are highly dependent on the sensitivity and specificity of the test methods used. additionally, the observed incidence of a positive result in a test method may be influenced by several factors, including sample handling, timing of sample collection, drug interference, concomitant medication and the underlying disease. therefore, comparison of the incidence of antibodies to sylvant with the incidence of antibodies to other products may be misleading. the clinical significance of anti-siltuximab antibodies following treatment with sylvant is not known.
+
+
+
+ the immunogenicity of siltuximab has been evaluated using antigen-bridging enzyme immunoassay (eia) and electrochemiluminescence-based immunoassay (eclia) methods. a total of 411 patients across the clinical studies were evaluated at multiple time points for anti-therapeutic antibody (ata) responses to siltuximab after treatment with sylvant. following sylvant dosing, 0.2% (1/411) of patients tested positive for anti-siltuximab antibodies. further immunogenicity analyses of the single positive sample revealed a low titer of anti-siltuximab antibodies with non-neutralizing capabilities.
+
+
+
+ no evidence of altered toxicity profile was identified in the patient who developed antibodies to siltuximab.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  *  do not administer sylvant to patients with severe infections until the infection resolves. (  2  ,  5.1  ) 
+ *  monitor patients receiving sylvant closely for infections. institute prompt anti-infective therapy and do not administer sylvant until the infection resolves. (  2  ) 
+   concurrent active severe infections 
+ *  vaccinations: do not administer live vaccines because il-6 inhibition may interfere with the normal immune response to new antigens. (  5.2  ) 
+ *  infusion related reactions: administer sylvant in a setting that provides resuscitation equipment, medication, and personnel trained to provide resuscitation. (  5.3  ,  6.1  ) 
+ *  gastrointestinal (gi) perforation: use with caution in patients who may be at increased risk. promptly evaluate patients presenting with symptoms that may be associated or suggestive of gi perforation. (  5.4  ) 
+    
+ 
+
+   5.1 concurrent active severe infections
+
+
+
+  do not administer sylvant to patients with severe infections until the infection resolves. sylvant may mask signs and symptoms of acute inflammation including suppression of fever and of acute phase reactants such as c-reactive protein (crp). monitor patients receiving sylvant closely for infections. institute prompt anti-infective therapy and do not administer further sylvant until the infection resolves.
+
+
+
+    5.2 vaccinations
+
+
+
+  do not administer live vaccines to patients receiving sylvant because il-6 inhibition may interfere with the normal immune response to new antigens.
+
+
+
+    5.3 infusion related reactions and hypersensitivity
+
+
+
+  stop the infusion of sylvant if the patient develops signs of anaphylaxis. discontinue further therapy with sylvant.
+
+
+
+ stop the infusion if the patient develops a mild to moderate infusion reaction. if the reaction resolves, the sylvant infusion may be restarted at a lower infusion rate. consider medication with antihistamines, acetaminophen, and corticosteroids. discontinue sylvant if the patient does not tolerate the infusion following these interventions [see  adverse reactions (6)  ].  
+
+
+
+ administer sylvant in a setting that provides resuscitation equipment, medication, and personnel trained to provide resuscitation.
+
+
+
+    5.4 gastrointestinal perforation
+
+
+
+  gastrointestinal (gi) perforation has been reported in clinical trials although not in mcd trials. use with caution in patients who may be at increased risk for gi perforation. promptly evaluate patients presenting with symptoms that may be associated or suggestive of gi perforation.

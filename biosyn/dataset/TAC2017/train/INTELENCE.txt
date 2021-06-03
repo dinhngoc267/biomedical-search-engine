@@ -1,0 +1,260 @@
+    6 adverse reactions
+
+  the following adverse reactions are described in greater detail in other sections:
+
+
+
+ *  severe skin and hypersensitivity reactions [ see  warnings and precautions (5.1)   ]. 
+      excerpt:   the most common adverse drug reactions of moderate to severe intensity (at least 2%) which occurred at a higher rate than placebo in adults are rash and peripheral neuropathy. (  6.1  )
+ 
+
+ the most common adverse drug reactions in at least 2% of pediatric patients are rash and diarrhea. (  6.2  )
+
+
+
+   to report suspected adverse reactions, contact janssen products, lp at 1-800-janssen    (1-800-526-7736) or fda at 1-800-fda-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 clinical trials experience: adults
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the safety assessment is based on all data from 1203 subjects in the phase 3 placebo-controlled trials, tmc125-c206 and tmc125-c216, conducted in antiretroviral treatment-experienced hiv-1-infected adult subjects, 599 of whom received intelence  (r)  (200 mg twice daily). in these pooled trials, the median exposure for subjects in the intelence  (r)  arm and placebo arm was 52.3 and 51.0 weeks, respectively. discontinuations due to adverse drug reactions (adrs) were 5.2% in the intelence  (r)  arm and 2.6% in the placebo arm.
+
+
+
+ the most frequently reported adr at least grade 2 in severity was rash (10.0%). stevens-johnson syndrome, drug hypersensitivity reaction and erythema multiforme were reported in less than 0.1% of subjects during clinical development with intelence  (r)  [  see  warnings and precautions (5.1)    ]. a total of 2.2% of hiv-1-infected subjects in phase 3 trials receiving intelence  (r)  discontinued due to rash. in general, in clinical trials, rash was mild to moderate, occurred primarily in the second week of therapy, and was infrequent after week 4. rash generally resolved within 1 to 2 weeks on continued therapy. the incidence of rash was higher in women compared to men in the intelence  (r)  arm in the phase 3 trials (rash >= grade 2 was reported in 9/60 [15.0%] women versus 51/539 [9.5%] men; discontinuations due to rash were reported in 3/60 [5.0%] women versus 10/539 [1.9%] men) [  see  warnings and precautions (5.1)    ]. patients with a history of nnrti-related rash did not appear to be at increased risk for the development of intelence  (r)  -related rash compared to patients without a history of nnrti-related rash.
+
+
+
+     common adverse reactions  
+
+
+
+ clinical adrs of moderate intensity or greater (greater than or equal to grade 2) and reported in at least 2% of subjects treated with intelence  (r)  and occurring at a higher rate compared to placebo (excess of 1%) are presented in table 1. laboratory abnormalities considered adrs are included in table 2.
+
+
+
+ table 1: treatment-emergent adverse reactionsincludes adverse reactions at least possibly, probably, or very likely related to the drug. of at least moderate intensityintensities are defined as follows: moderate (discomfort enough to cause interference with usual activity); severe (incapacitating with inability to work or do usual activity). (grades 2 to 4) in at least 2% of adult subjects in the intelence(r) treatment groups and at a higher rate compared to placebo (excess of 1%) 
+ system organ class,preferred term,%  pooled tmc125-c206 and tmc125-c216 trials   
+ intelence  (r)  + brn=599                  placebo + brn=604            
+  
+ n=total number of subjects per treatment group, br=background regimen   
+  
+     nervous system disorders                                            
+     peripheral neuropathy                          4%                                 2%                   
+     skin and subcutaneous tissue disorders                                         
+     rash                                          10%                                 3%                   
+             less common adverse reactions  
+ 
+
+ treatment-emergent adrs occurring in less than 2% of subjects (599 subjects) receiving intelence  (r)  and of at least moderate intensity (greater than or equal to grade 2) are listed below by body system:
+
+
+
+   cardiac disorders  : myocardial infarction, angina pectoris, atrial fibrillation
+
+
+
+   ear and labyrinth disorders  : vertigo
+
+
+
+   eye disorders  : blurred vision
+
+
+
+   gastrointestinal disorders  : gastroesophageal reflux disease, flatulence, gastritis, abdominal distension, pancreatitis, constipation, dry mouth, hematemesis, retching, stomatitis
+
+
+
+   general disorders and administration site conditions  : sluggishness
+
+
+
+   hematologic disorders  : hemolytic anemia
+
+
+
+   hepatobiliary disorders  : hepatic failure, hepatomegaly, cytolytic hepatitis, hepatic steatosis, hepatitis
+
+
+
+   immune system disorders  : drug hypersensitivity, immune reconstitution syndrome
+
+
+
+   metabolism and nutrition disorders  : diabetes mellitus, anorexia, dyslipidemia
+
+
+
+   nervous system disorders  : paraesthesia, somnolence, convulsion, hypoesthesia, amnesia, syncope, disturbance in attention, hypersomnia, tremor
+
+
+
+   psychiatric disorders  : anxiety, sleep disorders, abnormal dreams, confusional state, disorientation, nervousness, nightmares
+
+
+
+   renal and urinary disorders:  acute renal failure
+
+
+
+   reproductive system and breast disorders  : gynecomastia
+
+
+
+   respiratory,thoracic and mediastinal disorders  : exertional dyspnea, bronchospasm
+
+
+
+   skin and subcutaneous tissue disorders  : night sweats, lipohypertrophy, prurigo, hyperhidrosis, dry skin, swelling face
+
+
+
+ additional adrs of at least moderate intensity observed in other trials were acquired lipodystrophy, angioneurotic edema, erythema multiforme and haemorrhagic stroke, each reported in no more than 0.5% of subjects.
+
+
+
+     laboratory abnormalities in treatment-experienced patients  
+
+
+
+ selected grade 2 to grade 4 laboratory abnormalities that represent a worsening from baseline observed in adult subjects treated with intelence  (r)  are presented in table 2.
+
+
+
+ table 2: selected grade 2 to 4 laboratory abnormalities observed in treatment-experienced subjects 
+                                                         pooled tmc125-c206 and tmc125-c216 trials   
+ laboratory parameterpreferred term,%    daids toxicity range    intelence  (r)  + brn=599     placebo + brn=604       
+  
+ uln=upper limit of normal, br=background regimen   
+  
+   general biochemistry                                                                                       
+   pancreatic amylase                                                                                         
+ grade 2                            > 1.5-2 * uln                   7%                        8%              
+ grade 3                             > 2-5 * uln                    7%                        8%              
+ grade 4                              > 5 * uln                     2%                        1%              
+   lipase                                                                                                     
+ grade 2                            > 1.5-3 * uln                   4%                        6%              
+ grade 3                             > 3-5 * uln                    2%                        2%              
+ grade 4                               > 5*uln                      1%                       < 1%             
+   creatinine                                                                                                 
+ grade 2                           > 1.4-1.8 * uln                  6%                        5%              
+ grade 3                           > 1.9-3.4 * uln                  2%                        1%              
+ grade 4                             > 3.4 * uln                    0%                       < 1%             
+   hematology                                                                                                 
+   decreased hemoglobin                                                                                       
+ grade 2                              90-99 g/l                     2%                        4%              
+ grade 3                              70-89 g/l                    < 1%                      < 1%             
+ grade 4                               < 70 g/l                    < 1%                      < 1%             
+   white blood cell count                                                                                     
+ grade 2                         1,500-1,999/mm  3                  2%                        3%              
+ grade 3                         1,000-1,499/mm  3                  1%                        4%              
+ grade 4                           < 1,000/mm  3                    1%                       < 1%             
+   neutrophils                                                                                                
+ grade 2                           750-999/mm  3                    5%                        6%              
+ grade 3                           500-749/mm  3                    4%                        4%              
+ grade 4                            < 500/mm  3                     2%                        3%              
+   platelet count                                                                                             
+ grade 2                        50,000-99,999/mm  3                 3%                        5%              
+ grade 3                        25,000-49,999/mm  3                 1%                        1%              
+ grade 4                           < 25,000/mm  3                  < 1%                      < 1%             
+   lipids and glucose                                                                                         
+   total cholesterol                                                                                          
+ grade 2                       > 6.20-7.77 mmol/l240-300 mg/dl            20%                       17%              
+ grade 3                       > 7.77 mmol/l> 300 mg/dl             8%                        5%              
+   low density lipoprotein                                                                                    
+ grade 2                       4.13-4.9 mmol/l160-190 mg/dl            13%                       12%              
+ grade 3                       > 4.9 mmol/l> 190 mg/dl              7%                        7%              
+   triglycerides                                                                                              
+ grade 2                       5.65-8.48 mmol/l500 -750 mg/dl             9%                        7%              
+ grade 3                       8.49-13.56 mmol/l751 - 1200 mg/dl             6%                        4%              
+ grade 4                       > 13.56 mmol/l> 1200 mg/dl             4%                        2%              
+   elevated glucose levels                                                                                    
+ grade 2                       6.95-13.88 mmol/l161-250 mg/dl            15%                       13%              
+ grade 3                       13.89-27.75 mmol/l251 - 500 mg/dl             4%                        2%              
+ grade 4                       > 27.75 mmol/l> 500 mg/dl             0%                       < 1%             
+   hepatic parameters                                                                                         
+   alanine amino transferase                                                                                   
+ grade 2                             2.6-5 * uln                    6%                        5%              
+ grade 3                             5.1-10 * uln                   3%                        2%              
+ grade 4                              > 10 * uln                    1%                       < 1%             
+   aspartate amino transferase                                                                                   
+ grade 2                             2.6-5 * uln                    6%                        8%              
+ grade 3                             5.1-10 * uln                   3%                        2%              
+ grade 4                              > 10 * uln                   < 1%                      < 1%             
+              patients co-infected with hepatitis b and/or hepatitis c virus  
+ 
+
+ in phase 3 trials tmc125-c206 and tmc125-c216, 139 subjects (12.3%) with chronic hepatitis b and/or hepatitis c virus co-infection out of 1129 subjects were permitted to enroll. ast and alt abnormalities occurred more frequently in hepatitis b and/or hepatitis c virus co-infected subjects for both treatment groups. grade 2 or higher laboratory abnormalities that represent a worsening from baseline of ast, alt or total bilirubin occurred in 27.8%, 25.0% and 7.1% respectively, of intelence  (r)  -treated co-infected subjects as compared to 6.7%, 7.5% and 1.8% of non-co-infected intelence  (r)  -treated subjects. in general, adverse events reported by intelence  (r)  -treated subjects with hepatitis b and/or hepatitis c virus co-infection were similar to intelence  (r)  -treated subjects without hepatitis b and/or hepatitis c virus co-infection.
+
+
+
+   6.2 clinical trials experience: pediatric subjects (6 years to less than 18 years of age)
+
+  the safety assessment in children and adolescents is based on the week 24 analysis of the single-arm, phase 2 trial tmc125-c213 in which 101 antiretroviral treatment-experienced hiv-1 infected subjects 6 years to less than 18 years of age and weighing at least 16 kg received intelence  (r)  in combination with other antiretroviral agents [  see      clinical studies (14.2)    ]. the frequency, type and severity of adverse drug reactions in pediatric subjects were comparable to those observed in adult subjects, except for rash which was observed more frequently in pediatric subjects. the most common adverse drug reactions in at least 2% of pediatric subjects were rash and diarrhea. rash was reported more frequently in female subjects than in male subjects (rash >= grade 2 was reported in 13/64 [20.3%] females versus 2/37 [5.4%] males; discontinuations due to rash were reported in 4/64 [6.3%] females versus 0/37 [0%] males). rash (greater than or equal to grade 2) occurred in 15% of pediatric subjects. in the majority of cases, rash was mild to moderate, of macular/papular type, and occurred in the second week of therapy. rash was self-limiting and generally resolved within 1 week on continued therapy. the safety profile for subjects who completed 48 weeks of treatment was similar to the safety profile for subjects who completed 24 weeks of treatment.
+
+
+
+   6.3 postmarketing experience
+
+  the following events have been identified during postmarketing use of intelence  (r)  . because these events are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   immune system disorders  : severe hypersensitivity reactions including dress and cases of hepatic failure have been reported [  see  warnings and precautions (5.1)    ].
+
+
+
+   musculoskeletal and connective tissue disorders  : rhabdomyolysis
+
+
+
+   skin and subcutaneous tissue disorders  : fatal cases of toxic epidermal necrolysis have been reported [  see  warnings and precautions (5.1)    ].
+    5 warnings and precautions
+
+
+
+  excerpt:   severe, potentially life threatening and fatal skin reactions have been reported. this includes cases of stevens-johnson syndrome, hypersensitivity reaction, toxic epidermal necrolysis and erythema multiforme. immediately discontinue treatment if severe hypersensitivity, severe rash or rash with systemic symptoms or liver transaminase elevations develops and monitor clinical status, including liver transaminases closely. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 severe skin and hypersensitivity reactions
+
+
+
+  severe, potentially life-threatening, and fatal skin reactions have been reported. these include cases of stevens-johnson syndrome, toxic epidermal necrolysis and erythema multiforme. hypersensitivity reactions including drug rash with eosinophilia and systemic symptoms (dress) have also been reported and were characterized by rash, constitutional findings, and sometimes organ dysfunction, including hepatic failure. in phase 3 clinical trials, grade 3 and 4 rashes were reported in 1.3% of subjects receiving intelence  (r)  compared to 0.2% of placebo subjects. a total of 2.2% of hiv-1-infected subjects receiving intelence  (r)  discontinued from phase 3 trials due to rash [ see  adverse reactions (6)    ]. rash occurred most commonly during the first 6 weeks of therapy. the incidence of rash was higher in females [ see  adverse reactions (6)    ]
+
+
+
+ discontinue intelence  (r)  immediately if signs or symptoms of severe skin reactions or hypersensitivity reactions develop (including, but not limited to, severe rash or rash accompanied by fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, facial edema, hepatitis, eosinophilia, angioedema). clinical status including liver transaminases should be monitored and appropriate therapy initiated. delay in stopping intelence  (r)  treatment after the onset of severe rash may result in a life-threatening reaction.
+
+
+
+    5.2 fat redistribution
+
+
+
+  redistribution/accumulation of body fat, including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy. the mechanism and long-term consequences of these events are currently unknown. a causal relationship has not been established.
+
+
+
+    5.3 immune reconstitution syndrome
+
+
+
+  immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including intelence  (r)  . during the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as mycobacterium avium  infection, cytomegalovirus, pneumocystis jiroveci  pneumonia (pcp) or tuberculosis), which may necessitate further evaluation and treatment.
+
+
+
+ autoimmune disorders (such as graves' disease, polymyositis, and guillain-barre syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.

@@ -1,0 +1,126 @@
+    6 adverse reactions
+
+  because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+
+
+   excerpt:   most common adverse reactions associated with the use of surfaxin are endotracheal tube reflux, pallor, endotracheal tube obstruction, and need for dose interruption.  (6.1)  
+
+
+
+   to report suspected adverse reactions, contact discovery laboratories, inc. at 1-877-surfaxn or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+      studies in premature infants at risk for respiratory distress syndrome    
+
+
+
+ the safety data described below reflect exposure to surfaxin at a dose of 5.8 ml per kg (up to 4 doses) administered in either 4 aliquots (study 1) or 2 aliquots (study 2) in 643 infants 32 weeks gestational age or less in 2 randomized double-blind, active-controlled clinical studies in which infants could receive up to 4 doses of surfactant intratracheally [  see clinical studies  (14)    ]. study 1 was conducted in 1294 premature infants who weighed between 600 g and 1250 g at birth and were 32 weeks or less in gestational age. infants received 1 of 3 surfactants, surfaxin (n = 524), colfosceril palmitate (n = 506), or beractant (n = 258). study 2 was conducted in 252 premature infants who weighed between 600 g and 1250 g and were less than 29 weeks in gestational age. infants received surfaxin (n = 119) or poractant alfa (n = 124).
+
+
+
+ comparator surfactants colfosceril palmitate and beractant were administered at the recommended doses (5.0 and 4.0 ml per kg, respectively) while the first dose of poractant alfa administered (2.2 ml per kg) was less than the recommended dose of 2.5 ml per kg. any subsequent doses of poractant alfa were at the recommended 1.25 ml per kg dose.
+
+
+
+ administration-related adverse reactions (endotracheal tube reflux, pallor, endotracheal tube obstruction, and need for dose interruption) were assessed in both surfaxin controlled clinical studies. overall, the incidence of administration-related adverse reactions was higher in infants who received surfaxin compared to other surfactants (table 2) and resulted in a greater proportion of infants treated with surfaxin who experienced administration-related oxygen desaturation and bradycardia. for study 1, oxygen desaturation was reported in 17%, 9%, and 13% and bradycardia for 5%, 2%, and 3% of infants treated with surfaxin, colfosceril palmitate, and beractant, respectively. for study 2, oxygen desaturation was reported in 8% and 2% and bradycardia in 3% and 2% of infants treated with surfaxin and poractant alfa, respectively. these adverse reactions did not appear to be associated with an increased incidence of serious complications or mortality relative to the comparator surfactants (table 3).
+
+
+
+   table 2. administration-related adverse reactions in surfaxin controlled clinical studies  a    
+
+
+
+
+   a  table includes only infants who received study treatment.   
+   b  in study 1 doses were administered in 4 aliquots.   
+   c  in study 2 doses were administered in 2 aliquots.   
+  
+                              study 1  b                 study 2  c                
+                              surfaxin(n = 524)          colfoscerilpalmitate(n = 506)      beractant(n = 258)         surfaxin(n = 119)          poractant alfa(n = 124)     
+ total dosesadministered    994                        1038                       444                        174                        160                         
+                              total number of events (events per 100 doses)     
+ ett reflux                 183 (18)                   161 (16)                   67 (15)                    47 (27)                    31 (19)                     
+ pallor                     88 (9)                     46 (4)                     38 (9)                     18 (10)                    7 (4)                       
+ dose interruption          87 (9)                     46 (4)                     30 (7)                     7 (4)                      2 (1)                       
+ ett obstruction            55 (6)                     21 (2)                     19 (4)                     27 (16)                    1 (1)                       
+        table 3. common serious complications associated with prematurity and rds in surfaxin controlled clinical studies through 36-weeks post-conceptual age (pca)  
+ 
+
+
+                              study 1                    study 2                   
+                              surfaxin(n = 527)%         colfoscerilpalmitate(n = 509)%      beractant(n = 258)%        surfaxin(n = 119)%         poractantalfa(n = 124)%     
+ apnea                      52                         52                         46                         66                         75                          
+ intraventricular hemorrhage, all grades  52                         57                         54                         39                         38                          
+        - grade 3/4         19                         18                         21                         13                         8                           
+ periventricular leukomalacia  10                         10                         12                         4                          9                           
+ acquired sepsis            44                         44                         44                         45                         52                          
+ patent ductus arteriosus   37                         35                         37                         43                         44                          
+ retinopathy of prematurity, all grades  27                         26                         25                         32                         31                          
+        -grade 3/4          6                          7                          6                          5                          9                           
+ necrotizing enterocolitis, all grades  17                         17                         19                         13                         15                          
+        -grade 2/3          6                          8                          14                         8                          8                           
+ pulmonary air leak through day 7, all types  15                         17                         14                         9                          7                           
+        -pulmonary interstitial emphysema    9                          10                         10                         3                          5                           
+        -pneumothorax       3                          4                          2                          4                          1                           
+ pulmonary hemorrhage       10                         12                         14                         6                          9                           
+      all-cause mortality through 36-weeks pca was similar regardless of which exogenous surfactant was administered.
+ 
+
+ adverse reactions reported in the controlled clinical studies through 36-weeks pca occurring in at least 10% of infants were anemia, jaundice, metabolic acidosis, oxygen desaturation, hyperglycemia, pneumonia, hyponatremia, hypotension, respiratory acidosis, and bradycardia. these reactions occurred at rates similar to the comparator surfactants.
+
+
+
+ no assessments for immunogenicity to surfaxin were performed in these clinical studies.
+
+
+
+   follow-up evaluations  
+
+
+
+ twelve-month corrected-age follow-up of 1546 infants enrolled in the 2 controlled clinical studies demonstrated no significant differences in mortality or gross neurologic findings between infants treated with surfaxin and those treated with the comparator surfactants (colfosceril palmitate, beractant, or poractant alfa).
+
+
+
+     clinical study in adults with ards    
+
+
+
+ the safety and efficacy of lucinactant administered in 2 doses separated by 48 hours via segmental bronchoscopic lavage in adults with ards was evaluated in a two-part clinical trial in 124 adult patients. twenty-two patients were studied in the initial open-label portion of the trial (part a) and 102 patients participated in a subsequent randomized controlled portion (part b). compared to standard of care, patients who received treatment with lucinactant via segmental bronchoscopic lavage at doses up to 50 ml per lung segment had an increased incidence of death, multi-organ failure, sepsis, anoxic encephalopathy, renal failure, hypoxia/decreased oxygen saturation, pneumothorax, hypotension, and pulmonary embolism compared to those patients receiving standard of care. surfaxin is not indicated for use in the treatment of ards.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  acute changes in lung compliance: infants receiving surfaxin should receive frequent clinical assessments so that oxygen and ventilatory support can be modified to respond to changes in respiratory status.  (5.1)   
+ *  administration-related adverse reactions: if adverse reactions including bradycardia, oxygen desaturation, reflux of surfaxin into the endotracheal tube (ett), and airway/ett obstruction occur during administration of surfaxin, dosing should be interrupted and the infant's clinical condition assessed and stabilized. suctioning of the ett or reintubation may be required if airway obstruction persists or is severe.  (5.2)   
+ *  increased serious adverse reactions in adults with acute respiratory distress syndrome (ards): adults with ards who received lucinactant via segmental bronchoscopic lavage had an increased incidence of death, multi-organ failure, sepsis, anoxic encephalopathy, renal failure, hypoxia, pneumothorax, hypotension, and pulmonary embolism. surfaxin is not indicated for use in ards.  (5.3)   
+    
+ 
+
+   5.1 acute changes in lung compliance
+
+
+
+  administration of exogenous surfactants, including surfaxin, can rapidly affect lung compliance and oxygenation. surfaxin should be administered only by clinicians trained and experienced in the resuscitation, intubation, stabilization, and ventilatory management of premature infants in a clinical setting with the capacity to care for critically ill neonates. infants receiving surfaxin should receive frequent clinical assessments so that oxygen and ventilatory support can be modified to respond to changes in respiratory status.
+
+
+
+    5.2 administration-related adverse reactions
+
+
+
+  frequently occurring adverse reactions related to the administration of surfaxin include bradycardia, oxygen desaturation, reflux of drug into the endotracheal tube (ett), and airway/ett obstruction. if any of these events occur, dosing with surfaxin should be interrupted and the infant's clinical condition assessed and stabilized. suctioning of the ett or reintubation may be required if airway obstruction persists or is severe. after the patient is stable, dosing may proceed with appropriate monitoring.
+
+
+
+    5.3 increased serious adverse reactions in adults with ards
+
+
+
+  in a two-part clinical trial in adult patients with ards, compared to standard of care, patients who received lucinactant via segmental bronchoscopic lavage had an increased incidence of death, multi-organ failure, sepsis, anoxic encephalopathy, renal failure, hypoxia, pneumothorax, hypotension, and pulmonary embolism. surfaxin is not indicated for use in the treatment of ards.

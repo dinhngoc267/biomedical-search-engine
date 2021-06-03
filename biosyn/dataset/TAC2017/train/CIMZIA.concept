@@ -1,0 +1,146 @@
+-1||-1|-1||-1||upper respiratory tract infection||10046306
+-1||-1|-1||-1||rash||10037844
+-1||-1|-1||-1||urinary tract infection||10046571
+-1||-1|-1||-1||infections||10021789
+-1||-1|-1||-1||malignancies||10028997
+-1||-1|-1||-1||heart failure||10007554
+-1||-1|-1||-1||upper respiratory infections||10046306
+-1||-1|-1||-1||urinary tract infections||10046571
+-1||-1|-1||-1||abdominal pain||10000081
+-1||-1|-1||-1||diarrhea||10012735
+-1||-1|-1||-1||intestinal obstruction||10022687
+-1||-1|-1||-1||tuberculosis infections||10044755
+-1||-1|-1||-1||pyrexia||10037660
+-1||-1|-1||-1||urticaria||10046735
+-1||-1|-1||-1||pneumonia||10035664
+-1||-1|-1||-1||nasopharyngitis||10028810
+-1||-1|-1||-1||laryngitis||10023874
+-1||-1|-1||-1||viral infection||10047461
+-1||-1|-1||-1||bladder infection||10011781
+-1||-1|-1||-1||bacteriuria||10004056
+-1||-1|-1||-1||cystitis||10011781
+-1||-1|-1||-1||arthralgia||10003239
+-1||-1|-1||-1||anemia||10002034
+-1||-1|-1||-1||leukopenia||10024384
+-1||-1|-1||-1||lymphadenopathy||10025197
+-1||-1|-1||-1||pancytopenia||10033661
+-1||-1|-1||-1||thrombophilia||10020608
+-1||-1|-1||-1||angina pectoris||10002383
+-1||-1|-1||-1||arrhythmias||10003119
+-1||-1|-1||-1||atrial fibrillation||10003658
+-1||-1|-1||-1||cardiac failure||10007554
+-1||-1|-1||-1||hypertensive heart disease||10020823
+-1||-1|-1||-1||myocardial infarction||10028596
+-1||-1|-1||-1||myocardial ischemia||10028600
+-1||-1|-1||-1||pericardial effusion||10034474
+-1||-1|-1||-1||pericarditis||10034484
+-1||-1|-1||-1||stroke||10008190
+-1||-1|-1||-1||transient ischemic attack||10044390
+-1||-1|-1||-1||optic neuritis||10030942
+-1||-1|-1||-1||retinal hemorrhage||10038867
+-1||-1|-1||-1||uveitis||10046851
+-1||-1|-1||-1||bleeding||10055798
+-1||-1|-1||-1||injection site reactions||10022095
+-1||-1|-1||-1||elevated liver enzymes||10060795
+-1||-1|-1||-1||hepatitis||10019717
+-1||-1|-1||-1||alopecia totalis||10001766
+-1||-1|-1||-1||anxiety||10002855
+-1||-1|-1||-1||bipolar disorder||10057667
+-1||-1|-1||-1||suicide attempt||10042464
+-1||-1|-1||-1||nephrotic syndrome||10029164
+-1||-1|-1||-1||renal failure||10038435
+-1||-1|-1||-1||menstrual disorder||10027327
+-1||-1|-1||-1||dermatitis||10012431
+-1||-1|-1||-1||erythema nodosum||10015226
+-1||-1|-1||-1||thrombophlebitis||10043570
+-1||-1|-1||-1||vasculitis||10047115
+-1||-1|-1||-1||headache||10019211
+-1||-1|-1||-1||hypertension||10020772
+-1||-1|-1||-1||back pain||10003988
+-1||-1|-1||-1||pharyngitis||10034835
+-1||-1|-1||-1||acute bronchitis||10006451
+-1||-1|-1||-1||fatigue||10016256
+-1||-1|-1||-1||hypertensive adverse reactions||10020772
+-1||-1|-1||-1||bacterial infections||10060945
+-1||-1|-1||-1||viral infections||10047461
+-1||-1|-1||-1||pyelonephritis||10037596
+-1||-1|-1||-1||upper respiratory tract infections||10046306
+-1||-1|-1||-1||herpes infections||10019973
+-1||-1|-1||-1||lower respiratory tract infections||10024968
+-1||-1|-1||-1||infection||10021789
+-1||-1|-1||-1||tuberculosis||10044755
+-1||-1|-1||-1||cellulitis||10007882
+-1||-1|-1||-1||tb||10044755
+-1||-1|-1||-1||miliary tb||10013453
+-1||-1|-1||-1||lymphatic tb||10025183
+-1||-1|-1||-1||peritoneal tb||10053583
+-1||-1|-1||-1||pulmonary tb||10037440
+-1||-1|-1||-1||fatal||10011906
+-1||-1|-1||-1||opportunistic infections||10030901
+-1||-1|-1||-1||new heart failure||10007554
+-1||-1|-1||-1||worsening heart failure||10007554
+-1||-1|-1||-1||ana titers positive||10060055
+-1||-1|-1||-1||lupus-like syndrome||10050551
+-1||-1|-1||-1||ana||10060055
+-1||-1|-1||-1||edema peripheral||10030124
+-1||-1|-1||-1||injection site erythema||10022061
+-1||-1|-1||-1||injection site pain||10022086
+-1||-1|-1||-1||pain in extremity||10033425
+-1||-1|-1||-1||hypersensitivity reactions||10020751
+-1||-1|-1||-1||angioedema||10002424
+-1||-1|-1||-1||dermatitis allergic||10012434
+-1||-1|-1||-1||dizziness postural||10013578
+-1||-1|-1||-1||dyspnea||10013968
+-1||-1|-1||-1||hot flush||10060800
+-1||-1|-1||-1||hypotension||10021097
+-1||-1|-1||-1||malaise||10025482
+-1||-1|-1||-1||serum sickness||10040400
+-1||-1|-1||-1||vasovagal syncope||10042772
+-1||-1|-1||-1||sarcoidosis||10039486
+-1||-1|-1||-1||malignancy||10028997
+-1||-1|-1||-1||death||10011906
+-1||-1|-1||-1||active tuberculosis||10044755
+-1||-1|-1||-1||reactivation of latent tuberculosis||10044755
+-1||-1|-1||-1||tuberculosis disseminated||10013453
+-1||-1|-1||-1||tuberculosis extrapulmonary||10064445
+-1||-1|-1||-1||invasive fungal infections||10052366
+-1||-1|-1||-1||histoplasmosis||10020141
+-1||-1|-1||-1||coccidioidomycosis||10009825
+-1||-1|-1||-1||candidiasis||10074170
+-1||-1|-1||-1||aspergillosis||10074171
+-1||-1|-1||-1||blastomycosis||10005098
+-1||-1|-1||-1||pneumocystosis||10073755
+-1||-1|-1||-1||histoplasmosis disseminated||10020144
+-1||-1|-1||-1||invasive fungal infections disseminated||10052366
+-1||-1|-1||-1||infections legionella||10061266
+-1||-1|-1||-1||infections listeria||10024641
+-1||-1|-1||-1||bacterial sepsis||10053840
+-1||-1|-1||-1||infections due to other opportunistic pathogens||10030901
+-1||-1|-1||-1||heart failure, worsening||10007554
+-1||-1|-1||-1||heart failure new onset||10007554
+-1||-1|-1||-1||anaphylaxis||10002198
+-1||-1|-1||-1||allergic reactions||10020751
+-1||-1|-1||-1||hepatitis b virus reactivation||10019731
+-1||-1|-1||-1||demyelinating disease||10012305
+-1||-1|-1||-1||cytopenias||10066274
+-1||-1|-1||-1||reactivation of tuberculosis||10044755
+-1||-1|-1||-1||lymphomas||10025310
+-1||-1|-1||-1||hodgkin lymphoma||10020206
+-1||-1|-1||-1||non-hodgkin's lymphoma||10029547
+-1||-1|-1||-1||rare malignancies||10028997
+-1||-1|-1||-1||lymphoma||10025310
+-1||-1|-1||-1||hepatosplenic t-cell lymphoma||10066957
+-1||-1|-1||-1||hstcl||10066957
+-1||-1|-1||-1||worsening congestive heart failure||10007559
+-1||-1|-1||-1||worsening chf||10007559
+-1||-1|-1||-1||new onset chf||10007559
+-1||-1|-1||-1||reactivation of hepatitis b virus||10019731
+-1||-1|-1||-1||reactivation of hbv||10019731
+-1||-1|-1||-1||hbv reactivation||10019731
+-1||-1|-1||-1||neurological disorders||10029202
+-1||-1|-1||-1||seizure disorder||10039906
+-1||-1|-1||-1||peripheral neuropathy||10029331
+-1||-1|-1||-1||adverse reactions of the hematologic system||10061590
+-1||-1|-1||-1||cytopenia||10066274
+-1||-1|-1||-1||thrombocytopenia||10043554
+-1||-1|-1||-1||formation of autoantibodies||10061664

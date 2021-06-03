@@ -1,0 +1,90 @@
+    6 adverse reactions
+
+   excerpt:    *  most common ocular adverse reaction is conjunctival hyperemia (range 4% to 20%). (  6.1  ) 
+      to report suspected adverse reactions, contact akorn, inc. at 1-800-932-5676 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 clinical studies experience
+
+  because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+
+
+ preservative-containing or preservative-free tafluprost 0.0015% was evaluated in 905 patients in five controlled clinical studies of up to 24-months duration. the most common adverse reaction observed in patients treated with tafluprost was conjunctival hyperemia which was reported in a range of 4% to 20% of patients. approximately 1% of patients discontinued therapy due to ocular adverse reactions.
+
+
+
+ ocular adverse reactions reported at an incidence of >=2% in these clinical studies included ocular stinging/irritation (7%), ocular pruritus including allergic conjunctivitis (5%), cataract (3%), dry eye (3%), ocular pain (3%), eyelash darkening (2%), growth of eyelashes (2%) and vision blurred (2%).
+
+
+
+ nonocular adverse reactions reported at an incidence of 2% to 6% in these clinical studies in patients treated with tafluprost 0.0015% were headache (6%), common cold (4%), cough (3%) and urinary tract infection (2%).
+
+
+
+   6.2 postmarketing experience
+
+  the following adverse reactions have been identified during postapproval use of tafluprost. because postapproval adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   respiratory disorders:  exacerbation of asthma, dyspnea
+
+
+
+   eye disorders:  iritis/uveitis
+
+
+
+ in postmarketing use with prostaglandin analogs, periorbital and lid changes including deepening of the eyelid sulcus have been observed.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  pigmentation 
+    pigmentation of the iris, periorbital tissue (eyelid) and eyelashes can occur. iris pigmentation is likely to be permanent. (  5.1  )
+ 
+
+ *  eyelash changes 
+    gradual changes to eyelashes including increased length, thickness and number of lashes. usually reversible. (  5.2  )
+ 
+
+ 
+
+
+
+   5.1 pigmentation
+
+
+
+  tafluprost ophthalmic solution has been reported to cause changes to pigmented tissues. the most frequently reported changes have been increased pigmentation of the iris, periorbital tissue (eyelid) and eyelashes. pigmentation is expected to increase as long as tafluprost is administered. the pigmentation change is due to increased melanin content in the melanocytes rather than to an increase in the number of melanocytes. after discontinuation of tafluprost, pigmentation of the iris is likely to be permanent, while pigmentation of the periorbital tissue and eyelash changes have been reported to be reversible in some patients. patients who receive treatment should be informed of the possibility of increased pigmentation. the long term effects of increased pigmentation are not known.
+
+
+
+ iris color change may not be noticeable for several months to years. typically, the brown pigmentation around the pupil spreads concentrically towards the periphery of the iris and the entire iris or parts of the iris become more brownish. neither nevi nor freckles of the iris appear to be affected by treatment. while treatment with zioptan  (r)  can be continued in patients who develop noticeably increased iris pigmentation, these patients should be examined regularly. [see patient counseling information (  17.3  )].  
+
+
+
+    5.2 eyelash changes
+
+
+
+  zioptan  (r)  may gradually change eyelashes and vellus hair in the treated eye. these changes include increased length, color, thickness, shape and number of lashes. eyelash changes are usually reversible upon discontinuation of treatment.
+
+
+
+    5.3 intraocular inflammation
+
+
+
+  zioptan  (r)  should be used with caution in patients with active intraocular inflammation (e.g., iritis/uveitis) because the inflammation may be exacerbated.
+
+
+
+    5.4 macular edema
+
+
+
+  macular edema, including cystoid macular edema, has been reported during treatment with prostaglandin f2alpha analogs. zioptan  (r)  should be used with caution in aphakic patients, in pseudophakic patients with a torn posterior lens capsule, or in patients with known risk factors for macular edema.

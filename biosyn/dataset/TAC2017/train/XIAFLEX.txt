@@ -1,0 +1,336 @@
+    6 adverse reactions
+
+  the following serious adverse reactions in patients with dupuytren's contracture are discussed in greater detail elsewhere in the labeling:
+
+
+
+ *  tendon ruptures or other serious injury to the injected extremity   [see warnings and precautions (5.1)]    
+    the following serious adverse reactions in patients with peyronie's disease are discussed in greater detail elsewhere in the labeling:
+ 
+
+ *  corporal rupture (penile fracture) and severe penile hematoma   [see warnings and precautions (5.2)]    
+ *  in other xiaflex-treated patients, a combination of penile ecchymoses or hematoma, sudden penile detumescence, and/or a penile "popping" sound or sensation was reported, and in these cases, a diagnosis of corporal rupture cannot be excluded   [see warnings and precautions (5.2)]    
+      excerpt:     dupuytren's contracture (  6.1  )  
+ 
+
+ the most common adverse reactions reported in >= 25% of patients treated with xiaflex and at an incidence greater than placebo were edema peripheral (e.g., swelling of the injected hand), contusion, injection site hemorrhage, injection site reaction, and pain in the injected extremity.
+
+
+
+   peyronie's disease (  6.2  )  
+
+
+
+ the most frequently reported adverse drug reactions reported with >= 25% of patients treated with xiaflex and at an incidence greater than placebo were penile hematoma, penile swelling and penile pain.
+
+
+
+   to report suspected adverse reactions, contact auxilium pharmaceuticals, inc. at 1-877-663-0412 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 clinical studies experience in patients with dupuytren's contracture
+
+  because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+
+
+ out of 1082 patients who received 0.58 mg of xiaflex in the controlled and uncontrolled portions of the xiaflex studies (2630 xiaflex injections), 3 (0.3%) patients had a flexor tendon rupture of the treated finger within 7 days of the injection.
+
+
+
+ the data described below are based on two pooled randomized, double-blind, placebo-controlled trials through day 90 in patients with dupuytren's contracture (studies 1 and 2). in these trials, patients were treated with up to 3 injections of 0.58 mg of xiaflex or placebo with approximately 4-week intervals between injections and the patients had finger extension procedures the day after injection, if needed, to facilitate disruption of the cord    [see clinical studies (14)]    . these trials were comprised of 374 patients of whom 249 and 125 received 0.58 mg of xiaflex and placebo, respectively. the mean age was 63 years, 80% were male and 20% were female, and 100% were white.
+
+
+
+ in the placebo-controlled portions of studies 1 and 2 through day 90, 98% and 51% of xiaflex-treated and placebo-treated patients had an adverse reaction after up to 3 injections, respectively. over 95% of xiaflex-treated patients had an adverse reaction of the injected extremity after up to 3 injections. approximately 81% of these local reactions resolved without intervention within 4 weeks of xiaflex injections. the adverse reaction profile was similar for each injection, regardless of the number of injections administered. however, the incidence of pruritus increased with more injections    [see warnings and precautions (5.4)].    
+
+
+
+ the most frequently reported adverse drug reactions (>= 25%) in the xiaflex clinical trials in patients with dupuytren's contracture included edema peripheral (mostly swelling of the injected hand), contusion, injection site hemorrhage, injection site reaction, and pain in the treated extremity. table 3 shows the incidence of adverse reactions that were reported in greater than or equal to 5% of xiaflex-treated patients and at a frequency greater than placebo-treated patients after up to 3 injections in the pooled placebo-controlled trials through day 90 (studies 1 and 2).
+
+
+
+ table 3. adverse reactions occurring in >= 5% of xiaflex-treated patients with dupuytren's contracture and at a greater incidence than placebo in the placebo-controlled trials through day 90 after up to 3 injections 
+    a  most of these events were swelling of the injected hand.   
+    b  includes the terms: contusion (any body system) and ecchymosis   
+    c  includes the terms: injection site reaction, injection site erythema, injection site inflammation, injection site irritation, injection site pain, and injection site warmth   
+    d  includes the terms: injection site swelling and injection site edema   
+    e  includes the terms: pruritus and injection site pruritus   
+    f  includes the terms: lymphadenopathy and axillary mass   
+  
+    adverse reaction       xiaflexn=249       placebon=125     
+  all adverse reactions   98%   51%   
+  edema peripheral  a     73%   5%   
+  contusion  b     70%   3%   
+  injection site hemorrhage   38%   3%   
+  injection site reaction  c     35%   6%   
+  pain in extremity   35%   4%   
+  tenderness   24%   0%   
+  injection site swelling  d     24%   6%   
+  pruritus  e     15%   1%   
+  lymphadenopathy  f     13%   0%   
+  skin laceration   9%   0%   
+  lymph node pain   8%   0%   
+  erythema   6%   0%   
+  axillary pain   6%   0%   
+         some patients developed vasovagal syncope after finger extension procedures.
+ 
+
+ the safety of two concurrent injections of xiaflex 0.58 mg into dupuytren's cords in the same hand was evaluated in a historically-controlled, open-label multi-center trial in 715 adult subjects with dupuytren's contracture (study 3). in study 3, finger extension procedures were performed approximately 24 to 72 hours after injection. the patient demographics were similar to studies 1 and 2.
+
+
+
+ out of 715 patients who received two concurrent injections of xiaflex 0.58 mg in the same hand (1450 xiaflex injections) in study 3, one (0.1%) patient experienced a tendon rupture of the treated finger within 3 days of the injection.
+
+
+
+ table 4 shows the incidence of adverse reactions that were reported in greater than or equal to 5% of xiaflex-treated patients after two concurrent injections of xiaflex in the same hand through day 60 in study 3.
+
+
+
+ table 4. adverse reactions occurring in >=5.0% of subjects who received two concurrent injections of xiaflex in study 3 
+   adverse reaction                                                        xiaflexn=715                   
+ subjects with >=1 adverse reaction                                      95%                              
+ edema peripheral                                                        77%                              
+ contusion                                                               59%                              
+ pain in extremity                                                       51%                              
+ laceration                                                              22%                              
+ pruritus                                                                15%                              
+ injection site pain                                                     14%                              
+ lymphadenopathy                                                         13%                              
+ blood blister                                                           12%                              
+ injection site hematoma                                                 8%                               
+ axillary pain                                                           7%                               
+ injection site hemorrhage                                               6%                               
+ injection site swelling                                                 5%                               
+ ecchymosis                                                              5%                               
+          safety of retreatment of recurrent contractures  
+ 
+
+ an observational, open label study was conducted in subjects who had participated in xiaflex clinical trials for dupuytren's contracture (study 4).  a subset of patients who had recurrence of contracture in a joint that was previously successfully treated with xiaflex in study 4 were retreated (study 5).  no new safety signals were identified among subjects who were retreated with xiaflex.
+
+
+
+   6.2 clinical studies experience in patients with peyronie's disease
+
+  because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+
+
+ in the controlled and uncontrolled clinical studies of xiaflex in peyronie's disease, 1044 patients received a total of 7466 xiaflex injections.
+
+
+
+   corporal rupture and other serious penile injury  
+
+
+
+ *  corporal rupture was reported as an adverse reaction after xiaflex injections in 5 of 1044 (0.5%) xiaflex treated patients. 
+ *  in other xiaflex-treated patients (9 of 1044; 0.9%), a combination of penile ecchymoses or hematoma, sudden penile detumescence, and/or a penile "popping" sound or sensation was reported, and in these cases, a diagnosis of corporal rupture cannot be excluded. these patients were managed without surgical intervention, but the long-term consequences are unknown. 
+ *  severe penile hematoma was also reported as an adverse reaction in 39 of 1044 patients (3.7%) in the controlled and uncontrolled clinical trials in peyronie's disease   [see adverse reactions (6)].    
+    the data described below are based on two identical, pooled, randomized, double-blind, placebo-controlled, multi-center trials through day 365 in patients with peyronie's disease (studies 1 and 2). these trials included 832 patients of whom 551 and 281 received xiaflex and placebo, respectively. in these trials, patients were given up to 4 treatment cycles of xiaflex or placebo. in each cycle, two injections of xiaflex or two injections of placebo were administered 1 to 3 days apart. a penile modeling procedure was performed at the study site on patients 1 to 3 days after the second injection of the cycle. the treatment cycle was repeated at approximately 6-week intervals up to three additional times, for a maximum of 8 total injection procedures and 4 total modeling procedures    [see clinical studies (14.2)].    
+ 
+
+ the majority of peyronie's patients experienced at least one adverse reaction (92% xiaflex-treated patients, 61% placebo-treated). most adverse reactions were local events of the penis and groin and the majority of these events were of mild or moderate severity, and most (79%) resolved within 14 days of the injection. the adverse reaction profile was similar after each injection, regardless of the number of injections administered.
+
+
+
+ the most frequently reported adverse drug reactions (>= 25%) in the xiaflex clinical trials in patients with peyronie's disease were penile hematoma, penile swelling, and penile pain. table 5 shows the incidence of adverse reactions that were reported in greater than or equal to 1% of xiaflex-treated patients and at a frequency greater than placebo-treated patients after up to 8 injections in the pooled placebo-controlled trials through day 365.
+
+
+
+ table 5. adverse reactions occurring in >= 1% of xiaflex-treated patients with peyronie's disease and at a greater incidence than placebo after up to four treatment cycles in studies 1 and 2 combined 
+    a  includes: injection site hematoma and penile hematoma were reported with the verbatim term of penile bruising or injection site bruising in 87% of subjects.   
+    b  includes: injection site swelling, penile edema, penile swelling, local swelling, scrotal swelling, and injection site edema.   
+    c  includes: injection site pain, penile pain, and injection site discomfort.   
+    d  includes: contusion, ecchymoses, penile hemorrhage, and injection site hemorrhage.   
+  
+    adverse reaction                          xiaflexn=551          placebon=281                            
+  all adverse reactions                     84.2%                 36.3%                                     
+  penile hematoma  a                        65.5%                 19.2%                                     
+  penile swelling  b                        55.0%                 3.2%                                      
+  penile pain  c                            45.4%                 9.3%                                      
+  penile ecchymoses  d                      14.5%                 6.8%                                      
+  blood blister                             4.5%                  0                                         
+  penile blister                            3.3%                  0                                         
+  pruritus genital                          3.1%                  0                                         
+  painful erection                          2.9%                  0                                         
+  erectile dysfunction                      1.8%                  0.4%                                      
+  skin discoloration                        1.8%                  0                                         
+  procedural pain                           1.6%                  0.7%                                      
+  injection site vesicles                   1.3%                  0                                         
+  localized edema                           1.3%                  0                                         
+  dyspareunia                               1.1%                  0                                         
+  injection site pruritus                   1.1%                  0                                         
+  nodule                                    1.1%                  0                                         
+  suprapubic pain                           1.1%                  0                                         
+         severe penile hematoma or severe injection site hematoma were reported in 33/551 (6.0%) of xiaflex-treated patients and 0/281 (0%) of placebo-treated patients, in studies 1 and 2 combined.
+ 
+
+     reports of penile "popping" sounds or sensations    a popping noise or popping sensation in the penis, sometimes described as "snapping" or "cracking", and sometimes accompanied by detumescence, hematoma and/or pain, were reported in 73/551 (13.2%) xiaflex-treated patients and 1/281 (0.3%) placebo-treated patients.
+
+
+
+ there were no clinically meaningful differences in the incidence of adverse events following treatment with xiaflex based on the severity of baseline erectile dysfunction or concomitant phosphodiesterase type 5 (pde5) inhibitor use.
+
+
+
+ xiaflex was not associated with shortening of penile length in clinical trials in the treatment of peyronie's disease.
+
+
+
+   6.3 immunogenicity
+
+  during clinical studies in dupuytren's contracture and peyronie's disease, patients were tested at multiple time points for antibodies to the protein components of xiaflex (aux-i and aux-ii).
+
+
+
+ in the dupuytren's contracture clinical studies (studies 1 and 2), at 30 days post the first injection of xiaflex 0.58 mg, 92% of patients had antibodies against aux-i detected and 86% of patients had antibodies against aux-ii detected. after the fourth injection of xiaflex, every xiaflex-treated patient developed high titers of antibodies to both aux-i and aux-ii.  after five years more than 90 percent of patients remained seropositive for anti-aux-i and anti-aux-ii antibody (study 4).  neutralizing antibodies were assayed for all patients (204) in study 1. neutralizing antibodies to aux-i or aux-ii, were detected in 10% and 21%, respectively, of patients treated with xiaflex. among patients in study 3 who reported no prior exposure to xiaflex, 97% of patients had antibodies against aux-i and aux-ii after two concurrent doses of xiaflex 0.58 mg (total dose of 1.16 mg) in the same hand.  in study 5, treatment of recurrent contractures with xiaflex resulted in similar immunogenicity results as seen in studies 1 and 2.
+
+
+
+ in the peyronie's disease clinical studies, at 6 weeks after the first treatment cycle of xiaflex 0.58 mg, approximately 75% of patients had antibodies against aux-i and approximately 55% of patients had antibodies against aux-ii. six weeks after the eighth injection (fourth treatment cycle) of xiaflex, >99% of xiaflex-treated patients developed high titers of antibodies to both aux-i and aux-ii. neutralizing antibodies were assayed for a subset of 70 samples selected to be representative of high and low titer binding antibody responses at week 12 of treatment. for each subject in whom a week 12 sample was selected, the corresponding week 6, 18, 24, and 52 samples were assayed if they were also binding antibody positive. neutralizing antibodies to aux-i or aux-ii, were detected in 60% and 51.8%, respectively, of patients tested.
+
+
+
+ in patients treated for these two indications, there was no apparent correlation of antibody frequency, antibody titers, or neutralizing status to clinical response or adverse reactions.
+
+
+
+ since the protein components in xiaflex (aux-i and aux-ii) have some sequence homology with human matrix metalloproteinases (mmps), anti-product antibodies could theoretically interfere with human mmps. in vitro studies showed no evidence of cross-reactivity between anti-drug-antibody positive patient sera and a series of relevant mmps. in addition, no clinical safety concerns related to the inhibition of endogenous mmps have been observed.
+
+
+
+ immunogenicity assay results are highly dependent on the sensitivity and specificity of the assay used in detection and may be influenced by several factors, including sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of incidence of antibodies to collagenase clostridium histolyticum with the incidence of antibodies to other products may be misleading.
+
+
+    boxed warning: warning: 
+
+
+
+corporal rupture (penile fracture) or
+
+other serious penile injury in the treatment of peyronie's disease
+
+  warning: 
+
+
+
+corporal rupture (penile fracture) or
+
+other serious penile injury in the treatment of peyronie's disease
+
+  corporal rupture (penile fracture) was reported as an adverse reaction in 5 of 1044 (0.5%) xiaflex-treated patients in clinical studies. in other xiaflex-treated patients (9 of 1044; 0.9%), a combination of penile ecchymoses or hematoma, sudden penile detumescence, and/or a penile "popping" sound or sensation was reported, and in these cases, a diagnosis of corporal rupture cannot be excluded. severe penile hematoma was also reported as an adverse reaction in 39 of 1044 (3.7%) xiaflex-treated patients   [see warnings and precautions (5.2)]  .
+
+
+
+ signs or symptoms that may reflect serious penile injury should be promptly evaluated to assess for corporal rupture or severe penile hematoma which may require surgical intervention   [see warnings and precautions (5.2)]  .
+
+
+
+ because of the risks of corporal rupture or other serious penile injury, xiaflex is available for the treatment of peyronie's disease only through a restricted program under a risk evaluation and mitigation strategy (rems) called the xiaflex rems program   [see warnings and precautions (5.3)]  .
+
+
+
+   excerpt:   warning: corporal rupture (penile fracture) or other serious penile injury in the treatment of peyronie's disease
+
+
+
+   see full prescribing information for complete   boxed warning    
+
+
+
+ *  corporal rupture (penile fracture) was reported as an adverse reaction in 5 of 1044 (0.5%) xiaflex-treated patients in clinical studies. in other xiaflex-treated patients (9 of 1044; 0.9%), a diagnosis of corporal rupture cannot be excluded. severe penile hematoma was also reported as an adverse reaction in 39 of 1044 (3.7%) xiaflex-treated patients (5.2). 
+ *  xiaflex is available for the treatment of peyronie's disease only through a restricted program called the xiaflex rems program (5.3). 
+    5 warnings and precautions
+
+
+
+   excerpt:    *  tendon rupture or serious injury to the injected finger/hand: avoid injecting xiaflex into tendons, nerves, blood vessels, or other collagen-containing structure of the hand. injection into these structures may result in possible permanent injury, such as tendon rupture or ligament damage, or skin laceration. (  5.1  ) 
+ *  corporal rupture (penile fracture) or other serious injury to the penis: avoid injecting into the urethra, nerves, blood vessels, corpora cavernosa or other collagen-containing structures of the penis. injection into these structures may result in possible permanent injury such as corporal rupture (penile fracture). (  5.2  ) 
+ *  hypersensitivity reactions, including anaphylaxis: healthcare providers should be prepared to address hypersensitivity reactions, including anaphylaxis, following xiaflex injections. (  5.4  ) 
+ *  patients with abnormal coagulation: use with caution, including in patients who have received anticoagulant medications other than low-dose aspirin within 7 days of the injection. (  5.5  ) 
+    
+ 
+
+   5.1 tendon rupture or other serious injury to the injected finger/hand in the treatment of dupuytren's contracture
+
+
+
+  in the controlled and uncontrolled portions of clinical trials in dupuytren's contracture, flexor tendon ruptures occurred after xiaflex injection   [see adverse reactions (6.1)]    . injection of xiaflex into collagen-containing structures such as tendons or ligaments of the hand may result in damage to those structures and possible permanent injury such as tendon rupture or ligament damage. therefore, xiaflex should be injected only into the collagen cord with a mp or pip joint contracture, and care should be taken to avoid injecting into tendons, nerves, blood vessels, or other collagen-containing structures of the hand. when injecting a cord affecting a pip joint of the fifth finger, the needle insertion should not be more than 2 to 3 mm in depth and avoid injecting more than 4 mm distal to the palmar digital crease   [see dosage and administration (2.1)]    .
+
+
+
+  other xiaflex-associated serious local adverse reactions included pulley rupture, ligament injury, complex regional pain syndrome (crps), sensory abnormality of the hand, and skin laceration (tear). in a historically controlled post-marketing trial, the incidence of skin laceration (22%) was higher for subjects treated with two concurrent injections of xiaflex compared with subjects treated with up to three single injections in the placebo-controlled premarketing trials (9%). cases of skin laceration requiring skin graft after finger extension procedures have been reported post-marketing. signs or symptoms that may reflect serious injury to the injected finger/hand should be promptly evaluated because surgical intervention may be required.  
+
+
+
+    5.2 corporal rupture (penile fracture) or other serious injury to the penis in the treatment of peyronie's disease
+
+
+
+  corporal rupture was reported as an adverse reaction after xiaflex injections in 5 of 1044 (0.5%) xiaflex treated patients in the controlled and uncontrolled clinical trials in peyronie's disease.
+
+
+
+ in other xiaflex-treated patients (9 of 1044; 0.9%), a combination of penile ecchymoses or hematoma, sudden penile detumescence, and/or a penile "popping" sound or sensation was reported, and in these cases, a diagnosis of corporal rupture can not be excluded. these patients were managed without surgical intervention, but the long-term consequences are unknown.
+
+
+
+ severe penile hematoma was also reported as an adverse reaction in 39 of 1044 patients (3.7%) in the controlled and uncontrolled clinical trials in peyronie's disease [ see adverse reactions (  6  )  ].
+
+
+
+ signs or symptoms that may reflect serious injury to the penis should be promptly evaluated in order to assess for corporal rupture or severe penile hematoma, which may require surgical intervention.
+
+
+
+ injection of xiaflex into collagen-containing structures such as the corpora cavernosa of the penis may result in damage to those structures and possible injury such as corporal rupture (penile fracture). therefore, xiaflex should be injected only into the peyronie's plaque and care should be taken to avoid injecting into the urethra, nerves, blood vessels, corpora cavernosa or other collagen-containing structures of the penis.
+
+
+
+    5.3 xiaflex rems program
+
+
+
+  because of the risks of corporal rupture (penile fracture) or other serious penile injury in the treatment of peyronie's disease, xiaflex is available only through the xiaflex rems program      [see warnings and precautions (5.2)]  .  
+
+
+
+ required components of the xiaflex rems program  include the following:
+
+
+
+ *  prescribers must be certified with the program by enrolling and completing training in the administration of xiaflex treatment for peyronie's disease. 
+ *  healthcare sites must be certified with the program and ensure that xiaflex is only dispensed for use by certified prescribers. 
+    further information is available at www.xiaflexrems.com or 1-877-313-1235.
+ 
+
+    5.4 hypersensitivity reactions, including anaphylaxis
+
+
+
+  in the controlled portions of the clinical trials in dupuytren's contracture (studies 1 and 2), a greater proportion of xiaflex-treated patients (15%) compared to placebo-treated patients (1%) had mild allergic reactions (pruritus) after up to 3 injections. the incidence of xiaflex-associated pruritus increased after more xiaflex injections in patients with dupuytren's contracture.
+
+
+
+  in the double-blind, placebo-controlled portions of the clinical trials in peyronie's disease (studies 1 and 2), a greater proportion of xiaflex-treated patients (4%) compared to placebo-treated patients (1%) had localized pruritus after up to 4 treatment cycles (involving up to 8 xiaflex injection procedures). the incidence of xiaflex-associated pruritus was similar after each injection regardless of the number of injections administered.  
+
+
+
+  because xiaflex contains foreign proteins, severe allergic reactions to xiaflex can occur. anaphylaxis was reported in a post-marketing clinical trial (study 3) in one patient who had previous exposure to xiaflex for the treatment of dupuytren's contracture. some patients with dupuytren's contracture developed ige-anti-drug antibodies in greater proportions and higher titers with successive xiaflex injections. healthcare providers should be prepared to address severe allergic reactions following xiaflex injections.  
+
+
+
+    5.5 risk of bleeding in patients with abnormal coagulation
+
+
+
+  in the xiaflex trials in dupuytren's contracture (studies 1 and 2), 70% and 38% of xiaflex-treated patients developed an ecchymosis/contusion or an injection site hemorrhage, respectively (see table 3). in the xiaflex controlled trials in peyronie's disease (studies 1 and 2), 65.5% of xiaflex-treated patients developed penile hematoma, and 14.5% developed penile ecchymosis (see table 4). patients with abnormal coagulation (except for patients taking low-dose aspirin, e.g., up to 150 mg per day) were excluded from participating in these studies.
+
+
+
+ therefore, the efficacy and safety of xiaflex in patients receiving anticoagulant medications (other than low-dose aspirin, e.g., up to 150 mg per day) within 7 days prior to xiaflex administration is not known. in addition, it is recommended to avoid use of xiaflex in patients with coagulation disorders, including patients receiving concomitant anticoagulants (except for low-dose aspirin).

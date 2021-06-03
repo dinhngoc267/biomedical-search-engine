@@ -1,0 +1,151 @@
+    6 adverse reactions
+
+  gbcas have been associated with a risk for nsf  [see warnings and precautions (  5.1  )]  . nsf has not been reported in patients with a clear history of exposure to dotarem alone.
+
+
+
+ hypersensitivity reactions and acute kidney injury are described in other sections of the labeling  [see warnings and precautions (  5.2  ) and (  5.3  )]  .
+
+
+
+   excerpt:   the most frequent (>= 0.2%) adverse reactions in clinical studies were nausea, headache, injection site pain, injection site coldness, and burning sensation.
+
+
+
+   to report suspected adverse reactions, contact guerbet llc at 1-877-729-6679 or fda at 1-800-fda-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 clinical studies experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ the data described below reflect dotarem exposure in 2813 patients, representing 2672 adults and 141 pediatric patients. overall, 55% of the patients were men. in clinical trials where ethnicity was recorded the ethnic distribution was 74% caucasian, 12% asian, 4% black, and 10% others. the average age was 53 years (range from 0.1 to 97 years).
+
+
+
+ overall, 3.9% of patients reported at least one adverse reaction, primarily occurring immediately or several days following dotarem administration. most adverse reactions were mild or moderate in severity and transient in nature.
+
+
+
+ table 2 lists adverse reactions that occurred in >= 0.2% patients who received dotarem.
+
+
+
+ table 2: adverse reactions in clinical trials 
+  reaction                                                                 rate (%)  n=2813               
+  nausea                                                                         0.6%                     
+  headache                                                                       0.5%                     
+  injection site pain                                                            0.4%                     
+  injection site coldness                                                        0.2%                     
+  burning sensation                                                              0.2%                     
+        
+ 
+
+ adverse reactions that occurred with a frequency < 0.2% in patients who received dotarem include: feeling cold, rash, somnolence, fatigue, dizziness, vomiting, pruritus, paresthesia, dysgeusia, pain in extremity, anxiety, hypertension, palpitations, oropharyngeal discomfort, serum creatinine increased and injection site reactions, including site inflammation, extravasation, pruritus, and warmth.
+
+
+
+   adverse reactions in pediatric patients  
+
+
+
+ during clinical trials, 141 pediatric patients (7 aged < 24 months, 33 aged 2 - 5 years, 58 aged 6 - 11 years and 43 aged 12 - 17) received dotarem. overall, 6 pediatric patients (4.3%) reported at least one adverse reaction following dotarem administration. the most frequently reported adverse reaction was headache (1.5%). most adverse events were mild in severity and transient in nature, and all patients recovered without treatment.
+
+
+
+   6.2 postmarketing experience
+
+  the following additional adverse reactions have been identified during postmarketing use of dotarem. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ table 3: adverse reactions in the postmarketing experience 
+  system organ class                        adverse reaction                                              
+  
+  cardiac disorders                         bradycardia, tachycardia, arrhythmia                          
+  immune system disorders                   hypersensitivity /anaphylactoid reactions including cardiac arrest, respiratory arrest, cyanosis pharyngeal edema, laryngospasm, bronchospasm, angioedema, conjunctivitis, ocular hyperemia, eyelid edema, lacrimation increased, hyperhidrosis, urticaria    
+  nervous system disorders                  coma, convulsion, syncope, presyncope, parosmia, tremor       
+  musculoskeletal and connective tissue disorders    muscle contracture, muscle weakness                           
+  gastrointestinal disorders                diarrhea, salivary hypersecretion                             
+  general disorders and administration site conditions    malaise, fever                                                
+  skin and subcutaneous tissue disorders    nsf, in patients whose reports were confounded by the receipt of other gbcas or in situations where receipt of other gbcas could not be ruled out.  no unconfounded cases of nsf have been reported with dotarem.    
+  vascular disorders                        superficial phlebitis                                         
+
+
+    boxed warning: warning: nephrogenic systemic fibrosis (nsf)
+
+  warning: nephrogenic systemic fibrosis (nsf)
+
+    gadolinium-based contrast agents (gbcas) increase the risk for nsf among patients with impaired elimination of the drugs. avoid use of gbcas in these patients unless the diagnostic information is essential and not available with non-contrasted mri or other modalities. nsf may result in fatal or debilitating fibrosis affecting the skin, muscle and internal organs.  
+
+
+
+ *  the risk for nsf appears highest among patients with:chronic, severe kidney disease (gfr < 30 ml/min/1.73 m2), oracute kidney injury. 
+ *  screen patients for acute kidney injury and other conditions that may reduce renal function. for patients at risk for chronically reduced renal function (e.g. age > 60 years, hypertension, diabetes), estimate the glomerular filtration rate (gfr) through laboratory testing (5.1). 
+ *  for patients at highest risk for nsf, do not exceed the recommended dotarem dose and allow a sufficient period of time for elimination of the drug from the body prior to any re-administration [see warnings and precautions (5.1)]. 
+      excerpt:     warning: nephrogenic systemic fibrosis (nsf)  
+ 
+
+     see full prescribing information for complete boxed warning    
+
+
+
+   gadolinium-based contrast agents (gbcas) increase the risk for nsf among patients with impaired elimination of the drugs. avoid use of gbcas in these patients unless the diagnostic information is essential and not available with non-contrasted mri or other modalities.  
+
+
+
+ *  the risk for nsf appears highest among patients with:chronic, severe kidney disease (gfr < 30 ml/min/1.73 m2), oracute kidney injury. 
+ *  screen patients for acute kidney injury and other conditions that may reduce renal function. for patients at risk for chronically reduced renal function (for example age > 60 years, hypertension or diabetes), estimate the glomerular filtration rate (gfr) through laboratory testing (5.1) 
+    5 warnings and precautions
+
+
+
+     excerpt:    *  nephrogenic systemic fibrosis has occurred in patients with impaired elimination of gbcas. higher than recommended dosing or repeat dosing appear to increase the risk. (  5.1  ) 
+ *  hypersensitivity: anaphylactoid/anaphylactic reactions with cardiovascular, respiratory or cutaneous manifestations, ranging from mild to severe, including death, have uncommonly occurred. monitor patients closely for need of emergency cardiorespiratory support. (  5.2  ) 
+    
+ 
+
+   5.1 nephrogenic systemic fibrosis
+
+
+
+  gadolinium-based contrast agents (gbcas) increase the risk for nephrogenic systemic fibrosis (nsf) among patients with impaired elimination of the drugs. avoid use of gbcas among these patients unless the diagnostic information is essential and not available with non-contrast mri or other modalities. the gbca-associated nsf risk appears highest for patients with chronic, severe kidney disease (gfr < 30 ml/min/1.73m  2  ) as well as patients with acute kidney injury. the risk appears lower for patients with chronic, moderate kidney disease (gfr 30 - 59 ml/min/1.73 m  2  ) and little, if any, for patients with chronic, mild kidney disease (gfr 60 - 89 ml/min/1.73 m  2  ). nsf may result in fatal or debilitating fibrosis affecting the skin, muscle and internal organs. report any diagnosis of nsf following dotarem administration to guerbet llc (1-877-729-6679) or fda (1-800-fda-1088 or www.fda.gov/medwatch).
+
+
+
+ screen patients for acute kidney injury and other conditions that may reduce renal function. features of acute kidney injury consist of rapid (over hours to days) and usually reversible decrease in kidney function, commonly in the setting of surgery, severe infection, injury or drug-induced kidney toxicity. serum creatinine levels and estimated gfr may not reliably assess renal function in the setting of acute kidney injury. for patients at risk for chronically reduced renal function (e.g., age > 60 years, diabetes mellitus or chronic hypertension), estimate the gfr through laboratory testing.
+
+
+
+ among the factors that may increase the risk for nsf are repeated or higher than recommended doses of a gbca and the degree of renal impairment at the time of exposure. record the specific gbca and the dose administered to a patient. for patients at highest risk for nsf, do not exceed the recommended dotarem dose and allow a sufficient period of time for elimination of the drug prior to re-administration. for patients receiving hemodialysis, physicians may consider the prompt initiation of hemodialysis following the administration of a gbca in order to enhance the contrast agent's elimination. the usefulness of hemodialysis in the prevention of nsf is unknown [see dosage and administration (  2  ) and clinical pharmacology (  12  )]  .
+
+
+
+    5.2 hypersensitivity reactions
+
+
+
+  anaphylactic and anaphylactoid reactions have been reported with dotarem, involving cardiovascular, respiratory, and/or cutaneous manifestations. some patients experienced circulatory collapse and died. in most cases, initial symptoms occurred within minutes of dotarem administration and resolved with prompt emergency treatment [see adverse reactions  (6)  ]  .
+
+
+
+ *  before dotarem administration, assess all patients for any history of a reaction to contrast media, bronchial asthma and/or allergic disorders. these patients may have an increased risk for a hypersensitivity reaction to dotarem. 
+ *  administer dotarem only in situations where trained personnel and therapies are promptly available for the treatment of hypersensitivity reactions, including personnel trained in resuscitation. 
+ *  during and following dotarem administration, observe patients for signs and symptoms of hypersensitivity reactions. 
+       5.3 acute kidney injury
+ 
+
+  in patients with chronically reduced renal function, acute kidney injury requiring dialysis has occurred with the use of gbcas. the risk of acute kidney injury may increase with increasing dose of the contrast agent; administer the lowest dose necessary for adequate imaging. screen all patients for renal impairment by obtaining a history and/or laboratory tests. consider follow-up renal function assessments for patients with a history of renal dysfunction.
+
+
+
+    5.4 extravasation and injection site reactions
+
+
+
+  ensure catheter and venous patency before the injection of dotarem. extravasation into tissues during dotarem administration may result in tissue irritation [see nonclinical toxicology (  13.2  )]  .

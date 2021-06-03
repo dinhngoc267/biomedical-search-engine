@@ -1,0 +1,110 @@
+    6 adverse reactions
+
+  the following adverse reaction is discussed in greater detail in other sections of the label:
+
+
+
+ *  transaminase elevations [ see    warnings and precautions (5.1)   ] 
+      excerpt:   the most common adverse drug reactions to kalydeco (occurring in >=8% of patients with cf who have a  g551d  mutation in the  cftr  gene) were headache, oropharyngeal pain, upper respiratory tract infection, nasal congestion, abdominal pain, nasopharyngitis, diarrhea, rash, nausea, and dizziness. (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact vertex pharmaceuticals incorporated at 1-877-634-8789 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ the overall safety profile of kalydeco is based on pooled data from three placebo-controlled clinical trials conducted in 353 patients 6 years of age and older with cf who had a  g551d  mutation in the  cftr  gene (trials 1 and 2) or were homozygous for the  f508del  mutation (trial 3). in addition, the following clinical trials have also been conducted [  see  clinical pharmacology (12)    and    clinical studies (14)    ]:
+
+
+
+ *  an 8-week crossover design trial (trial 4) involving 39 patients between the ages of 6 and 57 years with a g1244e , g1349d , g178r , g551s , g970r , s1251n , s1255p , s549n , or s549r mutation in the cftr gene. 
+ *  a 24-week placebo-controlled trial (trial 5) involving 69 patients between the ages of 6 and 68 years with an r117h mutation in the cftr gene. 
+ *  a 24-week open-label trial (trial 6) in 34 patients 2 to less than 6 years of age. patients eligible for trial 6 were those with the g551d, g1244e , g1349d , g178r , g551s , g970r , s1251n , s1255p , s549n , or s549r mutation in the cftr gene. of 34 patients enrolled, 32 had the g551d mutation and 2 had the s549n mutation. 
+    of the 353 patients included in the pooled analyses of patients with cf who had either a  g551d  mutation or were homozygous for the  f508del  mutation in the  cftr  gene, 50% of patients were female and 97% were caucasian; 221 received kalydeco, and 132 received placebo from 16 to 48 weeks.
+ 
+
+ the proportion of patients who prematurely discontinued study drug due to adverse reactions was 2% for kalydeco-treated patients and 5% for placebo-treated patients. serious adverse reactions, whether considered drug-related or not by the investigators, that occurred more frequently in kalydeco-treated patients included abdominal pain, increased hepatic enzymes, and hypoglycemia.
+
+
+
+ the most common adverse reactions in the 221 patients treated with kalydeco were headache (17%), upper respiratory tract infection (16%), nasal congestion (16%), nausea (10%), rash (10%), rhinitis (6%), dizziness (5%), arthralgia (5%), and bacteria in sputum (5%).
+
+
+
+ the incidence of adverse reactions below is based upon two double-blind, placebo-controlled, 48-week clinical trials (trials 1 and 2) in a total of 213 patients with cf ages 6 to 53 who have a  g551d  mutation in the  cftr  gene and who were treated with kalydeco 150 mg orally or placebo twice daily. table 2 shows adverse reactions occurring in >=8% of kalydeco-treated patients with cf who have a  g551d  mutation in the  cftr  gene that also occurred at a higher rate than in the placebo-treated patients in the two double-blind, placebo-controlled trials.
+
+
+
+ table 2: incidence of adverse drug reactions in >=8% of kalydeco-treated patients with a g551d mutation in the cftr gene and greater than placebo in 2 placebo-controlled phase 3 clinical trials of 48 weeks duration 
+ adverse reaction(preferred term)                    incidence: pooled 48-week trials   
+ kalydecon=109n (%)                                      placebon=104n (%)       
+  
+ headache                                                     26 (24)                    17 (16)            
+ oropharyngeal pain                                           24 (22)                    19 (18)            
+ upper respiratory tract infection                            24 (22)                    14 (14)            
+ nasal congestion                                             22 (20)                    16 (15)            
+ abdominal pain                                               17 (16)                    13 (13)            
+ nasopharyngitis                                              16 (15)                    12 (12)            
+ diarrhea                                                     14 (13)                    10 (10)            
+ rash                                                         14 (13)                     7 (7)             
+ nausea                                                       13 (12)                    11 (11)            
+ dizziness                                                    10 (9)                      1 (1)             
+         adverse reactions in the 48-week clinical trials that occurred in the kalydeco group at a frequency of 4 to 7% where rates exceeded that in the placebo group include:
+ 
+
+ *      infections and infestations: rhinitis 
+ *      investigations: aspartate aminotransferase increased, bacteria in sputum, blood glucose increased, hepatic enzyme increased 
+ *      musculoskeletal and connective tissue disorders: arthralgia, musculoskeletal chest pain, myalgia 
+ *      nervous system disorders: sinus headache 
+ *      respiratory, thoracic and mediastinal disorders: pharyngeal erythema, pleuritic pain, sinus congestion, wheezing 
+ *      skin and subcutaneous tissue disorders: acne 
+    the safety profile for the cf patients enrolled in the other clinical trials (trials 3-6) was similar to that observed in the 48-week, placebo-controlled trials (trials 1 and 2).
+ 
+
+     laboratory abnormalities  
+
+
+
+   transaminase elevations:  in trials 1, 2, and 3 the incidence of maximum transaminase (alt or ast) >8, >5, or >3 * uln was 2%, 2%, and 6% in kalydeco-treated patients and 2%, 2%, and 8% in placebo-treated patients, respectively. two patients (2%) on placebo and 1 patient (0.5%) on kalydeco permanently discontinued treatment for elevated transaminases, all >8 * uln. two patients treated with kalydeco were reported to have serious adverse reactions of elevated liver transaminases compared to none on placebo. transaminase elevations were more common in patients with a history of transaminase elevations [  see  warnings and precautions (5.1)    ].
+
+
+
+ during the 24-week, open-label, clinical trial in 34 patients ages 2 to less than 6 years (trial 6), where patients received either 50 mg (less than 14 kg) or 75 mg (14 kg or greater) ivacaftor granules twice daily, the incidence of patients experiencing transaminase elevations (alt or ast) >3 * uln was 14.7% (5/34). all 5 patients had maximum alt or ast levels >8 * uln, which returned to baseline levels following interruption of kalydeco dosing. transaminase elevations were more common in patients who had abnormal transaminases at baseline. kalydeco was permanently discontinued in one patient [  see  warnings and precautions (5.1)    ].
+    5 warnings and precautions
+
+
+
+   excerpt:    *  elevated transaminases (alt or ast): transaminases (alt and ast) should be assessed prior to initiating kalydeco, every 3 months during the first year of treatment, and annually thereafter. in patients with a history of transaminase elevations, more frequent monitoring of liver function tests should be considered. patients who develop increased transaminase levels should be closely monitored until the abnormalities resolve. dosing should be interrupted in patients with alt or ast of greater than 5 times the upper limit of normal (uln). following resolution of transaminase elevations, consider the benefits and risks of resuming kalydeco dosing. (  5.1  ,  6  ) 
+ *  use with cyp3a inducers: concomitant use with strong cyp3a inducers (e.g., rifampin, st. john's wort) substantially decreases exposure of ivacaftor, which may diminish effectiveness. therefore, co-administration is not recommended. (  5.2  ,  7.2  ,  12.3  ) 
+ *  cataracts: non-congenital lens opacities/cataracts have been reported in pediatric patients treated with kalydeco. baseline and follow-up examinations are recommended in pediatric patients initiating kalydeco treatment. (  5.3  ) 
+    
+ 
+
+   5.1 transaminase (alt or ast) elevations
+
+
+
+   elevated transaminases have been reported in patients with cf receiving kalydeco. it is recommended that alt and ast be assessed prior to initiating kalydeco, every 3 months during the first year of treatment, and annually thereafter. for patients with a history of transaminase elevations, more frequent monitoring of liver function tests should be considered. patients who develop increased transaminase levels should be closely monitored until the abnormalities resolve. dosing should be interrupted in patients with alt or ast of greater than 5 times the upper limit of normal (uln). following resolution of transaminase elevations, consider the benefits and risks of resuming kalydeco dosing [see   adverse reactions (6)  and  use in specific populations (8.6)    ] .    
+
+
+
+    5.2 concomitant use with cyp3a inducers
+
+
+
+  use of kalydeco with strong cyp3a inducers, such as rifampin, substantially decreases the exposure of ivacaftor, which may reduce the therapeutic effectiveness of kalydeco. therefore, co-administration of kalydeco with strong cyp3a inducers (e.g., rifampin, st. john's wort) is not recommended [ see  drug interactions (7.2)  and  clinical pharmacology (12.3)    ].
+
+
+
+    5.3 cataracts
+
+
+
+   cases of non-congenital lens opacities/cataracts have been reported in pediatric patients treated with kalydeco. although other risk factors were present in some cases (such as corticosteroid use and/or exposure to radiation), a possible risk attributable to kalydeco cannot be excluded. baseline and follow-up ophthalmological examinations are recommended in pediatric patients initiating kalydeco treatment.  

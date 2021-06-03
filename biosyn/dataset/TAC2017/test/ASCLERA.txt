@@ -1,0 +1,114 @@
+    6 adverse reactions
+
+  excerpt:   the most common adverse reactions occurring at least 3% more frequently than on placebo are mild local reactions at the site of injection. (  6  )
+
+
+
+   to report suspected adverse reactions, contact merz north america, inc. at 1-866-862-1211 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical study experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ in 5 controlled randomized clinical trials, asclera has been administered to 401 patients with small or very small varicose veins (reticular and spider veins) and compared with another sclerosing agent and with placebo. patients were 18 to 70 years old. the patient population was predominately female and consisted of caucasian and asian patients.
+
+
+
+ table 1 shows adverse events more common with asclera or sodium tetradecyl sulfate (sts) 1% than with placebo by at least 3% in the placebo- controlled easi study  (see  clinical studies [14]  )  . all of these were injection site reactions and most were mild.
+
+
+
+ table 1: adverse reactions in easi-study 
+                                  asclera (180 patients)    sts 1% (105 patients)    placebo (53 patients)    
+  
+ injection site haematoma                  42%                       65%                      19%             
+ injection site irritation                 41%                       73%                      30%             
+ injection site discoloration              38%                       74%                      4%              
+ injection site pain                       24%                       31%                      9%              
+ injection site pruritus                   19%                       27%                      4%              
+ injection site warmth                     16%                       21%                      6%              
+ neovascularisation                         8%                       20%                      4%              
+ injection site thrombosis                  6%                       1%                       0%              
+          ultrasound examinations at one week (+/-3 days) and 12 weeks (+/-2 weeks) after treatment did not reveal deep vein thrombosis in any treatment group.
+ 
+
+   6.2 post-marketing safety experience
+
+  the following adverse reactions have been reported during use of polidocanol in world-wide experience; in some of these cases these adverse events have been serious or troublesome. because these reactions are reported voluntarily from a population of uncertain size and without a control group, it is not possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
+
+
+
+   immune system disorders:  anaphylactic shock, angioedema, urticaria generalized, asthma
+
+
+
+   nervous system disorders:  cerebrovascular accident, migraine, paresthesia (local), loss of consciousness, confusional state, dizziness
+
+
+
+   cardiac disorders:  cardiac arrest, palpitations
+
+
+
+   vascular disorders:  deep vein thrombosis, pulmonary embolism, syncope vasovagal, circulatory collapse, vasculitis
+
+
+
+   respiratory, thoracic and mediastinal disorders:  dyspnea
+
+
+
+   skin and subcutaneous tissue disorders  : skin hyperpigmentation, dermatitis allergic, hypertrichosis (in the area of sclerotherapy)
+
+
+
+   general disorders and injection site conditions  : injection site necrosis, pyrexia, hot flush
+
+
+
+   injury, poisoning and procedural complications  : nerve injury
+    5 warnings and precautions
+
+
+
+   excerpt:    *  be prepared to treat anaphylaxis. (  5.1  ) 
+ *  do not inject intra-arterially. (  5.2  ) 
+ *  do not inject intra-perivascularily. (  5.3  ) 
+    
+ 
+
+   5.1 anaphylaxis
+
+
+
+   severe allergic reactions have been reported following polidocanol use, including anaphylactic reactions, some of them fatal. severe reactions are more frequent with use of larger volumes (> 3 ml). the dose of polidocanol should therefore be minimized. be prepared to treat anaphylaxis appropriately.  
+
+
+
+ severe adverse local effects, including tissue necrosis, may occur following extravasation; therefore, care should be taken in intravenous needle placement and the smallest effective volume at each injection site should be used.
+
+
+
+ after the injection session is completed, apply compression with a stocking or bandage, and have the patient walk for 15-20 minutes. keep the patient under supervision during this period to treat any anaphylactic or allergic reaction (see  dosage and administration [2]  )  .
+
+
+
+    5.2 accidental intra-arterial injection
+
+
+
+  intra-arterial injection can cause severe necrosis, ischemia or gangrene. if this occurs consult a vascular surgeon immediately.
+
+
+
+    5.3 inadvertent perivascular injection
+
+
+
+  inadvertent perivascular injection of asclera can cause pain. if pain is severe, a local anesthetic (without adrenaline) may be injected.

@@ -1,0 +1,153 @@
+    6 adverse reactions
+
+  clinically significant adverse reactions that appear in other sections of the labeling include:
+
+
+
+ *  embryo-fetal toxicity [see  warnings and precautions (5.1)  ]  
+ *  hepatotoxicity [see  warnings and precautions (5.3)  ]  
+ *  decrease in hemoglobin [see  warnings and precautions (5.4)  ]  
+      excerpt:   most common adverse reactions (more frequent than placebo by >=3%) are anemia, nasopharyngitis/pharyngitis, bronchitis, headache, influenza, and urinary tract infection (  6.1  ).
+ 
+
+   to report suspected adverse reactions, contact actelion at 1-866-228-3546 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trial experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ safety data for opsumit were obtained primarily from one placebo-controlled clinical study in 742 patients with pah (seraphin study)  [see  clinical studies (14)  ]  . the exposure to opsumit in this trial was up to 3.6 years with a median exposure of about 2 years (n=542 for 1 year; n=429 for 2 years; and n=98 for more than 3 years). the overall incidence of treatment discontinuations because of adverse events was similar across opsumit 10 mg and placebo treatment groups (approximately 11%).
+
+
+
+ table 2 presents adverse reactions more frequent on opsumit than on placebo by >=3%.
+
+
+
+ table 2 adverse reactions 
+   adverse reaction                                   opsumit 10 mg(n=242)(%)       placebo(n=249)(%)       
+  
+ anemia                                                         13                          3               
+ nasopharyngitis/pharyngitis                                    20                         13               
+ bronchitis                                                     12                          6               
+ headache                                                       14                          9               
+ influenza                                                       6                          2               
+ urinary tract infection                                         9                          6               
+           6.2 postmarketing experience
+   the following adverse reactions have been identified during post-approval use of opsumit. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   immune system disorders  : hypersensitivity reactions (angioedema, pruritus and rash)
+
+
+
+   respiratory, thoracic and mediastinal disorders  : nasal congestion
+
+
+    boxed warning: warning:  embryo-fetal toxicity
+
+    warning:  embryo-fetal toxicity  
+
+    *  do not administer opsumit to a pregnant female because it may cause fetal harm [see contraindications (4.1), warnings and precautions (5.1), use in specific populations (8.1)]. 
+ *  females of reproductive potential: exclude pregnancy before the start of treatment, monthly during treatment, and 1 month after stopping treatment. prevent pregnancy during treatment and for one month after stopping treatment by using acceptable methods of contraception [see use in special populations (8.6)]. 
+ *  for all female patients, opsumit is available only through a restricted program called the opsumit risk evaluation and mitigation strategy (rems) [see warnings and precautions (5.2)]. 
+      excerpt:     warning:  embryo-fetal toxicity  
+ 
+
+   see full prescribing information for complete boxed warning  
+
+
+
+ *  do not administer opsumit to a pregnant female because it may cause fetal harm (4.1, 5.1, 8.1). 
+ *  females of reproductive potential: exclude pregnancy before start of treatment, monthly during treatment, and 1 month after stopping treatment. prevent pregnancy during treatment and for one month after treatment by using acceptable methods of contraception (2.2, 8.6). 
+ *  for all female patients, opsumit is available only through a restricted program called the opsumit risk evaluation and mitigation strategy (rems) (5.2). 
+    5 warnings and precautions
+
+
+
+   excerpt:    *  other eras cause hepatotoxicity and liver failure. obtain baseline liver enzymes and monitor as clinically indicated (  5.3  ). 
+ *  decreases in hemoglobin (  5.4  ). 
+ *  pulmonary edema in patients with pulmonary veno-occlusive disease. if confirmed, discontinue treatment (  5.5  ). 
+ *  decreases in sperm count have been observed in patients taking eras (  5.6  ). 
+    
+ 
+
+   5.1 embryo-fetal toxicity
+
+
+
+  opsumit may cause fetal harm when administered during pregnancy and is contraindicated for use in females who are pregnant. in females of reproductive potential, exclude pregnancy prior to initiation of therapy, ensure use of acceptable contraceptive methods and obtain monthly pregnancy tests [see  dosage and administration (2.2)  and  use in specific populations (8.1  ,  8.6)  ]  .
+
+
+
+ opsumit is available for females through the opsumit rems program, a restricted distribution program [see  warnings and precautions (5.2)  ]  .
+
+
+
+    5.2 opsumit rems program
+
+
+
+  for all females, opsumit is available only through a restricted program called the opsumit rems program, because of the risk of embryo-fetal toxicity [see  contraindications (4.1)  ,  warnings and precautions (5.1)  , and  use in specific populations (8.1  ,  8.6)  ]  .
+
+
+
+ notable requirements of the opsumit rems program include the following:
+
+
+
+ *  prescribers must be certified with the program by enrolling and completing training. 
+ *  all females, regardless of reproductive potential, must enroll in the opsumit rems program prior to initiating opsumit. male patients are not enrolled in the rems. 
+ *  females of reproductive potential must comply with the pregnancy testing and contraception requirements [see  use in specific populations (8.6)  ] . 
+ *  pharmacies must be certified with the program and must only dispense to patients who are authorized to receive opsumit. 
+    further information is available at www.opsumitrems.com or 1-866-228-3546. information on opsumit certified pharmacies or wholesale distributors is available through actelion pathways at 1-866-228-3546.
+ 
+
+    5.3 hepatotoxicity
+
+
+
+  other eras have caused elevations of aminotransferases, hepatotoxicity, and liver failure. the incidence of elevated aminotransferases in the study of opsumit in pah is shown in table 1.
+
+
+
+ table 1 incidence of elevated aminotransferases in the seraphin study 
+                                           opsumit 10 mg(n=242)                  placebo(n=249)             
+  
+ >3 * uln                                          3.4%                               4.5%                  
+ >8 * uln                                          2.1%                               0.4%                  
+         in the placebo-controlled study of opsumit, discontinuations for hepatic adverse events were 3.3% in the opsumit 10 mg group vs. 1.6% for placebo. obtain liver enzyme tests prior to initiation of opsumit and repeat during treatment as clinically indicated.
+ 
+
+ advise patients to report symptoms suggesting hepatic injury (nausea, vomiting, right upper quadrant pain, fatigue, anorexia, jaundice, dark urine, fever, or itching). if clinically relevant aminotransferase elevations occur, or if elevations are accompanied by an increase in bilirubin >2 * uln, or by clinical symptoms of hepatotoxicity, discontinue opsumit. consider re-initiation of opsumit when hepatic enzyme levels normalize in patients who have not experienced clinical symptoms of hepatotoxicity.
+
+
+
+    5.4 hemoglobin decrease
+
+
+
+  decreases in hemoglobin concentration and hematocrit have occurred following administration of other eras and were observed in clinical studies with opsumit. these decreases occurred early and stabilized thereafter. in the placebo-controlled study of opsumit in pah, opsumit 10 mg caused a mean decrease in hemoglobin from baseline to up to 18 months of about 1.0 g/dl compared to no change in the placebo group. a decrease in hemoglobin to below 10.0 g/dl was reported in 8.7% of the opsumit 10 mg group and in 3.4% of the placebo group. decreases in hemoglobin seldom require transfusion. initiation of opsumit is not recommended in patients with severe anemia. measure hemoglobin prior to initiation of treatment and repeat during treatment as clinically indicated [see  adverse reactions (6.1)  ]  .
+
+
+
+    5.5 pulmonary edema with pulmonary veno-occlusive disease (pvod)
+
+
+
+  should signs of pulmonary edema occur, consider the possibility of associated pvod. if confirmed, discontinue opsumit.
+
+
+
+    5.6 decreased sperm counts
+
+
+
+  other eras have caused adverse effects on spermatogenesis. counsel men about potential effects on fertility [see  use in specific populations (8.6)  and  nonclinical toxicology (13.1)  ]  .

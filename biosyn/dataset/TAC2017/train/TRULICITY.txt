@@ -1,0 +1,266 @@
+    6 adverse reactions
+
+  the following serious reactions are described below or elsewhere in the prescribing information:
+
+
+
+ *  risk of thyroid c-cell tumors [see warnings and precautions (  5.1  )]  
+ *  pancreatitis [see warnings and precautions (  5.2  )]  
+ *  hypoglycemia with concomitant use of insulin secretagogues or insulin [see warnings and precautions (  5.3  )]  
+ *  hypersensitivity reactions [see warnings and precautions (  5.4  )]  
+ *  renal impairment [see warnings and precautions (  5.5  )]  
+ *  severe gastrointestinal disease [see warnings and precautions (  5.6  )]  
+      excerpt:   the most common adverse reactions, reported in >=5% of patients treated with trulicity are: nausea, diarrhea, vomiting, abdominal pain, and decreased appetite (  6.1  ).
+ 
+
+   to report suspected adverse reactions, contact eli lilly and company at 1-800-lillyrx (1-800-545-5979) or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical studies experience
+
+  because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+
+
+     pool of placebo-controlled trials  
+
+
+
+ the data in  table 1  are derived from the placebo-controlled trials  [see clinical studies (  14  )]  .
+
+
+
+ these data reflect exposure of 1670 patients to trulicity and a mean duration of exposure to trulicity of 23.8 weeks. across the treatment arms, the mean age of patients was 56 years, 1% were 75 years or older and 53% were male. the population in these studies was 69% white, 7% black or african american, 13% asian; 30% were of hispanic or latino ethnicity. at baseline, the population had diabetes for an average of 8.0 years and had a mean hba1c of 8.0%. at baseline, 2.5% of the population reported retinopathy. baseline estimated renal function was normal or mildly impaired (egfr >=60ml/min/1.73 m  2  ) in 96.0% of the pooled study populations.
+
+
+
+ table 1 shows common adverse reactions, excluding hypoglycemia, associated with the use of trulicity in the pool of placebo-controlled trials. these adverse reactions were not present at baseline, occurred more commonly on trulicity than on placebo, and occurred in at least 5% of patients treated with trulicity.
+
+
+
+ table 1: adverse reactions in placebo-controlled trials reported in >=5% of trulicity-treated patients 
+  a includes diarrhea, fecal volume increased, frequent bowel movements.    
+  b includes retching, vomiting, vomiting projectile.    
+  c includes abdominal discomfort, abdominal pain, abdominal pain lower, abdominal pain upper, abdominal tenderness, gastrointestinal pain.    
+  d includes fatigue, asthenia, malaise.    
+    note: percentages reflect the number of patients that reported at least 1 treatment- emergent occurrence of the adverse reaction.    
+  
+   adverse reaction           placebo    (n=568)    %      trulicity 0.75 mg    (n=836)    %      trulicity 1.5 mg    (n=834)    %     
+ nausea                     5.3                        12.4                     21.1                        
+ diarrhea  a                6.7                        8.9                      12.6                        
+ vomiting  b                2.3                        6.0                      12.7                        
+ abdominal pain  c          4.9                        6.5                      9.4                         
+ decreased appetite         1.6                        4.9                      8.6                         
+ dyspepsia                  2.3                        4.1                      5.8                         
+ fatigue  d                 2.6                        4.2                      5.6                         
+              gastrointestinal adverse reactions  
+ 
+
+ in the pool of placebo-controlled trials, gastrointestinal adverse reactions occurred more frequently among patients receiving trulicity than placebo (placebo 21.3%, 0.75 mg 31.6%, 1.5 mg 41.0%). more patients receiving trulicity 0.75 mg (1.3%) and trulicity 1.5 mg (3.5%) discontinued treatment due to gastrointestinal adverse reactions than patients receiving placebo (0.2%). investigators graded the severity of gastrointestinal adverse reactions occurring on 0.75 mg and 1.5 mg of trulicity as "mild" in 58% and 48% of cases, respectively, "moderate" in 35% and 42% of cases, respectively, or "severe" in 7% and 11% of cases, respectively.
+
+
+
+ in addition to the reactions in  table 1  , the following adverse reactions were reported more frequently in trulicity-treated patients than placebo (frequencies listed, respectively, as: placebo; 0.75 mg; 1.5 mg): constipation (0.7%, 3.9%, 3.7%), flatulence (1.4%, 1.4%, 3.4%), abdominal distension (0.7%, 2.9%, 2.3%), gastroesophageal reflux disease (0.5%, 1.7%, 2.0%), and eructation (0.2%, 0.6%, 1.6%).
+
+
+
+     pool of placebo- and active-controlled trials  
+
+
+
+ the occurrence of adverse reactions was also evaluated in a larger pool of patients with type 2 diabetes participating in 6 placebo- and active-controlled trials evaluating the use of trulicity as monotherapy and add-on therapy to oral medications or insulin.  [see clinical studies (  14  )]  . in this pool, a total of 3342 patients with type 2 diabetes were treated with trulicity for a mean duration of 52 weeks. the mean age of patients was 56 years, 2% were 75 years or older and 51% were male. the population in these studies was 71% white, 7% black or african american, 11% asian; 32% were of hispanic or latino ethnicity. at baseline, the population had diabetes for an average of 8.2 years and had a mean hba1c of 7.6-8.5%. at baseline, 5.2% of the population reported retinopathy. baseline estimated renal function was normal or mildly impaired (egfr >=60 ml/min/1.73 m2) in 95.7% of the trulicity population.
+
+
+
+ in the pool of placebo- and active-controlled trials, the types and frequency of common adverse reactions, excluding hypoglycemia, were similar to those listed in  table 1  .
+
+
+
+     other adverse reactions  
+
+
+
+     hypoglycemia  
+
+
+
+   table 2  summarizes the incidence of documented symptomatic (<=70 mg/dl glucose threshold) and severe hypoglycemia in the placebo-controlled clinical studies.
+
+
+
+ table 2: incidence (%) of documented symptomatic and severe hypoglycemia adverse reactions in placebo-controlled trials 
+                              placebo                    trulicity 0.75 mg          trulicity 1.5 mg          
+   add-on to metformin       
+        (26 weeks)            n=177                      n=302                      n=304                     
+       documented symptomatic  1.1%                       2.6%                       5.6%                        
+       severe               0                          0                          0                           
+   add-on to metformin + pioglitazone     
+        (26 weeks)            n=141                      n=280                      n=279                     
+       documented symptomatic  1.4%                       4.6%                       5.0%                        
+       severe               0                          0                          0                           
+          hypoglycemia was more frequent when trulicity was used in combination with a sulfonylurea or insulin  [see warnings and precautions (  5.3  )]  . documented symptomatic hypoglycemia occurred in 39% and 40% of patients when trulicity 0.75 mg and 1.5 mg, respectively, was co-administered with a sulfonylurea. severe hypoglycemia occurred in 0% and 0.7% of patients when trulicity 0.75 mg and 1.5 mg, respectively, was co-administered with a sulfonylurea. documented symptomatic hypoglycemia occurred in 85% and 80% of patients when trulicity 0.75 mg and 1.5 mg, respectively, was co-administered with prandial insulin. severe hypoglycemia occurred in 2.4% and 3.4% of patients when trulicity 0.75 mg and 1.5 mg, respectively, was co-administered with prandial insulin.
+ 
+
+     heart rate increase and tachycardia related adverse reactions.  
+
+
+
+ trulicity 0.75 mg and 1.5 mg resulted in a mean increase in heart rate (hr) of 2-4 beats per minute (bpm). the long-term clinical effects of the increase in hr have not been established  [see warnings and precautions (  5.7  )]  .
+
+
+
+ adverse reactions of sinus tachycardia were reported more frequently in patients exposed to trulicity. sinus tachycardia was reported in 3.0%, 2.8%, and 5.6% of patient treated with placebo, trulicity 0.75 mg and trulicity 1.5 mg, respectively. persistence of sinus tachycardia (reported at more than 2 visits) was reported in 0.2%, 0.4% and 1.6% of patients treated with placebo, trulicity 0.75 mg and trulicity 1.5 mg, respectively. episodes of sinus tachycardia, associated with a concomitant increase from baseline in heart rate of >=15 beats per minute, were reported in 0.7%, 1.3% and 2.2% of patient treated with placebo, trulicity 0.75 mg and trulicity 1.5 mg, respectively.
+
+
+
+     immunogenicity  
+
+
+
+ across four phase 2 and five phase 3 clinical studies, 64 (1.6%) trulicity treated patients developed anti-drug antibodies (adas) to the active ingredient in trulicity (i.e., dulaglutide).
+
+
+
+ of the 64 dulaglutide-treated patients that developed dulaglutide adas, 34 patients (0.9% of the overall population) had dulaglutide-neutralizing antibodies, and 36 patients (0.9% of the overall population) developed antibodies against native glp-1.
+
+
+
+ the detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, the incidence of antibodies to dulaglutide cannot be directly compared with the incidence of antibodies of other products.
+
+
+
+     hypersensitivity  
+
+
+
+ systemic hypersensitivity adverse reactions sometimes severe (e.g., severe urticaria, systemic rash, facial edema, lip swelling) occurred in 0.5% of patients on trulicity in the four phase 2 and five phase 3 studies.
+
+
+
+     injection-site reactions  
+
+
+
+ in the placebo-controlled studies, injection-site reactions (e.g., injection-site rash, erythema) were reported in 0.5% of trulicity-treated patients and in 0.0% of placebo-treated patients.
+
+
+
+     pr interval prolongation and adverse reactions of first degree atrioventricular (av) block  
+
+
+
+ a mean increase from baseline in pr interval of 2-3 milliseconds was observed in trulicity-treated patients in contrast to a mean decrease of 0.9 millisecond in placebo-treated patients. the adverse reaction of first degree av block occurred more frequently in patients treated with trulicity than placebo (0.9%, 1.7% and 2.3% for placebo, trulicity 0.75 mg and trulicity 1.5 mg, respectively). on electrocardiograms, a pr interval increase to at least 220 milliseconds was observed in 0.7%, 2.5% and 3.2% of patients treated with placebo, trulicity 0.75 mg and trulicity 1.5 mg, respectively.
+
+
+
+     amylase and lipase increase  
+
+
+
+ patients exposed to trulicity had mean increases from baseline in lipase and/or pancreatic amylase of 14% to 20%, while placebo-treated patients had mean increases of up to 3%.
+
+
+    boxed warning: warning: risk of thyroid c-cell tumors
+
+
+
+  warning: risk of thyroid c-cell tumors
+
+
+
+    *  in male and female rats, dulaglutide causes a dose-related and treatment-duration-dependent increase in the incidence of thyroid c-cell tumors (adenomas and carcinomas) after lifetime exposure. it is unknown whether trulicity causes thyroid c-cell tumors, including medullary thyroid carcinoma (mtc), in humans as human relevance of dulaglutide-induced rodent thyroid c-cell tumors has not been determined [see warnings and precautions (5.1), and nonclinical toxicology (13.1)]. 
+ *  trulicity is contraindicated in patients with a personal or family history of mtc and in patients with multiple endocrine neoplasia syndrome type 2 (men 2). counsel patients regarding the potential risk of mtc with use of trulicity and inform them of symptoms of thyroid tumors (e.g., mass in the neck, dysphagia, dyspnea, persistent hoarseness). routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of mtc in patients treated with trulicity [see contraindications (4.1) and warnings and precautions (5.1)]. 
+      excerpt:     warning: risk of thyroid c-cell tumors  
+ 
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  dulaglutide causes thyroid c-cell tumors in rats. it is unknown whether trulicity causes thyroid c-cell tumors, including medullary thyroid carcinoma (mtc), in humans as the human relevance of dulaglutide-induced rodent thyroid c-cell tumors has not been determined (5.1, 13.1). 
+ *  trulicity is contraindicated in patients with a personal or family history of mtc and in patients with multiple endocrine neoplasia syndrome type 2 (men 2). counsel patients regarding the potential risk of mtc and symptoms of thyroid tumors (4.1, 5.1). 
+    5 warnings and precautions
+
+
+
+   excerpt:    *   thyroid c-cell tumors: see boxed warning (  5.1  ). 
+ *   pancreatitis: has been reported in clinical trials. discontinue promptly if pancreatitis is suspected. do not restart if pancreatitis is confirmed. consider other antidiabetic therapies in patients with history of pancreatitis (  5.2  ). 
+ *   hypoglycemia: when trulicity is used with an insulin secretagogue (e.g., a sulfonylurea) or insulin, consider lowering the dose of the sulfonylurea or insulin to reduce the risk of hypoglycemia (  5.3  ). 
+ *   hypersensitivity reactions: discontinue trulicity if suspected. monitor and treat promptly per standard of care until signs and symptoms resolve (  5.4  ). 
+ *   renal impairment: monitor renal function in patients with renal impairment reporting severe adverse gastrointestinal reactions (  5.5  ). 
+ *   macrovascular outcomes: there have been no studies establishing conclusive evidence of macrovascular risk reduction with trulicity or any other antidiabetic drug (  5.7  ). 
+    
+ 
+
+   5.1 risk of thyroid c-cell tumors
+
+
+
+     in male and female rats, dulaglutide causes a dose-related and treatment-duration-dependent increase in the incidence of thyroid c-cell tumors (adenomas and carcinomas) after lifetime exposure [see nonclinical toxicology (  13.1  )]  . glucagon-like peptide (glp-1) receptor agonists have induced thyroid c-cell adenomas and carcinomas in mice and rats at clinically relevant exposures. it is unknown whether trulicity will cause thyroid c-cell tumors, including medullary thyroid carcinoma (mtc), in humans, as the human relevance of dulaglutide-induced rodent thyroid c-cell tumors has not been determined.
+
+
+
+    one case of mtc was reported in a patient treated with trulicity. this patient had pretreatment calcitonin levels approximately 8 times the upper limit of normal (uln). cases of mtc in patients treated with liraglutide, another glp-1 receptor agonist, have been reported in the postmarketing period; the data in these reports are insufficient to establish or exclude a causal relationship between mtc and glp-1 receptor agonist use in humans.
+
+
+
+    trulicity is contraindicated in patients with a personal or family history of mtc or in patients with men 2. counsel patients regarding the potential risk for mtc with the use of trulicity and inform them of symptoms of thyroid tumors (e.g. a mass in the neck, dysphagia, dyspnea, persistent hoarseness).
+
+
+
+    routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of mtc in patients treated with trulicity. such monitoring may increase the risk of unnecessary procedures, due to the low test specificity for serum calcitonin and a high background incidence of thyroid disease. significantly elevated serum calcitonin value may indicate mtc and patients with mtc usually have calcitonin values >50 ng/l. if serum calcitonin is measured and found to be elevated, the patient should be further evaluated. patients with thyroid nodules noted on physical examination or neck imaging should also be further evaluated.
+
+
+
+    5.2 pancreatitis
+
+
+
+  in phase 2 and phase 3 clinical studies, 12 (3.4 cases per 1000 patient years) pancreatitis related adverse reactions were reported in patients exposed to trulicity versus 3 in non-incretin comparators (2.7 cases per 1000 patient years). an analyses of adjudicated events revealed 5 cases of confirmed pancreatitis in patients exposed to trulicity (1.4 cases per 1000 patient years) versus 1 case in non-incretin comparators (0.88 cases per 1000 patient years).
+
+
+
+ after initiation of trulicity, observe patients carefully for signs and symptoms of pancreatitis, including persistent severe abdominal pain. if pancreatitis is suspected, promptly discontinue trulicity. if pancreatitis is confirmed, trulicity should not be restarted. trulicity has not been evaluated in patients with a prior history of pancreatitis. consider other antidiabetic therapies in patients with a history of pancreatitis.
+
+
+
+    5.3 hypoglycemia with concomitant use of insulin secretagogues or insulin
+
+
+
+  the risk of hypoglycemia is increased when trulicity is used in combination with insulin secretagogues (e.g., sulfonylureas) or insulin. patients may require a lower dose of sulfonylurea or insulin to reduce the risk of hypoglycemia in this setting [see adverse reactions (  6.1  )]  .
+
+
+
+    5.4 hypersensitivity reactions
+
+
+
+  systemic hypersensitivity reactions were observed in patients receiving trulicity in clinical trials [see adverse reactions (  6.1  )].  if a hypersensitivity reaction occurs, the patient should discontinue trulicity and promptly seek medical advice.
+
+
+
+    5.5 renal impairment
+
+
+
+  in patients treated with glp-1 receptor agonists, there have been postmarketing reports of acute renal failure and worsening of chronic renal failure, which may sometimes require hemodialysis. some of these events were reported in patients without known underlying renal disease. a majority of reported events occurred in patients who had experienced nausea, vomiting, diarrhea, or dehydration. because these reactions may worsen renal function, use caution when initiating or escalating doses of trulicity in patients with renal impairment. monitor renal function in patients with renal impairment reporting severe adverse gastrointestinal reactions [see dosage and administration (  2.3  ), use in specific populations (  8.7  )].  
+
+
+
+    5.6 severe gastrointestinal disease
+
+
+
+  use of trulicity may be associated with gastrointestinal adverse reactions, sometimes severe [see adverse reactions (  6.1  )]  . trulicity has not been studied in patients with severe gastrointestinal disease, including severe gastroparesis, and is therefore not recommended in these patients.
+
+
+
+    5.7 macrovascular outcomes
+
+
+
+  there have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with trulicity or any other antidiabetic drug.

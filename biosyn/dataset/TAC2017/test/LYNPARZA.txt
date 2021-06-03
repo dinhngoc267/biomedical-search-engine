@@ -1,0 +1,184 @@
+    6 adverse reactions
+
+  the following adverse reactions are discussed elsewhere in the labeling:
+
+
+
+ *    myelodysplastic syndrome/acute myeloid leukemia [see    warnings and precautions (5.1)    ]  
+ *    pneumonitis [see    warnings and precautions (5.2)    ]  
+   *    most common adverse reactions (>=20%) in clinical trials were anemia, nausea, fatigue (including asthenia), vomiting, diarrhea, dysgeusia, dyspepsia, headache, decreased appetite, nasopharyngitis/pharyngitis/uri, cough, arthralgia/musculoskeletal pain, myalgia, back pain, dermatitis/rash and abdominal pain/discomfort. (  6.1  ) 
+ *    most common laboratory abnormalities (>=25%) were increase in creatinine, mean corpuscular volume elevation, decrease in hemoglobin, decrease in lymphocytes, decrease in absolute neutrophil count, and decrease in platelets. (  6.1  ) 
+      excerpt:   to report suspected adverse reactions, contact astrazeneca at 1-800-236-9933 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 clinical trial experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ lynparza 400 mg twice daily as monotherapy, has been studied in 300 patients with g  brca  -mutated advanced ovarian cancer, and 223 of these patients had received 3 or more prior lines of chemotherapy.
+
+
+
+ in the 223 patients with g  brca  -mutated ovarian cancer who received 3 or more prior lines of chemotherapy (including 137 patients in study 1 with measureable disease)  [see      clinical studies (14)      ]  , adverse reactions led to dose interruption in 40% of patients, dose reduction in 4%, and discontinuation in 7%. there were 8 (4%) patients with adverse reactions leading to death, two were attributed to acute leukemia, and one each was attributed to copd, cerebrovascular accident, intestinal perforation, pulmonary embolism, sepsis, and suture rupture. table 1 presents the frequency of adverse reactions reported in >=20% of 223 patients (in 6 studies) with g  brca  -mutated advanced ovarian cancer who had received 3 or more prior lines of chemotherapy who were treated with lynparza 400 mg twice daily. the median exposure to lynparza in these patients was 158 days.
+
+
+
+ table 1 adverse reactions reported in >=20% of patients with gbrca-mutated advanced ovarian cancer receiving lynparza 
+                                                       3 or more lines of prior chemotherapy    
+  adverse reaction                                     grades 1-4  n=223  %    grades 3-4  n=223  %    
+  blood and lymphatic disorders                        
+                                                      anemia                                              
+                                                                                                            34                      18                     
+  gastrointestinal disorders                           
+                                                      abdominal pain/discomfort                           
+                                                                                                            43                      8                      
+                                                      decreased appetite                                  
+                                                                                                            22                      1                      
+                                                      nausea                                              
+                                                                                                            64                      3                      
+                                                      vomiting                                            
+                                                                                                            43                      4                      
+                                                      diarrhea                                            
+                                                                                                            31                      1                      
+                                                      dyspepsia                                           
+                                                                                                            25                      0                      
+  general disorders                                    
+                                                      fatigue/asthenia                                    
+                                                                                                            66                      8                      
+  infections and infestations                                                                         
+                                                      nasopharyngitis/uri                                 
+                                                                                                            26                      0                      
+  musculoskeletal and connective tissue disorders                                                     
+                                                      arthralgia/musculoskeletal pain                     
+                                                                                                            21                      0                      
+                                                      myalgia                                             
+                                                                                                            22                      0                      
+         table 2 presents the frequency of abnormal laboratory findings in the 223 patients with g  brca  -mutated advanced ovarian cancer who had received three or more prior lines of chemotherapy receiving lynparza 400 mg twice daily.
+ 
+
+ table 2 laboratory abnormalities reported in patients with gbrca-mutated advanced ovarian cancer receiving lynparza 
+  laboratory parameter1                                3 or more lines of prior chemotherapy    
+  grades 1-4  n=223  %                                 grades 3-4  n=223  %    
+  decrease in hemoglobin (anemia)                      90                      15                     
+  decrease in absolute neutrophil count (neutropenia)    25                      7                      
+  decrease in platelets (thrombocytopenia)             30                      3                      
+  decrease in lymphocytes (lymphopenia)                56                      17                     
+  mean corpuscular volume elevation                    57                      -                      
+  increase in creatinine                               30                      2                      
+         the following adverse reactions and laboratory abnormalities have been identified in >=10 to <20% of the 223 patients receiving lynparza and not included in the table: cough, constipation, dysgeusia, peripheral edema, back pain, dizziness, headache, urinary tract infection, dyspnea, and rash. the following adverse reactions and laboratory abnormalities have been identified in >=1 to <10% of the 223 patients receiving lynparza and not included in the table: leukopenia, stomatitis, peripheral neuropathy, pyrexia, hypomagnesemia, hyperglycemia, anxiety, depression, insomnia, dysuria, urinary incontinence, vulvovaginal disorder, dry skin/ eczema, pruritis, hypertension, venous thrombosis (including pulmonary embolism), and hot flush.
+ 
+
+ table 3 presents adverse reactions reported in >=20% of patients from a randomized trial of lynparza 400 mg twice daily as maintenance monotherapy compared to placebo in patients with platinum sensitive, relapsed, high-grade serous ovarian cancer following treatment with 2 or more platinum-containing regimens. table 4 presents the laboratory abnormalities in patients from this randomized trial. of the 96 patients with g  brca  -mutation, 53 received lynparza, and 43 received placebo. the median duration on treatment with lynparza was 11.1 months for patients with a g  brca  mutation compared to 4.4 months for patients with g  brca  mutation on placebo.
+
+
+
+ adverse reactions led to dose interruptions in 26% of those receiving lynparza and 7% of those receiving placebo; dose reductions in 15% of lynparza and 5% of placebo patients; and discontinuation in 9% of lynparza and 0% in placebo patients. one (2%) patient on lynparza died as a result of an adverse reaction.
+
+
+
+ table 3 adverse reactions reported in >=20% of patients with gbrca-mutated ovarian cancer in the randomized trial 
+  adverse reactions                        lynparza  n=53    placebo  n=43    
+                                           grades 1-4  %    grades 3-4  %    grades 1-4  %      grades 3-4  %     
+  blood and lymphatic disorders                                                                                 
+                                          anemia                                  
+                                                                                    25              4               7                  2                 
+  gastrointestinal disorders               
+                                          abdominal pain/discomfort               
+                                                                                    47              0               58                 2                 
+                                          decreased appetite                      
+                                                                                    25              0               14                 0                 
+                                          nausea                                  
+                                                                                    75              2               37                 0                 
+                                          vomiting                                
+                                                                                    32              4               9                  0                 
+                                          diarrhea                                
+                                                                                    28              4               21                 2                 
+                                          dyspepsia                               
+                                                                                    25              0               14                 0                 
+                                          dysgeusia                               
+                                                                                    21              0               9                  0                 
+  general disorders                        
+                                          fatigue (including asthenia, lethargy)  
+                                                                                    68              6               53                 2                 
+  infections and infestations                                                                                   
+                                          nasopharyngitis/pharyngitis/uri         
+                                                                                    43              0               16                 0                 
+  musculoskeletal and connective tissue disorders                                                                         
+                                          arthralgia/musculoskeletal pain         
+                                                                                                   32             
+                                                 4              
+                                                    21                
+                                                         0                
+                                      
+                                          myalgia                                 
+                                                                                                   25             
+                                                 2              
+                                                    12                
+                                                         0                
+                                      
+                                          back pain                               
+                                                                                                   25             
+                                                 6              
+                                                    21                
+                                                         0                
+                                      
+  nervous system disorder                  
+                                          headache                                
+                                                                                    25              0               19                 2                 
+  respiratory, thoracic, mediastinal disorders                                                                         
+                                          cough                                   
+                                                                                    21              0               14                 0                 
+  skin and subcutaneous tissue                                                                                  
+                                          dermatitis/rash                         
+                                                                                    25              0               14                 0                 
+          table 4 laboratory abnormalities in patients with gbrca-mutated ovarian cancer in the randomized trial 
+  laboratory parameter1                    lynparza  n=53    placebo  n=43    
+                                           grades 1-4  %    grades 3-4  %    grades 1-4  %      grades 3-4  %     
+  decrease in hemoglobin                   85              8               58                 2                 
+  decrease in absolute neutrophil count    32              8               23                 0                 
+  decrease in platelets                    26              6               19                 0                 
+  mean corpuscular volume elevation        85              -               44                 -                 
+  increase in creatininepatients were allowed to enter clinical studies with laboratory values of ctcae grade 1.    26              0               5                  0                 
+    5 warnings and precautions
+
+
+
+   excerpt:    *    myelodysplastic syndrome/acute myeloid leukemia: (mds/aml) occurred in patients exposed to lynparza, and some cases were fatal. monitor patients for hematological toxicity at baseline and monthly thereafter. discontinue if mds/aml is confirmed. (  5.1  ) 
+ *    pneumonitis: occurred in patients exposed to lynparza, and some cases were fatal. interrupt treatment if pneumonitis is suspected. discontinue if pneumonitis is confirmed. (  5.2  ) 
+ *    embryo-fetal toxicity: lynparza can cause fetal harm. advise females of reproductive potential of the potential risk to a fetus and to avoid pregnancy. (  5.3  ,  8.1  ) 
+    
+ 
+
+   5.1 myelodysplastic syndrome/acute myeloid leukemia
+
+
+
+  myelodysplastic syndrome/acute myeloid leukemia (mds/aml) have been confirmed in 6 out of 298 (2%) patients enrolled in a single arm trial of lynparza monotherapy, in patients with deleterious or suspected deleterious germline brca  -mutated ( gbrca  m) advanced cancers. in a randomized placebo controlled trial, mds/aml occurred in 3 out of 136 (2%) patients with advanced ovarian cancer treated with lynparza. overall, mds/aml were reported in 22 of 2,618 (<1%) patients treated with lynparza. the majority of mds/aml cases (17 of 22 cases) were fatal, and the duration of therapy with lynparza in patients who developed secondary mds/cancer-therapy related aml varied from <6 months to >2 years. all patients had previous chemotherapy with platinum agents and/or other dna damaging agents.
+
+
+
+ monitor complete blood count testing at baseline and monthly thereafter. do not start lynparza until patients have recovered from hematological toxicity caused by previous chemotherapy (<=ctcae grade 1). for prolonged hematological toxicities, interrupt lynparza and monitor blood counts weekly until recovery. if the levels have not recovered to ctcae grade 1 or less after 4 weeks, refer the patient to a hematologist for further investigations, including bone marrow analysis and blood sample for cytogenetics. if mds/aml is confirmed, discontinue lynparza.
+
+
+
+    5.2 pneumonitis
+
+
+
+  pneumonitis, including fatal cases, occurred in <1% of patients treated with lynparza. if patients present with new or worsening respiratory symptoms such as dyspnea, fever, cough, wheezing, or a radiological abnormality occurs, interrupt treatment with lynparza and initiate prompt investigation. if pneumonitis is confirmed, discontinue lynparza.
+
+
+
+    5.3 embryo-fetal toxicity
+
+
+
+  lynparza can cause fetal harm when administered to a pregnant woman based on its mechanism of action and findings in animals. olaparib was teratogenic and caused embryo-fetal toxicity in rats at exposures below those in patients receiving the recommended human dose of 400 mg twice daily. if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to a fetus [see     use in specific populations (8.1)     ]  .
+
+
+
+ advise females of reproductive potential to avoid becoming pregnant while taking lynparza. if contraceptive methods are being considered, use effective contraception during treatment and for at least one month after receiving the last dose of lynparza [see     use in specific populations (8.6)     ]  .

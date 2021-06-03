@@ -1,0 +1,126 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are discussed in greater detail in another section of the label:
+
+
+
+ *    bone marrow suppression [see warnings and precautions (  5.1  )]  
+      excerpt:   the most common adverse drug reactions (>= 10%) in patients receiving xofigo were nausea, diarrhea, vomiting, and peripheral edema.
+ 
+
+ the most common hematologic laboratory abnormalities (>= 10%) were anemia, lymphocytopenia, leukopenia, thrombocytopenia, and neutropenia (  6.1  ).
+
+
+
+   to report suspected adverse reactions, contact    bayer healthcare pharmaceuticals inc. at 1-888-842-2937    or fda at 1-800-fda-1088 or    www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ in the randomized clinical trial in patients with metastatic castration-resistant prostate cancer with bone metastases, 600 patients received intravenous injections of 50 kbq/kg (1.35 microcurie/kg) of xofigo and best standard of care and 301 patients received placebo and best standard of care once every 4 weeks for up to 6 injections. prior to randomization, 58% and 57% of patients had received docetaxel in the xofigo and placebo arms, respectively. the median duration of treatment was 20 weeks (6 cycles) for xofigo and 18 weeks (5 cycles) for placebo.
+
+
+
+ the most common adverse reactions (>= 10%) in patients receiving xofigo were nausea, diarrhea, vomiting, and peripheral edema (table 3). grade 3 and 4 adverse events were reported among 57% of xofigo-treated patients and 63% of placebo-treated patients. the most common hematologic laboratory abnormalities in xofigo-treated patients (>= 10%) were anemia, lymphocytopenia, leukopenia, thrombocytopenia, and neutropenia (table 4).
+
+
+
+ treatment discontinuations due to adverse events occurred in 17% of patients who received xofigo and 21% of patients who received placebo. the most common hematologic laboratory abnormalities leading to discontinuation for xofigo were anemia (2%) and thrombocytopenia (2%).
+
+
+
+ table 3 shows adverse reactions occurring in >= 2% of patients and for which the incidence for xofigo exceeds the incidence for placebo.
+
+
+
+ table 3: adverse reactions in the randomized trial 
+  system/organ classpreferred term    xofigo (n=600)           placebo (n=301)          
+  grades 1-4%              grades 3-4%              grades 1-4%              grades 3-4%              
+  blood and lymphatic system disorders    
+  pancytopenia             2                        1                        0                        0                        
+  gastrointestinal disorders    
+  nausea                   36                       2                        35                       2                        
+  diarrhea                 25                       2                        15                       2                        
+  vomiting                 19                       2                        14                       2                        
+  general disorders and administration site conditions    
+  peripheral edema         13                       2                        10                       1                        
+  renal and urinary disorders    
+  renal failure and impairment    3                        1                        1                        1                        
+             laboratory abnormalities
+   table 4 shows hematologic laboratory abnormalities occurring in  >  10% of patients and for which the incidence for xofigo exceeds the incidence for placebo.
+
+
+
+   table 4: hematologic laboratory abnormalities  
+
+
+
+
+  hematologic laboratory abnormalities    xofigo (n=600)           placebo (n=301)          
+  grades 1-4%              grades 3-4%              grades 1-4%              grades 3-4%              
+  anemia                   93                       6                        88                       6                        
+  lymphocytopenia          72                       20                       53                       7                        
+  leukopenia               35                       3                        10                       <1                       
+  thrombocytopenia         31                       3                        22                       <1                       
+  neutropenia              18                       2                        5                        <1                       
+  laboratory values were obtained at baseline and prior to each 4-week cycle.    
+           as an adverse reaction, grade 3-4 thrombocytopenia was reported in 6% of patients on xofigo and in 2% of patients on placebo. among patients who received xofigo, the laboratory abnormality grade 3-4 thrombocytopenia occurred in 1% of docetaxel naive patients and in 4% of patients who had received prior docetaxel. grade 3-4 neutropenia occurred in 1% of docetaxel naive patients and in 3% of patients who have received prior docetaxel.
+ 
+
+   fluid status
+
+  dehydration occurred in 3% of patients on xofigo and 1% of patients on placebo. xofigo increases adverse reactions such as diarrhea, nausea, and vomiting which may result in dehydration. monitor patients' oral intake and fluid status carefully and promptly treat patients who display signs or symptoms of dehydration or hypovolemia.
+
+
+
+   injection site reactions
+
+  erythema, pain, and edema at the injection site were reported in 1% of patients on xofigo.
+
+
+
+   secondary malignant neoplasms
+
+  xofigo contributes to a patient's overall long-term cumulative radiation exposure. long-term cumulative radiation exposure may be associated with an increased risk of cancer and hereditary defects. due to its mechanism of action and neoplastic changes, including osteosarcomas, in rats following administration of radium-223 dichloride, xofigo may increase the risk of osteosarcoma or other secondary malignant neoplasms  [see nonclinical toxicology (  13.1  )]  . however, the overall incidence of new malignancies in the randomized trial was lower on the xofigo arm compared to placebo (<1% vs. 2%; respectively), but the expected latency period for the development of secondary malignancies exceeds the duration of follow up for patients on the trial.
+
+
+
+   subsequent treatment with cytotoxic chemotherapy
+
+  in the randomized clinical trial, 16% patients in the xofigo group and 18% patients in the placebo group received cytotoxic chemotherapy after completion of study treatments. adequate safety monitoring and laboratory testing was not performed to assess how patients treated with xofigo will tolerate subsequent cytotoxic chemotherapy.
+    5 warnings and precautions
+
+
+
+  excerpt:   bone marrow suppression: measure blood counts prior to treatment initiation and before every dose of xofigo. discontinue xofigo if hematologic values do not recover within 6 to 8 weeks after treatment. monitor patients with compromised bone marrow reserve closely. discontinue xofigo in patients who experience life-threatening complications despite supportive care measures. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 bone marrow suppression
+
+
+
+  in the randomized trial, 2% of patients on the xofigo arm experienced bone marrow failure or ongoing pancytopenia compared to no patients treated with placebo. there were two deaths due to bone marrow failure and for 7 of 13 patients treated with xofigo, bone marrow failure was ongoing at the time of death. among the 13 patients who experienced bone marrow failure, 54% required blood transfusions. four percent (4%) of patients on the xofigo arm and 2% on the placebo arm permanently discontinued therapy due to bone marrow suppression.
+
+
+
+ in the randomized trial, deaths related to vascular hemorrhage in association with myelosuppression were observed in 1% of xofigo-treated patients compared to 0.3% of patients treated with placebo. the incidence of infection-related deaths (2%), serious infections (10%), and febrile neutropenia (<1%) were similar for patients treated with xofigo and placebo. myelosuppression; notably thrombocytopenia, neutropenia, pancytopenia, and leukopenia; has been reported in patients treated with xofigo. in the randomized trial, complete blood counts (cbcs) were obtained every 4 weeks prior to each dose and the nadir cbcs and times of recovery were not well characterized. in a separate single-dose phase 1 study of xofigo, neutrophil and platelet count nadirs occurred 2 to 3 weeks after xofigo administration at doses that were up to 1 to 5 times the recommended dose, and most patients recovered approximately 6 to 8 weeks after administration [see adverse reactions (  6  )]  .
+
+
+
+ hematologic evaluation of patients must be performed at baseline and prior to every dose of xofigo. before the first administration of xofigo, the absolute neutrophil count (anc) should be >= 1.5 x 10  9  /l, the platelet count >= 100 x 10  9  /l and hemoglobin >= 10 g/dl. before subsequent administrations of xofigo, the anc should be >= 1 x 10  9  /l and the platelet count >= 50 x 10  9  /l. if there is no recovery to these values within 6 to 8 weeks after the last administration of xofigo, despite receiving supportive care, further treatment with xofigo should be discontinued. patients with evidence of compromised bone marrow reserve should be monitored closely and provided with supportive care measures when clinically indicated. discontinue xofigo in patients who experience life-threatening complications despite supportive care for bone marrow failure.
+
+
+
+ the safety and efficacy of concomitant chemotherapy with xofigo have not been established. outside of a clinical trial, concomitant use with chemotherapy is not recommended due to the potential for additive myelosuppression. if chemotherapy, other systemic radioisotopes or hemibody external radiotherapy are administered during the treatment period, xofigo should be discontinued.

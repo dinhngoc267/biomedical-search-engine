@@ -1,0 +1,155 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are described in more detail in other sections of the prescribing information.
+
+
+
+ *    hematologic toxicity  [see warnings and precautions (   5.1  )]  
+ *    infection [see warnings and precautions (  5.2  )]  
+ *    hepatotoxicity [see warnings and precautions (  5.3  )]  
+ *    tumor lysis syndrome [see warnings and precautions (  5.4  )]  
+ *    gastrointestinal toxicity [see warnings and precautions (  5.5  )]  
+    the most common adverse reactions observed in the trial of patients with relapsed or refractory ptcl treated with beleodaq were nausea, fatigue, pyrexia, anemia, and vomiting  [see clinical studies  (    14    )  ]  .
+ 
+
+   excerpt:   the most common adverse reactions (>25%) are nausea, fatigue, pyrexia, anemia, and vomiting. (    6    )
+
+
+
+   to report suspected adverse reactions, contact spectrum pharmaceuticals, inc. at 1-888-292-9617 or fda at 1-800-fda-1088     or       www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of beleodaq may not reflect the rates observed in practice.
+
+
+
+   adverse reactions in patients with peripheral t-cell lymphoma  
+
+
+
+ the safety of beleodaq was evaluated in 129 patients with relapsed or refractory ptcl in the single arm clinical trial in which patients were administered beleodaq at a dosage of 1,000 mg/m2 administered over 30 minutes by iv infusion once daily on days 1-5 of a 21-day cycle  [see clinical studies  (    14    )  ]  . the median duration of treatment was 2 cycles (range 1 - 33 cycles).
+
+
+
+ table 2 summarizes the adverse reactions regardless of causality from the trial in patients with relapsed or refractory ptcl.
+
+
+
+ table 2: adverse reactions occurring in >= 10% of patients by preferred term and severity in patients with relapsed or refractory ptcl (nci-ctc grade 1-4) 
+  meddra preferred term                                 percentage of patients (%)  (n=129)    
+                                                        all grades                grade 3 or 4              
+  all adverse reactions                                 97                        61                        
+  nausea                                                42                        1                         
+  fatigue                                               37                        5                         
+  pyrexia                                               35                        2                         
+  anemia                                                32                        11                        
+  vomiting                                              29                        1                         
+  constipation                                          23                        1                         
+  diarrhea                                              23                        2                         
+  dyspnea                                               22                        6                         
+  rash                                                  20                        1                         
+  peripheral edema                                      20                        0                         
+  cough                                                 19                        0                         
+  thrombocytopenia                                      16                        7                         
+  pruritus                                              16                        3                         
+  chills                                                16                        1                         
+  increased blood lactate dehydrogenase                 16                        2                         
+  decreased appetite                                    15                        2                         
+  headache                                              15                        0                         
+  infusion site pain                                    14                        0                         
+  hypokalemia                                           12                        4                         
+  prolonged qt                                          11                        4                         
+  abdominal pain                                        11                        1                         
+  hypotension                                           10                        3                         
+  phlebitis                                             10                        1                         
+  dizziness                                             10                        0                         
+         note: adverse reactions are listed by order of incidence in the "all grades" category first, then by incidence in "the grade 3 or 4" category; meddra = medical dictionary for regulatory activities; severity measured by national cancer institute common terminology criteria for adverse events (nci-ctcae) version 3.0
+ 
+
+   serious adverse reactions  
+
+
+
+ sixty-one patients (47.3%) experienced serious adverse reactions while taking beleodaq or within 30 days after their last dose of beleodaq. the most common serious adverse reactions (> 2%) were pneumonia, pyrexia, infection, anemia, increased creatinine, thrombocytopenia, and multi-organ failure. one treatment-related death associated with hepatic failure was reported in the trial.
+
+
+
+ one patient with baseline hyperuricemia and bulky disease experienced grade 4 tumor lysis syndrome during the first cycle of treatment and died due to multi-organ failure. a treatment-related death from ventricular fibrillation was reported in another monotherapy clinical trial with beleodaq. ecg analysis did not identify qtc prolongation.
+
+
+
+   discontinuations due to adverse reactions  
+
+
+
+ twenty-five patients (19.4%) discontinued treatment with beleodaq due to adverse reactions. the adverse reactions reported most frequently as the reason for discontinuation of treatment included anemia, febrile neutropenia, fatigue, and multi-organ failure.
+
+
+
+   dosage modifications due to adverse reactions  
+
+
+
+ in the trial, dosage adjustments due to adverse reactions occurred in 12% of beleodaq-treated patients.
+    5 warnings and precautions
+
+
+
+   excerpt:    *    thrombocytopenia, leukopenia (neutropenia and lymphopenia), and anemia: monitor blood counts and modify dosage for hematologic toxicities. (   2.2  ,  5.1   ) 
+ *    infection: serious and fatal infections (e.g., pneumonia and sepsis). (   5.2   ) 
+ *    hepatotoxicity: beleodaq may cause hepatic toxicity and liver function test abnormalities. monitor liver function tests and omit or modify dosage for hepatic toxicities. (   2.2  ,  5.3   ) 
+ *    tumor lysis syndrome: monitor patients with advanced stage disease and/or high tumor burden and take appropriate precautions. (   5.4   ) 
+ *    embryo-fetal toxicity: beleodaq may cause fetal harm when administered to a pregnant woman. advise women of potential harm to the fetus and to avoid pregnancy while receiving beleodaq. (   5.6   ) 
+    
+ 
+
+   5.1 hematologic toxicity
+
+
+
+  beleodaq can cause thrombocytopenia, leukopenia (neutropenia and lymphopenia), and/or anemia; monitor blood counts weekly during treatment, and modify dosage as necessary  [see dosage and administration (  2.2    ) and adverse reactions   (  6.1  )]  .
+
+
+
+    5.2 infections
+
+
+
+  serious and sometimes fatal infections, including pneumonia and sepsis, have occurred with beleodaq. do not administer beleodaq to patients with an active infection. patients with a history of extensive or intensive chemotherapy may be at higher risk of life threatening infections [see adverse reactions (  6.1  )].  
+
+
+
+    5.3 hepatotoxicity
+
+
+
+  beleodaq can cause fatal hepatotoxicity and liver function test abnormalities  [see adverse reactions  (   6.1  )]  . monitor liver function tests before treatment and before the start of each cycle. interrupt or adjust dosage until recovery, or permanently discontinue beleodaq based on the severity of the hepatic toxicity [see dosage and administration (     2.2)     ].  
+
+
+
+    5.4 tumor lysis syndrome
+
+
+
+  tumor lysis syndrome has occurred in beleodaq-treated patients in the clinical trial of patients with relapsed or refractory ptcl  [see    clinical studies  (   14    ) ]  . monitor patients with advanced stage disease and/or high tumor burden and take appropriate precautions  [see    adverse reactions  (   6.1    ) ]  .
+
+
+
+    5.5 gastrointestinal toxicity
+
+
+
+  nausea, vomiting and diarrhea occur with beleodaq  [see adverse reactions (  6.1  )]  and may require the use of antiemetic and antidiarrheal medications.
+
+
+
+    5.6 embryo-fetal toxicity
+
+
+
+  beleodaq can cause fetal harm when administered to a pregnant woman. beleodaq may cause teratogenicity and/or embryo-fetal lethality because it is genotoxic and targets actively dividing cells  [see nonclinical toxicology  (   13.1    ) ]  . women of childbearing potential should be advised to avoid pregnancy while receiving beleodaq. if this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of potential hazard to the fetus  [see use in specific populations  (   8.1    ) ]  .

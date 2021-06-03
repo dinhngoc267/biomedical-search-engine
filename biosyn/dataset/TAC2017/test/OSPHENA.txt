@@ -1,0 +1,201 @@
+    6. adverse reactions
+
+  the following serious adverse reactions are discussed elsewhere in the labeling:
+
+
+
+ *  cardiovascular disorders [see  boxed warning  ,  warnings and precautions (5.1)  ]  
+ *  malignant neoplasms [see  boxed warning  ,  warnings and precautions (5.2)  ]  
+      excerpt:   adverse reactions (>=1 percent) include: hot flush, vaginal discharge, muscle spasms, genital discharge, hyperhidrosis. (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact shionogi inc. at 1-855-osphena (1-855-677-4362) or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the safety of osphena has been assessed in nine phase 2/3 trials (n=1892) with doses ranging from 5 to 90 mg per day. the duration of treatment in these studies ranged from 6 weeks to 15 months. most women (n=1370) had a treatment period of at least 12 weeks, 409 had at least 52 weeks (1 year) of exposure.
+
+
+
+ the incidence rates of thromboembolic and hemorrhagic stroke were 0.72 per thousand women (1 reported case of thromboembolic stroke) and 1.45 per thousand women (2 reported cases of hemorrhagic stroke), respectively in osphena 60 mg treatment group and 1.04 and 0 per thousand women, respectively in placebo. the incidence of deep vein thrombosis (dvt) was 1.45 per thousand women in osphena 60 mg treatment group (2 reported cases of dvt) and 1.04 (1 case of dvt) in placebo.
+
+
+
+ table 1 lists adverse reactions occurring more frequently in the osphena 60 mg treatment group than in placebo and at a frequency >=1%.
+
+
+
+ table 1: adverse reactions reported more common in the osphena treatment group (60 mg once daily) and at frequency >=1.0% in the double-blind, controlled clinical trials with osphena vs. placebo 
+                                                       ospemifene 60 mg(n=1242)%       placebo(n=958)%      
+  
+   vascular disorders                                 
+   hot flush                                                      7.5                        2.6            
+   reproductive system and breast disorders           
+   vaginal discharge                                              3.8                        0.3            
+   genital discharge                                              1.3                        0.1            
+   musculoskeletal and connective tissue disorders     
+   muscle spasms                                                  3.2                        0.9            
+   skin and subcutaneous tissue disorders             
+   hyperhidrosis                                                  1.6                        0.6            
+           6.2 postmarketing experience
+   the following adverse reactions have been identified during post-approval use of ospemifene. because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   immune system disorders: allergic conditions including hypersensitivity, angioedema  
+
+
+
+   skin and subcutaneous tissue disorders: rash, rash erythematous, rash generalized, pruritus, urticaria  
+
+
+    boxed warning: warning: endometrial cancer and cardiovascular disorders
+
+    warning: endometrial cancer and cardiovascular disorders  
+
+    endometrial cancer  
+
+
+
+   osphena is an estrogen agonist/antagonist with tissue selective effects.  in the endometrium, osphena has estrogen agonistic effects. there is an increased risk of endometrial cancer in a woman with a uterus who uses unopposed estrogens. adding a progestin to estrogen therapy reduces the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer. adequate diagnostic measures, including directed and random endometrial sampling when indicated, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal genital bleeding   [see   warnings and precautions (5.2)  ].    
+
+
+
+   cardiovascular disorders  
+
+
+
+   there is a reported increased risk of stroke and deep vein thrombosis (dvt) in postmenopausal women (50 to 79 years of age) who received daily oral conjugated estrogens (ce) [0.625 mg]-alone therapy over 7.1 years as part of the women's health initiative (whi)   [see   warnings and precautions (5.1)  ].    
+
+
+
+   in the clinical trials for osphena (duration of treatment up to 15 months), the incidence rates of thromboembolic and hemorrhagic stroke were 0.72 and 1.45 per thousand women, respectively in osphena 60 mg treatment group and 1.04 and 0 in placebo   [see   warnings and precautions (5.1)  ]  . the incidence of dvt was 1.45 per thousand women in osphena 60 mg treatment group and 1.04 per thousand women in placebo   [see   warnings and precautions (5.1)  ]  . osphena should be prescribed for the shortest duration consistent with treatment goals and risks for the individual woman.  
+
+
+
+   excerpt:   warning: endometrial cancer and cardiovascular disorders
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+   osphena is an estrogen agonist/antagonist with tissue selective effects.  in the endometrium, osphena has estrogen agonistic effects.  there is an increased risk of endometrial cancer in a woman with a uterus who uses unopposed estrogens. adding a progestin to estrogen therapy reduces the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer   [see   warnings and precautions (5.2)  ].    
+
+
+
+   estrogen-alone therapy has an increased risk of stroke and deep vein thrombosis (dvt).  osphena 60 mg had cerebral thromboembolic and hemorrhagic stroke incidence rates of 0.72 and 1.45 per thousand women, respectively vs. 1.04 and 0 per thousand women, respectively in placebo.  for deep vein thrombosis, the incidence rate for osphena 60 mg is 1.45 per thousand women vs. 1.04 per thousand women in placebo   [see   warnings and precautions (5.1)  ].    
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+    5. warnings and precautions
+
+
+
+   excerpt:    *  venous thromboembolism: risk of dvt and pulmonary embolism (  5.1  ) 
+ *  known, suspected, or history of breast cancer (  5.2  ) 
+ *  severe hepatic impairment (  5.3  ,  8.7  ,  12.3  ) 
+    
+ 
+
+   5.1 cardiovascular disorders
+
+
+
+  risk factors for cardiovascular disorders, arterial vascular disease (for example, hypertension, diabetes mellitus, tobacco use, hypercholesterolemia, and obesity) and/or venous thromboembolism (vte) (for example, personal history or family history of vte, obesity, and systemic lupus erythematosus), should be managed appropriately.
+
+
+
+    stroke  
+
+
+
+ in the whi estrogen-alone substudy, a statistically significant increased risk of stroke was reported in women 50 to 79 years of age receiving daily ce (0.625 mg)-alone compared to women in the same age group receiving placebo (45 versus 33 per ten thousand women-years). the increase in risk was demonstrated in year 1 and persisted.
+
+
+
+ in the clinical trials for osphena (duration of treatment up to 15 months), the incidence rates of thromboembolic and hemorrhagic stroke were 0.72 and 1.45 per thousand women, respectively in osphena 60 mg treatment group and 1.04 and 0 per thousand women in placebo.
+
+
+
+ should thromboembolic or hemorrhagic stroke occur or be suspected, osphena should be discontinued immediately.
+
+
+
+    coronary heart disease  
+
+
+
+ in the whi estrogen-alone substudy, no overall effect on coronary heart disease (chd) events (defined as nonfatal mi, silent mi, or chd death) was reported in women receiving estrogen-alone compared to placebo. in the osphena clinical trials, a single mi occurred in a woman receiving 60 mg of ospemifene.
+
+
+
+    venous thromboembolism  
+
+
+
+ in the whi estrogen-alone substudy, the risk of vte (dvt and pe), was increased for women receiving daily ce (0.625 mg)-alone compared to placebo (30 versus 22 per ten thousand women-years), although only the increased risk of dvt reached statistical significance (23 versus 15 per ten thousand women-years). the increase in vte risk was demonstrated during the first 2 years.
+
+
+
+ in the osphena clinical trials, the incidence of dvt was 1.45 per thousand women in osphena 60 mg treatment group and 1.04 per thousand women in placebo. should a vte occur or be suspected, osphena should be discontinued immediately.
+
+
+
+ if feasible, osphena should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
+
+
+
+    5.2 malignant neoplasms
+
+
+
+   endometrial cancer  
+
+
+
+ osphena is an estrogen agonist/antagonist with tissue selective effects. in the endometrium, osphena has agonistic effects. in the osphena clinical trials (60 mg treatment group), no cases of endometrial cancer were seen with exposure up to 52 weeks. there was a single case of simple hyperplasia without atypia. endometrial thickening equal to 5 mm or greater was seen in the osphena treatment groups at a rate of 60.1 per thousand women vs. 21.2 per thousand women for placebo. the incidence of any type of proliferative (weakly plus active plus disordered) endometrium was 86.1 per thousand women in osphena vs. 13.3 per thousand women for placebo. uterine polyps occurred at an incidence of 5.9 per thousand women vs. 1.8 per thousand women for placebo.
+
+
+
+ an increased risk of endometrial cancer has been reported with the use of unopposed estrogen therapy in a woman with a uterus. the reported endometrial cancer risk among unopposed estrogen users is about 2 to 12 times greater than in non-users, and appears dependent on duration of treatment and on estrogen dose. most studies show no significant increased risk associated with the use of estrogens for less than 1 year. the greatest risk appears to be associated with prolonged use, with increased risks of 15- to 24-fold for 5 to 10 years or more. this risk has been shown to persist for at least 8 to 15 years after estrogen therapy is discontinued. adding a progestin to postmenopausal estrogen therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer. there are, however, possible risks that may be associated with the use of progestins with estrogens compared to estrogen-alone regimens. these include an increased risk of breast cancer. the use of progestins with osphena therapy was not evaluated in the clinical trials.
+
+
+
+ clinical surveillance of all women using osphena is important. adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal genital bleeding.
+
+
+
+    breast cancer  
+
+
+
+ osphena 60 mg has not been adequately studied in women with breast cancer; therefore, it should not be used in women with known or suspected breast cancer or with a history of breast cancer.
+
+
+
+    5.3 severe hepatic impairment
+
+
+
+  osphena should not be used in women with severe hepatic impairment [see  use in specific populations (8.7)  , and  clinical pharmacology (12.3)  ].  

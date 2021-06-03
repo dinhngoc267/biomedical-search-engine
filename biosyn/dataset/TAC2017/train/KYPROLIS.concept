@@ -1,0 +1,158 @@
+-1||-1|-1||-1||cardiac toxicities||10048610
+-1||-1|-1||-1||acute renal failure||10069339
+-1||-1|-1||-1||tumor lysis syndrome||10045170
+-1||-1|-1||-1||pulmonary toxicity||10061924
+-1||-1|-1||-1||pulmonary hypertension||10037400
+-1||-1|-1||-1||dyspnea||10013968
+-1||-1|-1||-1||hypertension||10020772
+-1||-1|-1||-1||venous thrombosis||10047249
+-1||-1|-1||-1||infusion reactions||10051792
+-1||-1|-1||-1||thrombocytopenia||10043554
+-1||-1|-1||-1||hepatic toxicity||10019851
+-1||-1|-1||-1||hepatic failure||10019663
+-1||-1|-1||-1||thrombotic thrombocytopenic purpura||10043648
+-1||-1|-1||-1||hemolytic uremic syndrome||10018932
+-1||-1|-1||-1||posterior reversible encephalopathy syndrome||10071066
+-1||-1|-1||-1||pres||10071066
+-1||-1|-1||-1||anemia||10002034
+-1||-1|-1||-1||fatigue||10016256
+-1||-1|-1||-1||nausea||10028813
+-1||-1|-1||-1||pyrexia||10037660
+-1||-1|-1||-1||decreased platelets||10035528
+-1||-1|-1||-1||diarrhea||10012735
+-1||-1|-1||-1||decreased lymphocyte||10025256
+-1||-1|-1||-1||headache||10019211
+-1||-1|-1||-1||decreased hemoglobin||10018884
+-1||-1|-1||-1||cough||10011224
+-1||-1|-1||-1||edema peripheral||10030124
+-1||-1|-1||-1||decreased lymphocytes||10025256
+-1||-1|-1||-1||decreased absolute neutrophil count||10029366
+-1||-1|-1||-1||decreased phosphorus||10049471
+-1||-1|-1||-1||neutropenia||10029354
+-1||-1|-1||-1||decreased total white blood cell count||10047942
+-1||-1|-1||-1||muscle spasm||10028334
+-1||-1|-1||-1||upper respiratory tract infection||10046306
+-1||-1|-1||-1||hypokalemia||10021015
+-1||-1|-1||-1||deaths||10011906
+-1||-1|-1||-1||died||10011906
+-1||-1|-1||-1||cardiac adverse events||10075534
+-1||-1|-1||-1||infection adverse events||10021789
+-1||-1|-1||-1||renal adverse events||10062237
+-1||-1|-1||-1||pneumonia||10035664
+-1||-1|-1||-1||respiratory tract infection||10062352
+-1||-1|-1||-1||pulmonary embolism||10037377
+-1||-1|-1||-1||myocardial infarction||10028596
+-1||-1|-1||-1||bronchopneumonia||10035664
+-1||-1|-1||-1||peripheral neuropathies nec||10034607
+-1||-1|-1||-1||dyspnea exertional||10013971
+-1||-1|-1||-1||embolic and thrombotic events, venous||10014522
+-1||-1|-1||-1||hypertensive crisis||10020802
+-1||-1|-1||-1||hypertensive emergency||10058179
+-1||-1|-1||-1||constipation||10010774
+-1||-1|-1||-1||asthenia||10003549
+-1||-1|-1||-1||nasopharyngitis||10028810
+-1||-1|-1||-1||bronchitis||10006451
+-1||-1|-1||-1||hypocalcemia||10020947
+-1||-1|-1||-1||hyperglycemia||10020635
+-1||-1|-1||-1||muscle spasms||10028334
+-1||-1|-1||-1||insomnia||10022437
+-1||-1|-1||-1||rash||10037844
+-1||-1|-1||-1||febrile neutropenia||10016288
+-1||-1|-1||-1||lymphopenia||10025327
+-1||-1|-1||-1||cardiac arrest||10007515
+-1||-1|-1||-1||cardiac failure||10007554
+-1||-1|-1||-1||cardiac failure congestive||10007559
+-1||-1|-1||-1||myocardial ischemia||10028600
+-1||-1|-1||-1||cataract||10007739
+-1||-1|-1||-1||vision blurred||10047513
+-1||-1|-1||-1||abdominal pain||10000081
+-1||-1|-1||-1||abdominal pain upper||10000087
+-1||-1|-1||-1||dyspepsia||10013946
+-1||-1|-1||-1||toothache||10044055
+-1||-1|-1||-1||chills||10008531
+-1||-1|-1||-1||infusion site reaction||10054996
+-1||-1|-1||-1||multi-organ failure||10028154
+-1||-1|-1||-1||pain||10033371
+-1||-1|-1||-1||influenza||10022000
+-1||-1|-1||-1||sepsis||10040047
+-1||-1|-1||-1||urinary tract infection||10046571
+-1||-1|-1||-1||viral infection||10047461
+-1||-1|-1||-1||dehydration||10012174
+-1||-1|-1||-1||hyperkalemia||10020646
+-1||-1|-1||-1||hyperuricemia||10020903
+-1||-1|-1||-1||hypoalbuminemia||10020942
+-1||-1|-1||-1||hyponatremia||10021036
+-1||-1|-1||-1||muscular weakness||10028372
+-1||-1|-1||-1||myalgia||10028411
+-1||-1|-1||-1||hypoesthesia||10020937
+-1||-1|-1||-1||paresthesia||10033775
+-1||-1|-1||-1||deafness||10011878
+-1||-1|-1||-1||anxiety||10002855
+-1||-1|-1||-1||delirium||10012218
+-1||-1|-1||-1||renal failure||10038435
+-1||-1|-1||-1||renal failure acute||10069339
+-1||-1|-1||-1||renal impairment||10062237
+-1||-1|-1||-1||dysphonia||10013952
+-1||-1|-1||-1||epistaxis||10015090
+-1||-1|-1||-1||oropharyngeal pain||10068319
+-1||-1|-1||-1||pulmonary edema||10037423
+-1||-1|-1||-1||erythema||10015150
+-1||-1|-1||-1||hyperhidrosis||10020642
+-1||-1|-1||-1||pruritus||10037087
+-1||-1|-1||-1||deep vein thrombosis||10051055
+-1||-1|-1||-1||hypotension||10021097
+-1||-1|-1||-1||hypophosphatemia||10021058
+-1||-1|-1||-1||decreased potassium||10005724
+-1||-1|-1||-1||disease progression||10061818
+-1||-1|-1||-1||hypercalcemia||10020583
+-1||-1|-1||-1||congestive heart failure||10007559
+-1||-1|-1||-1||multiple myeloma||10035226
+-1||-1|-1||-1||cardiac disorders||10061024
+-1||-1|-1||-1||infections||10021789
+-1||-1|-1||-1||renal disorders||10038428
+-1||-1|-1||-1||mortality||10011906
+-1||-1|-1||-1||leukopenia||10024384
+-1||-1|-1||-1||vomiting||10047700
+-1||-1|-1||-1||decreased appetite||10061428
+-1||-1|-1||-1||back pain||10003988
+-1||-1|-1||-1||arthralgia||10003239
+-1||-1|-1||-1||pain in extremity||10033425
+-1||-1|-1||-1||musculoskeletal pain||10028391
+-1||-1|-1||-1||dizziness||10013573
+-1||-1|-1||-1||blurred vision||10047513
+-1||-1|-1||-1||hypomagnesemia||10021027
+-1||-1|-1||-1||musculoskeletal chest pain||10050819
+-1||-1|-1||-1||decreased sodium||10005802
+-1||-1|-1||-1||ttp||10043648
+-1||-1|-1||-1||hus||10018932|10018932
+-1||-1|-1||-1||fatal||10011906
+-1||-1|-1||-1||tls||10045170
+-1||-1|-1||-1||acute respiratory distress syndrome||10001052
+-1||-1|-1||-1||acute respiratory failure||10001053
+-1||-1|-1||-1||acute diffuse infiltrative pulmonary disease||10022611
+-1||-1|-1||-1||embryo-fetal toxicity||10026923
+-1||-1|-1||-1||fetal harm||10016852
+-1||-1|-1||-1||new onset cardiac failure||10007554
+-1||-1|-1||-1||worsening of pre-existing cardiac failure||10007554
+-1||-1|-1||-1||decreased ejection fraction||10050528
+-1||-1|-1||-1||restrictive cardiomyopathy||10038748
+-1||-1|-1||-1||fatalities||10011906
+-1||-1|-1||-1||death||10011906
+-1||-1|-1||-1||renal insufficiency adverse events||10038435
+-1||-1|-1||-1||ards||10001052
+-1||-1|-1||-1||pneumonitis||10035742
+-1||-1|-1||-1||interstitial lung disease||10022611
+-1||-1|-1||-1||pulmonary arterial hypertension||10064911
+-1||-1|-1||-1||pah||10064911
+-1||-1|-1||-1||venous thromboembolic events||10014522
+-1||-1|-1||-1||deep venous thrombosis||10051055
+-1||-1|-1||-1||fever||10037660
+-1||-1|-1||-1||facial flushing||10016825
+-1||-1|-1||-1||facial edema||10016029
+-1||-1|-1||-1||weakness||10003549
+-1||-1|-1||-1||shortness of breath||10013968
+-1||-1|-1||-1||syncope||10042772
+-1||-1|-1||-1||chest tightness||10008469
+-1||-1|-1||-1||angina||10002383
+-1||-1|-1||-1||platelet nadirs||10035528
+-1||-1|-1||-1||increased serum transaminases||10054889

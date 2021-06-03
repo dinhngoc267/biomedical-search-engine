@@ -1,0 +1,138 @@
+-1||-1|-1||-1||fetal risk||10026923
+-1||-1|-1||-1||venous thromboembolism||10014522
+-1||-1|-1||-1||arterial thromboembolism||10014513
+-1||-1|-1||-1||hematologic toxicity||10061188
+-1||-1|-1||-1||hepatotoxicity||10019851
+-1||-1|-1||-1||hypersensitivity reactions||10020751
+-1||-1|-1||-1||dizziness||10013573
+-1||-1|-1||-1||confusional state||10010305
+-1||-1|-1||-1||neuropathy||10029331
+-1||-1|-1||-1||second primary malignancies||10039801
+-1||-1|-1||-1||tumor lysis syndrome||10045170
+-1||-1|-1||-1||fatigue||10016256
+-1||-1|-1||-1||asthenia||10003549
+-1||-1|-1||-1||neutropenia||10029354
+-1||-1|-1||-1||anemia||10002034
+-1||-1|-1||-1||constipation||10010774
+-1||-1|-1||-1||nausea||10028813
+-1||-1|-1||-1||diarrhea||10012735
+-1||-1|-1||-1||dyspnea||10013968
+-1||-1|-1||-1||upper-respiratory tract infections||10046306
+-1||-1|-1||-1||back pain||10003988
+-1||-1|-1||-1||pyrexia||10037660
+-1||-1|-1||-1||thrombocytopenia||10043554
+-1||-1|-1||-1||leukopenia||10024384
+-1||-1|-1||-1||febrile neutropenia||10016288
+-1||-1|-1||-1||lymphopenia||10025327
+-1||-1|-1||-1||edema peripheral||10030124
+-1||-1|-1||-1||chills||10008531
+-1||-1|-1||-1||vomiting||10047700
+-1||-1|-1||-1||musculoskeletal chest pain||10050819
+-1||-1|-1||-1||muscle spasms||10028334
+-1||-1|-1||-1||arthralgia||10003239
+-1||-1|-1||-1||muscular weakness||10028372
+-1||-1|-1||-1||bone pain||10006002
+-1||-1|-1||-1||musculoskeletal pain||10028391
+-1||-1|-1||-1||pain in extremity||10033425
+-1||-1|-1||-1||upper respiratory tract infection||10046306
+-1||-1|-1||-1||pneumonia||10035664
+-1||-1|-1||-1||urinary tract infection||10046571
+-1||-1|-1||-1||sepsis||10040047
+-1||-1|-1||-1||decreased appetite||10061428
+-1||-1|-1||-1||hypercalcemia||10020583
+-1||-1|-1||-1||hypokalemia||10021015
+-1||-1|-1||-1||hyperglycemia||10020635
+-1||-1|-1||-1||hyponatremia||10021036
+-1||-1|-1||-1||dehydration||10012174
+-1||-1|-1||-1||hypocalcemia||10020947
+-1||-1|-1||-1||cough||10011224
+-1||-1|-1||-1||epistaxis||10015090
+-1||-1|-1||-1||productive cough||10036790
+-1||-1|-1||-1||oropharyngeal pain||10068319
+-1||-1|-1||-1||peripheral neuropathy||10029331
+-1||-1|-1||-1||headache||10019211
+-1||-1|-1||-1||tremor||10044565
+-1||-1|-1||-1||rash||10037844
+-1||-1|-1||-1||pruritus||10037087
+-1||-1|-1||-1||dry skin||10013786
+-1||-1|-1||-1||hyperhidrosis||10020642
+-1||-1|-1||-1||night sweats||10029410
+-1||-1|-1||-1||blood creatinine increased||10005483
+-1||-1|-1||-1||weight decreased||10047895
+-1||-1|-1||-1||weight increased||10047899
+-1||-1|-1||-1||anxiety||10002855
+-1||-1|-1||-1||insomnia||10022437
+-1||-1|-1||-1||renal failure||10038435
+-1||-1|-1||-1||pain||10033371
+-1||-1|-1||-1||neutropenic sepsis||10049151
+-1||-1|-1||-1||chronic obstructive pulmonary disease||10009033
+-1||-1|-1||-1||depressed level of consciousness||10012373
+-1||-1|-1||-1||skin rash||10037844
+-1||-1|-1||-1||neutrophil count decreased||10029366
+-1||-1|-1||-1||platelet count decreased||10035528
+-1||-1|-1||-1||white blood cell count decreased||10047942
+-1||-1|-1||-1||alanine aminotransferase increased||10001551
+-1||-1|-1||-1||aspartate aminotransferase increased||10003481
+-1||-1|-1||-1||lymphocyte count decreased||10025256
+-1||-1|-1||-1||femur fracture||10016454
+-1||-1|-1||-1||pelvic pain||10034263
+-1||-1|-1||-1||myocardial infarction||10028596
+-1||-1|-1||-1||atrial fibrillation||10003658
+-1||-1|-1||-1||angina pectoris||10002383
+-1||-1|-1||-1||cardiac failure congestive||10007559
+-1||-1|-1||-1||vertigo||10047340
+-1||-1|-1||-1||abdominal pain||10000081
+-1||-1|-1||-1||general physical health deterioration||10049438
+-1||-1|-1||-1||non-cardiac chest pain||10062501
+-1||-1|-1||-1||multi-organ failure||10028154
+-1||-1|-1||-1||hyperbilirubinemia||10020578
+-1||-1|-1||-1||pneumocystis jiroveci pneumonia||10073755
+-1||-1|-1||-1||respiratory syncytial virus infection||10061603
+-1||-1|-1||-1||bacteremia||10003997
+-1||-1|-1||-1||pneumonia respiratory syncytial viral||10035732
+-1||-1|-1||-1||cellulitis||10007882
+-1||-1|-1||-1||urosepsis||10048709
+-1||-1|-1||-1||septic shock||10040070
+-1||-1|-1||-1||clostridium difficile colitis||10009657
+-1||-1|-1||-1||pneumonia streptococcal||10035735
+-1||-1|-1||-1||lobar pneumonia||10035664
+-1||-1|-1||-1||viral infection||10047461
+-1||-1|-1||-1||lung infection||10061229
+-1||-1|-1||-1||hemoglobin decreased||10018884
+-1||-1|-1||-1||fall||10016173
+-1||-1|-1||-1||compression fracture||10010214
+-1||-1|-1||-1||spinal compression fracture||10041541
+-1||-1|-1||-1||hyperkalemia||10020646
+-1||-1|-1||-1||failure to thrive||10016165
+-1||-1|-1||-1||syncope||10042772
+-1||-1|-1||-1||mental status change||10048294
+-1||-1|-1||-1||urinary retention||10046555
+-1||-1|-1||-1||interstitial lung disease||10022611
+-1||-1|-1||-1||pulmonary embolism||10037377
+-1||-1|-1||-1||respiratory failure||10038695
+-1||-1|-1||-1||bronchospasm||10006482
+-1||-1|-1||-1||hypotension||10021097
+-1||-1|-1||-1||pancytopenia||10033661
+-1||-1|-1||-1||allergic reactions||10020751
+-1||-1|-1||-1||angioedema||10002424
+-1||-1|-1||-1||urticaria||10046735
+-1||-1|-1||-1||elevated liver enzymes||10060795
+-1||-1|-1||-1||hepatic failure||10019663
+-1||-1|-1||-1||fatal||10011906
+-1||-1|-1||-1||embryo-fetal toxicity||10026923
+-1||-1|-1||-1||deep venous thrombosis||10051055
+-1||-1|-1||-1||dvt||10051055
+-1||-1|-1||-1||pe||10037377
+-1||-1|-1||-1||stroke||10008190
+-1||-1|-1||-1||fatalities||10011906
+-1||-1|-1||-1||dermatologic reactions||10040914
+-1||-1|-1||-1||tls||10045170
+-1||-1|-1||-1||venous thromboembolic events||10014522
+-1||-1|-1||-1||arterial thromboembolic events||10014513
+-1||-1|-1||-1||thromboembolic events||10061169
+-1||-1|-1||-1||vte||10014522
+-1||-1|-1||-1||ischemic cerebrovascular conditions||10008120
+-1||-1|-1||-1||ischemic heart disease||10028600
+-1||-1|-1||-1||elevated levels of alanine aminotransferase||10001551
+-1||-1|-1||-1||elevated levels of bilirubin||10005364
+-1||-1|-1||-1||acute myelogenous leukemia||10000880

@@ -1,0 +1,154 @@
+    6 adverse reactions
+
+  six serious adverse reactions were reported by four patients during the clinical program. these serious adverse reactions were  mycobacterium intracellulare  infection; gastrointestinal bleeding and colitis; sinusitis and bronchitis; and  streptococcus pneumoniae  meningitis [  see adverse reactions (  6.3  )  ].
+
+
+
+ the most commonly reported adverse reaction associated with arcalyst was injection-site reaction (isr) [  see adverse reactions (  6.2    )]. the next most commonly reported adverse reaction was upper respiratory infection [  see adverse reactions (  6.3  )  ].
+
+
+
+ because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the data described herein reflect exposure to arcalyst in 600 patients, including 85 exposed for at least 6 months and 65 exposed for at least one year. these included patients with caps, patients with other diseases, and healthy volunteers. approximately 60 patients with caps have been treated weekly with 160 mg of arcalyst. the pivotal trial population included 47 patients with caps. these patients were between the ages of 22 and 78 years (average 51 years). thirty-one patients were female and 16 were male. all of the patients were white/caucasian. six pediatric patients (12-17 years) were enrolled directly into the open-label extension phase.
+
+
+
+   excerpt:   the most common adverse reactions reported by patients with caps treated with arcalyst are injection-site reactions and upper respiratory tract infections. (  6.2  ,  6.3  )
+
+
+
+   to report suspected adverse reactions, contact regeneron at 1-877-regn-777 (1-877-734-6777) or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trial experience
+
+  part a of the clinical trial was conducted in patients with caps who were naive to treatment with arcalyst. part a of the study was a randomized, double-blind, placebo-controlled, six-week study comparing arcalyst to placebo [  see clinical studies (  14  )  ].  table 1  reflects the frequency of adverse events reported by at least two patients during part a.
+
+
+
+ table 1: most frequent adverse reactions (part a, reported by at least two patients) 
+   adverse event                                        arcalyst160 mg(n = 23)      placebo(n= 24)           
+ any ae                                               17 (74%)                  13 (54%)                   
+ injection-site reactions                             11 (48%)                  3 (13%)                    
+ upper respiratory tract infection                    6 (26%)                   1 (4%)                     
+ nausea                                               1 (4%)                    3 (13%)                    
+ diarrhea                                             1 (4%)                    3 (13%)                    
+ sinusitis                                            2 (9%)                    1 (4%)                     
+ abdominal pain upper                                 0                         2 (8%)                     
+ cough                                                2 (9%)                    0                          
+ hypoesthesia                                         2 (9%)                    0                          
+ stomach discomfort                                   1 (4%)                    1 (4%)                     
+ urinary tract infection                              1 (4%)                    1 (4%)                     
+           6.2 injection-site reactions
+   in patients with caps, the most common and consistently reported adverse event associated with arcalyst was injection-site reaction (isr). the isrs included erythema, swelling, pruritis, mass, bruising, inflammation, pain, edema, dermatitis, discomfort, urticaria, vesicles, warmth and hemorrhage. most injection-site reactions lasted for one to two days. no isrs were assessed as severe, and no patient discontinued study participation due to an isr.
+
+
+
+   6.3 infections
+
+  during part a, the incidence of patients reporting infections was greater with arcalyst (48%) than with placebo (17%). in part b, randomized withdrawal, the incidence of infections were similar in the arcalyst (18%) and the placebo patients (22%). part a of the trial was initiated in the winter months, while part b was predominantly performed in the summer months.
+
+
+
+ in placebo-controlled studies across a variety of patient populations encompassing 360 patients treated with rilonacept and 179 treated with placebo, the incidence of infections was 34% and 27% (2.15 per patient-exposure year and 1.81 per patient-exposure year), respectively, for rilonacept and placebo.
+
+
+
+ serious infections: one patient receiving arcalyst for an unapproved indication in another study developed an infection in his olecranon bursa with  mycobacterium intracellulare  . the patient was on chronic glucocorticoid treatment. the infection occurred after an intraarticular glucocorticoid injection into the bursa with subsequent local exposure to a suspected source of mycobacteria. the patient recovered after the administration of the appropriate antimicrobial therapy. one patient treated for another unapproved indication developed bronchitis/sinusitis, which resulted in hospitalization. one patient died in an open-label study of caps from  streptococcus pneumoniae  meningitis.
+
+
+
+   6.4 malignancies
+
+  [s  ee warnings and precautions (  5.2  )].  
+
+
+
+   6.5 hematologic events
+
+  one patient in a study in an unapproved indication developed transient neutropenia (anc < 1 x 10  9  /l) after receiving a large dose (2000 mg intravenously) of arcalyst. the patient did not experience any infection associated with the neutropenia.
+
+
+
+   6.6 immunogenicity
+
+  antibodies directed against the receptor domains of rilonacept were detected by an elisa assay in patients with caps after treatment with arcalyst. nineteen of 55 patients (35%) who had received arcalyst for at least 6 weeks tested positive for treatment-emergent binding antibodies on at least one occasion. of the 19, seven tested positive at the last assessment (week 18 or 24 of the open-label extension period), and five patients tested positive for neutralizing antibodies on at least one occasion. there was no correlation of antibody activity and either clinical effectiveness or safety.
+
+
+
+ the data reflect the percentage of patients whose test results were positive for antibodies to the rilonacept receptor domains in specific assays, and are highly dependent on the sensitivity and specificity of the assays. the observed incidence of antibody (including neutralizing antibody) positivity in an assay is highly dependent on several factors including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of the incidence of antibodies to rilonacept with the incidence of antibodies to other products may be misleading.
+
+
+
+   6.7 lipid profiles
+
+  cholesterol and lipid levels may be reduced in patients with chronic inflammation. patients with caps treated with arcalyst experienced increases in their mean total cholesterol, hdl cholesterol, ldl cholesterol, and triglycerides. the mean increases from baseline for total cholesterol, hdl cholesterol, ldl cholesterol, and triglycerides were 19 mg/dl, 2 mg/dl, 10 mg/dl, and 57 mg/dl respectively after 6 weeks of open-label therapy. physicians should monitor the lipid profiles of their patients (for example after 2-3 months) and consider lipid-lowering therapies as needed based upon cardiovascular risk factors and current guidelines.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  interleukin-1 blockade may interfere with immune response to infections. serious, life-threatening infections have been reported in patients taking arcalyst. discontinue treatment with arcalyst if a patient develops a serious infection. do not initiate treatment with arcalyst in patients with active or chronic infections. (  5.1  ) 
+ *  hypersensitivity reactions associated with arcalyst administration have been rare. if a hypersensitivity reaction occurs, discontinue administration of arcalyst and initiate appropriate therapy. (  5.5  ) 
+ *  live vaccines should not be given concurrently with arcalyst. prior to initiation of therapy with arcalyst, patients should receive all recommended vaccinations. (  5.3  ) 
+    
+ 
+
+   5.1 infections
+
+
+
+  interleukin -1 (il-1) blockade may interfere with the immune response to infections. treatment with another medication that works through inhibition of il-1 has been associated with an increased risk of serious infections, and serious infections have been reported in patients taking arcalyst [ see clinical studies (  14  )  ]. there was a greater incidence of infections in patients on arcalyst compared with placebo. in the controlled portion of the study, one infection was reported as severe, which was bronchitis in a patient on arcalyst.
+
+
+
+ in an open-label extension study, one patient developed bacterial meningitis and died [ see adverse reactions (  6.3  )  ]. arcalyst should be discontinued if a patient develops a serious infection. treatment with arcalyst should not be initiated in patients with an active or chronic infection.
+
+
+
+ in clinical studies, arcalyst has not been administered concomitantly with tumor necrosis factor (tnf) inhibitors. an increased incidence of serious infections has been associated with administration of an il-1 blocker in combination with tnf inhibitors. taking arcalyst with tnf inhibitors is not recommended because this may increase the risk of serious infections.  
+
+
+
+ drugs that affect the immune system by blocking tnf have been associated with an increased risk of reactivation of latent tuberculosis (tb). it is possible that taking drugs such as arcalyst that block il-1 increases the risk of tb or other atypical or opportunistic infections. healthcare providers should follow current cdc guidelines both to evaluate for and to treat possible latent tuberculosis infections before initiating therapy with arcalyst.
+
+
+
+    5.2 immunosuppression
+
+
+
+  the impact of treatment with arcalyst on active and/or chronic infections and the development of malignancies is not known [ see adverse reactions (  6.3  )]  . however, treatment with immunosuppressants, including arcalyst, may result in an increase in the risk of malignancies.
+
+
+
+    5.3 immunizations
+
+
+
+  since no data are available on either the efficacy of live vaccines or on the risks of secondary transmission of infection by live vaccines in patients receiving arcalyst, live vaccines should not be given concurrently with arcalyst. in addition, because arcalyst may interfere with normal immune response to new antigens, vaccinations may not be effective in patients receiving arcalyst. no data are available on the effectiveness of vaccination with inactivated (killed) antigens in patients receiving arcalyst.
+
+
+
+ because il-1 blockade may interfere with immune response to infections, it is recommended that prior to initiation of therapy with arcalyst adult and pediatric patients receive all recommended vaccinations, as appropriate, including pneumococcal vaccine and inactivated influenza vaccine. (see current recommended immunizations schedules at the website of the centers for disease control. http://www.cdc.gov/vaccines/recs/schedules/).
+
+
+
+    5.4 lipid profile changes
+
+
+
+  patients should be monitored for changes in their lipid profiles and provided with medical treatment if warranted [see adverse reactions (  6.7  )]  .
+
+
+
+    5.5 hypersensitivity
+
+
+
+  hypersensitivity reactions associated with arcalyst administration in the clinical studies were rare. if a hypersensitivity reaction occurs, administration of arcalyst should be discontinued and appropriate therapy initiated.

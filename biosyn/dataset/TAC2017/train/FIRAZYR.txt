@@ -1,0 +1,70 @@
+    6 adverse reactions
+
+  excerpt:   the most commonly reported adverse reactions were injection site reactions, which occurred in almost all patients (97%) in clinical trials. other common adverse reactions occurring in greater than 1% of patients included pyrexia, transaminase increase, dizziness, and rash. (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact shire human genetic therapies at the onepath  (r)  phone # 1-866-888-0660 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  the safety of icatibant was evaluated in three controlled trials that included 223 patients who received firazyr 30 mg (n=113), placebo (n=75), or comparator (n=38). the mean age at study entry was 38 years (range 18 to 83 years), 64% were female, and 95% were white. the data described below represent adverse reactions observed from the two placebo-controlled trials, consisting of 77 patients who received firazyr at a dose of 30 mg sc, and 75 who received placebo.
+
+
+
+ the most frequently reported adverse reactions (occurring in greater than 1% of patients and at a higher rate with firazyr versus placebo) are shown in table 1.
+
+
+
+ because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ table 1 adverse reactions observed in >1% of patients with acute attacks of hae and at a higher rate with firazyr versus placebo in the placebo-controlled trialsevents occurring within 14 days of study drug administration 
+                                              firazyr(n =77)                     placebo(n = 75)            
+ system organ classpreferred term              subjects (%)                       subjects (%)              
+  
+   general disorders and administration site conditions     
+   injection site reaction                       75 (97)                             25 (33)                
+   pyrexia                                        3 (4)                                 0                   
+   investigations                    
+ transaminase increased                           3 (4)                                 0                   
+   nervous system disorders          
+   dizziness                                      2 (3)                               1 (1)                 
+         the third trial was active-controlled and was comprised of 35 patients who received firazyr 30 mg and 38 patients who received the comparator. adverse reactions for firazyr were similar in nature and frequency to those reported in table 1.
+ 
+
+ in all three controlled trials, patients were eligible for treatment of subsequent attacks in an open-label extension. patients were treated with firazyr 30 mg and could receive up to 3 doses of firazyr 30 mg administered at least 6 hours apart for each attack. a total of 225 patients were treated with 1,076 doses of 30 mg firazyr for 987 attacks of acute hae. adverse reactions similar in nature and frequency were observed to those seen in the controlled phase of the trials. other adverse reactions reported included rash, nausea, and headache in patients exposed to firazyr.
+
+
+
+ the safety of self-administration was evaluated in a separate, open-label trial in 56 patients with hae. in this trial, the safety profile of firazyr in patients who self-administered firazyr was similar in nature and frequency to that of patients whose therapy was administered by healthcare professionals.
+
+
+
+   6.2 immunogenicity
+
+  across repeated treatment in the controlled trials, 4 patients tested positive for anti-icatibant antibodies. three of these patients had subsequent tests which were negative. no hypersensitivity or anaphylactic reactions were reported with firazyr. no association between anti-icatibant antibodies and efficacy was observed.
+
+
+
+   6.3 postmarketing experience
+
+  similar adverse reactions have been observed in postmarketing use as compared to the clinical trials. because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  laryngeal attacks: following treatment of laryngeal attacks with firazyr, advise patients to seek immediate medical attention. (  5.1  ) 
+    
+ 
+
+   5.1 laryngeal attacks
+
+
+
+  given the potential for airway obstruction during acute laryngeal hae attacks, patients should be advised to seek medical attention in an appropriate healthcare facility immediately in addition to treatment with firazyr.

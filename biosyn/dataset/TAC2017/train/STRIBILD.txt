@@ -1,0 +1,375 @@
+    6 adverse reactions
+
+  the following adverse drug reactions are discussed in other sections of the labeling:
+
+
+
+ *  lactic acidosis/severe hepatomegaly with steatosis [see  boxed warning  ,  warnings and precautions (5.1)  ] . 
+ *  severe acute exacerbations of hepatitis b [see  boxed warning  ,  warnings and precautions (5.2)  ] . 
+ *  new onset or worsening renal impairment [see  warnings and precautions (5.3)  ] . 
+ *  bone effects of tenofovir df [see  warnings and precautions (5.6)  ] . 
+ *  immune reconstitution syndrome [see  warnings and precautions (5.8)  ] . 
+      excerpt:   most common adverse drug reactions to stribild (incidence greater than or equal to 10%, all grades) are nausea and diarrhea. (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact gilead sciences, inc. at 1-800-gilead-5 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 adverse reactions from clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+     in hiv-1-infected subjects with no antiretroviral treatment history  
+
+
+
+ the safety assessment of stribild is based on the week 144 pooled data from 1408 subjects in two randomized, double-blind, active-controlled clinical trials, study 102 and study 103, in antiretroviral treatment-naive hiv-1 infected adult subjects  [see  clinical studies (14)  ].  a total of 701 subjects received stribild once daily in these two studies.
+
+
+
+ the proportion of subjects who discontinued treatment with stribild (elvitegravir 150 mg/cobicistat 150 mg/emtricitabine 200 mg/tenofovir df 300 mg); atripla (efavirenz 600 mg/emtricitabine 200 mg/tenofovir df 300 mg); or atazanavir (atv) + ritonavir (rtv) + truvada (emtricitabine 200 mg/tenofovir df 300 mg) due to adverse events, regardless of severity, was 6.0%, 7.4% and 8.5%, respectively. table 2 displays the frequency of adverse drug reactions greater than or equal to 5% of subjects in any treatment arm.
+
+
+
+ table 2 adverse drug reactionsfrequencies of adverse reactions are based on all treatment-emergent adverse events, attributed to study drugs. (all grades) reported in >= 5% of subjects in any treatment arm in studies 102 and 103 (week 144 analysis). 
+                                                      stribildn=701      atriplan=352     atv + rtv + truvadan=355   
+  
+ eye disorders                                                                                                
+   ocular icterus                                          <1%                0%                 13%          
+ gastrointestinal disorders                                                                                   
+   diarrhea                                                12%                11%                17%          
+   flatulence                                              2%                 <1%                8%           
+   nausea                                                  16%                9%                 14%          
+ general disorders and administration site conditions                                                            
+   fatigue                                                 4%                 8%                 6%           
+ hepatobiliary disorders                                                                                      
+   jaundice                                                0%                 <1%                9%           
+ nervous system disorders                                                                                     
+   somnolence                                              1%                 7%                 1%           
+   headache                                                7%                 4%                 6%           
+   dizziness                                               3%                 21%                5%           
+ psychiatric disorders                                                                                        
+   insomnia                                                3%                 9%                 1%           
+   abnormal dreams                                         9%                 27%                4%           
+ skin and subcutaneous tissue disorders                                                                       
+   rash                                                    4%                 15%                6%           
+          see    warnings and precautions (5.3)    , for a discussion of renal adverse reactions from clinical trials experience with stribild.
+ 
+
+ additional adverse drug reactions observed with stribild included suicidal ideation and suicide attempt (0.3%), all in subjects with a pre-existing history of depression or psychiatric illness.
+
+
+
+     in virologically-suppressed hiv-1-infected subjects  
+
+
+
+ no new adverse reactions to stribild through week 48 were identified in 584 virologically stably suppressed subjects switching to stribild from a regimen containing a rtv-boosted protease inhibitor (pi) or a non-nucleoside reverse transcriptase inhibitor (nnrti). in a combined analysis of studies 115 and 121, the frequency of adverse reactions (all grades) was 24% in subjects switching to stribild compared to 6% of subjects in either group who stayed on their baseline antiretroviral regimen, rtv-boosted pi + truvada or nnrti + truvada. common adverse reactions that occurred in greater than or equal to 2% of subjects switching to stribild were nausea (4%), flatulence (2%), and headache (2%). the proportion of subjects who discontinued treatment with stribild, the rtv-boosted pi, or the nnrti due to adverse events, was 2%, 3% and 1%, respectively.
+
+
+
+     adverse reactions from clinical trials of the components of stribild  
+
+
+
+     emtricitabine and tenofovir disoproxil fumarate:  in addition to the adverse reactions observed with stribild, the following adverse reactions occurred in at least 5% of treatment-experienced or treatment-naive subjects receiving emtricitabine or tenofovir df with other antiretroviral agents in other clinical trials: depression, abdominal pain, dyspepsia, vomiting, fever, pain, nasopharyngitis, pneumonia, sinusitis, upper respiratory tract infection, arthralgia, back pain, myalgia, paresthesia, peripheral neuropathy (including peripheral neuritis and neuropathy), anxiety, increased cough, and rhinitis.
+
+
+
+ skin discoloration has been reported with higher frequency among emtricitabine-treated subjects; it was manifested by hyperpigmentation on the palms and/or soles and was generally mild and asymptomatic. the mechanism and clinical significance are unknown.
+
+
+
+     laboratory abnormalities  
+
+
+
+ the frequency of laboratory abnormalities (grades 3-4) occurring in at least 2% of subjects receiving stribild in studies 102 and 103 are presented in table 3.
+
+
+
+ table 3 laboratory abnormalities (grades 3-4) reported in >= 2% of subjects receiving stribild in studies 102 and 103 (week 144 analysis) 
+                                                   stribild            atripla         atv + rtv + truvada    
+  
+   laboratory parameter abnormality    ,            n=701               n=352                 n=355           
+ ast (>5.0 * uln)                                     3%                  6%                   6%             
+ alt (>3.0 * uln)                                     2%                  5%                   4%             
+ amylase(>2.0 * uln)                                  3%                  3%                   5%             
+ creatine kinase (>= 10.0 * uln)                      8%                 15%                   11%            
+ urine rbc (hematuria) (> 75 rbc/hpf)                 4%                  2%                   4%             
+          in study 103, bmd was assessed by dexa in a non-random subset of 120 subjects (stribild group n = 54; atv + rtv + truvada group n = 66). mean percentage decreases in bmd from baseline to week 144 in the stribild group were comparable to the atv + rtv + truvada group at the lumbar spine (-1.43% versus -3.68%, respectively) and at the hip (-2.83% versus -3.77%, respectively). in studies 102 and 103, bone fractures occurred in 27 subjects (3.9%) in the stribild group, 8 subjects (2.3%) in the atripla group, and 19 subjects (5.4%) in the atv + rtv + truvada group. these findings were consistent with data from an earlier 144-week trial of treatment-naive subjects receiving tenofovir df + lamivudine + efavirenz.
+ 
+
+ proteinuria (all grades) occurred in 52% of subjects receiving stribild, 41% of subjects receiving atripla, and 42% of subjects receiving atv + rtv + truvada.
+
+
+
+ the cobicistat component of stribild has been shown to increase serum creatinine and decrease estimated creatinine clearance due to inhibition of tubular secretion of creatinine without affecting renal glomerular function. in studies 102 and 103, increases in serum creatinine and decreases in estimated creatinine clearance occurred early in treatment with stribild, after which they stabilized. table 4 displays the mean changes in serum creatinine and egfr levels at week 144 and the percentage of subjects with elevations in serum creatinine (all grades).
+
+
+
+ table 4 change from baseline in serum creatinine and egfr and incidence of elevated serum creatinine (all grades) in studies 102 and 103 at week 144 
+                                               stribild(n=701)      atripla(n=352)    atv + rtv + truvada(n=355)   
+  
+ serum creatinine (mg/dl)                       0.14 (+/-0.14)      0.01 (+/-0.12)       0.09 (+/-0.15)       
+ egfr by cockcroft-gault (ml/minute)           -14.0 (+/-16.6)      -1.9 (+/-17.9)       -9.8 (+/-19.4)       
+ subjects with elevations in serum creatinine (all grades)(%)          12                  2                     6             
+              emtricitabine or tenofovir df:  in addition to the laboratory abnormalities observed with stribild, the following laboratory abnormalities have been previously reported in subjects treated with emtricitabine or tenofovir df with other antiretroviral agents in other clinical trials: grade 3 or 4 laboratory abnormalities of alt (m: greater than 215 u per l; f: greater than 170 u per l), alkaline phosphatase (greater than 550 u per l), bilirubin (greater than 2.5 * uln), serum glucose (less than 40 or greater than 250 mg per dl), glycosuria (greater than or equal to 3+), neutrophils (less than 750 per mm  3  ), fasting cholesterol (greater than 240 mg per dl), and fasting triglycerides (greater than 750 mg per dl).
+ 
+
+     serum lipids:  in the clinical trials of stribild, a similar percentage of subjects receiving stribild, atripla, and atv + rtv + truvada were on lipid lowering agents at baseline (12%, 12%, and 13%, respectively). while receiving study drug through week 144, an additional 11% of stribild subjects were started on lipid lowering agents, compared to 13% of atripla and 12% of atv + rtv + truvada subjects.
+
+
+
+ changes from baseline in total cholesterol, hdl-cholesterol, ldl-cholesterol, and triglycerides are presented in table 5.
+
+
+
+ table 5 lipid values, mean change from baseline at week 144 in subjects receiving stribild or comparator in studies 102 and 103 
+                      stribildn=701   atriplan=352   atv + rtv + truvadan=355   
+ baseline               week 144        baseline       week 144        baseline       week 144      
+ mg/dl                   change          mg/dl          change          mg/dl          change       
+  
+ total cholesterol (fasted)   166[n=675]      +17[n=535]     161[n=343]      +22[n=262]     168[n=337]      +16[n=243]     
+ hdl-cholesterol (fasted)    43[n=675]      +7[n=535]       43[n=343]      +9[n=262]       42[n=335]      +7[n=242]      
+ ldl-cholesterol (fasted)   100[n=675]      +15[n=535]      97[n=343]      +19[n=262]     101[n=337]      +18[n=242]     
+ triglycerides (fasted)   122[n=675]      +12[n=535]     121[n=343]      +5[n=262]      132[n=337]      +22[n=242]     
+               6.2 postmarketing experience
+   the following adverse reactions have been identified during post approval use of tenofovir df. because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. no additional postmarketing adverse reactions specific for emtricitabine have been identified.
+
+
+
+   immune system disorders  
+
+
+
+ allergic reaction, including angioedema
+
+
+
+   metabolism and nutrition disorders  
+
+
+
+ lactic acidosis, hypokalemia, hypophosphatemia
+
+
+
+   respiratory, thoracic, and mediastinal disorders  
+
+
+
+ dyspnea
+
+
+
+   gastrointestinal disorders  
+
+
+
+ pancreatitis, increased amylase, abdominal pain
+
+
+
+   hepatobiliary disorders  
+
+
+
+ hepatic steatosis, hepatitis, increased liver enzymes (most commonly ast, alt gamma gt)
+
+
+
+   skin and subcutaneous tissue disorders  
+
+
+
+ rash
+
+
+
+   musculoskeletal and connective tissue disorders  
+
+
+
+ rhabdomyolysis, osteomalacia (manifested as bone pain and which may contribute to fractures), muscular weakness, myopathy
+
+
+
+   renal and urinary disorders  
+
+
+
+ acute renal failure, renal failure, acute tubular necrosis, fanconi syndrome, proximal renal tubulopathy, interstitial nephritis (including acute cases), nephrogenic diabetes insipidus, renal insufficiency, increased creatinine, proteinuria, polyuria
+
+
+
+   general disorders and administration site conditions  
+
+
+
+ asthenia
+
+
+
+ the following adverse reactions, listed under the body system headings above, may occur as a consequence of proximal renal tubulopathy: rhabdomyolysis, osteomalacia, hypokalemia, muscular weakness, myopathy, hypophosphatemia.
+
+
+    boxed warning: warning: lactic acidosis/severe hepatomegaly with steatosis and post treatment acute exacerbation of hepatitis b
+
+    warning: lactic acidosis/severe hepatomegaly with steatosis and post treatment acute exacerbation of hepatitis b  
+
+    lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs, including tenofovir disoproxil fumarate, a component of stribild, in combination with other antiretrovirals   [see   warnings and precautions (5.1)  ]  .  
+
+
+
+   stribild is not approved for the treatment of chronic hepatitis b virus (hbv) infection and the safety and efficacy of stribild have not been established in patients coinfected with hbv and hiv-1. severe acute exacerbations of hepatitis b have been reported in patients who are coinfected with hbv and human immunodeficiency virus-1 (hiv-1) and have discontinued emtriva or viread, which are components of stribild. hepatic function should be monitored closely with both clinical and laboratory follow-up for at least several months in patients who are coinfected with hiv-1 and hbv and discontinue stribild. if appropriate, initiation of anti-hepatitis b therapy may be warranted   [see   warnings and precautions (5.2)  ]  .  
+
+
+
+   excerpt:   warning: lactic acidosis/severe hepatomegaly with steatosis and post treatment acute exacerbation of hepatitis b
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs, including tenofovir disoproxil fumarate (df), a component of stribild. (5.1) 
+ *  stribild is not approved for the treatment of chronic hepatitis b virus (hbv) infection. severe acute exacerbations of hepatitis b have been reported in patients coinfected with hiv-1 and hbv who have discontinued emtriva or viread, two of the components of stribild. hepatic function should be monitored closely in these patients. if appropriate, initiation of anti-hepatitis b therapy may be warranted. (5.2) 
+    5 warnings and precautions
+
+
+
+   excerpt:    *  new onset or worsening renal impairment: can include acute renal failure and fanconi syndrome. assess creatinine clearance (clcr), urine glucose and urine protein before initiating treatment with stribild. monitor clcr, urine glucose, and urine protein in all patients. monitor serum phosphorus in patients at risk for renal impairment. avoid administering stribild with concurrent or recent use of nephrotoxic drugs. (  5.3  ) 
+ *  avoid coadministration with other anti-retroviral products: do not use with products containing any of the components of stribild (cobicistat, elvitegravir, emtricitabine, and tenofovir disoproxil fumarate), including atripla, complera, emtriva, truvada, tybost, viread, or vitekta; with drugs containing lamivudine; or with drugs or regimens containing ritonavir. do not administer in combination with hepsera. (  5.4  ) 
+ *  risk of adverse reactions or loss of virologic response due to drug interactions: the concomitant use of stribild and other drugs may result in known or potentially significant drug interactions, some of which may lead to loss of therapeutic effect of stribild and possible development of resistance; and possible clinically significant adverse reactions from greater exposures of concomitant drugs. (  5.5  ) 
+ *  decreases in bone mineral density (bmd): consider monitoring bmd in patients with a history of pathologic fracture or other risk factors of osteoporosis or bone loss. (  5.6  ) 
+ *  redistribution/accumulation of body fat: observed in patients receiving antiretroviral therapy. (  5.7  ) 
+ *  immune reconstitution syndrome: may necessitate further evaluation and treatment. (  5.8  ) 
+    
+ 
+
+   5.1 lactic acidosis/severe hepatomegaly with steatosis
+
+
+
+  lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs, including tenofovir df, a component of stribild, in combination with other antiretrovirals. a majority of these cases have been in women. obesity and prolonged nucleoside exposure may be risk factors. particular caution should be exercised when administering nucleoside analogs to any patient with known risk factors for liver disease; however, cases have also been reported in patients with no known risk factors. treatment with stribild should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
+
+
+
+    5.2 patients coinfected with hiv-1 and hbv
+
+
+
+  it is recommended that all patients with hiv-1 be tested for the presence of chronic hepatitis b virus (hbv) before initiating antiretroviral therapy. stribild is not approved for the treatment of chronic hbv infection and the safety and efficacy of stribild have not been established in patients coinfected with hbv and hiv-1. severe acute exacerbations of hepatitis b have been reported in patients who are coinfected with hbv and hiv-1 and have discontinued emtricitabine or tenofovir df, two of the components of stribild. in some patients infected with hbv and treated with emtriva, the exacerbations of hepatitis b were associated with liver decompensation and liver failure. patients who are coinfected with hiv-1 and hbv should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment with stribild. if appropriate, initiation of anti-hepatitis b therapy may be warranted.
+
+
+
+    5.3 new onset or worsening renal impairment
+
+
+
+  renal impairment, including cases of acute renal failure and fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of tenofovir df, a component of stribild, and with the use of stribild [see  adverse reactions (6.2)  ]  .
+
+
+
+  in the clinical trials of stribild over 144 weeks, 13 (1.9%) subjects in the stribild group (n=701), 8 (2.3%) subjects in the atv + rtv + truvada group (n=355) and no subjects in the atripla group (n = 352) discontinued study drug due to a renal adverse reaction. of these discontinuations, 8 in the stribild group and 1 in the atv + rtv + truvada group occurred during the first 48 weeks. four (0.6%) subjects who received stribild developed laboratory findings consistent with proximal renal tubular dysfunction leading to discontinuation of stribild during the first 48 weeks of treatment. two of the four subjects had renal impairment (i.e. estimated creatinine clearance less than 70 ml per minute) at baseline. the laboratory findings in these 4 subjects improved but did not completely resolve in all subjects upon discontinuation of stribild. renal replacement therapy was not required for these subjects. one (0.3%) subject who received atv + rtv + truvada developed laboratory findings consistent with proximal renal tubular dysfunction leading to discontinuation of atv + rtv + truvada after week 96.  
+
+
+
+ stribild should be avoided with concurrent or recent use of a nephrotoxic agent. (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (nsaids)) [see  drug interactions (7.4)  ]  . cases of acute renal failure after initiation of high dose or multiple nsaids have been reported in hiv-infected patients with risk factors for renal dysfunction who appeared stable on tenofovir df. some patients required hospitalization and renal replacement therapy. alternatives to nsaids should be considered, if needed, in patients at risk for renal dysfunction.
+
+
+
+ persistent or worsening bone pain, pain in extremities, fractures and/or muscular pain or weakness may be manifestations of proximal renal tubulopathy and should prompt an evaluation of renal function in at-risk patients.
+
+
+
+ estimated creatinine clearance, urine glucose and urine protein should be documented in all patients prior to initiating therapy. initiation of stribild in patients with estimated creatinine clearance below 70 ml per minute is not recommended.
+
+
+
+ routine monitoring of estimated creatinine clearance, urine glucose, and urine protein should be performed during stribild therapy in all patients. additionally, serum phosphorus should be measured in patients at risk for renal impairment. although cobicistat (a component of stribild) may cause modest increases in serum creatinine and modest declines in estimated creatinine clearance without affecting renal glomerular function [see  adverse reactions (6.1)  ]  , patients who experience a confirmed increase in serum creatinine of greater than 0.4 mg per dl from baseline should be closely monitored for renal safety.
+
+
+
+ the emtricitabine and tenofovir df components of stribild are primarily excreted by the kidney. stribild should be discontinued if estimated creatinine clearance declines below 50 ml per minute as dose interval adjustment required for emtricitabine and tenofovir df cannot be achieved with the fixed-dose combination tablet.
+
+
+
+    5.4 avoid use with other antiretroviral products
+
+
+
+  stribild is indicated for use as a complete regimen for the treatment of hiv-1 infection and coadministration with other antiretroviral products is not recommended.
+
+
+
+ stribild is not recommended for coadministration with the following:
+
+
+
+ *   cobicistat (tybost);  
+ *   elvitegravir (vitekta);  
+ *   products containing emtricitabine or tenofovir df (atripla, complera, emtriva, truvada, viread);  
+ *   products containing lamivudine (combivir, epivir, epivir-hbv, epzicom, triumeq, trizivir);  
+ *   adefovir dipivoxil (hepsera);  
+ *   products containing ritonavir (norvir, kaletra)  
+       5.5 risk of adverse reactions or loss of virologic response due to drug interactions
+ 
+
+   the concomitant use of stribild and other drugs may result in known or potentially significant drug interactions, some of which may lead to [see  contraindications (4)  ,  drug interactions (7.5)  ]:    
+
+
+
+ *   loss of therapeutic effect of stribild and possible development of resistance.  
+ *   possible clinically significant adverse reactions from greater exposures of concomitant drugs.  
+     see  table 6  for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see  drug interactions (7.5)  ]  . consider the potential for drug interactions prior to and during stribild therapy; review concomitant medications during stribild therapy; and monitor for the adverse reactions associated with the concomitant drugs.  
+ 
+
+    5.6 bone effects of tenofovir df
+
+
+
+   bone mineral density:  
+
+
+
+ in clinical trials in hiv-1 infected adults, tenofovir df (a component of stribild) was associated with slightly greater decreases in bone mineral density (bmd) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators. serum parathyroid hormone levels and 1.25 vitamin d levels were also higher in subjects receiving tenofovir df. for additional information, see adverse reactions (6.1) and consult the viread prescribing information.
+
+
+
+ the effects of tenofovir df-associated changes in bmd and biochemical markers on long-term bone health and future fracture risk are unknown. assessment of bmd should be considered for hiv-1 infected patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss. although the effect of supplementation with calcium and vitamin d was not studied, such supplementation may be beneficial in all patients. if bone abnormalities are suspected, then appropriate consultation should be obtained.
+
+
+
+    mineralization defects:  
+
+
+
+ cases of osteomalacia associated with proximal renal tubulopathy, manifested as bone pain or pain in extremities and which may contribute to fractures, have been reported in association with the use of tenofovir df [see  adverse reactions (6.2)  ]  . arthralgias and muscle pain or weakness have also been reported in cases of proximal renal tubulopathy. hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should be considered in patients at risk of renal dysfunction who present with persistent or worsening bone or muscle symptoms while receiving products containing tenofovir df [see  warnings and precautions (5.3)  ]  .
+
+
+
+    5.7 fat redistribution
+
+
+
+  redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy. the mechanism and long-term consequences of these events are currently unknown. a causal relationship has not been established.
+
+
+
+    5.8 immune reconstitution syndrome
+
+
+
+  immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including stribild. during the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections [such as mycobacterium avium  infection, cytomegalovirus, pneumocystis jirovecii  pneumonia (pcp), or tuberculosis], which may necessitate further evaluation and treatment.
+
+
+
+ autoimmune disorders (such as graves' disease, polymyositis, and guillain-barre syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.

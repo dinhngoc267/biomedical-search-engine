@@ -1,0 +1,305 @@
+      6         adverse reactions  
+
+  the following serious adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *  serious psychiatric and behavioral reactions  [see warnings and precautions (    5.1    )]  
+ *  suicidal behavior and ideation [see warnings and precautions (    5.2    )]  
+ *  dizziness and gait disturbance  [see warnings and precautions (    5.3    )]  
+ *  somnolence and fatigue [see warnings and precautions (    5.3    )]  
+ *  falls [see warnings and precautions (    5.4    )]  
+      excerpt:   most common adverse reactions (>=5% and >=1% higher than placebo) include dizziness, somnolence, fatigue, irritability, falls, nausea, weight gain, vertigo, ataxia, headache, vomiting, contusion, abdominal pain, and anxiety  (  6.1  ,  6.2  )
+ 
+
+   to report suspected adverse reactions, contact eisai at 1-888-274-2378 or fda at 1-800-fda-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+    6.1 clinical trial    s    experience  
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+   partial    -    onset seizures  a total of 1,038 patients receiving fycompa (2, 4, 8, or 12 mg once daily) constituted the safety population in the pooled analysis of the placebo-controlled trials (studies 1, 2, and 3) in patients with partial-onset seizures. approximately 51% of patients were female, and the mean age was 35 years.
+
+
+
+   adverse reactions leading to discontinuation  in controlled clinical trials (studies 1, 2, and 3), the rate of discontinuation as a result of an adverse reaction was 3%, 8%, and 19% in patients randomized to receive fycompa at the recommended doses of 4 mg, 8 mg, and 12 mg per day, respectively, and 5% in patients randomized to receive placebo   [see clinical studies (      14      )]  . the adverse reactions most commonly leading to discontinuation (>=1% in the 8 mg or 12 mg fycompa group and greater than placebo) were dizziness, somnolence, vertigo, aggression, anger, ataxia, blurred vision, irritability, and dysarthria [  see     warnings and precautions     (      5.1      ,           5.3      )  ].
+
+
+
+   most common adverse reactions  table 2 gives the incidence in the controlled clinical trials (studies 1, 2, and 3) of the adverse reactions that occurred in >=2% of patients with partial-onset seizures in the fycompa 12 mg dose group and more frequent than placebo (in order of decreasing frequency for the 12 mg dose group).
+
+
+
+ the most common dose-related adverse reactions in patients receiving fycompa at doses of 8 mg or 12 mg (>=4% and occurring at least 1% higher than the placebo group) included dizziness (36%), somnolence (16%), fatigue (10%), irritability (9%), falls (7%), nausea (7%), ataxia (5%), balance disorder (4%), gait disturbance (4%), vertigo (4%), and weight gain (4%). for almost every adverse reaction, rates were higher on 12 mg and more often led to dose reduction or discontinuation.
+
+
+
+ table 2. adverse reactions in pooled placebo-controlled trials in patients with partial-onset seizures (studies 1, 2, and 3) (reactions >= 2% of patients in highest fycompa dose (12 mg) group and more frequent than placebo) 
+                    placebo n=442    %      fycompa         
+                                     4 mg    n=172  %    8 mg    n=431    %      12 mg    n=255    %     
+ dizziness        9                16               32               43                
+ somnolence       7                9                16               18                
+ headache         11               11               11               13                
+ irritability     3                4                7                12                
+ fatigue          5                8                8                12                
+ falls            3                2                5                10                
+ ataxia           0                1                3                8                 
+ nausea           5                3                6                8                 
+ vertigo          1                4                3                5                 
+ back pain        2                2                2                5                 
+ dysarthria       0                1                3                4                 
+ anxiety          1                2                3                4                 
+ blurred vision   1                1                3                4                 
+ gait disturbance  1                1                4                4                 
+ weight gain      1                4                4                4                 
+ cough            3                1                1                4                 
+ upper respiratory tract infection  3                3                3                4                 
+ vomiting         3                2                3                4                 
+ hypersomnia      0                1                2                3                 
+ anger            <1               0                1                3                 
+ aggression       1                1                2                3                 
+ balance disorder  1                0                5                3                 
+ diplopia         1                1                1                3                 
+ head injury      1                1                1                3                 
+ hypoaesthesia    1                0                0                3                 
+ pain in extremity  1                0                2                3                 
+ constipation     2                2                2                3                 
+ myalgia          2                1                1                3                 
+ coordination abnormal  0                1                <1               2                 
+ euphoric mood    0                0                <1               2                 
+ confusional state  <1               1                1                2                 
+ hyponatremia     <1               0                0                2                 
+ limb injury      <1               1                1                2                 
+ mood altered     <1               1                <1               2                 
+ arthralgia       1                0                3                2                 
+ asthenia         1                1                2                2                 
+ contusion        1                0                2                2                 
+ memory impairment  1                0                1                2                 
+ musculoskeletal pain  1                1                1                2                 
+ oropharyngeal pain  1                2                2                2                 
+ paraesthesia     1                0                1                2                 
+ peripheral edema  1                1                1                2                 
+ skin laceration  1                0                2                2                 
+              primary generalized tonic-    clonic seizures  a total of 81 patients receiving fycompa 8 mg once daily constituted the safety population in the placebo-controlled trial in patients with primary generalized tonic-clonic seizures (study 4). approximately 57% of patients were female, and the mean age was 27 years.
+ 
+
+ in the controlled primary generalized tonic-clonic seizure clinical trial (study 4), the adverse reaction profile was similar to that noted for the controlled partial-onset seizure clinical trials (studies 1, 2, and 3). 
+
+
+
+ table 3 gives the incidence of adverse reactions in patients receiving fycompa 8 mg (>=4% and higher than in the placebo group) in study 4. the most common adverse reactions in patients receiving fycompa (>=10% and greater than placebo) were dizziness (32%), fatigue (15%), headache (12%), somnolence (11%), and irritability (11%).
+
+
+
+ the adverse reactions most commonly leading to discontinuation in patients receiving fycompa 8 mg (>=2% and greater than placebo) were vomiting (2%) and dizziness (2%). 
+
+
+
+ table 3. adverse reactions in a placebo-controlled trial in patients with primary generalized tonic-clonic seizures (study 4) (reactions >= 4% of patients in fycompa group and more frequent than placebo) 
+                    placebo    n=82    %      fycompa 8 mg    n=81    %     
+ dizziness        6                32                
+ fatigue          6                15                
+ headache         10               12                
+ somnolence       4                11                
+ irritability     2                11                
+ vertigo          2                9                 
+ vomiting         2                9                 
+ weight gain      4                7                 
+ contusion        4                6                 
+ nausea           5                6                 
+ abdominal pain   1                5                 
+ anxiety          4                5                 
+ urinary tract infection  1                4                 
+ ligament sprain  0                4                 
+ balance disorder  1                4                 
+ rash             1                4                 
+           weight gain  weight gain has occurred with fycompa.   
+ 
+
+ in controlled partial-onset seizure clinical trials, fycompa-treated adults gained an average of 1.1 kg (2.5 lbs) compared to an average of 0.3 kg (0.7 lbs) in placebo-treated adults with a median exposure of 19 weeks. the percentages of adults who gained at least 7% and 15% of their baseline body weight in fycompa-treated patients were 9.1% and 0.9%, respectively, as compared to 4.5% and 0.2% of placebo-treated patients, respectively. clinical monitoring of weight is recommended.
+
+
+
+ similar increases in weight were also observed in adult and pediatric patients treated with fycompa in the primary generalized tonic-clonic seizure clinical trial.
+
+
+
+   elevated triglycerides  increases in triglycerides have occurred with fycompa use.
+
+
+
+   comparison of sex and race  no significant sex differences were noted in the incidence of adverse reactions.
+
+
+
+ although there were few non-caucasian patients, no differences in the incidence of adverse reactions compared to caucasian patients were observed.
+
+
+
+     6.2 postmarketing experience  
+
+  the following adverse reactions have been identified during post approval use of fycompa. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   dermatologic  : drug reaction with eosinophilia and systemic symptoms (dress).
+
+
+    boxed warning: warning: serious psychiatric and behavioral reactions
+
+    warning: serious psychiatric and behavioral reactions  
+
+    *  serious or life-threatening psychiatric and behavioral adverse reactions including aggression, hostility, irritability, anger, and homicidal ideation and threats have been reported in patients taking fycompa (5.1). 
+ *  these reactions occurred in patients with and without prior psychiatric history, prior aggressive behavior, or concomitant use of medications associated with hostility and aggression (5.1). 
+ *  advise patients and caregivers to contact a healthcare provider immediately if any of these reactions or changes in mood, behavior, or personality that are not typical for the patient are observed while taking fycompa or after discontinuing fycompa (5.1). 
+ *  closely monitor patients particularly during the titration period and at higher doses (5.1). 
+ *  fycompa should be reduced if these symptoms occur and should be discontinued immediately if symptoms are severe or are worsening (5.1). 
+      excerpt:     warning:  serious psychiatric and behavioral reactions  
+ 
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  serious or life-threatening psychiatric and behavioral adverse reactions including aggression, hostility, irritability, anger, and homicidal ideation and threats have been reported in patients taking fycompa (5.1) 
+ *  monitor patients for these reactions as well as for changes in mood, behavior, or personality that are not typical for the patient, particularly during the titration period and at higher doses (5.1) 
+ *  fycompa should be reduced if these symptoms occur and should be discontinued immediately if symptoms are severe or are worsening (5.1) 
+     5       warnings and precautions  
+
+
+
+   excerpt:    *  suicidal behavior and ideation: monitor for suicidal thoughts or behavior (  5.2  ) 
+ *  neurologic effects: monitor for dizziness, gait disturbance, somnolence, and fatigue (  5.3  )patients should use caution when driving or operating machinery (  5.3  ) 
+ *  falls: monitor for falls and injuries (  5.4  ) 
+ *  withdrawal of antiepileptic drugs: in patients with epilepsy, there may be an increase in seizure frequency (  5.5  ) 
+    
+ 
+
+    5.1 serious   p   sychiatric   and behavioral   reactions  
+
+
+
+  in the controlled partial-onset seizure clinical trials, hostility- and aggression-related adverse reactions occurred in 12% and 20% of patients randomized to receive fycompa at doses of 8 mg and 12 mg per day, respectively, compared to 6% of patients in the placebo group. these effects were dose-related and generally appeared within the first 6 weeks of treatment, although new events continued to be observed through more than 37 weeks. fycompa-treated patients experienced more hostility- and aggression-related adverse reactions that were serious, severe, and led to dose reduction, interruption, and discontinuation more frequently than placebo-treated patients. 
+
+
+
+ in general, in placebo-controlled partial-onset seizure clinical trials, neuropsychiatric events were reported more frequently in patients being treated with fycompa than in patients taking placebo. these events included irritability, aggression, anger, and anxiety, which occurred in 2% or greater of fycompa-treated patients and twice as frequently as in placebo-treated patients. other symptoms that occurred with fycompa and were more common than with placebo included belligerence, affect lability, agitation, and physical assault. some of these events were reported as serious and life-threatening. homicidal ideation and/or threat were exhibited in 0.1% of 4,368 fycompa-treated patients in controlled and open label trials, including non-epilepsy trials .    homicidal ideation and/or threat have also been reported postmarketing in patients treated with fycompa.
+
+
+
+ in the partial-onset seizure clinical trials, these events occurred in patients with and without prior psychiatric history, prior aggressive behavior, or concomitant use of medications associated with hostility and aggression. some patients experienced worsening of their pre-existing psychiatric conditions. patients with active psychotic disorders and unstable recurrent affective disorders were excluded from the clinical trials. the combination of alcohol and fycompa significantly worsened mood and increased anger. patients taking fycompa should avoid the use of alcohol [ see   drug interactions (     7.3     )  ]. 
+
+
+
+ similar serious psychiatric and behavioral events were observed in the primary generalized tonic-clonic seizure clinical trial.
+
+
+
+ in healthy volunteers taking fycompa, observed psychiatric events included paranoia, euphoric mood, agitation, anger, mental status changes, and disorientation/confusional state. 
+
+
+
+ in the non-epilepsy trials, psychiatric events that occurred in perampanel-treated patients more often than placebo-treated patients included disorientation, delusion, and paranoia. 
+
+
+
+ patients, their caregivers, and families should be informed that fycompa may increase the risk of psychiatric events. patients should be monitored during treatment and for at least 1 month after the last dose of fycompa, and especially when taking higher doses and during the initial few weeks of drug therapy (titration period) or at other times of dose increases. dose of fycompa should be reduced if these symptoms occur. permanently discontinue fycompa for persistent severe or worsening psychiatric symptoms or behaviors and refer for psychiatric evaluation. 
+
+
+
+     5.   2   suicidal behavior and ideation  
+
+
+
+  antiepileptic drugs (aeds), including fycompa, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication. patients treated with any aed for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
+
+
+
+ pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different aeds showed that patients randomized to one of the aeds had approximately twice the risk (adjusted relative risk 1.8, 95% ci: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo. in these trials, which had a median treatment duration of 12 weeks, the estimated incidence of suicidal behavior or ideation among 27,863 aed-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated. there were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
+
+
+
+ the increased risk of suicidal thoughts or behavior with aeds was observed as early as 1 week after starting drug treatment with aeds and persisted for the duration of treatment assessed. because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
+
+
+
+ the risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed. the finding of increased risk with aeds of varying mechanisms of action and across a range of indications suggests that the risk applies to all aeds used for any indication. the risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
+
+
+
+ table 1 shows absolute and relative risk by indication for all evaluated aeds.
+
+
+
+ table 1. risk by indication for antiepileptic drugs in the pooled analysis 
+ indication       placebo patients with events per 1000 patients  drug patients with events per 1000 patients  relative risk: incidence of events in drug patients/ incidence in placebo patients  risk difference: additional drug patients with events per 1000 patients   
+ epilepsy         1.0              3.4              3.5              2.4               
+ psychiatric      5.7              8.5              1.5              2.9               
+ other            1.0              1.8              1.9              0.9               
+ total            2.4              4.3              1.8              1.9               
+           the relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
+ 
+
+ anyone considering prescribing fycompa or any other aed must balance the risk of suicidal thoughts or behavior with the risk of untreated illness. epilepsy and many other illnesses for which aeds are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior. should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
+
+
+
+ patients, their caregivers, and families should be informed that aeds increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm. behaviors of concern should be reported immediately to healthcare providers.
+
+
+
+     5.   3       neurologic effects  
+
+
+
+   dizziness and   gait disturbance      fycompa caused dose-related increases in events related to dizziness and disturbance in gait or coordination [ see adverse reactions (     6.1     )]  . in the controlled partial-onset seizure clinical trials, dizziness and vertigo were reported in 35% and 47% of patients randomized to receive fycompa at doses of 8 mg and 12 mg per day, respectively, compared to 10% of placebo-treated patients. the gait disturbance related events (including ataxia, gait disturbance, balance disorder, and abnormal coordination) were reported in 12% and 16% of patients randomized to receive fycompa at doses of 8 mg and 12 mg per day, respectively, compared to 2% of placebo-treated patients. elderly patients had an increased risk of these adverse reactions compared to younger adults and pediatric patients.
+
+
+
+ these adverse reactions occurred mostly during the titration phase and led to discontinuation in 3% of fycompa-treated patients compared to 1% of placebo-treated patients. 
+
+
+
+ these adverse reactions were also observed in the primary generalized tonic-clonic seizure clinical trial.
+
+
+
+  somnolence and fatigue  fycompa caused dose-dependent increases in somnolence and fatigue-related events (including fatigue, asthenia, and lethargy).
+
+
+
+ in the controlled partial-onset seizure clinical trials, 16% and 18% of patients randomized to receive fycompa at doses of 8 mg and 12 mg per day, respectively, reported somnolence compared to 7% of placebo patients. in the controlled partial-onset seizure clinical trials, 12% and 15% of patients randomized to receive fycompa at doses of 8 mg and 12 mg per day, respectively, reported fatigue-related events compared to 5% of placebo patients. somnolence or fatigue-related events led to discontinuation in 2% of fycompa-treated patients and 0.5% of placebo-treated patients. elderly patients had an increased risk of these adverse reactions compared to younger adults and pediatric patients.
+
+
+
+ in the controlled partial-onset seizure clinical trials, these adverse reactions occurred mostly during the titration phase. 
+
+
+
+ these adverse reactions were also observed in the primary generalized tonic-clonic seizure clinical trial.
+
+
+
+  risk amelioration  prescribers should advise patients against engaging in hazardous activities requiring mental alertness, such as operating motor vehicles or dangerous machinery, until the effect of fycompa is known.
+
+
+
+     5.   4   falls  
+
+
+
+  an increased risk of falls, in some cases leading to serious injuries including head injuries and bone fracture, occurred in patients being treated with fycompa (with and without concurrent seizures). in the controlled partial-onset seizure clinical trials, falls were reported in 5% and 10% of patients randomized to receive fycompa at doses of 8 mg and 12 mg per day, respectively, compared to 3% of placebo-treated patients. falls were reported as serious and led to discontinuation more frequently in fycompa-treated patients than placebo-treated patients. elderly patients had an increased risk of falls compared to younger adults and pediatric patients.
+
+
+
+     5.   5   withdrawal of antiepileptic drugs  
+
+
+
+  there is the potential of increased seizure frequency in patients with seizure disorders when antiepileptic drugs are withdrawn abruptly. fycompa has a half-life of approximately 105 hours so that even after abrupt cessation, blood levels fall gradually. in epilepsy clinical trials fycompa was withdrawn without down-titration. although a small number of patients exhibited seizures following discontinuation, the data were not sufficient to allow any recommendations regarding appropriate withdrawal regimens. a gradual withdrawal is generally recommended with antiepileptic drugs, but if withdrawal is a response to adverse events, prompt withdrawal can be considered.

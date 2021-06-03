@@ -1,0 +1,107 @@
+    6 adverse reactions
+
+  adverse reactions associated with ophthalmic steroids include elevated intraocular pressure, which may be associated with optic nerve damage, visual acuity and field defects, posterior subcapsular cataract formation; secondary ocular infection from pathogens including herpes simplex, and perforation of the globe where there is thinning of the cornea or sclera.
+
+
+
+   6.1 ocular surgery
+
+  ocular adverse reactions occurring in 5-15% of subjects in clinical studies with durezol included corneal edema, ciliary and conjunctival hyperemia, eye pain, photophobia, posterior capsule opacification, anterior chamber cells, anterior chamber flare, conjunctival edema, and blepharitis.  other ocular adverse reactions occurring in 1-5% of subjects included reduced visual acuity, punctate keratitis, eye inflammation, and iritis.  ocular adverse reactions occurring in < 1% of subjects included application site discomfort or irritation, corneal pigmentation and striae, episcleritis, eye pruritis, eyelid irritation and crusting, foreign body sensation, increased lacrimation, macular edema, sclera hyperemia, and uveitis.  most of these reactions may have been the consequence of the surgical procedure.
+
+
+
+   6.2 endogenous anterior uveitis
+
+  a total of 200 subjects participated in the clinical trials for endogenous anterior uveitis, of which 106 were exposed to durezol.  the most common adverse reactions of those exposed to durezol occurring in 5-10% of subjects included blurred vision, eye irritation, eye pain, headache, increased iop, iritis, limbal and conjunctival hyperemia, punctate keratitis, and uveitis.  adverse reactions occurring in 2-5% of subjects included anterior chamber flare, corneal edema, dry eye, iridocyclitis, photophobia, and reduced visual acuity.
+    5 warnings and precautions
+
+
+
+   excerpt:    *   intraocular pressure (iop) increase- prolonged use of corticosteroids may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision. if this product is used for 10 days or longer, iop should be monitored.  (  5.1  )
+ 
+    
+
+ item{ cataracts- use of corticosteroids may result in posterior subcapsular cataract formation. (  5.2  )
+ 
+
+ item{ delayed healing- the use of steroids after cataract surgery may delay healing and increase the incidence of bleb formation. in those diseases causing thinning of the cornea or sclera, perforations have been known to occur with the use of topical steroids. the initial prescription and renewal of the medication order beyond 28 days should be made by a physician only after examination of the patient with the aid of magnification such as slit lamp biomicroscopy and, where appropriate, fluorescein staining. (  5.3  )
+ 
+
+ item{ bacterial infections- prolonged use of corticosteroids may suppress the host response and thus increase the hazard of secondary ocular infections. in acute purulent conditions, steroids may mask infection or enhance existing infection. if signs and symptoms fail to improve after 2 days, the patient should be re-evaluated. (  5.4  )
+ 
+
+ item{ viral infections- employment of a corticosteroid medication in the treatment of patients with a history of herpes simplex requires great caution. use of ocular steroids may prolong the course and may exacerbate the severity of many viral infections of the eye (including herpes simplex). (  5.5  )
+ 
+
+ item{ fungal infections- fungal infections of the cornea are particularly prone to develop coincidentally with long-term local steroid application. fungus invasion must be considered in any persistent corneal ulceration where a steroid has been used or is in use. (  5.6  )
+ 
+
+}}  to report suspected adverse reactions, contact alcon laboratories, inc. at 1-800-757-9195 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+
+
+   5.1 iop increase
+
+
+
+  prolonged use of corticosteroids may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision. steroids should be used with caution in the presence of glaucoma. if this product is used for 10 days or longer, intraocular pressure should be monitored.
+
+
+
+    5.2 cataracts
+
+
+
+  use of corticosteroids may result in posterior subcapsular cataract formation.
+
+
+
+    5.3 delayed healing
+
+
+
+  the use of steroids after cataract surgery may delay healing and increase the incidence of bleb formation. in those diseases causing thinning of the cornea or sclera, perforations have been known to occur with the use of topical steroids. the initial prescription and renewal of the medication order beyond 28 days should be made by a physician only after examination of the patient with the aid of magnification such as slit lamp biomicroscopy and, where appropriate, fluorescein staining.
+
+
+
+    5.4 bacterial infections
+
+
+
+  prolonged use of corticosteroids may suppress the host response and thus increase the hazard of secondary ocular infections. in acute purulent conditions, steroids may mask infection or enhance existing infection. if signs and symptoms fail to improve after 2 days, the patient should be re-evaluated.
+
+
+
+    5.5 viral infections
+
+
+
+  employment of a corticosteroid medication in the treatment of patients with a history of herpes simplex requires great caution. use of ocular steroids may prolong the course and may exacerbate the severity of many viral infections of the eye (including herpes simplex).
+
+
+
+    5.6 fungal infections
+
+
+
+  fungal infections of the cornea are particularly prone to develop coincidentally with long-term local steroid application. fungus invasion must be considered in any persistent corneal ulceration where a steroid has been used or is in use. fungal culture should be taken when appropriate.
+
+
+
+    5.7 topical ophthalmic use only
+
+
+
+  durezol is not indicated for intraocular administration.
+
+
+
+    5.8 contact lens wear
+
+
+
+  durezol should not be instilled while wearing contact lenses. remove contact lenses prior to instillation of durezol. the preservative in durezol may be absorbed by soft contact lenses.  lenses may be reinserted after 10 minutes following administration of durezol.

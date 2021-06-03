@@ -1,0 +1,151 @@
+    6 adverse reactions
+
+    *    the following serious adverse reactions are discussed elsewhere in labeling: 
+ *    nephrogenic systemic fibrosis (nsf) [see boxed warning and warnings and precautions (  5.1  )].  
+    hypersensitivity reactions  [see contraindications (4) and warnings and precautions (  5.2  )].  
+ 
+
+    excerpt:    *    most common adverse reactions (incidence >= 0.5%) are headache, nausea, and dizziness (  6.1)   
+      to report suspected adverse reactions, contact bayer healthcare pharmaceuticals inc. at 1-888-842-2937 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch    
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ the adverse reactions described in this section reflect gadavist exposure in 6,330 subjects (including 184 pediatric patients, ages 0 to 17 years) with the majority receiving the recommended dose. approximately 50% of the subjects were male and the ethnic distribution was 60% caucasian, 30% asian, 6% hispanic, 2% black, and 3% patients of other ethnic groups. the average age was 55 years (range from1 week to 93 years).
+
+
+
+ overall, approximately 4% of subjects reported one or more adverse reactions during a follow-up period that ranged from 24 hours to 7 days after gadavist administration.
+
+
+
+ adverse reactions associated with the use of gadavist were usually mild to moderate in severity and transient in nature.
+
+
+
+ table 2 lists adverse reactions that occurred in >= 0.1% subjects who received gadavist.
+
+
+
+ table 2: adverse reactions 
+  reaction                                                         rate (%)  n=6330                  
+  headache                                                         1.5                               
+  nausea                                                           1.2                               
+  dizziness                                                        0.5                               
+  dysgeusia                                                        0.4                               
+  feeling hot                                                      0.4                               
+  injection site reactions                                         0.4                               
+  vomiting                                                         0.4                               
+  rash (includes generalized, macular, papular, pruritic)          0.3                               
+  pruritus (includes generalized)                                  0.2                               
+  erythema                                                         0.2                               
+  hypersensitivity/anaphylactoid*                                  0.1                               
+  dyspnea                                                          0.1                               
+  paresthesia                                                      0.1                               
+        *hypersensitivity/anaphylactoid reaction may occur with one or more of the following adverse reactions: for example, hypotension, urticaria, face edema, eyelid edema, flushing
+ 
+
+ adverse reactions that occurred with a frequency of < 0.1% in subjects who received gadavist include: loss of consciousness, convulsion, parosmia, tachycardia, palpitation, dry mouth, malaise and feeling cold.
+
+
+
+   6.2 postmarketing experience
+
+  the following additional adverse reactions have been reported during postmarketing use of gadavist. because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ *    cardiac arrest 
+ *    nephrogenic systemic fibrosis (nsf) 
+ *    hypersensitivity reactions (anaphylactic shock, circulatory collapse, respiratory arrest, pulmonary edema, bronchospasm, cyanosis, oropharyngeal swelling, laryngeal edema, blood pressure increased, chest pain, angioedema, conjunctivitis, hyperhidrosis, cough, sneezing, burning sensation, and pallor) [see warnings and precautions (  5.2  )]  
+
+
+    boxed warning: warning: nephrogenic systemic fibrosis
+
+  warning: nephrogenic systemic fibrosis
+
+  gadolinium-based contrast agents (gbcas) increase the risk for nsf among patients with impaired elimination of the drugs. avoid use of gbcas in these patients unless the diagnostic information is essential and not available with non-contrasted mri or other modalities. nsf may result in fatal or debilitating fibrosis affecting the skin, muscle and internal organs.
+
+
+
+ *  the risk for nsf appears highest among patients with:chronic, severe kidney disease (gfr < 30 ml/min/1.73m2), oracute kidney injury. 
+ *  screen patients for acute kidney injury and other conditions that may reduce renal function. for patients at risk for chronically reduced renal function (for example, age > 60 years, hypertension or diabetes), estimate the glomerular filtration rate (gfr) through laboratory testing. 
+ *  for patients at highest risk for nsf, do not exceed the recommended gadavist dose and allow a sufficient period of time for elimination of the drug from the body prior to any re-administration [see warnings and precautions (5.1)]. 
+      excerpt:   warning: nephrogenic systemic fibrosis (nsf)
+ 
+
+   see full prescribing information for complete boxed warning  
+
+
+
+   gadolinium-based contrast agents (gbcas) increase the risk for nsf among patients with impaired elimination of the drugs. avoid use of gbcas in these patients unless the diagnostic information is essential and not available with non-contrasted mri or other modalities.  
+
+
+
+ *  the risk for nsf appears highest among patients with:chronic, severe kidney disease (gfr < 30 ml/min/1.73m2), oracute kidney injury. 
+ *  screen patients for acute kidney injury and other conditions that may reduce renal function. for patients at risk for chronically reduced renal function (for example, age >60 years, hypertension or diabetes), estimate the glomerular filtration rate (gfr) through laboratory testing. (5.1) 
+    5 warnings and precautions
+
+
+
+   excerpt:    *    nephrogenic systemic fibrosis has occurred in patients with impaired elimination of gbcas. higher than recommended dosing or repeated dosing appears to increase the risk (  5.1  ) 
+ *    anaphylactic and other hypersensitivity reactions with cardiovascular, respiratory or cutaneous manifestations, ranging from mild to severe, including death, have occurred. monitor patients closely during and after administration of gadavist (  5.2  ) 
+    
+ 
+
+   5.1 nephrogenic systemic fibrosis
+
+
+
+  gadolinium-based contrast agents (gbcas) increase the risk for nephrogenic systemic fibrosis (nsf) among patients with impaired elimination of the drugs. avoid use of gbcas among these patients unless the diagnostic information is essential and not available with non-contrast mri or other modalities. the gbca-associated nsf risk appears highest for patients with chronic, severe kidney disease (gfr < 30 ml/min/1.73m  2  ) as well as patients with acute kidney injury. the risk appears lower for patients with chronic, moderate kidney disease (gfr 30 to 59 ml/min/1.73m  2  ) and little, if any, for patients with chronic, mild kidney disease (gfr 60 to 89 ml/min/1.73m  2  ). nsf may result in fatal or debilitating fibrosis affecting the skin, muscle and internal organs. report any diagnosis of nsf following gadavist administration to bayer healthcare (1-888-842-2937) or fda (1-800-fda-1088 or  www.fda.gov/medwatch  ).
+
+
+
+ screen patients for acute kidney injury and other conditions that may reduce renal function. features of acute kidney injury consist of rapid (over hours to days) and usually reversible decrease in kidney function, commonly in the setting of surgery, severe infection, injury or drug-induced kidney toxicity. serum creatinine levels and estimated gfr may not reliably assess renal function in the setting of acute kidney injury. for patients at risk for chronically reduced renal function (for example, age > 60 years, diabetes mellitus or chronic hypertension), estimate the gfr through laboratory testing.
+
+
+
+ among the factors that may increase the risk for nsf are repeated or higher than recommended doses of a gbca and degree of renal impairment at the time of exposure. record the specific gbca and the dose administered to a patient. for patients at highest risk for nsf, do not exceed the recommended gadavist dose and allow a sufficient period of time for elimination of the drug prior to re-administration. for patients receiving hemodialysis, consider the prompt initiation of hemodialysis following the administration of a gbca in order to enhance the contrast agent's elimination [see use in specific populations (  8.6  ) and clinical pharmacology (  12.3  )].  the usefulness of hemodialysis in the prevention of nsf is unknown [see clinical pharmacology (12.3)].  
+
+
+
+    5.2 hypersensitivity reactions
+
+
+
+  anaphylactic and other hypersensitivity reactions with cardiovascular, respiratory or cutaneous manifestations, ranging from mild to severe, including death, have uncommonly occurred following gadavist administration [see adverse reactions (  6  )]  .
+
+
+
+ *    before gadavist administration, assess all patients for any history of a reaction to contrast media, bronchial asthma and/or allergic disorders. these patients may have an increased risk for a hypersensitivity reaction to gadavist. 
+ *    administer gadavist only in situations where trained personnel and therapies are promptly available for the treatment of hypersensitivity reactions, including personnel trained in resuscitation. 
+    most hypersensitivity reactions to gadavist have occurred within half an hour after administration. delayed reactions can occur up to several days after administration. observe patients for signs and symptoms of hypersensitivity reactions during and following gadavist administration.
+ 
+
+    5.3 acute kidney injury
+
+
+
+  in patients with chronic renal impairment, acute kidney injury sometimes requiring dialysis has been observed with the use of some gbcas. do not exceed the recommended dose; the risk of acute kidney injury may increase with higher than recommended doses.
+
+
+
+    5.4 extravasation and injection site reactions
+
+
+
+  ensure catheter and venous patency before the injection of gadavist. extravasation into tissues during gadavist administration may result in moderate irritation [see nonclinical toxicology (  13.2  )]  .
+
+
+
+    5.5 overestimation of extent of malignant disease in mri of the breast
+
+
+
+   gadavist mri of the breast overestimated the histologically confirmed extent of malignancy in the diseased breast in up to 50% of the patients [see clinical studies (    14.2   )].  

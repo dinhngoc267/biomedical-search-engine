@@ -1,0 +1,185 @@
+    6 adverse reactions
+
+  excerpt:   most common adverse reactions (>1%) are nausea, headache and vomiting (abdominal bloating, distension, pain/cramping, and watery diarrhea not requiring an intervention were not collected) (  6.1  )  to report suspected adverse reactions, contact ferring at 1-888-ferring (1-888-337-7464) or fda at 1-800-fda-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ in randomized, multicenter, controlled clinical trials, nausea, headache, and vomiting were the most common adverse reactions (>1%) following prepopik  (r)  administration. the patients were not blinded to the study drug. since abdominal bloating, distension, pain/cramping, and watery diarrhea are known to occur in response to colon cleansing preparations, these effects were documented as adverse events in the clinical trials only if they required medical intervention (such as a change in study drug or led to study discontinuation, therapeutic or diagnostic procedures, met the criteria for a serious adverse event), or showed clinically significant worsening during the study that was not in the frame of the usual clinical course, as determined by the investigator.
+
+
+
+ prepopik  (r)  was compared for colon cleansing effectiveness with a preparation containing two liters (2l) of polyethylene glycol plus electrolytes solution (peg + e) and two 5-mg bisacodyl tablets, all administered the day before the procedure. table 1 displays the most common adverse reactions in study 1 and study 2 for the prepopik  (r)  split-dose and day-before dosing regimens, respectively, each as compared to the comparator preparation.
+
+
+
+ table 1: treatment-emergent adverse reactions observed in at least (>1%) of patients using the split-dose regimen and day-before regimen abdominal bloating, distension, pain/cramping, and watery diarrhea not requiring an intervention were not collected 
+ adverse reaction  study 1: split-dose regimen  study 2: day-before regimen   
+ prepopik  (r)  (n=305)n (% = n/n)  2l peg+ewith 2 * 5-mg bisacodyl tablets(n=298)n (% = n/n)  prepopik  (r)  (n=296)n (% = n/n)  2l peg+ewith 2 * 5-mg bisacodyl tablets(n=302)n (% = n/n)   
+  
+ nausea             8 (2.6)                 11 (3.7)                 9 (3.0)                 13 (4.3)           
+ headache           5 (1.6)                  5 (1.7)                 8 (2.7)                  5 (1.7)           
+ vomiting           3 (1.0)                 10 (3.4)                 4 (1.4)                  6 (2.0)           
+               electrolyte abnormalities  
+ 
+
+ in general, prepopik  (r)  was associated with numerically higher rates of abnormal electrolyte shifts on the day of colonoscopy compared to the preparation containing 2l of peg + e plus two * 5-mg bisacodyl tablets (table 2). these shifts were transient in nature and numerically similar between treatment arms at the day 30 visit.
+
+
+
+ table 2: shifts from normal baseline to outside the normal range at day 7 and day 30 
+ laboratory parameter (direction of change)                 visit  study 1: split-dose regimen  study 2: day-before regimen   
+ prepopik  (r)         2l peg+e with 2* 5 mg bisacodyl tablets  prepopik  (r)    2l peg+e with 2* 5 mg bisacodyl tablets   
+                                                 n/n (%)          n/n (%)       
+  
+ potassium (low)         day of colonoscopy   19/260 (7.3)    11/268 ( 4.1 )    13/274 (4.7)     13/271 (4.8)     
+                                24-48 hours    3/302 (1.0)      2/294 (0.7)      3/287 (1.0)      5/292 (1.7)     
+                                      day 7   11/285 (3.9)      8/279 (2.9)      6/276 (2.2)     14/278 (5.0)     
+                                     day 30   11/284 (3.9)      8/278 (2.9)      7/275 (2.5)      8/284 (2.8)     
+ sodium (low)            day of colonoscopy   11/298 (3.7)      3/295 (1.0)      3/286 (1.0)      3/295 (1.0)     
+                                24-48 hours    1/303 (0.3)      1/295 (0.3)      1/288 (0.3)      1/293 (0.3)     
+                                      day 7    2/300 (0.7)      1/292 (0.3)      1/285 (0.4)      1/291 (0.3)     
+                                     day 30    2/299( 0.7)      3/291 (1.0)      1/284( 0.4)      1/296 (0.3)     
+ chloride (low)          day of colonoscopy   11/301 (3.7)      1/298 (0.3)      3/287 (1.0)      0/297 (0.0)     
+                                24-48 hours    1/303 (0.3)      0/295 (0.0)      2/288 (0.7)      0/293 (0.0)     
+                                      day 7    1/303 (0.3)      3/295 (1.0)      0/285 (0.0)      0/293 (0.0)     
+                                     day 30    2/302 (0.7)      3/294 (1.0)      0/285 (0.0)      0/298 (0.0)     
+ magnesium (high)        day of colonoscopy   34/294 (11.6)     0/294 (0.0)     25/288 (8.7)      1/289 (0.3)     
+                                24-48 hours    0/303 (0.0)      0/295 (0.0)      0/288 (0.0)      0/293 (0.0)     
+                                      day 7    0/297 (0.0)      1/291 (0.3)      1/286 (0.3)      1/285 (0.4)     
+                                     day 30    1/296 (0.3)      2/290 (0.7)      0/286 (0.0)      0/290 (0.0)     
+ calcium (low)           day of colonoscopy    2/292 (0.7)      1/286 (0.3)      0/276 (0.0)      2/282 (0.7)     
+                                24-48 hours    0/303 (0.0)      0/295 (0.0)      0/288 (0.0)      0/293 (0.0)     
+                                      day 7    0/293 (0.0)      1/283 (0.4)      0/274 (0.0)      0/278 (0.0)     
+                                     day 30    0/292 (0.0)      1/282 (0.4)      0/274 (0.0)      1/283 (0.4)     
+ creatinine (high)       day of colonoscopy    5/260 (1.9)     13/268 (4.9)     12/266 (4.5)     16/270 (5.9)     
+                                24-48 hours    1/303 (0.3)      0/295 (0.0)      0/288 (0.0)      0/293 (0.0)     
+                                      day 7   10/264 (0.4)     13/267 (4.8)     10/264 (3.8)     10/265 (3.8)     
+                                     day 30   11/264 (4.2)      14/265(5.3)     18/264 (6.8)     10/272 (3.7)     
+ egfr (low)              day of colonoscopy   22/221 (10.0)    17/214 (7.9)     26/199 (13.1)    25/224 (11.2)    
+                                24-48 hours   76/303 (25.1)    72/295 (24.4)    82/288 (28.5)    62/293 (21.2)    
+                                      day 7   22/223 (10.0)    17/213 (8.0)     11/198 (5.6)     28/219 (12.8)    
+                                     day 30   24/223(10.8)     21/211 (10.0)    21/199 (10.6)    24/224 (10.7)    
+              6.2 postmarketing experience
+   the following foreign spontaneous reports have been identified during use of formulations similar to prepopik  (r)  . because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+     allergic reactions  
+
+
+
+ cases of hypersensitivity reactions including rash, urticaria, and purpura have been reported.
+
+
+
+     electrolyte abnormalities  
+
+
+
+ there have been reports of hypokalemia, hyponatremia and hypermagnesemia with the use of prepopik  (r)  for colon preparation prior to colonoscopy.
+
+
+
+     gastrointestinal:  
+
+
+
+ abdominal pain, diarrhea, fecal incontinence, and proctalgia have been reported with the use of prepopik  (r)  for colon preparation prior to colonoscopy. there have been isolated reports of reversible aphthoid ileal ulcers. ischemic colitis has been reported with the use of prepopik  (r)  for colon preparation prior to colonoscopy. however, a causal relationship between these ischemic colitis cases and the use of prepopik  (r)  has not been established.
+
+
+
+     neurologic,  
+
+
+
+ there have been reports of generalized tonic-clonic seizures associated with and without hyponatremia in epileptic patients.
+    5 warnings and precautions
+
+
+
+   excerpt:    *   risk of fluid and electrolyte abnormalities, arrhythmia, seizures, and renal impairment: encourage adequate hydration, assess concurrent medications, and consider laboratory assessments prior to and after use (  5.1  ,  5.2  ,  5.3  ,  5.4  ) 
+ *   risks in patients with renal insufficiency or patients taking concomitant medications that affect renal function: use caution, ensure adequate hydration and consider testing (  5.3  ) 
+ *   mucosal ulcerations: consider potential for mucosal ulcerations when interpreting colonoscopy findings in patients with known or suspected inflammatory bowel disease (  5.5  ) 
+ *   suspected gi obstruction or perforation: rule out diagnosis before administration (  4  ,  5.6  ) 
+ *   patients at risk for aspiration: observe during administration (  5.7  ) 
+ *   not for direct ingestion: dissolve and take with additional water (  5.8  ) 
+    
+ 
+
+   5.1 serious fluid and serum chemistry abnormalities
+
+
+
+  advise patients to hydrate adequately before, during, and after the use of prepopik  (r)  . use caution in patients with congestive heart failure when replacing fluids. if a patient develops significant vomiting or signs of dehydration including signs of orthostatic hypotension after taking prepopik  (r)  , consider performing post-colonoscopy lab tests (electrolytes, creatinine, and bun) and treat accordingly. approximately 20% of patients in both arms (prepopik  (r)  , 2l of peg + e plus two * 5-mg bisacodyl tablets) of clinical trials of prepopik  (r)  had orthostatic changes (changes in blood pressure and/or heart rate) on the day of colonoscopy. in clinical trials orthostatic changes were documented out to seven days post colonoscopy. [see  adverse reactions (6.1  ,  6.2)  ]  
+
+
+
+ fluid and electrolyte disturbances can lead to serious adverse events including cardiac arrhythmias or seizures and renal impairment. fluid and electrolyte abnormalities should be corrected before treatment with prepopik  (r)  . in addition, use caution when prescribing prepopik  (r)  for patients who have conditions or who are using medications that increase the risk for fluid and electrolyte disturbances or that may increase the risk of adverse events of seizure, arrhythmia, and renal impairment.
+
+
+
+    5.2 seizures
+
+
+
+  there have been reports of generalized tonic-clonic seizures with the use of bowel preparation products in patients with no prior history of seizures. the seizure cases were associated with electrolyte abnormalities (e.g., hyponatremia, hypokalemia, hypocalcemia, and hypomagnesemia) and low serum osmolality. the neurologic abnormalities resolved with correction of fluid and electrolyte abnormalities.
+
+
+
+ use caution when prescribing prepopik  (r)  for patients with a history of seizures and in patients at risk of seizure, such as patients taking medications that lower the seizure threshold (e.g., tricyclic antidepressants), patients withdrawing from alcohol or benzodiazepines, patients with known or suspected hyponatremia. [see  adverse reactions (6.2)  ]  
+
+
+
+    5.3 use in patients with renal impairment
+
+
+
+  as in other magnesium containing bowel preparations, use caution when prescribing prepopik  (r)  for patients with impaired renal function or patients taking concomitant medications that may affect renal function (such as diuretics, angiotensin converting enzyme inhibitors, angiotensin receptor blockers, or non-steroidal anti-inflammatory drugs). these patients may be at increased risk for renal injury. advise these patients of the importance of adequate hydration before, during and after the use of prepopik  (r)  . consider performing baseline and post-colonoscopy laboratory tests (electrolytes, creatinine, and bun) in these patients. in patients with severely reduced renal function (creatinine clearance < 30 ml/min), accumulation of magnesium in plasma may occur.
+
+
+
+    5.4 cardiac arrhythmias
+
+
+
+  there have been rare reports of serious arrhythmias associated with the use of ionic osmotic laxative products for bowel preparation. use caution when prescribing prepopik  (r)  for patients at increased risk of arrhythmias (e.g., patients with a history of prolonged qt, uncontrolled arrhythmias, recent myocardial infarction, unstable angina, congestive heart failure, or cardiomyopathy). pre-dose and post-colonoscopy ecgs should be considered in patients at increased risk of serious cardiac arrhythmias.
+
+
+
+    5.5 colonic mucosal ulceration, ischemic colitis and ulcerative colitis
+
+
+
+  osmotic laxatives may produce colonic mucosal aphthous ulcerations and there have been reports of more serious cases of ischemic colitis requiring hospitalization. concurrent use of additional stimulant laxatives with prepopik  (r)  may increase this risk. the potential for mucosal ulcerations should be considered when interpreting colonoscopy findings in patients with known or suspected inflammatory bowel disease. [see  adverse reactions (6.2)  ]  
+
+
+
+    5.6 use in patients with significant gastrointestinal disease
+
+
+
+  if gastrointestinal obstruction or perforation is suspected, perform appropriate diagnostic studies to rule out these conditions before administering prepopik  (r)  . use with caution in patients with severe active ulcerative colitis.
+
+
+
+    5.7 aspiration
+
+
+
+  patients with impaired gag reflex and patients prone to regurgitation or aspiration should be observed during the administration of prepopik  (r)  . use with caution in these patients.
+
+
+
+    5.8 not for direct ingestion
+
+
+
+  each packet must be dissolved in 5 ounces of cold water and administered at separate times according to the dosing regimen. ingestion of additional water is important to patient tolerance. direct ingestion of the undissolved powder may increase the risk of nausea, vomiting, dehydration, and electrolyte disturbances.

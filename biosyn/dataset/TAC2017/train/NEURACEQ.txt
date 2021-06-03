@@ -1,0 +1,64 @@
+    6 adverse reactions
+
+  
+
+
+
+   excerpt:   the most commonly reported adverse reactions were: injection site reaction consisting of erythema (1.7 %), irritation (1.2 %), and pain (3.9 %).
+
+
+
+   to report suspected adverse reactions, contact piramal at 1-855-545-5245 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rate observed in clinical practice.
+
+
+
+ the overall safety profile of neuraceq is based on data from 978 administrations of neuraceq to 872 subjects and 12 subjects who received vehicle only. no serious adverse reactions related to neuraceq administration have been reported. the most frequently observed adverse drug reactions in subjects receiving neuraceq were injection site reactions consisting of erythema, irritation and pain. all adverse reactions were mild to moderate in severity and of short duration. the most commonly reported adverse reactions (occurring in at least 0.5% of subjects) during neuraceq clinical trials are shown in table 2.
+
+
+
+ table 2 adverse reactions with a frequency >=0.5% reported in clinical trials (n = 978 administrations in 872 subjects) 
+   adverse drug reaction      n (%)                     
+ injection / application site erythema  17 (1.7)                    
+ injection site irritation  12 (1.2)                    
+ injection site pain        38 (3.9)                    
+    5 warnings and precautions
+
+
+
+  
+
+
+
+   excerpt:    image interpretation errors (especially false positives) have been observed (  5.1  ).
+
+
+
+  neuraceq, like all radiopharmaceuticals, contributes to a patient's long-term cumulative radiation exposure. ensure safe handling to protect patients and health care workers from unintentional radiation exposure (  5.2  ).
+
+
+
+ 
+
+
+
+   5.1 risk for image misinterpretation and other errors
+
+
+
+  errors may occur in the neuraceq estimation of brain neuritic beta-amyloid plaque density during image interpretation [ see  clinical studies (14)    ]. image interpretation should be performed independently of the patient's clinical information. the use of clinical information in the interpretation of neuraceq images has not been evaluated and may lead to errors. errors may also occur in cases with severe brain atrophy that limits the ability to distinguish gray and white matter on the neuraceq scan. errors may also occur due to motion artifacts that result in image distortion. neuraceq scan results are indicative of the presence of brain neuritic beta-amyloid plaques only at the time of image acquisition and a negative scan result does not preclude the development of brain neuritic beta-amyloid plaques in the future.
+
+
+
+    5.2 radiation risk
+
+
+
+  neuraceq, similar to other radiopharmaceuticals, contributes to a patient's overall long-term cumulative radiation exposure. long-term cumulative radiation exposure is associated with an increased risk of cancer. ensure safe handling to protect patients and health care workers from unintentional radiation exposure [ see  dosage and administration (2.1)    ].

@@ -1,0 +1,294 @@
+    6 adverse reactions
+
+  the following adverse drug reactions (adrs) are discussed in greater detail in other sections of the package insert:
+
+
+
+ *  skin and hypersensitivity reactions [see  warnings and precautions (5.2)  ]  
+ *  depressive disorders [see  warnings and precautions (5.3)  ]  
+ *  hepatotoxicity [see  warnings and precautions (5.4)  ]  
+      excerpt:   the most common adverse drug reactions to edurant (incidence > 2%) of at least moderate to severe intensity (>= grade 2) were depressive disorders, headache, insomnia and rash. (  6  )  to report suspected adverse reactions, contact janssen products, lp at 1-800-janssen (1-800-526-7736) or fda at 1-800-fda-1088 or  www.fda.gov/medwatch.    
+ 
+
+ 
+
+  6.1 clinical trials experience: adults
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ the safety assessment is based on the week 96 pooled data from 1368 patients in the phase 3 controlled trials tmc278-c209 (echo) and tmc278-c215 (thrive) in antiretroviral treatment-naive hiv-1 infected adult patients, 686 of whom received edurant (25 mg once daily)  [see  clinical studies (14.1)  ]  . the median duration of exposure for patients in the edurant arm and efavirenz arm was 104.3 and 104.1 weeks, respectively. most adrs occurred in the first 48 weeks of treatment. the proportion of subjects who discontinued treatment with edurant or efavirenz due to adr, regardless of severity, was 2% and 4%, respectively. the most common adrs leading to discontinuation were psychiatric disorders: 10 (1%) subjects in the edurant arm and 11 (2%) subjects in the efavirenz arm. rash led to discontinuation in 1 (0.1%) subject in the edurant arm and 10 (1.5%) subjects in the efavirenz arm.
+
+
+
+     common adverse drug reactions  
+
+
+
+ adrs of at least moderate intensity (>= grade 2) reported in at least 2% of adult subjects are presented in table 1. selected treatment-emergent laboratory abnormalities are included in table 2.
+
+
+
+ table 1: selected treatment-emergent adverse drug reactions of at least moderate intensityintensities are defined as follows: moderate (discomfort enough to cause interference with usual activity); severe (incapacitating with inability to work or do usual activity). (grades 2-4) occurring in at least 2% of antiretroviral treatment-naive hiv-1 infected adult subjects (week 96 analysis) 
+ system organ class,preferred term,%                           pooled data from the phase 3 tmc278-c209 and tmc278-c215 trials   
+ edurant + brn=686                                                efavirenz + brn=682      
+  
+ n = total number of subjects per treatment group; br = background regimen   
+  
+   gastrointestinal disorders                                                              
+   abdominal pain                                                         2%                    2%          
+   nausea                                                                 1%                    3%          
+   vomiting                                                               1%                    2%          
+   general disorders and administration site conditions                                    
+   fatigue                                                                2%                    2%          
+   nervous system disorders                                                                
+   headache                                                               3%                    4%          
+   dizziness                                                              1%                    7%          
+   psychiatric disorders                                                                   
+   depressive disorders                                                   5%                    4%          
+   insomnia                                                               3%                    4%          
+   abnormal dreams                                                        2%                    4%          
+   skin and subcutaneous tissue disorders                                                  
+   rash                                                                   3%                    11%         
+         no new adr terms were identified in adult subjects in the phase 3 tmc278-c209 and tmc278-c215 trials between 48 weeks and 96 weeks nor in the phase 2b tmc278-c204 trial through 240 weeks. the incidence of adverse events in the phase 2b tmc278-c204 trial was similar to the phase 3 trials through 96 weeks.
+ 
+
+     less common adverse drug reactions  
+
+
+
+ treatment-emergent adrs of at least moderate intensity (>= grade 2) occurring in less than 2% of antiretroviral treatment-naive subjects receiving edurant are listed below by system organ class. some adverse events have been included because of investigator's assessment of potential causal relationship and were considered serious or have been reported in more than 1 subject treated with edurant.
+
+
+
+   gastrointestinal disorders  : diarrhea, abdominal discomfort
+
+
+
+   hepatobiliary disorders  : cholecystitis, cholelithiasis
+
+
+
+   metabolism and nutrition disorders  : decreased appetite
+
+
+
+   nervous system disorders  : somnolence
+
+
+
+   psychiatric disorders  : sleep disorders, anxiety
+
+
+
+   renal and urinary disorders  : glomerulonephritis membranous, glomerulonephritis mesangioproliferative, nephrolithiasis
+
+
+
+     laboratory abnormalities in treatment-naive subjects  
+
+
+
+ the percentage of subjects treated with edurant or efavirenz in the phase 3 trials with selected treatment-emergent clinical laboratory abnormalities (grades 1 to 4), representing worst grade toxicity are shown in table 2.
+
+
+
+ table 2: selected treatment-emergent changes in laboratory parameters (grades 1 to 4) observed in antiretroviral treatment-naive hiv-1-infected adult subjects (week 96 analysis) 
+ laboratory parameter abnormality, (%)  daids toxicity range  pooled data from the phase 3 tmc278-c209 and tmc278-c215 trials   
+ edurant + brn=686                    efavirenz + brn=682   
+   biochemistry                                           
+  
+ br = background regimen; uln = upper limit of normal   
+ n = number of subjects per treatment group   
+ note: percentages were calculated versus the number of subjects in itt.   
+  
+ increased creatinine                                                                                         
+   grade 1                            >= 1.1-<= 1.3 * uln             6%                        1%              
+   grade 2                            > 1.3-<= 1.8 * uln             1%                        1%              
+   grade 3                            > 1.8-<= 3.4 * uln            <1%                        0               
+   grade 4                               > 3.4 * uln                0                        <1%              
+ increased ast                                                                                                
+   grade 1                            >= 1.25-<= 2.5 * uln            16%                       19%              
+   grade 2                            > 2.5-<= 5.0 * uln             4%                        7%              
+   grade 3                            > 5.0-<= 10.0 * uln             2%                        2%              
+   grade 4                              > 10.0 * uln                1%                        1%              
+ increased alt                                                                                                
+   grade 1                            >= 1.25-<= 2.5 * uln            18%                       20%              
+   grade 2                            > 2.5-<= 5.0 * uln             5%                        7%              
+   grade 3                            > 5.0-<= 10.0 * uln             1%                        2%              
+   grade 4                              > 10.0 * uln                1%                        1%              
+ increased total bilirubin                                                                                    
+   grade 1                            >= 1.1-<= 1.5 * uln             5%                       <1%              
+   grade 2                            > 1.5-<= 2.5 * uln             3%                        1%              
+   grade 3                            > 2.5-<= 5.0 * uln             1%                       <1%              
+   grade 4                               > 5.0 * uln                0                         0               
+ increased total cholesterol (fasted)                                                                          
+   grade 1                            5.18-6.19 mmol/l200-239 mg/dl            17%                       31%              
+   grade 2                            6.20-7.77 mmol/l240-300 mg/dl             7%                       19%              
+   grade 3                            > 7.77 mmol/l> 300 mg/dl            <1%                        3%              
+ increased ldl cholesterol (fasted)                                                                           
+   grade 1                            3.37-4.12 mmol/l130-159 mg/dl            14%                       26%              
+   grade 2                            4.13-4.90 mmol/l160-190 mg/dl             5%                       13%              
+   grade 3                            >= 4.91 mmol/l>= 191 mg/dl             1%                        5%              
+ increased triglycerides (fasted)                                                                             
+   grade 2                            5.65-8.48 mmol/l500-750 mg/dl             2%                        2%              
+   grade 3                            8.49-13.56 mmol/l751-1,200 mg/dl             1%                        3%              
+   grade 4                            > 13.56 mmol/l> 1,200 mg/dl             0                         1%              
+              adrenal function  
+ 
+
+ in the pooled phase 3 trials, at week 96, there was an overall mean change from baseline in basal cortisol of -0.69 (-1.12, 0.27) micrograms/dl in the edurant group and of -0.02 (-0.48, 0.44) micrograms/dl in the efavirenz group.
+
+
+
+ in the edurant group, 43/588 (7.3%) of subjects with a normal 250 micrograms acth stimulation test at baseline developed an abnormal 250 micrograms acth stimulation test (peak cortisol level < 18.1 micrograms/dl) during the trial compared to 18/561 (3.2%) in the efavirenz group. of the subjects who developed an abnormal 250 micrograms acth stimulation test during the trial, fourteen subjects in the edurant group and nine subjects in the efavirenz group had an abnormal 250 micrograms acth stimulation test at week 96. overall, there were no serious adverse events, deaths, or treatment discontinuations that could clearly be attributed to adrenal insufficiency. the clinical significance of the higher abnormal rate of 250 micrograms acth stimulation tests in the edurant group is not known.
+
+
+
+     serum creatinine  
+
+
+
+ in the pooled phase 3 trials, an increase in serum creatinine was observed over the 96 weeks of treatment with edurant. most of this increase occurred within the first four weeks of treatment, with a mean change of 0.1 mg/dl (range: -0.3 mg/dl to 0.6 mg/dl) observed after 96 weeks of treatment. in subjects who entered the trial with mild or moderate renal impairment, the serum creatinine increase observed was similar to that seen in subjects with normal renal function. these changes are not considered to be clinically relevant and no subject discontinued treatment due to increases in serum creatinine. serum creatinine increases occurred regardless of the background n(t)rti regimen.
+
+
+
+     serum lipids  
+
+
+
+ changes from baseline in total cholesterol, ldl-cholesterol, hdl-cholesterol and triglycerides are presented in table 3. the clinical benefit of these findings has not been demonstrated.
+
+
+
+ table 3: lipid values, mean change from baselineexcludes subjects who received lipid lowering agents during the treatment period 
+                  pooled data from the week 96 analysisof the phase 3 tmc278-c209 and tmc278-c215 trials   
+ edurant + br     efavirenz + br   
+ n                baseline     week 96          n          baseline    week 96   
+ mean(95% ci)             mean(mg/dl)   mean(mg/dl)   mean change(mg/dl)          mean(mg/dl)   mean(mg/dl)   mean change(mg/dl)   
+  
+ n = number of subjects per treatment group; br = background regimen   
+  
+ total cholesterol(fasted)   546        161           166            5         507        160           187            28         
+ hdl-cholesterol(fasted)   545        41             46            4         505        40             51            11         
+ ldl-cholesterol(fasted)   543        96             98            1         503        95            109            14         
+ triglycerides(fasted)   546        122           116            -6        507        130           141            11         
+                   subjects co-infected with hepatitis b and/or hepatitis c virus  
+ 
+
+ in subjects co-infected with hepatitis b or c virus receiving edurant, the incidence of hepatic enzyme elevation was higher than in subjects receiving edurant who were not co-infected. this observation was the same in the efavirenz arm. the pharmacokinetic exposure of rilpivirine in co-infected subjects was comparable to that in subjects without co-infection.
+
+
+
+   6.2 clinical trials experience: pediatric patients
+
+  the safety assessment is based on the week 48 analysis of the single-arm, open-label, phase 2 trial, tmc278-c213, in which 36 antiretroviral treatment-naive hiv-1 infected patients 12 to less than 18 years of age and weighing at least 32 kg received edurant (25 mg once daily) in combination with other antiretroviral agents  [see  clinical studies (14.2)  ]  . the median duration of exposure was 63.5 weeks. there were no patients who discontinued treatment due to adrs. no new adrs were identified compared to those seen in adults.
+
+
+
+ adrs were reported in nineteen pediatric subjects (52.8%). most adrs were grade 1 or 2. the most common adrs reported in at least 2 subjects (regardless of severity) include headache (19.4%), depression (19.4%), somnolence (13.9%), nausea (11.1%), dizziness (8.3%), abdominal pain (8.3), vomiting (5.6%) and rash (5.6%).
+
+
+
+ observed laboratory abnormalities were comparable to those in adults.
+
+
+
+     adrenal function  
+
+
+
+ in trial tmc278 c213, at week 48, the overall mean change from baseline in basal cortisol showed an increase of 1.59 (0.24, 2.93) micrograms/dl.
+
+
+
+ six of 30 (20%) subjects with a normal 250 micrograms acth stimulation test at baseline developed an abnormal 250 micrograms acth stimulation test (peak cortisol level < 18.1 micrograms/dl) during the trial. three of these subjects had an abnormal 250 micrograms acth stimulation test at week 48. overall, there were no serious adverse events, deaths, or treatment discontinuations that could clearly be attributed to adrenal insufficiency. the clinical significance of the abnormal 250 micrograms acth stimulation tests is not known.
+
+
+
+   6.3 postmarketing experience
+
+  adverse reactions have been identified during postmarketing experience in patients receiving a rilpivirine containing regimen. because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   renal and genitourinary disorders:  nephrotic syndrome
+
+
+
+   skin and subcutaneous tissue disorders:  severe skin and hypersensitivity reactions including dress (drug reaction with eosinophilia and systemic symptoms)
+    5 warnings and precautions
+
+
+
+   excerpt:    *  caution should be given to prescribing edurant with drugs that may reduce the exposure of rilpivirine. (  5.1  ) 
+ *  caution should be given to prescribing edurant with drugs with a known risk of torsade de pointes. (  5.1  ) 
+ *  skin and hypersensitivity reactions: severe skin and hypersensitivity reactions have been reported during postmarketing experience, including cases of drug reaction with eosinophilia and systemic symptoms (dress), with rilpivirine-containing regimens. immediately discontinue treatment if hypersensitivity or rash with systemic symptoms or elevations in hepatic serum biochemistries develop and closely monitor clinical status, including hepatic serum biochemistries. (  5.2  ) 
+ *  depressive disorders: severe depressive disorders have been reported. immediate medical evaluation is recommended for severe depressive disorders. (  5.3  ) 
+ *  hepatotoxicity: hepatic adverse events have been reported in patients with underlying liver disease, including hepatitis b or c co-infection, or in patients with elevated baseline transaminases. a few cases of hepatotoxicity have occurred in patients with no pre-existing hepatic disease. monitor liver function tests before and during treatment with edurant in patients with underlying hepatic disease, such as hepatitis b or c co-infection, or marked elevations in transaminase. also consider monitoring liver functions tests in patients without pre-existing hepatic dysfunction or other risk factors. (  5.4  ) 
+ *  patients may develop redistribution/accumulation of body fat (  5.5  ) or immune reconstitution syndrome. (  5.6  ) 
+    
+ 
+
+   5.1 drug interactions
+
+
+
+  caution should be given to prescribing edurant with drugs that may reduce the exposure of rilpivirine [see  contraindications (4)  ,  drug interactions (7)  ,  and   clinical pharmacology (12.3)  ]  .
+
+
+
+ in healthy subjects, supratherapeutic doses of rilpivirine (75 mg once daily and 300 mg once daily) have been shown to prolong the qtc interval of the electrocardiogram [see  drug interactions (7)    and   clinical pharmacology (12.2)  ]  . edurant should be used with caution when co-administered with a drug with a known risk of torsade de pointes.
+
+
+
+    5.2 skin and hypersensitivity reactions
+
+
+
+   severe skin and hypersensitivity reactions have been reported during the postmarketing experience, including cases of drug reaction with eosinophilia and systemic symptoms (dress), with rilpivirine-containing regimens. while some skin reactions were accompanied by constitutional symptoms such as fever, other skin reactions were associated with organ dysfunctions, including elevations in hepatic serum biochemistries. during the phase 3 clinical trials, treatment-related rashes with at least grade 2 severity were reported in 3% of subjects receiving edurant. no grade 4 rash was reported. overall, most rashes were grade 1 or 2 and occurred in the first four to six weeks of therapy [see  adverse reactions (6  and  6.2)  ]  . discontinue edurant immediately if signs or symptoms of severe skin or hypersensitivity reactions develop, including but not limited to, severe rash or rash accompanied by fever, blisters, mucosal involvement, conjunctivitis, facial edema, angioedema, hepatitis or eosinophilia. clinical status including laboratory parameters should be monitored and appropriate therapy should be initiated.  
+
+
+
+    5.3 depressive disorders
+
+
+
+   the adverse reaction depressive disorders (depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicidal ideation) has been reported with edurant. patients with severe depressive symptoms should seek immediate medical evaluation to assess the possibility that the symptoms are related to edurant, and if so, to determine whether the risks of continued therapy outweigh the benefits.  
+
+
+
+  during the phase 3 trials in adults (n = 1368) through 96 weeks, the incidence of depressive disorders (regardless of causality, severity) reported among edurant (n = 686) or efavirenz (n = 682) was 9% and 8%, respectively. most events were mild or moderate in severity. the incidence of grade 3 and 4 depressive disorders (regardless of causality) was 1% for both edurant and efavirenz. the incidence of discontinuation due to depressive disorders among edurant or efavirenz was 1% in each arm. suicidal ideation was reported in 4 subjects in each arm while suicide attempt was reported in 2 subjects in the edurant arm.  
+
+
+
+  during the phase 2 trial in pediatric subjects 12 to less than 18 years of age (n = 36) receiving edurant through 48 weeks, the incidence of depressive disorders (regardless of causality, severity) was 19.4% (7/36). most events were mild or moderate in severity. the incidence of grade 3 and 4 depressive disorders (regardless of causality) was 5.6% (2/36). none of the subjects discontinued due to depressive disorders. suicidal ideation and suicide attempt were reported in 1 subject.  
+
+
+
+    5.4 hepatotoxicity
+
+
+
+  hepatic adverse events have been reported in patients receiving a rilpivirine containing regimen. patients with underlying hepatitis b or c, or marked elevations in transaminases prior to treatment may be at increased risk for worsening or development of transaminase elevations with use of edurant. a few cases of hepatic toxicity have been reported in adult patients receiving a rilpivirine containing regimen who had no pre-existing hepatic disease or other identifiable risk factors. appropriate laboratory testing prior to initiating therapy and monitoring for hepatotoxicity during therapy with edurant is recommended in patients with underlying hepatic disease such as hepatitis b or c, or in patients with marked elevations in transaminases prior to treatment initiation. liver enzyme monitoring should also be considered for patients without pre-existing hepatic dysfunction or other risk factors.
+
+
+
+    5.5 fat redistribution
+
+
+
+  redistribution/accumulation of body fat, including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy. the mechanism and long-term consequences of these events are currently unknown. a causal relationship has not been established.
+
+
+
+    5.6 immune reconstitution syndrome
+
+
+
+  immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including edurant. during the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as mycobacterium avium  infection, cytomegalovirus, pneumocystis jiroveci  pneumonia or tuberculosis), which may necessitate further evaluation and treatment.
+
+
+
+ autoimmune disorders (such as graves' disease, polymyositis, and guillain-barre syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.

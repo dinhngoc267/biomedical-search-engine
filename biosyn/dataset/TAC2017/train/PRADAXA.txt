@@ -1,0 +1,391 @@
+    6  adverse reactions
+
+  the most serious adverse reactions reported with pradaxa were related to bleeding  [see warnings and precautions  (5.2)  ]  .
+
+
+
+   excerpt:   most common adverse reactions (>15%) are gastritis-like symptoms and bleeding  (6.1)  
+
+
+
+     to report suspected adverse reactions, contact boehringer ingelheim pharmaceuticals, inc. at (800) 542-6257 or (800) 459-9906 tty or fda at 1-800-fda-1088 or        www.fda.gov/medwatch    .
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+     reduction of risk of stroke and systemic embolism in non-valvular atrial fibrillation    
+
+
+
+ the re-ly (randomized evaluation of long-term anticoagulant therapy) study provided safety information on the use of two doses of pradaxa and warfarin  [see clinical studies  (14.1)  ]  . the numbers of patients and their exposures are described in table 1. limited information is presented on the 110 mg dosing arm because this dose is not approved.
+
+
+
+ table 1 summary of treatment exposure in re-ly 
+              pradaxa 110 mg twice daily          pradaxa 150 mg twice daily              warfarin            
+ total number treated  5983                       6059                       5998              
+ exposure                                                                          
+          > 12 months                4936                       4939                       5193              
+          > 24 months                2387                       2405                       2470              
+ mean exposure (months)  20.5                       20.3                       21.3              
+ total patient-years  10,242                    10,261                     10,659             
+        
+         drug discontinuation in re-ly      
+
+
+
+ the rates of adverse reactions leading to treatment discontinuation were 21% for pradaxa 150 mg and 16% for warfarin. the most frequent adverse reactions leading to discontinuation of pradaxa were bleeding and gastrointestinal events (i.e., dyspepsia, nausea, upper abdominal pain, gastrointestinal hemorrhage, and diarrhea).
+
+
+
+   
+
+        bleeding          [see warnings and precautions  (5.2)  ]    
+
+
+
+ table 2 shows the number of adjudicated major bleeding events during the treatment period in the re-ly study, with the bleeding rate per 100 subject-years (%). major bleeding is defined as bleeding accompanied by one or more of the following: a decrease in hemoglobin of >=2 g/dl, a transfusion of >=2 units of packed red blood cells, bleeding at a critical site or with a fatal outcome. intracranial hemorrhage included intracerebral (hemorrhagic stroke), subarachnoid, and subdural bleeds.
+
+
+
+ table 2 adjudicated major bleeding events in treated patientsa 
+  apatients during treatment or within 2 days of stopping study treatment. major bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories.  bannual event rate per 100 pt-years = 100 * number of subjects with event/subject-years. subject-years is defined as cumulative number of days from first drug intake to event date, date of last drug intake + 2, death date (whatever occurred first) across all treated subjects divided by 365.25. in case of recurrent events of the same category, the first event was considered.  cdefined as bleeding accompanied by one or more of the following: a decrease in hemoglobin of >=2 g/dl, a transfusion of 2 or more units of packed red blood cells, bleeding at a critical site or with fatal outcome.  dintracranial bleed included intracerebral (hemorrhagic stroke), subarachnoid, and subdural bleeds.  eon-treatment analysis based on the safety population, compared to itt analysis presented in section 14 clinical studies.  ffatal bleed: adjudicated major bleed as defined above with investigator reported fatal outcome and adjudicated death with primary cause from bleeding.  gnon-intracranial fatal bleed: adjudicated major bleed as defined above and adjudicated death with primary cause from bleeding but without symptomatic intracranial bleed based on investigator's clinical assessment.    
+  
+    event                     pradaxa 150 mgn = 6059n  (%/year  b  )      warfarinn = 5998n (%/year  b  )      pradaxa 150 mgvs. warfarinhr (95% ci)     
+ major bleeding  c                 350 (3.47)                 374 (3.58)              0.97 (0.84, 1.12)       
+    intracranial hemorrhage (ich)  d            23 (0.22)                  82 (0.77)             0.29 (0.18, 0.46)        
+       hemorrhagic stroke  e            6 (0.06)                   40 (0.37)             0.16 (0.07, 0.37)        
+       other ich                    17 (0.17)                  46 (0.43)              0.38 (0.22, 0.67)       
+    gastrointestinal               162 (1.59)                 111 (1.05)              1.51 (1.19, 1.92)       
+    fatal bleeding  f               7 (0.07)                   16 (0.15)              0.45 (0.19, 1.10)       
+       ich                          3 (0.03)                   9 (0.08)               0.35 (0.09, 1.28)       
+       non-intracranial  g            4 (0.04)                   7 (0.07)               0.59 (0.17, 2.02)       
+      there was a higher rate of any gastrointestinal bleeds in patients receiving pradaxa 150 mg than in patients receiving warfarin (6.6% vs. 4.2%, respectively).
+ 
+
+ the risk of major bleeds was similar with pradaxa 150 mg and warfarin across major subgroups defined by baseline characteristics (see figure 1), with the exception of age, where there was a trend towards a higher incidence of major bleeding on pradaxa (hazard ratio 1.2, 95% ci: 1.0 to 1.5) for patients >=75 years of age.
+
+
+
+   figure 1 adjudicated major bleeding by baseline characteristics including hemorrhagic stroke treated patients  
+
+
+
+ note: the figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified. the 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors. apparent homogeneity or heterogeneity among groups should not be over-interpreted.
+
+
+
+  figure 1   
+
+        gastrointestinal adverse reactions      
+
+
+
+ patients on pradaxa 150 mg had an increased incidence of gastrointestinal adverse reactions (35% vs. 24% on warfarin). these were commonly dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) and gastritis-like symptoms (including gerd, esophagitis, erosive gastritis, gastric hemorrhage, hemorrhagic gastritis, hemorrhagic erosive gastritis, and gastrointestinal ulcer).
+
+
+
+   
+
+        hypersensitivity reactions      
+
+
+
+ in the re-ly study, drug hypersensitivity (including urticaria, rash, and pruritus), allergic edema, anaphylactic reaction, and anaphylactic shock were reported in <0.1% of patients receiving pradaxa.
+
+
+
+   
+
+      treatment and reduction in the risk of recurrence of deep venous thrombosis and pulmonary embolism    
+
+
+
+ pradaxa was studied in 4387 patients in 4 pivotal, parallel, randomized, double-blind trials. three of these trials were active-controlled (warfarin) (re-cover, re-cover ii, and re-medy), and one study (re-sonate) was placebo-controlled. the demographic characteristics were similar among the 4 pivotal studies and between the treatment groups within these studies. approximately 60% of the treated patients were male, with a mean age of 55.1 years. the majority of the patients were white (87.7%), 10.3% were asian, and 1.9% were black with a mean crcl of 105.6 ml/min.
+
+
+
+ bleeding events for the 4 pivotal studies were classified as major bleeding events if at least one of the following criteria applied: fatal bleeding, symptomatic bleeding in a critical area or organ (intraocular, intracranial, intraspinal or intramuscular with compartment syndrome, retroperitoneal bleeding, intra-articular bleeding, or pericardial bleeding), bleeding causing a fall in hemoglobin level of 2.0 g/dl (1.24 mmol/l or more, or leading to transfusion of 2 or more units of whole blood or red cells).
+
+
+
+ re-cover and re-cover ii studies compared pradaxa 150 mg twice daily and warfarin for the treatment of deep vein thrombosis and pulmonary embolism. patients received 5-10 days of an approved parenteral anticoagulant therapy followed by 6 months, with mean exposure of 164 days, of oral only treatment; warfarin was overlapped with parenteral therapy. table 3 shows the number of patients experiencing bleeding events in the pooled analysis of re-cover and re-cover ii studies during the full treatment including parenteral and oral only treatment periods after randomization.
+
+
+
+ table 3 bleeding events in re-cover and re-cover ii treated patients 
+ note: mbe can belong to more than one criterion.  a  patients with at least one mbe.  b  bleeding site based on investigator assessment. patients can have more than one site of bleeding.  c  confidence interval   
+  
+                   
+                   
+    patients       
+ major bleeding event  a     
+                   
+                   
+                   
+ bleeding sites for mbe  b     
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+ clinically relevant non-major bleeding   
+  any bleeding     
+      the rate of any gastrointestinal bleeds in patients receiving pradaxa 150 mg in the full treatment period was 3.1% (2.4% on warfarin).
+ 
+
+ the re-medy and re-sonate studies provided safety information on the use of pradaxa for the reduction in the risk of recurrence of deep vein thrombosis and pulmonary embolism.
+
+
+
+ re-medy was an active-controlled study (warfarin) in which 1430 patients received pradaxa 150 mg twice daily following 3 to 12 months of oral anticoagulant regimen. patients in the treatment studies who rolled over into the re-medy study had a combined treatment duration of up to more than 3 years, with mean exposure of 473 days. table 4 shows the number of patients experiencing bleeding events in the study.
+
+
+
+ table 4 bleeding events in re-medy treated patients 
+ note: mbe can belong to more than one criterion.  a  patients with at least one mbe.  b  bleeding site based on investigator assessment. patients can have more than one site of bleeding.  c  confidence interval   
+  
+                   
+    patients       
+ major bleeding event  a     
+                   
+                   
+                   
+ bleeding sites for mbe  b     
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+ clinically relevant non-major bleeding   
+  any bleeding     
+      in the re-medy study, the rate of any gastrointestinal bleeds in patients receiving pradaxa 150 mg was 3.1% (2.2% on warfarin).
+ 
+
+ re-sonate was a placebo-controlled study in which 684 patients received pradaxa 150 mg twice daily following 6 to 18 months of oral anticoagulant regimen. patients in the treatment studies who rolled over into the re-sonate study had combined treatment duration up to 9 months, with mean exposure of 165 days. table 5 shows the number of patients experiencing bleeding events in the study.
+
+
+
+ table 5 bleeding events in re-sonate treated patients 
+ note: mbe can belong to more than one criterion.  a  patients with at least one mbe.  b  bleeding site based on investigator assessment. patients can have more than one site of bleeding.  c  confidence interval   
+  
+                   
+    patients       
+ major bleeding event  a     
+                   
+                   
+ clinically relevant non-major bleeding   
+  any bleeding     
+      in the re-sonate study, the rate of any gastrointestinal bleeds in patients receiving pradaxa 150 mg was 0.7% (0.3% on placebo).
+ 
+
+   clinical myocardial infarction events  in the active-controlled vte studies, a higher rate of clinical myocardial infarction was reported in patients who received pradaxa [20 (0.66 per 100 patient-years)] than in those who received warfarin [5 (0.17 per 100 patient-years)]. in the placebo-controlled study, a similar rate of non-fatal and fatal clinical myocardial infarction was reported in patients who received pradaxa [1 (0.32 per 100 patient-years)] and in those who received placebo [1 (0.34 per 100 patient-years)].
+
+
+
+   gastrointestinal adverse reactions  in the four pivotal studies, patients on pradaxa 150 mg had a similar incidence of gastrointestinal adverse reactions (24.7% vs. 22.7% on warfarin). dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on pradaxa in 7.5% vs. 5.5% on warfarin, and gastritis-like symptoms (including gastritis, gerd, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 3.0% vs. 1.7%, respectively.
+
+
+
+   hypersensitivity reactions  in the 4 pivotal studies, drug hypersensitivity (including urticaria, rash, and pruritus), allergic edema, anaphylactic reaction, and anaphylactic shock were reported in 0.1% of patients receiving pradaxa.
+
+
+
+   6.2 postmarketing experience
+
+  the following adverse reactions have been identified during post approval use of pradaxa. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. the following adverse reactions have been identified during post approval use of pradaxa: angioedema, thrombocytopenia, esophageal ulcer.
+
+
+    boxed warning: warning: (a) premature discontinuation of pradaxa increases the risk
+
+of thrombotic events, (b) spinal/epidural hematoma
+
+  warning: (a) premature discontinuation of pradaxa increases the risk
+
+of thrombotic events, (b) spinal/epidural hematoma
+
+    (a) premature discontinuation
+
+of pradaxa increases the risk of thrombotic eventspremature
+
+discontinuation of any oral anticoagulant, including pradaxa, increases
+
+the risk of thrombotic events. if anticoagulation with pradaxa is
+
+discontinued for a reason other than pathological bleeding or completion
+
+of a course of therapy, consider coverage with another anticoagulant   [see dosage and administration   (2.4  ,   2.5  ,   2.6)   and warnings and precautions   (5.1)  ]  .    (b) spinal/epidural
+
+hematomaepidural or spinal hematomas may occur in patients
+
+treated with pradaxa who are receiving neuraxial anesthesia or undergoing
+
+spinal puncture. these hematomas may result in long-term or permanent
+
+paralysis. consider these risks when scheduling patients for spinal
+
+procedures. factors that can increase the risk of developing epidural
+
+or spinal hematomas in these patients include:  
+
+
+
+     use of indwelling epidural catheters  concomitant use of other drugs that affect hemostasis, such as
+
+non-steroidal anti-inflammatory drugs (nsaids), platelet inhibitors,
+
+other anticoagulants  a history of traumatic or repeated
+
+epidural or spinal punctures  a history of spinal deformity
+
+or spinal surgery  optimal timing between the administration
+
+of pradaxa and neuraxial procedures is not known   [see warnings
+
+and precautions   (5.3)  ]  .  
+
+
+
+   monitor patients
+
+frequently for signs and symptoms of neurological impairment. if neurological
+
+compromise is noted, urgent treatment is necessary   [see warnings
+
+and precautions   (5.3)  ]  .consider the benefits and risks before neuraxial intervention
+
+in patients anticoagulated or to be anticoagulated   [see warnings
+
+and precautions   (5.3)  ]  .  
+
+
+
+   excerpt:     warning: (a) premature discontinuation
+
+of pradaxa increases the risk of thrombotic events, and (b) spinal/epidural
+
+hematoma    see full prescribing information
+
+for complete boxed warning    (a)
+
+premature discontinuation of pradaxa increases the risk of thrombotic
+
+events: premature discontinuation of any oral anticoagulant, including
+
+pradaxa, increases the risk of thrombotic events.  to reduce this
+
+risk, consider coverage with another anticoagulant if pradaxa is discontinued
+
+for a reason other than pathological bleeding or completion of a course
+
+of therapy (  2.4  ,   2.5  ,   2.6  ,   5.1  ).    (b) spinal/epidural hematoma: epidural or spinal hematomas
+
+may occur in patients treated with pradaxa who are receiving neuraxial
+
+anesthesia or undergoing spinal puncture. these hematomas may result
+
+in long-term or permanent paralysis (  5.3  ). monitor patients frequently for signs and symptoms of neurological
+
+impairment and if observed, treat urgently. consider the benefits
+
+and risks before neuraxial intervention in patients who are or who
+
+need to be anticoagulated (  5.3  ).  
+    5  warnings and precautions
+
+
+
+   excerpt:    *  bleeding: pradaxa can cause serious and fatal bleeding  (5.2)   
+ *  bioprosthetic heart valves: pradaxa use not recommended  (5.4)   
+    
+ 
+
+   5.1 increased risk of thrombotic events after premature discontinuation
+
+
+
+  premature discontinuation of any oral anticoagulant, including pradaxa, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events. if pradaxa is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see dosage and administration  (2.4  ,  2.5  ,  2.6)  ].  
+
+
+
+    5.2 risk of bleeding
+
+
+
+  pradaxa increases the risk of bleeding and can cause significant and, sometimes, fatal bleeding. promptly evaluate any signs or symptoms of blood loss (e.g., a drop in hemoglobin and/or hematocrit or hypotension). discontinue pradaxa in patients with active pathological bleeding  [see dosage and administration  (2.2)  ]    .
+
+
+
+ risk factors for bleeding include the concomitant use of other drugs that increase the risk of bleeding (e.g., anti-platelet agents, heparin, fibrinolytic therapy, and chronic use of nsaids). pradaxa's anticoagulant activity and half-life are increased in patients with renal impairment  [see clinical pharmacology  (12.2)  ]    .
+
+
+
+  reversal of anticoagulant effect:  a specific reversal agent for dabigatran is not available. hemodialysis can remove dabigatran; however the clinical experience supporting the use of hemodialysis as a treatment for bleeding is limited [see overdosage  (10)  ]  . activated prothrombin complex concentrates (apccs, e.g., feiba), or recombinant factor viia, or concentrates of coagulation factors ii, ix or x may be considered but their use has not been evaluated in clinical trials. protamine sulfate and vitamin k are not expected to affect the anticoagulant activity of dabigatran. consider administration of platelet concentrates in cases where thrombocytopenia is present or long-acting antiplatelet drugs have been used.
+
+
+
+    5.3 spinal/epidural anesthesia or puncture
+
+
+
+  when neuraxial anesthesia (spinal/epidural anesthesia) or spinal puncture is employed, patients treated with anticoagulant agents are at risk of developing an epidural or spinal hematoma which can result in long-term or permanent paralysis [see  boxed warning  ]  .
+
+
+
+ to reduce the potential risk of bleeding associated with the concurrent use of dabigatran and epidural or spinal anesthesia/analgesia or spinal puncture, consider the pharmacokinetic profile of dabigatran [see clinical pharmacology  (12.3)  ]  . placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of dabigatran is low; however, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known.
+
+
+
+ should the physician decide to administer anticoagulation in the context of epidural or spinal anesthesia/analgesia or lumbar puncture, monitor frequently to detect any signs or symptoms of neurological impairment, such as midline back pain, sensory and motor deficits (numbness, tingling, or weakness in lower limbs), bowel and/or bladder dysfunction. instruct patients to immediately report if they experience any of the above signs or symptoms. if signs or symptoms of spinal hematoma are suspected, initiate urgent diagnosis and treatment including consideration for spinal cord decompression even though such treatment may not prevent or reverse neurological sequelae.
+
+
+
+    5.4 thromboembolic and bleeding events in patients with prosthetic heart valves
+
+
+
+  the safety and efficacy of pradaxa in patients with bileaflet mechanical prosthetic heart valves was evaluated in the re-align trial, in which patients with bileaflet mechanical prosthetic heart valves (recently implanted or implanted more than three months prior to enrollment) were randomized to dose adjusted warfarin or 150, 220, or 300 mg of pradaxa twice a day. re-align was terminated early due to the occurrence of significantly more thromboembolic events (valve thrombosis, stroke, transient ischemic attack, and myocardial infarction) and an excess of major bleeding (predominantly post-operative pericardial effusions requiring intervention for hemodynamic compromise) in the pradaxa treatment arm as compared to the warfarin treatment arm. these bleeding and thromboembolic events were seen both in patients who were initiated on pradaxa post-operatively within three days of mechanical bileaflet valve implantation, as well as in patients whose valves had been implanted more than three months prior to enrollment. therefore, the use of pradaxa is contraindicated in patients with mechanical prosthetic valves [see contraindications  (4)  ].  
+
+
+
+ the use of pradaxa for the prophylaxis of thromboembolic events in patients with atrial fibrillation in the setting of other forms of valvular heart disease, including the presence of a bioprosthetic heart valve, has not been studied and is not recommended.
+
+
+
+    5.5 effect of p-gp inducers and inhibitors on dabigatran exposure
+
+
+
+  the concomitant use of pradaxa with p-gp inducers (e.g., rifampin) reduces exposure to dabigatran and should generally be avoided [see clinical pharmacology  (12.3)  ]  .
+
+
+
+ p-gp inhibition and impaired renal function are the major independent factors that result in increased exposure to dabigatran [see clinical pharmacology  (12.3)  ].  concomitant use of p-gp inhibitors in patients with renal impairment is expected to produce increased exposure of dabigatran compared to that seen with either factor alone.
+
+
+
+   reduction of risk of stroke and systemic embolism in non-valvular atrial fibrillation    
+
+
+
+ reduce the dose of pradaxa to 75 mg twice daily when dronedarone or systemic ketoconazole is coadministered with pradaxa in patients with moderate renal impairment (crcl 30-50 ml/min). avoid use of pradaxa and p-gp inhibitors in patients with severe renal impairment (crcl 15-30 ml/min) [see drug interactions  (7.1)  and use in specific populations  (8.6)  ]  .
+
+
+
+   treatment and reduction in the risk of recurrence of deep venous thrombosis and pulmonary embolism    
+
+
+
+ avoid use of pradaxa and concomitant p-gp inhibitors in patients with crcl <50 ml/min [see drug interactions  (7.2)  and use in specific populations  (8.6)  ]  .

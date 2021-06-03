@@ -1,0 +1,116 @@
+    6 adverse reactions
+
+  excerpt:   the most common adverse reactions (incidence greater than or equal to 10%, all grades) observed with treatment with harvoni for 8, 12, or 24 weeks are fatigue and headache (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact gilead sciences, inc. at 1-800-gilead-5 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the safety assessment of harvoni was based on pooled data from three phase 3 clinical trials of subjects with genotype 1 chronic hepatitis c (chc) with compensated liver disease (with and without cirrhosis) including 215, 539, and 326 subjects who received harvoni for 8, 12 and 24 weeks, respectively  [see  clinical studies (14)  ].  
+
+
+
+ the proportion of subjects who permanently discontinued treatment due to adverse events was 0%, <1%, and 1% for subjects receiving harvoni for 8, 12, and 24 weeks, respectively.
+
+
+
+ the most common adverse reactions (>=10%) were fatigue and headache in subjects treated with 8, 12, or 24 weeks of harvoni.
+
+
+
+ table 2 lists adverse reactions (adverse events assessed as causally related by the investigator, all grades) observed in >=5% of subjects receiving 8, 12, or 24 weeks treatment with harvoni in clinical trials. the majority of adverse reactions presented in table 2 occurred at severity of grade 1. the side-by-side tabulation is to simplify presentation; direct comparison across trials should not be made due to differing trial designs.
+
+
+
+ table 2 adverse reactions (all grades) reported in >=5% of subjects receiving 8, 12, or 24 weeks of treatment with harvoni 
+                                 harvoni8 weeks             harvoni12 weeks            harvoni24 weeks        
+                                      n=215                      n=539                      n=326             
+  
+ fatigue                               16%                        13%                        18%              
+ headache                              11%                        14%                        17%              
+ nausea                                6%                         7%                         9%               
+ diarrhea                              4%                         3%                         7%               
+ insomnia                              3%                         5%                         6%               
+              laboratory abnormalities  
+ 
+
+     bilirubin elevations:  bilirubin elevations of greater than 1.5*uln were observed in 3%, <1%, and 2% of subjects treated with harvoni for 8, 12, and 24 weeks, respectively.
+
+
+
+     lipase elevations:  transient, asymptomatic lipase elevations of greater than 3*uln were observed in <1%, 2%, and 3% of subjects treated with harvoni for 8, 12, and 24 weeks, respectively.
+
+
+
+     creatine kinase:  creatine kinase was not assessed in phase 3 trials of harvoni. isolated, asymptomatic creatine kinase elevations (grade 3 or 4) have been previously reported in subjects treated with sofosbuvir in combination with ribavirin or peginterferon/ribavirin in other clinical trials.
+
+
+
+   6.2 postmarketing experience
+
+  the following adverse reactions have been identified during post approval use of harvoni. because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+     cardiac disorders  
+
+
+
+ serious symptomatic bradycardia has been reported in patients taking amiodarone who initiate treatment with harvoni  [see  warnings and precautions (5.1)  ,  drug interactions (7.2)  ]  
+    5 warnings and precautions
+
+
+
+   excerpt:    *  bradycardia with amiodarone coadministration: serious symptomatic bradycardia may occur in patients taking amiodarone, particularly in patients also receiving beta blockers, or those with underlying cardiac comorbidities and/or advanced liver disease. coadministration of amiodarone with harvoni is not recommended. in patients without alternative, viable treatment options, cardiac monitoring is recommended. (  5.1  ,  6.2  ,  7.2  ) 
+ *  use with other drugs containing sofosbuvir, including sovaldi, is not recommended (  5.3  ) 
+    
+ 
+
+   5.1 serious symptomatic bradycardia when coadministered with amiodarone
+
+
+
+   postmarketing cases of symptomatic bradycardia, as well as fatal cardiac arrest and cases requiring pacemaker intervention, have been reported when amiodarone is coadministered with harvoni. bradycardia has generally occurred within hours to days, but cases have been observed up to 2 weeks after initiating hcv treatment. patients also taking beta blockers, or those with underlying cardiac comorbidities and/or advanced liver disease may be at increased risk for symptomatic bradycardia with coadministration of amiodarone. bradycardia generally resolved after discontinuation of hcv treatment. the mechanism for this effect is unknown.  
+
+
+
+  coadministration of amiodarone with harvoni is not recommended. for patients taking amiodarone who have no other alternative, viable treatment options and who will be coadministered harvoni:  
+
+
+
+ *   counsel patients about the risk of serious symptomatic bradycardia  
+ *   cardiac monitoring in an in-patient setting for the first 48 hours of coadministration is recommended, after which outpatient or self-monitoring of the heart rate should occur on a daily basis through at least the first 2 weeks of treatment.  
+     patients who are taking harvoni who need to start amiodarone therapy due to no other alternative, viable treatment options should undergo similar cardiac monitoring as outlined above.  
+ 
+
+  due to amiodarone's long half-life, patients discontinuing amiodarone just prior to starting harvoni should also undergo similar cardiac monitoring as outlined above.  
+
+
+
+  patients who develop signs or symptoms of bradycardia should seek medical evaluation immediately. symptoms may include near-fainting or fainting, dizziness or lightheadedness, malaise, weakness, excessive tiredness, shortness of breath, chest pains, confusion or memory problems [see  adverse reactions (6.2)  ,  drug interactions (7.2)  ]  .  
+
+
+
+    5.2 risk of reduced therapeutic effect due to p-gp inducers
+
+
+
+  the concomitant use of harvoni and p-gp inducers (e.g., rifampin, st. john's wort) may significantly decrease ledipasvir and sofosbuvir plasma concentrations and may lead to a reduced therapeutic effect of harvoni. therefore, the use of harvoni with p-gp inducers (e.g., rifampin or st. john's wort) is not recommended [see  drug interactions (7.2)  ]  .
+
+
+
+    5.3 related products not recommended
+
+
+
+  the use of harvoni with other products containing sofosbuvir (sovaldi  (r)  ) is not recommended.

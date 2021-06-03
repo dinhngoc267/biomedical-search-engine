@@ -1,0 +1,118 @@
+    6 adverse reactions
+
+   excerpt:    *  the most common adverse reactions (incidence of >= 10%) are muscle spasms, alopecia, dysgeusia, weight loss, fatigue, nausea, diarrhea, decreased appetite, constipation, arthralgias, vomiting, and ageusia. 
+      to report suspected adverse reactions, contact genentech, inc. at 1-888-835-2555 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ erivedge capsule was administered as monotherapy at doses >= 150 mg orally daily in four open-label, uncontrolled, dose-ranging or fixed single dose clinical trials enrolling a total of 138 patients with advanced basal cell carcinoma (bcc). the median age of these patients was 61 years (range 21 to 101), 100% were white (including hispanics), and 64% were male. the median duration of treatment was approximately 10 months (305 days; range 0.7 to 36 months); 111 patients received erivedge for 6 months or longer.
+
+
+
+ the most common adverse reactions (>= 10%) were muscle spasms, alopecia, dysgeusia, weight loss, fatigue, nausea, diarrhea, decreased appetite, constipation, arthralgias, vomiting, and ageusia (  table 1  ).
+
+
+
+ table 1: adverse reactions occurring in >= 10% of advanced bcc patients 
+ meddra preferred term                     all abccpatients (n = 138)   
+ all grades(%)                                 grade 3 (%)           grade 4 (%)        
+  
+ gastrointestinal disorders                                                                                   
+   nausea                                       42 (30.4%)             1 (0.7%)                 -             
+   diarrhea                                     40 (29.0%)             1 (0.7%)                 -             
+   constipation                                 29 (21.0%)                -                     -             
+   vomiting                                     19 (13.8%)                -                     -             
+ general disorders and administration site conditions                                                                     
+   fatigue                                      55 (39.9%)             7 (5.1%)              1 (0.7%)         
+ investigations                                                                                               
+   weight loss                                  62 (44.9%)            10 (7.2%)                 -             
+ metabolism and nutrition disorders                                                                           
+   decreased appetite                           35 (25.4%)             3 (2.2%)                 -             
+ musculoskeletal and connective tissue disorders                                                                     
+   muscle spasms                                99 (71.7%)             5 (3.6%)                 -             
+   arthralgias                                  22 (15.9%)             1 (0.7%)                               
+ nervous system disorders                                                                                     
+   dysgeusia                                    76 (55.1%)                -                     -             
+   ageusia                                      15 (10.9%)                -                     -             
+ skin and subcutaneous tissue disorders                                                                       
+   alopecia                                     88 (63.8%)                -                     -             
+              amenorrhea:  
+ 
+
+ in clinical trials, a total of 3 of 10 pre-menopausal women developed amenorrhea while receiving erivedge [see    non-clinical toxicology (13.1)    ].
+
+
+
+     laboratory abnormalities:  
+
+
+
+ treatment-emergent grade 3 laboratory abnormalities observed in clinical trials were hyponatremia in 6 patients (4%), hypokalemia in 2 patients (1%), and azotemia in 3 patients (2%).
+
+
+    boxed warning: warning: embryo-fetal toxicity
+
+    warning: embryo-fetal toxicity  
+
+    erivedge can cause embryo-fetal death or severe birth defects when administered to a pregnant woman. erivedge is embryotoxic, fetotoxic, and teratogenic in animals. teratogenic effects included severe midline defects, missing digits, and other irreversible malformations.   
+
+
+
+   verify the pregnancy status of females of reproductive potential within 7 days prior to initiating erivedge therapy. advise females of reproductive potential to use effective contraception during and after erivedge therapy. advise males of the potential risk of erivedge exposure through semen and to use condoms with a pregnant partner or a female partner of reproductive potential. advise pregnant women of the potential risks to a fetus. [see     warnings and precautions (5.1  ,   5.3)  ,   use in specific populations (8.1  ,   8.3)    ].  
+
+
+
+   excerpt:     warning: embryo-fetal toxicity  
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ erivedge can cause embryo-fetal death or severe birth defects when administered to a pregnant woman. erivedge is embryotoxic, fetotoxic, and teratogenic in animals. teratogenic effects included severe midline defects, missing digits, and other irreversible malformations. 
+
+
+
+ verify the pregnancy status of females of reproductive potential within 7 days prior to initiating erivedge therapy. advise females of reproductive potential to use effective contraception during and after erivedge therapy. advise males of the potential risk of erivedge exposure through semen and to use condoms with a pregnant partner or a female partner of reproductive potential. advise pregnant women of the potential risks to a fetus. (  5.1  ,   5.3  ,   8.1  ,   8.3  )
+    5 warnings and precautions
+
+
+
+   excerpt:    *  blood donation: advise patients not to donate blood or blood products while receiving erivedge and for 7 months after the final dose of erivedge. (  5.2  ) 
+ *  semen donation: advise males not to donate semen during and for 3 months after therapy (  5.3  ,  8.3  ) 
+    
+ 
+
+   5.1 embryo-fetal toxicity
+
+
+
+  based on its mechanism of action, erivedge can cause embryo-fetal death or severe birth defects when administered to a pregnant woman. in animal reproduction studies, vismodegib was embryotoxic, fetotoxic, and teratogenic at maternal exposures lower than the human exposures at the recommended dose of 150 mg/day.
+
+
+
+ verify the pregnancy status of females of reproductive potential within 7 days prior to initiating erivedge therapy. advise females of reproductive potential to use effective contraception during therapy with erivedge and for 7 months after the final dose. advise male patients to use condoms, even after a vasectomy, to avoid potential drug exposure in pregnant partners and female partners of reproductive potential during therapy and for 3 months after the final dose of erivedge. advise pregnant women of the potential risk to a fetus [see   use in specific populations (8.1  ,  8.3)     and  clinical pharmacology (12.1)    ].
+
+
+
+    5.2 blood donation
+
+
+
+  advise patients not to donate blood or blood products while receiving erivedge and for 7 months after the final dose of erivedge.
+
+
+
+    5.3 semen donation
+
+
+
+  vismodegib is present in semen. it is not known if the amount of vismodegib in semen can cause embryo-fetal harm. advise male patients not to donate semen during and for 3 months after the final dose of erivedge [see   use in specific populations (8.1  ,  8.3)    ] .  

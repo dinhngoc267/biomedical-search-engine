@@ -1,0 +1,243 @@
+      6     adverse reactions  
+
+  excerpt:   the most common adverse reactions in adults (>30%) are headache, anorexia, dizziness, asthenia, arthralgia and myalgia. the most common adverse reactions in children (>12%) are pyrexia, cough, vomiting, anorexia, and headache. (6.2)
+
+
+
+   to report suspected adverse reactions, contact novartis pharmaceuticals corporation at 1-888-669-6682 or fda at 1-800-fda-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1     serious adverse reactions
+
+  the following serious and otherwise important adverse reactions are discussed in greater detail in other sections of labeling:
+
+
+
+ *  hypersensitivity reactions [see contraindications (4) and adverse reactions (6.3)] . 
+      6.2     clinical studies experience
+   because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rate observed in practice.
+
+
+
+ the data described below reflect exposure to a 6-dose regimen of coartem tablets in 1,979 patients including 647 adults (older than 16 years) and 1,332 children (16 years and younger). for the 6-dose regimen, coartem tablets was studied in active-controlled (366 patients) and non-controlled, open-label trials (1,613 patients). the 6-dose coartem tablets population was patients with malaria between ages 2 months and 71 years: 67% (1,332) were 16 years and younger and 33% (647) were older than 16 years. males represented 73% and 53% of the adult and pediatric populations, respectively. the majority of adult patients were enrolled in studies in thailand, while the majority of pediatric patients were enrolled in africa.
+
+
+
+ tables 1 and 2 show the most frequently reported adverse reactions (>=3%) in adults and children respectively who received the 6-dose regimen of coartem tablets. adverse reactions collected in clinical trials included signs and symptoms at baseline but only treatment emergent adverse events, defined as events that appeared or worsened after the start of treatment, are presented below. in adults, the most frequently reported adverse reactions were headache, anorexia, dizziness, and asthenia. in children, the adverse reactions were pyrexia, cough, vomiting, anorexia, and headache. most adverse reactions were mild, did not lead to discontinuation of study medication, and resolved.
+
+
+
+ in limited comparative studies, the adverse reaction profile of coartem tablets appeared similar to that of another antimalarial regimen.
+
+
+
+ discontinuation of coartem tablets due to adverse drug reactions occurred in 1.1% of patients treated with the 6-dose regimen overall: 0.2% (1/647) in adults and 1.6% (21/1,332) in children.
+
+
+
+ table 1: adverse reactions occurring in 3% or more of adult patients treated in clinical trials with the 6-dose regimen of coartem tablets 
+   system organ class      preferred term      adults*    n=647 (%)     
+ nervous system disorders  headache         360 (56)          
+                  dizziness        253 (39)          
+ metabolism and nutrition disorders  anorexia         260 (40)          
+ general disorders and administration site conditions  asthenia         243 (38)          
+                  pyrexia          159 (25)          
+                  chills           147 (23)          
+                  fatigue          111 (17)          
+                  malaise          20 (3)            
+ musculoskeletal and connective tissue disorders  arthralgia       219 (34)          
+                  myalgia          206 (32)          
+ gastrointestinal disorders  nausea           169 (26)          
+                  vomiting         113 (17)          
+                  abdominal pain   112 (17)          
+                  diarrhea         46 (7)            
+ psychiatric disorders  sleep disorder   144 (22)          
+                  insomnia         32 (5)            
+ cardiac disorders  palpitations     115 (18)          
+ hepatobiliary disorders  hepatomegaly     59 (9)            
+ blood and lymphatic system disorders  splenomegaly     57 (9)            
+                  anemia           23 (4)            
+ respiratory, thoracic and mediastinal disorders  cough            37 (6)            
+ skin and subcutaneous tissue disorders  pruritus         24 (4)            
+                  rash             21 (3)            
+ ear and labyrinth disorders  vertigo          21 (3)            
+ infections and infestations  malaria          18 (3)            
+                  nasopharyngitis  17 (3)            
+         * adult patients defined as >16 years of age
+ 
+
+ table 2: adverse reactions occurring in 3% or more of pediatric patients treated in clinical trials with the 6-dose regimen of coartem tablets 
+   system organ class      preferred term      children*    n=1,332 (%)     
+ general disorders and administration site conditions  pyrexia          381 (29)          
+                  chills           72 (5)            
+                  asthenia         63 (5)            
+                  fatigue          46 (3)            
+ respiratory, thoracic and mediastinal disorders  cough            302 (23)          
+ gastrointestinal disorders  vomiting         242 (18)          
+                  abdominal pain   112 (8)           
+                  diarrhea         100 (8)           
+                  nausea           61 (5)            
+ infections and infestations    plasmodium falciparum  infection  224 (17)          
+                  rhinitis         51 (4)            
+ metabolism and nutrition disorders  anorexia         175 (13)          
+ nervous system disorders  headache         168 (13)          
+                  dizziness        56 (4)            
+ blood and lymphatic system disorders  splenomegaly     124 (9)           
+                  anemia           115 (9)           
+ hepatobiliary disorders  hepatomegaly     75 (6)            
+ investigations   aspartate aminotransferase increased  51 (4)            
+ musculoskeletal and connective tissue disorders  arthralgia       39 (3)            
+                  myalgia          39 (3)            
+ skin and subcutaneous tissue disorders  rash             38 (3)            
+         * children defined as patients <=16 years of age
+ 
+
+ clinically significant adverse reactions reported in adults and/or children treated with the 6-dose regimen of coartem tablets which occurred in clinical studies at <3% regardless of causality are listed below:
+
+
+
+       blood and lymphatic system disorders: eosinophilia
+
+
+
+       ear and labyrinth disorders: tinnitus
+
+
+
+       eye disorders: conjunctivitis
+
+
+
+       gastrointestinal disorders: constipation, dyspepsia, dysphagia, peptic ulcer
+
+
+
+       general disorders: gait disturbance
+
+
+
+       infections and infestations: abscess, acrodermatitis, bronchitis, ear infection, gastroenteritis, helminthic      infection, hookworm infection, impetigo, influenza, lower respiratory tract infection, malaria,      nasopharyngitis, oral herpes, pneumonia, respiratory tract infection, subcutaneous abscess, upper      respiratory tract infection, urinary tract infection
+
+
+
+       investigations: alanine aminotransferase increased, aspartate aminotransferase increased, hematocrit      decreased, lymphocyte morphology abnormal, platelet count decreased, platelet count increased, white      blood cell count decreased, white blood cell count increased
+
+
+
+       metabolism and nutrition disorders: hypokalemia
+
+
+
+       musculoskeletal and connective tissue disorders: back pain
+
+
+
+       nervous system disorders: ataxia, clonus, fine motor delay, hyperreflexia, hypoesthesia, nystagmus,      tremor
+
+
+
+       psychiatric disorders: agitation, mood swings
+
+
+
+       renal and urinary disorders: hematuria, proteinuria
+
+
+
+       respiratory, thoracic and mediastinal disorders: asthma, pharyngo-laryngeal pain
+
+
+
+       skin and subcutaneous tissue disorders: urticaria
+
+
+
+   6.3     postmarketing experience
+
+  the following adverse reactions have been identified during post-approval use of coartem tablets. because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ *  hypersensitivity reactions: anaphylaxis, urticaria, angioedema, and serious skin reactions (bullous eruption) have been reported. 
+      5     warnings and precautions  
+
+   excerpt:    *  avoid use in patients with known qt prolongation, those with hypokalemia or hypomagnesemia, and those taking other drugs that prolong the qt interval. (5.1,12.6) 
+ *  halofantrine and coartem tablets should not be administered within one month of each other due to potential additive effects on the qt interval. (5.1,5.2,12.3) 
+ *  antimalarials should not be given concomitantly, unless there is no other treatment option, due to limited safety data. (5.2) 
+ *  qt prolonging drugs, including quinine and quinidine, should be used cautiously following coartem tablets. (5.1,5.2,7.7,12.3) 
+ *  substrates, inhibitors, or inducers of cyp3a4, including antiretroviral medications, should be used cautiously with coartem tablets, due to a potential loss of efficacy of the concomitant drug or additive qt prolongation. (5.3,7.2,7.3) 
+    
+   5.1     prolongation of the qt interval
+
+  some antimalarials (e.g., halofantrine, quinine, quinidine) including coartem tablets have been associated with prolongation of the qt interval on the electrocardiogram.
+
+
+
+ coartem tablets should be avoided in patients:
+
+
+
+ *  with congenital prolongation of the qt interval (e.g., long qt syndrome) or any other clinical condition known to prolong the qtc interval such as patients with a history of symptomatic cardiac arrhythmias, with clinically relevant bradycardia or with severe cardiac disease. 
+ *  with a family history of congenital prolongation of the qt interval or sudden death. 
+ *  with known disturbances of electrolyte balance, e.g., hypokalemia or hypomagnesemia. 
+ *  receiving other medications that prolong the qt interval, such as class ia (quinidine, procainamide, disopyramide), or class iii (amiodarone, sotalol) antiarrhythmic agents; antipsychotics (pimozide, ziprasidone); antidepressants; certain antibiotics (macrolide antibiotics, fluoroquinolone antibiotics, imidazole, and triazole antifungal agents) [see clinical pharmacology (12.6)] . 
+ *  receiving medications that are metabolized by the cytochrome enzyme cyp2d6 which also have cardiac effects (e.g., flecainide, imipramine, amitriptyline, clomipramine) [see warnings and precautions (5.4), drug interactions (7.6), and clinical pharmacology (12.3)] . 
+      5.2     use of qt prolonging drugs and other antimalarials
+   halofantrine and coartem tablets should not be administered within 1 month of each other due to the long elimination half-life of lumefantrine (3 to 6 days) and potential additive effects on the qt interval  [see warnings and precautions (5.1)  and  clinical pharmacology (12.3)]  .
+
+
+
+ antimalarials should not be given concomitantly with coartem tablets, unless there is no other treatment option, due to limited safety data.
+
+
+
+ drugs that prolong the qt interval, including antimalarials such as quinine and quinidine, should be used cautiously following coartem tablets, due to the long elimination half-life of lumefantrine (3 to 6 days) and the potential for additive effects on the qt interval; ecg monitoring is advised if use of drugs that prolong the qt interval is medically required  [see warnings and precautions (5.1), drug interactions (7.7),  and  clinical pharmacology (12.3)]  .
+
+
+
+ if mefloquine is administered immediately prior to coartem tablets there may be a decreased exposure to lumefantrine, possibly due to a mefloquine-induced decrease in bile production. therefore, patients should be monitored for decreased efficacy and food consumption should be encouraged while taking coartem tablets  [see     dosage and administration (2.1), drug interactions (7.4),  and  clinical pharmacology (12.3)]  .
+
+
+
+   5.3     drug interactions with cyp3a4
+
+  when coartem tablets are coadministered with substrates of cyp3a4 it may result in decreased concentrations of the substrate and potential loss of substrate efficacy. when coartem tablets are coadministered with an inhibitor of cyp3a4, including grapefruit juice it may result in increased concentrations of artemether and/or lumefantrine and potentiate qt prolongation. when coartem tablets are coadministered with inducers of cyp3a4 it may result in decreased concentrations of artemether and/or lumefantrine and loss of antimalarial efficacy  [see contraindications (4) and drug interactions (7)]  .
+
+
+
+ drugs that have a mixed effect on cyp3a4, especially antiretroviral drugs such as hiv protease inhibitors and non-nucleoside reverse transcriptase inhibitors, and those that have an effect on the qt interval should be used with caution in patients taking coartem tablets  [see drug interactions (7.3, 7.7)]  .
+
+
+
+ coartem tablets may reduce the effectiveness of hormonal contraceptives. therefore, patients using oral, transdermal patch, or other systemic hormonal contraceptives should be advised to use an additional non-hormonal method of birth control  [see drug interactions (7.5)]  .
+
+
+
+   5.4     drug interactions with cyp2d6
+
+  administration of coartem tablets with drugs that are metabolized by cyp2d6 may significantly increase plasma concentrations of the coadministered drug and increase the risk of adverse effects. many of the drugs metabolized by cyp2d6 can prolong the qt interval and should not be administered with coartem tablets due to the potential additive effect on the qt interval (e.g., flecainide, imipramine, amitriptyline, clomipramine)  [see warnings and precautions (5.1), drug interactions (7.6), and clinical pharmacology (12.3)]  .
+
+
+
+   5.5     recrudescence
+
+  food enhances absorption of artemether and lumefantrine following administration of coartem tablets. patients who remain averse to food during treatment should be closely monitored as the risk of recrudescence may be greater  [see dosage and administration (2.1)]  .
+
+
+
+ in the event of recrudescent  p. falciparum  infection after treatment with coartem tablets, patients should be treated with a different antimalarial drug.
+
+
+
+   5.6     hepatic and renal impairment
+
+  coartem tablets have not been studied for efficacy and safety in patients with severe hepatic and/or renal impairment  [see dosage and administration (2.4)]  .
+
+
+
+   5.7       plasmodium vivax  infection
+
+  coartem tablets have been shown in limited data (43 patients) to be effective in treating the erythrocytic stage of  p. vivax  infection. however, relapsing malaria caused by  p. vivax  requires additional treatment with other antimalarial agents to achieve radical cure i.e., eradicate any hypnozoites forms that may remain dormant in the liver.

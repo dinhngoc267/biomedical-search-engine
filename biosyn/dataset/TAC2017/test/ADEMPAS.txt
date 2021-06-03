@@ -1,0 +1,136 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are discussed elsewhere in the labeling:
+
+
+
+ *    embryo-fetal toxicity [see warnings and precautions (  5.1  )]  
+ *    hypotension [see warnings and precautions (  5.3  )]  
+ *    bleeding [see warnings and precautions (  5.4  )]  
+      excerpt:   adverse reactions occurring more frequently (>=3%) on adempas compared to placebo are headache, dyspepsia/gastritis, dizziness, nausea, diarrhea, hypotension, vomiting, anemia, gastroesophageal reflux, and constipation. (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact bayer healthcare pharmaceuticals inc. at 1-888-842-2937 or fda at 1-800-fda-1088 or    www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the safety data described below reflect exposure to adempas in two, randomized, double blind, placebo-controlled trials in patients with inoperable or recurrent/persistent cteph (chest-1) and treatment naive or pre-treated pah patients (patent-1). the population (adempas: n = 490; placebo: n = 214) was between the age of 18 and 80 years  [see clinical studies (  14.1  ,  14.2  )].  
+
+
+
+ the safety profile of adempas in patients with inoperable or recurrent/persistent cteph (chest-1) and treatment naive or pre-treated pah (patent-1) were similar. therefore, adverse drug reactions (adrs) identified from the 12 and 16 week placebo-controlled trials for pah and cteph respectively were pooled, and those occurring more frequently on adempas than placebo (>=3%) are displayed in table 1 below. most adverse reactions in table 1 can be ascribed to the vasodilatory mechanism of action of adempas.
+
+
+
+ the overall rates of discontinuation due to an adverse event in the pivotal placebo-controlled trials were 2.9% for adempas and 5.1% for placebo (pooled data).
+
+
+
+ table 1: adverse reactions occurring more frequently (>=3%) on adempas than placebo (pooled from chest-1 and patent-1) 
+  adverse reactions                  adempas %  (n=490)    placebo %  (n=214)    
+  headache                           27              18             
+  dyspepsia and gastritis            21              8              
+  dizziness                          20              13             
+  nausea                             14              11             
+  diarrhea                           12              8              
+  hypotension                        10              4              
+  vomiting                           10              7              
+  anemia (including laboratory parameters)    7               2              
+  gastroesophageal reflux disease    5               2              
+  constipation                       5               1              
+         other events that were seen more frequently in adempas compared to placebo and potentially related to treatment were: palpitations, nasal congestion, epistaxis, dysphagia, abdominal distension and peripheral edema. with longer observation in uncontrolled long-term extension studies the safety profile was similar to that observed in the placebo controlled phase 3 trials.
+
+
+    boxed warning: warning:  embryo-fetal toxicity
+
+  warning:  embryo-fetal toxicity
+
+    do not administer adempas to a pregnant female because it may cause fetal harm   [see contraindications (  4.1  ), warnings and precautions (  5.1  ) and use in specific populations (  8.1  )].    
+
+
+
+   females of reproductive potential: exclude pregnancy before the start of treatment, monthly during treatment, and 1 month after stopping treatment. prevent pregnancy during treatment and for one month after stopping treatment by using acceptable methods of contraception   [see dosage and administration (  2.3  ), warnings and precautions (  5.1  ,   5.2  ),and use in specific populations (  8.6  )].    
+
+
+
+   for all female patients, adempas is available only through a restricted program called the adempas risk evaluation and mitigation strategy (rems) program   [see warnings and precautions (  5.1  ,   5.2  )].    
+
+
+
+   excerpt:   warning: embryo-fetal toxicity
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  do not administer adempas to a pregnant female because it may cause fetal harm. (4.1, 5.1, 8.1) 
+ *  females of reproductive potential: exclude pregnancy before start of treatment, monthly during treatment, and 1 month after treatment discontinuation. prevent pregnancy during treatment and for one month after treatment discontinuation by use of acceptable methods of contraception. (2.3, 5.1,5.2, 8.6) 
+ *  for females, adempas is available only through a restricted program called the adempas rems program. (5.1,5.2) 
+    5 warnings and precautions
+
+
+
+   excerpt:    *    symptomatic hypotension (  5.3  ) 
+ *    bleeding (  5.4  ) 
+ *    pulmonary edema in patients with pulmonary veno-occlusive disease. if confirmed, discontinue treatment (5.5) 
+    
+ 
+
+   5.1 embryo-fetal toxicity
+
+
+
+  adempas may cause fetal harm when administered during pregnancy and is contraindicated for use in women who are pregnant. in females of reproductive potential, exclude pregnancy prior to initiation of therapy, advise use of acceptable contraception and obtain monthly pregnancy tests. for female, adempas is only available through a restricted program under the adempas rems program [see dosage and administration (  2.3  ), warnings and precautions (  5.2  ) and use in specific populations (  8.1  ,  8.6  )]  .
+
+
+
+    5.2 adempas rems program
+
+
+
+  females can only receive adempas through the adempas risk evaluation and mitigation strategy (rems) program, a restricted distribution program [see warnings and precautions (  5.1  )].  
+
+
+
+ important requirements of the adempas rems program include the following:
+
+
+
+ *    prescribers must be certified with the program by enrolling and completing training. 
+ *    all females, regardless of reproductive potential, must enroll in the adempas rems program prior to initiating adempas. male patients are not enrolled in the adempas rems program. 
+ *    female patients of reproductive potential must comply with the pregnancy testing and contraception requirements [see use in specific populations (8.6)].  
+ *    pharmacies must be certified with the program and must only dispense to patients who are authorized to receive adempas. 
+    further information, including a list of certified pharmacies, is available at www.adempasrems.com or 1-855-4 adempas.
+ 
+
+    5.3 hypotension
+
+
+
+  adempas reduces blood pressure. consider the potential for symptomatic hypotension or ischemia in patients with hypovolemia, severe left ventricular outflow obstruction, resting hypotension, autonomic dysfunction, or concomitant treatment with antihypertensives or strong cyp and p-gp/bcrp inhibitors [see drug interactions (  7.2  ) and clinical pharmacology (  12.3  )]  . consider a dose reduction if patient develops signs or symptoms of hypotension.
+
+
+
+    5.4 bleeding
+
+
+
+  in the placebo-controlled clinical trials, serious bleeding occurred in 2.4% of patients taking adempas compared to 0% of placebo patients. serious hemoptysis occurred in 5 (1%) patients taking adempas compared to 0 placebo patients, including one event with fatal outcome. serious hemorrhagic events also included 2 patients with vaginal hemorrhage, 2 with catheter site hemorrhage, and 1 each with subdural hematoma, hematemesis, and intra-abdominal hemorrhage.
+
+
+
+    5.5 pulmonary veno-occlusive disease
+
+
+
+  pulmonary vasodilators may significantly worsen the cardiovascular status of patients with pulmonary veno-occlusive disease (pvod). therefore, administration of adempas to such patients is not recommended. should signs of pulmonary edema occur, the possibility of associated pvod should be considered and, if confirmed, discontinue treatment with adempas.

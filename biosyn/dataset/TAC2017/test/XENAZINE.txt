@@ -1,0 +1,296 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *    depression and suicidality [see  warnings and precautions (5.2)  ]  
+ *    akathisia, restlessness, and agitation [see  warnings and precautions (5.5)  ]  
+ *    parkinsonism [see  warnings and precautions (5.6)  ]  
+ *    dysphagia [see  warnings and precautions (5.7)  ]  
+ *    sedation and somnolence [see  warnings and precautions (5.8)  ]  
+      excerpt:   most common adverse reactions (>10% and at least 5% greater than placebo) were: sedation/somnolence, fatigue, insomnia, depression, akathisia, anxiety, nausea (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact lundbeck's xenazine information center at 1-888-882-6013 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ during its development, xenazine was administered to 773 unique subjects and patients. the conditions and duration of exposure to xenazine varied greatly, and included single and multiple dose clinical pharmacology studies in healthy volunteers (n=259) and open-label (n=529) and double-blind studies (n=84) in patients.
+
+
+
+ in a randomized, 12-week, placebo-controlled clinical trial of hd patients, adverse reactions were more common in the xenazine group than in the placebo group. forty-nine of 54 (91%) patients who received xenazine experienced one or more adverse reactions at any time during the study. the most common adverse reactions (over 10%, and at least 5% greater than placebo) were sedation/somnolence, fatigue, insomnia, depression, akathisia, anxiety, and nausea.
+
+
+
+     adverse reactions occurring in >=4% of patients  
+
+
+
+ the number and percentage of the most common adverse reactions that occurred at any time during the study in >=4% of xenazine-treated patients, and with a greater frequency than in placebo-treated patients, are presented in table 1.
+
+
+
+ table 1. adverse reactions in a 12-week, double-blind, placebo-controlled trial in patients with huntington's disease 
+   adverse reaction                     xenazine    n = 54    (%)      placebo    n = 30    (%)     
+  
+  sedation/somnolence                  31                   3              
+  insomnia                             22                   0              
+  depression                           19                   0              
+  anxiety/anxiety aggravated           15                   3              
+  irritability                         9                    3              
+  decreased appetite                   4                    0              
+  obsessive reaction                   4                    0              
+  akathisia                            19                   0              
+  balance difficulty                   9                    0              
+  parkinsonism/bradykinesia            9                    0              
+  dizziness                            4                    0              
+  dysarthria                           4                    0              
+  unsteady gait                        4                    0              
+  headache                             4                    3              
+  nausea                               13                   7              
+  vomiting                             6                    3              
+  fatigue                              22                   13             
+  fall                                 15                   13             
+  laceration (head)                    6                    0              
+  ecchymosis                           6                    0              
+  upper respiratory tract infection    11                   7              
+  shortness of breath                  4                    0              
+  bronchitis                           4                    0              
+  dysuria                              4                    0              
+         dose escalation was discontinued or dosage of study drug was reduced because of one or more adverse reactions in 28 of 54 (52%) patients randomized to xenazine. these adverse reactions consisted of sedation (15), akathisia (7), parkinsonism (4), depression (3), anxiety (2), fatigue (1) and diarrhea (1). some patients had more than one ar and are, therefore, counted more than once.
+ 
+
+     adverse reactions due to extrapyramidal symptoms  
+
+
+
+ table 2 describes the incidence of events considered to be extrapyramidal adverse reactions which occurred at a greater frequency in xenazine-treated patients compared to placebo-treated patients.
+
+
+
+ table 2. adverse reactions due to extrapyramidal symptoms in a 12-week, double-blind, placebo-controlled trial in patients with huntington's disease 
+                                xenazine    n = 54    %      placebo    n = 30    %     
+  
+  akathisia patients with the following adverse event preferred terms were counted in this category: akathisia, hyperkinesia, restlessness.    19                         0                        
+  extrapyramidal event patients with the following adverse event preferred terms were counted in this category: bradykinesia, parkinsonism, extrapyramidal disorder, hypertonia.    15                         0                        
+  any extrapyramidal event     33                         0                        
+         patients may have had events in more than one category.
+ 
+
+   6.2 postmarketing experience
+
+  the following adverse reactions have been identified during post-approval use of xenazine. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ nervous system disorders: tremor
+
+
+
+ psychiatric disorders: confusion, worsening aggression
+
+
+
+ respiratory, thoracic and mediastinal disorders: pneumonia
+
+
+
+ skin and subcutaneous tissue disorders: hyperhidrosis, skin rash
+
+
+    boxed warning: warning:  depression and suicidality
+
+    warning:  depression and suicidality  
+
+    xenazine can increase the risk of depression and suicidal thoughts and behavior (suicidality) in patients with huntington's disease. anyone considering the use of xenazine must balance the risks of depression and suicidality with the clinical need for control of chorea. close observation of patients for the emergence or worsening of depression, suicidality, or unusual changes in behavior should accompany therapy. patients, their caregivers, and families should be informed of the risk of depression and suicidality and should be instructed to report behaviors of concern promptly to the treating physician.   
+
+
+
+   particular caution should be exercised in treating patients with a history of depression or prior suicide attempts or ideation, which are increased in frequency in huntington's disease. xenazine is contraindicated in patients who are actively suicidal, and in patients with untreated or inadequately treated depression   [see   contraindications (4)  ,   warnings and precautions (5.2)  ]  .  
+
+
+
+   excerpt:     warning: depression and suicidality    
+
+
+
+     see full prescribing information for complete boxed warning  .  
+
+
+
+ *   increases the risk of depression and suicidal thoughts and behavior (suicidality) in patients with huntington's disease (5.2) 
+ *   balance risks of depression and suicidality with the clinical need for control of chorea when considering the use of xenazine (5.1) 
+ *   monitor patients for the emergence or worsening of depression, suicidality, or unusual changes in behavior (5.2) 
+ *   inform patients, caregivers and families of the risk of depression and suicidality and instruct to report behaviors of concern promptly to the treating physician (5.2) 
+ *   exercise caution when treating patients with a history of depression or prior suicide attempts or ideation (5.2) 
+ *   xenazine is contraindicated in patients who are actively suicidal, and in patients with untreated or inadequately treated depression (4, 5.2) 
+    5 warnings and precautions
+
+
+
+   excerpt:    *    periodically reevaluate the benefit and potential for adverse effects such as worsening mood, cognition, rigidity, and functional capacity (  5.1  ) 
+ *    do not exceed 50 mg/day and the maximum single dose should not exceed 25 mg if administered in conjunction with a strong cyp2d6 inhibitor (e.g., fluoxetine, paroxetine) (  5.3  ,  7.1  ) 
+ *    neuroleptic malignant syndrome (nms): discontinue if this occurs (  5.4  ,  7.6  ) 
+ *    restlessness, agitation, akathisia and parkinsonism: reduce dose or discontinue if occurs (  5.5  ,  5.6  ) 
+ *    dysphagia and aspiration pneumonia: monitor for dysphagia (  5.7  ) 
+ *    sedation/somnolence: may impair patient's ability to drive or operate complex machinery (  5.8  ) 
+ *    qtc prolongation: not recommended in combination with other drugs that prolong qtc (  5.9  ) 
+ *    exaggerates extrapyramidal disorders when used with drugs that reduce or antagonize dopamine. discontinue xenazine if this occurs (  5.12  ) 
+    
+ 
+
+   5.1 clinical worsening and adverse effects
+
+
+
+  huntington's disease is a progressive disorder characterized by changes in mood, cognition, chorea, rigidity, and functional capacity over time. in a 12-week controlled trial, xenazine was also shown to cause slight worsening in mood, cognition, rigidity, and functional capacity. whether these effects persist, resolve, or worsen with continued treatment is unknown.
+
+
+
+ prescribers should periodically re-evaluate the need for xenazine in their patients by assessing the beneficial effect on chorea and possible adverse effects, including depression, cognitive decline, parkinsonism, dysphagia, sedation/somnolence, akathisia, restlessness and disability. it may be difficult to distinguish between drug-induced side-effects and progression of the underlying disease; decreasing the dose or stopping the drug may help the clinician distinguish between the two possibilities. in some patients, underlying chorea itself may improve over time, decreasing the need for xenazine.
+
+
+
+    5.2 depression and suicidality
+
+
+
+  patients with huntington's disease are at increased risk for depression, suicidal ideation or behaviors (suicidality). xenazine increases the risk for suicidality in patients with hd. all patients treated with xenazine should be observed for new or worsening depression or suicidality. if depression or suicidality does not resolve, consider discontinuing treatment with xenazine.
+
+
+
+ in a 12-week, double-blind placebo-controlled study in patients with chorea associated with huntington's disease, 10 of 54 patients (19%) treated with xenazine were reported to have an adverse event of depression or worsening depression compared to none of the 30 placebo-treated patients. in two open-label studies (in one study, 29 patients received xenazine for up to 48 weeks; in the second study, 75 patients received xenazine for up to 80 weeks), the rate of depression/worsening depression was 35%.
+
+
+
+ in all of the hd chorea studies of xenazine (n=187), one patient committed suicide, one attempted suicide, and six had suicidal ideation.
+
+
+
+ clinicians should be alert to the heightened risk of suicide in patients with huntington's disease regardless of depression indices. reported rates of completed suicide among individuals with huntington's disease ranged from 3-13% and over 25% of patients attempt suicide at some point in their illness.
+
+
+
+ patients, their caregivers, and families should be informed of the risks of depression, worsening depression, and suicidality associated with xenazine and should be instructed to report behaviors of concern promptly to the treating physician. patients with hd who express suicidal ideation should be evaluated immediately.
+
+
+
+    5.3 laboratory tests
+
+
+
+  before prescribing a daily dose of xenazine that is greater than 50 mg per day, patients should be genotyped to determine if they express the drug metabolizing enzyme, cyp2d6. cyp2d6 testing is necessary to determine whether patients are poor metabolizers (pms), extensive (ems) or intermediate metabolizers (ims) of xenazine.
+
+
+
+ patients who are pms of xenazine will have substantially higher levels of the primary drug metabolites (about 3-fold for alpha-htbz and 9-fold for beta-htbz) than patients who are ems. the dosage should be adjusted according to a patient's cyp2d6 metabolizer status. in patients who are identified as cyp2d6 pms, the maximum recommended total daily dose is 50 mg and the maximum recommended single dose is 25 mg [see  dosage and administration (2.2)  ,  use in specific populations (8.7)  , and  clinical pharmacology (12.3)  ].  
+
+
+
+    5.4 neuroleptic malignant syndrome (nms)
+
+
+
+  a potentially fatal symptom complex sometimes referred to as neuroleptic malignant syndrome (nms) has been reported in association with xenazine and other drugs that reduce dopaminergic transmission [see  warnings and precautions (5.12)  ,  drug interactions (7.6)  ].  clinical manifestations of nms are hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia). additional signs may include elevated creatinine phosphokinase, myoglobinuria, rhabdomyolysis, and acute renal failure. the diagnosis of nms can be complicated; other serious medical illness (e.g., pneumonia, systemic infection), and untreated or inadequately treated extrapyramidal disorders can present with similar signs and symptoms. other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever, and primary central nervous system pathology.
+
+
+
+ the management of nms should include (1) immediate discontinuation of xenazine and other drugs not essential to concurrent therapy; (2) intensive symptomatic treatment and medical monitoring; and (3) treatment of any concomitant serious medical problems for which specific treatments are available. there is no general agreement about specific pharmacological treatment regimens for nms.
+
+
+
+ recurrence of nms has been reported. if treatment with xenazine is needed after recovery from nms, patients should be monitored for signs of recurrence.
+
+
+
+    5.5 akathisia, restlessness, and agitation
+
+
+
+  in a 12-week, double-blind, placebo-controlled study in patients with chorea associated with hd, akathisia was observed in 10 (19%) of xenazine-treated patients and 0% of placebo-treated patients. in an 80-week open-label study, akathisia was observed in 20% of xenazine-treated patients. akathisia was not observed in a 48-week open-label study. patients receiving xenazine should be monitored for the presence of akathisia. patients receiving xenazine should also be monitored for signs and symptoms of restlessness and agitation, as these may be indicators of developing akathisia. if a patient develops akathisia, the xenazine dose should be reduced; however, some patients may require discontinuation of therapy.
+
+
+
+    5.6 parkinsonism
+
+
+
+  xenazine can cause parkinsonism. in a 12-week double-blind, placebo-controlled study in patients with chorea associated with hd, symptoms suggestive of parkinsonism (i.e., bradykinesia, hypertonia and rigidity) were observed in 15% of xenazine-treated patients compared to 0% of placebo-treated patients. in 48-week and 80-week open-label studies, symptoms suggestive of parkinsonism were observed in 10% and 3% of xenazine-treated patients, respectively. because rigidity can develop as part of the underlying disease process in huntington's disease, it may be difficult to distinguish between this drug-induced side-effect and progression of the underlying disease process. drug-induced parkinsonism has the potential to cause more functional disability than untreated chorea for some patients with huntington's disease. if a patient develops parkinsonism during treatment with xenazine, dose reduction should be considered; in some patients, discontinuation of therapy may be necessary.
+
+
+
+    5.7 dysphagia
+
+
+
+  dysphagia is a component of hd. however, drugs that reduce dopaminergic transmission have been associated with esophageal dysmotility and dysphagia. dysphagia may be associated with aspiration pneumonia. in a 12-week, double-blind, placebo-controlled study in patients with chorea associated with hd, dysphagia was observed in 4% of xenazine-treated patients and 3% of placebo-treated patients. in 48-week and 80-week open-label studies, dysphagia was observed in 10% and 8% of xenazine-treated patients, respectively. some of the cases of dysphagia were associated with aspiration pneumonia. whether these events were related to treatment is unknown.
+
+
+
+    5.8 sedation and somnolence
+
+
+
+  sedation is the most common dose-limiting adverse reaction of xenazine. in a 12-week, double-blind, placebo-controlled trial in patients with chorea associated with hd, sedation/somnolence occurred in 17/54 (31%) xenazine-treated patients and in 1 (3%) placebo-treated patient. sedation was the reason upward titration of xenazine was stopped and/or the dose of xenazine was decreased in 15/54 (28%) patients. in all but one case, decreasing the dose of xenazine resulted in decreased sedation. in 48-week and 80-week open-label studies, sedation/somnolence occurred in 17% and 57% of xenazine treated patients, respectively. in some patients, sedation occurred at doses that were lower than recommended doses.
+
+
+
+ patients should not perform activities requiring mental alertness to maintain the safety of themselves or others, such as operating a motor vehicle or operating hazardous machinery, until they are on a maintenance dose of xenazine and know how the drug affects them.
+
+
+
+    5.9 qtc prolongation
+
+
+
+  xenazine causes a small increase (about 8 msec) in the corrected qt (qtc) interval. qt prolongation can lead to development of torsade de pointes-type ventricular tachycardia with the risk increasing as the degree of prolongation increases [see  clinical pharmacology (12.2)  ].  the use of xenazine should be avoided in combination with other drugs that are known to prolong qtc, including antipsychotic medications (e.g., chlorpromazine, haloperidol, thioridazine, ziprasidone), antibiotics (e.g., moxifloxacin), class 1a (e.g., quinidine, procainamide), and class iii (e.g., amiodarone, sotalol) antiarrhythmic medications or any other medications known to prolong the qtc interval [see  drug interactions (7.5)  ].  
+
+
+
+ xenazine should also be avoided in patients with congenital long qt syndrome and in patients with a history of cardiac arrhythmias. certain circumstances may increase the risk of the occurrence of torsade de pointes and/or sudden death in association with the use of drugs that prolong the qtc interval, including (1) bradycardia; (2) hypokalemia or hypomagnesemia; (3) concomitant use of other drugs that prolong the qtc interval; and (4) presence of congenital prolongation of the qt interval [see  clinical pharmacology (12.2)  ].  
+
+
+
+    5.10 hypotension and orthostatic hypotension
+
+
+
+  xenazine induced postural dizziness in healthy volunteers receiving single doses of 25 or 50 mg. one subject had syncope and one subject with postural dizziness had documented orthostasis. dizziness occurred in 4% of xenazine-treated patients (vs. none on placebo) in the 12-week controlled trial; however, blood pressure was not measured during these events. monitoring of vital signs on standing should be considered in patients who are vulnerable to hypotension.
+
+
+
+    5.11 hyperprolactinemia
+
+
+
+  xenazine elevates serum prolactin concentrations in humans. following administration of 25 mg to healthy volunteers, peak plasma prolactin levels increased 4- to 5-fold. tissue culture experiments indicate that approximately one third of human breast cancers are prolactin-dependent in vitro  , a factor of potential importance if xenazine is being considered for a patient with previously detected breast cancer. although amenorrhea, galactorrhea, gynecomastia and impotence can be caused by elevated serum prolactin concentrations, the clinical significance of elevated serum prolactin concentrations for most patients is unknown. chronic increase in serum prolactin levels (although not evaluated in the xenazine development program) has been associated with low levels of estrogen and increased risk of osteoporosis. if there is a clinical suspicion of symptomatic hyperprolactinemia, appropriate laboratory testing should be done and consideration should be given to discontinuation of xenazine.
+
+
+
+    5.12 tardive dyskinesia (td)
+
+
+
+  a potentially irreversible syndrome of involuntary, dyskinetic movements may develop in patients treated with neuroleptic drugs. in an animal model of orofacial dyskinesias, acute administration of reserpine, a monoamine depletor, has been shown to produce vacuous chewing in rats. although the pathophysiology of tardive dyskinesia remains incompletely understood, the most commonly accepted hypothesis of the mechanism is that prolonged post-synaptic dopamine receptor blockade leads to supersensitivity to dopamine. neither reserpine nor xenazine, which are dopamine depletors, have been reported to cause clear tardive dyskinesia in humans, but as pre-synaptic dopamine depletion could theoretically lead to supersensitivity to dopamine, and xenazine can cause the extrapyramidal symptoms also known to be associated with neuroleptics (e.g., parkinsonism and akathisia), physicians should be aware of the possible risk of tardive dyskinesia. if signs and symptoms of td appear in a patient treated with xenazine, drug discontinuation should be considered.
+
+
+
+    5.13 binding to melanin-containing tissues
+
+
+
+  since xenazine or its metabolites bind to melanin-containing tissues, it could accumulate in these tissues over time. this raises the possibility that xenazine may cause toxicity in these tissues after extended use. neither ophthalmologic nor microscopic examination of the eye was conducted in the chronic toxicity study in dogs. ophthalmologic monitoring in humans was inadequate to exclude the possibility of injury occurring after long-term exposure.
+
+
+
+ the clinical relevance of xenazine's binding to melanin-containing tissues is unknown. although there are no specific recommendations for periodic ophthalmologic monitoring, prescribers should be aware of the possibility of long-term ophthalmologic effects [see  clinical pharmacology (12.2)  ].  

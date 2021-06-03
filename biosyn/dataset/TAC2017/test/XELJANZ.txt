@@ -1,0 +1,504 @@
+    6 adverse reactions
+
+  excerpt:   the most commonly reported adverse reactions during the first 3 months in controlled clinical trials (occurring in greater than or equal to 2% of patients treated with xeljanz monotherapy or in combination with dmards) were upper respiratory tract infections, headache, diarrhea and nasopharyngitis. (  6.1  )  to report suspected adverse reactions, contact pfizer, inc at 1-800-438-1985 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trial experience
+
+  because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not predict the rates observed in a broader patient population in clinical practice.
+
+
+
+ although other doses have been studied, the recommended dose of xeljanz is 5 mg twice daily.
+
+
+
+ the following data includes two phase 2 and five phase 3 double-blind, controlled, multicenter trials. in these trials, patients were randomized to doses of xeljanz 5 mg twice daily (292 patients) and 10 mg twice daily (306 patients) monotherapy, xeljanz 5 mg twice daily (1044 patients) and 10 mg twice daily (1043 patients) in combination with dmards (including methotrexate) and placebo (809 patients). all seven protocols included provisions for patients taking placebo to receive treatment with xeljanz at month 3 or month 6 either by patient response (based on uncontrolled disease activity) or by design, so that adverse events cannot always be unambiguously attributed to a given treatment. therefore some analyses that follow include patients who changed treatment by design or by patient response from placebo to xeljanz in both the placebo and xeljanz group of a given interval. comparisons between placebo and xeljanz were based on the first 3 months of exposure, and comparisons between xeljanz 5 mg twice daily and xeljanz 10 mg twice daily were based on the first 12 months of exposure.
+
+
+
+ the long-term safety population includes all patients who participated in a double-blind, controlled trial (including earlier development phase studies) and then participated in one of two long-term safety studies. the design of the long-term safety studies allowed for modification of xeljanz doses according to clinical judgment. this limits the interpretation of the long-term safety data with respect to dose.
+
+
+
+ the most common serious adverse reactions were serious infections  [see  warnings and precautions (5.1)  ]  .
+
+
+
+ the proportion of patients who discontinued treatment due to any adverse reaction during the 0 to 3 months exposure in the double-blind, placebo-controlled trials was 4% for patients taking xeljanz and 3% for placebo-treated patients.
+
+
+
+     overall infections  
+
+
+
+ in the seven controlled trials, during the 0 to 3 months exposure, the overall frequency of infections was 20% and 22% in the 5 mg twice daily and 10 mg twice daily groups, respectively, and 18% in the placebo group.
+
+
+
+ the most commonly reported infections with xeljanz were upper respiratory tract infections, nasopharyngitis, and urinary tract infections (4%, 3%, and 2% of patients, respectively).
+
+
+
+     serious infections  
+
+
+
+ in the seven controlled trials, during the 0 to 3 months exposure, serious infections were reported in 1 patient (0.5 events per 100 patient-years) who received placebo and 11 patients (1.7 events per 100 patient-years) who received xeljanz 5 mg or 10 mg twice daily. the rate difference between treatment groups (and the corresponding 95% confidence interval) was 1.1 (-0.4, 2.5) events per 100 patient-years for the combined 5 mg twice daily and 10 mg twice daily xeljanz group minus placebo.
+
+
+
+ in the seven controlled trials, during the 0 to 12 months exposure, serious infections were reported in 34 patients (2.7 events per 100 patient-years) who received 5 mg twice daily of xeljanz and 33 patients (2.7 events per 100 patient-years) who received 10 mg twice daily of xeljanz. the rate difference between xeljanz doses (and the corresponding 95% confidence interval) was -0.1 (-1.3, 1.2) events per 100 patient-years for 10 mg twice daily xeljanz minus 5 mg twice daily xeljanz.
+
+
+
+ the most common serious infections included pneumonia, cellulitis, herpes zoster, and urinary tract infection  [see  warnings and precautions (5.1)  ]  .
+
+
+
+     tuberculosis  
+
+
+
+ in the seven controlled trials, during the 0 to 3 months exposure, tuberculosis was not reported in patients who received placebo, 5 mg twice daily of xeljanz, or 10 mg twice daily of xeljanz.
+
+
+
+ in the seven controlled trials, during the 0 to 12 months exposure, tuberculosis was reported in 0 patients who received 5 mg twice daily of xeljanz and 6 patients (0.5 events per 100 patient-years) who received 10 mg twice daily of xeljanz. the rate difference between xeljanz doses (and the corresponding 95% confidence interval) was 0.5 (0.1, 0.9) events per 100 patient-years for 10 mg twice daily xeljanz minus 5 mg twice daily xeljanz.
+
+
+
+ cases of disseminated tuberculosis were also reported. the median xeljanz exposure prior to diagnosis of tuberculosis was 10 months (range from 152 to 960 days) [  see  warnings and precautions (5.1)  ].  
+
+
+
+     opportunistic infections (excluding tuberculosis)  
+
+
+
+ in the seven controlled trials, during the 0 to 3 months exposure, opportunistic infections were not reported in patients who received placebo, 5 mg twice daily of xeljanz, or 10 mg twice daily of xeljanz.
+
+
+
+ in the seven controlled trials, during the 0 to 12 months exposure, opportunistic infections were reported in 4 patients (0.3 events per 100 patient-years) who received 5 mg twice daily of xeljanz and 4 patients (0.3 events per 100 patient-years) who received 10 mg twice daily of xeljanz. the rate difference between xeljanz doses (and the corresponding 95% confidence interval) was 0 (-0.5, 0.5) events per 100 patient-years for 10 mg twice daily xeljanz minus 5 mg twice daily xeljanz.
+
+
+
+ the median xeljanz exposure prior to diagnosis of an opportunistic infection was 8 months (range from 41 to 698 days)  [see  warnings and precautions (5.1)  ].  
+
+
+
+     malignancy  
+
+
+
+ in the seven controlled trials, during the 0 to 3 months exposure, malignancies excluding nmsc were reported in 0 patients who received placebo and 2 patients (0.3 events per 100 patient-years) who received either xeljanz 5 mg or 10 mg twice daily. the rate difference between treatment groups (and the corresponding 95% confidence interval) was 0.3 (-0.1, 0.7) events per 100 patient-years for the combined 5 mg and 10 mg twice daily xeljanz group minus placebo.
+
+
+
+ in the seven controlled trials, during the 0 to 12 months exposure, malignancies excluding nmsc were reported in 5 patients (0.4 events per 100 patient-years) who received 5 mg twice daily of xeljanz and 7 patients (0.6 events per 100 patient-years) who received 10 mg twice daily of xeljanz. the rate difference between xeljanz doses (and the corresponding 95% confidence interval) was 0.2 (-0.4, 0.7) events per 100 patient-years for 10 mg twice daily xeljanz minus 5 mg twice daily xeljanz. one of these malignancies was a case of lymphoma that occurred during the 0 to 12 month period in a patient treated with xeljanz 10 mg twice daily.
+
+
+
+ the most common types of malignancy, including malignancies observed during the long-term extension, were lung and breast cancer, followed by gastric, colorectal, renal cell, prostate cancer, lymphoma, and malignant melanoma  [see  warnings and precautions (5.2)  ].  
+
+
+
+     laboratory abnormalities  
+
+
+
+     lymphopenia  
+
+
+
+ in the controlled clinical trials, confirmed decreases in absolute lymphocyte counts below 500 cells/mm  3  occurred in 0.04% of patients for the 5 mg twice daily and 10 mg twice daily xeljanz groups combined during the first 3 months of exposure.
+
+
+
+ confirmed lymphocyte counts less than 500 cells/mm  3  were associated with an increased incidence of treated and serious infections  [see  warnings and precautions (5.4)  ].  
+
+
+
+     neutropenia  
+
+
+
+ in the controlled clinical trials, confirmed decreases in anc below 1000 cells/mm  3  occurred in 0.07% of patients for the 5 mg twice daily and 10 mg twice daily xeljanz groups combined during the first 3 months of exposure.
+
+
+
+ there were no confirmed decreases in anc below 500 cells/mm  3  observed in any treatment group.
+
+
+
+ there was no clear relationship between neutropenia and the occurrence of serious infections.
+
+
+
+ in the long-term safety population, the pattern and incidence of confirmed decreases in anc remained consistent with what was seen in the controlled clinical trials  [see  warnings and precautions (5.4)  ].  
+
+
+
+     liver enzyme elevations  
+
+
+
+ confirmed increases in liver enzymes greater than 3 times the upper limit of normal (3* uln) were observed in patients treated with xeljanz. in patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant dmard, interruption of xeljanz, or reduction in xeljanz dose, resulted in decrease or normalization of liver enzymes.
+
+
+
+ in the controlled monotherapy trials (0-3 months), no differences in the incidence of alt or ast elevations were observed between the placebo, and xeljanz 5 mg, and 10 mg twice daily groups.
+
+
+
+ in the controlled background dmard trials (0-3 months), alt elevations greater than 3* uln were observed in 1.0%, 1.3% and 1.2% of patients receiving placebo, 5 mg, and 10 mg twice daily, respectively. in these trials, ast elevations greater than 3* uln were observed in 0.6%, 0.5% and 0.4% of patients receiving placebo, 5 mg, and 10 mg twice daily, respectively.
+
+
+
+ one case of drug-induced liver injury was reported in a patient treated with xeljanz 10 mg twice daily for approximately 2.5 months. the patient developed symptomatic elevations of ast and alt greater than 3* uln and bilirubin elevations greater than 2* uln, which required hospitalizations and a liver biopsy.
+
+
+
+     lipid elevations  
+
+
+
+ in the controlled clinical trials, dose-related elevations in lipid parameters (total cholesterol, ldl cholesterol, hdl cholesterol, triglycerides) were observed at one month of exposure and remained stable thereafter. changes in lipid parameters during the first 3 months of exposure in the controlled clinical trials are summarized below:
+
+
+
+ *  mean ldl cholesterol increased by 15% in the xeljanz 5 mg twice daily arm and 19% in the xeljanz 10 mg twice daily arm. 
+ *  mean hdl cholesterol increased by 10% in the xeljanz 5 mg twice daily arm and 12% in the xeljanz 10 mg twice daily arm. 
+ *  mean ldl/hdl ratios were essentially unchanged in xeljanz-treated patients. 
+    in a controlled clinical trial, elevations in ldl cholesterol and apob decreased to pretreatment levels in response to statin therapy.
+ 
+
+ in the long-term safety population, elevations in lipid parameters remained consistent with what was seen in the controlled clinical trials.
+
+
+
+     serum creatinine elevations  
+
+
+
+ in the controlled clinical trials, dose-related elevations in serum creatinine were observed with xeljanz treatment. the mean increase in serum creatinine was <0.1 mg/dl in the 12-month pooled safety analysis; however with increasing duration of exposure in the long-term extensions, up to 2% of patients were discontinued from xeljanz treatment due to the protocol-specified discontinuation criterion of an increase in creatinine by more than 50% of baseline. the clinical significance of the observed serum creatinine elevations is unknown.
+
+
+
+     other adverse reactions  
+
+
+
+ adverse reactions occurring in 2% or more of patients on 5 mg twice daily or 10 mg twice daily xeljanz and at least 1% greater than that observed in patients on placebo with or without dmard are summarized in table 4.
+
+
+
+ table 4: adverse reactions occurring in at least 2% or more of patients on 5 or 10 mg twice daily xeljanz with or without dmard (0-3 months) and at least 1% greater than that observed in patients on placebo 
+                                 xeljanz5 mg twice daily  xeljanz10 mg twice daily             placebo               
+ preferred term                      n = 1336(%)           n = 1349(%)                 n = 809(%)             
+  
+ n reflects randomized and treated patients from the seven clinical trials   
+  
+ diarrhea                                4.0                   2.9                        2.3                 
+ nasopharyngitis                         3.8                   2.8                        2.8                 
+ upper respiratory tract infection          4.5                   3.8                        3.3                 
+ headache                                4.3                   3.4                        2.1                 
+ hypertension                            1.6                   2.3                        1.1                 
+          other adverse reactions occurring in controlled and open-label extension studies included:
+ 
+
+   blood and lymphatic system disorders:  anemia
+
+
+
+   infections and infestations:  diverticulitis
+
+
+
+   metabolism and nutrition disorders:  dehydration
+
+
+
+   psychiatric disorders:  insomnia
+
+
+
+   nervous system disorders:  paresthesia
+
+
+
+   respiratory, thoracic and mediastinal disorders:  dyspnea, cough, sinus congestion
+
+
+
+   gastrointestinal disorders:  abdominal pain, dyspepsia, vomiting, gastritis, nausea
+
+
+
+   hepatobiliary disorders:  hepatic steatosis
+
+
+
+   skin and subcutaneous tissue disorders:  rash, erythema, pruritus
+
+
+
+   musculoskeletal, connective tissue and bone disorders:  musculoskeletal pain, arthralgia, tendonitis, joint swelling
+
+
+
+   neoplasms benign, malignant and unspecified (including cysts and polyps):  non-melanoma skin cancers
+
+
+
+   general disorders and administration site conditions:  pyrexia, fatigue, peripheral edema
+
+
+
+     clinical experience in methotrexate-naive patients  
+
+
+
+ study vi was an active-controlled clinical trial in methotrexate-naive patients [see  clinical studies (14)  ]. the safety experience in these patients was consistent with studies i-v.
+
+
+    boxed warning: warning: serious infections and malignancy
+
+    warning: serious infections and malignancy  
+
+  excerpt:   warning: serious infections and malignancy
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  serious infections leading to hospitalization or death, including tuberculosis and bacterial, invasive fungal, viral, and other opportunistic infections, have occurred in patients receiving xeljanz. (5.1) 
+ *  if a serious infection develops, interrupt xeljanz until the infection is controlled. (5.1) 
+ *  prior to starting xeljanz, perform a test for latent tuberculosis; if it is positive, start treatment for tuberculosis prior to starting xeljanz. (5.1) 
+ *  monitor all patients for active tuberculosis during treatment, even if the initial latent tuberculosis test is negative. (5.1) 
+ *  lymphoma and other malignancies have been observed in patients treated with xeljanz. epstein barr virus-associated post-transplant lymphoproliferative disorder has been observed at an increased rate in renal transplant patients treated with xeljanz and concomitant immunosuppressive medications. (5.2) 
+    
+ 
+
+    serious infections  
+
+
+
+   patients treated with xeljanz are at increased risk for developing serious infections that may lead to hospitalization or death   [see   warnings and precautions (5.1)   and   adverse reactions (6.1)  ]  . most patients who developed these infections were taking concomitant immunosuppressants such as methotrexate or corticosteroids.  
+
+
+
+   if a serious infection develops, interrupt xeljanz until the infection is controlled.   
+
+
+
+   reported infections include:   
+
+
+
+ *  active tuberculosis, which may present with pulmonary or extrapulmonary disease. patients should be tested for latent tuberculosis before xeljanz use and during therapy. treatment for latent infection should be initiated prior to xeljanz use. 
+ *  invasive fungal infections, including cryptococcosis and pneumocystosis. patients with invasive fungal infections may present with disseminated, rather than localized, disease. 
+ *  bacterial, viral, and other infections due to opportunistic pathogens. 
+      the risks and benefits of treatment with xeljanz should be carefully considered prior to initiating therapy in patients with chronic or recurrent infection.   
+ 
+
+   patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with xeljanz, including the possible development of tuberculosis in patients who tested negative for latent tuberculosis infection prior to initiating therapy   [see   warnings and precautions (5.1)  ]  .  
+
+
+
+     malignancies  
+
+
+
+   lymphoma and other malignancies have been observed in patients treated with xeljanz. epstein barr virus-associated post-transplant lymphoproliferative disorder has been observed at an increased rate in renal transplant patients treated with xeljanz and concomitant immunosuppressive medications   [see   warnings and precautions (5.2)  ]  .  
+    5 warnings and precautions
+
+
+
+   excerpt:    *  avoid use of xeljanz during an active serious infection, including localized infections. (  5.1  ) 
+ *  gastrointestinal perforations - use with caution in patients that may be at increased risk. (  5.3  ) 
+ *  laboratory monitoring -recommended due to potential changes in lymphocytes, neutrophils, hemoglobin, liver enzymes and lipids. (  5.4  ) 
+ *  immunizations - live vaccines: avoid use with xeljanz. (  5.5  ) 
+    
+ 
+
+   5.1 serious infections
+
+
+
+   serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, or other opportunistic pathogens have been reported in rheumatoid arthritis patients receiving xeljanz. the most common serious infections reported with xeljanz included pneumonia, cellulitis, herpes zoster, urinary tract infection, and diverticulitis [see  adverse reactions (6.1)  ]  . among opportunistic infections, tuberculosis and other mycobacterial infections, cryptococcosis, esophageal candidiasis, pneumocystosis, multidermatomal herpes zoster, cytomegalovirus, and bk virus were reported with xeljanz. some patients have presented with disseminated rather than localized disease, and were often taking concomitant immunomodulating agents such as methotrexate or corticosteroids.  
+
+
+
+ other serious infections that were not reported in clinical studies may also occur (e.g., histoplasmosis, coccidioidomycosis, and listeriosis).
+
+
+
+ avoid use of xeljanz in patients with an active, serious infection, including localized infections. the risks and benefits of treatment should be considered prior to initiating xeljanz in patients:
+
+
+
+ *  with chronic or recurrent infection 
+ *  who have been exposed to tuberculosis 
+ *  with a history of a serious or an opportunistic infection 
+ *  who have resided or traveled in areas of endemic tuberculosis or endemic mycoses; or 
+ *  with underlying conditions that may predispose them to infection. 
+    patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with xeljanz. xeljanz should be interrupted if a patient develops a serious infection, an opportunistic infection, or sepsis. a patient who develops a new infection during treatment with xeljanz should undergo prompt and complete diagnostic testing appropriate for an immunocompromised patient; appropriate antimicrobial therapy should be initiated, and the patient should be closely monitored.
+ 
+
+    tuberculosis  
+
+
+
+ patients should be evaluated and tested for latent or active infection prior to administration of xeljanz.
+
+
+
+ anti-tuberculosis therapy should also be considered prior to administration of xeljanz in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but who have risk factors for tuberculosis infection. consultation with a physician with expertise in the treatment of tuberculosis is recommended to aid in the decision about whether initiating anti-tuberculosis therapy is appropriate for an individual patient.
+
+
+
+ patients should be closely monitored for the development of signs and symptoms of tuberculosis, including patients who tested negative for latent tuberculosis infection prior to initiating therapy.
+
+
+
+ patients with latent tuberculosis should be treated with standard antimycobacterial therapy before administering xeljanz.
+
+
+
+    viral reactivation  
+
+
+
+  viral reactivation, including cases of herpes virus reactivation (e.g., herpes zoster), were observed in clinical studies with xeljanz. the impact of xeljanz on chronic viral hepatitis reactivation is unknown. patients who screened positive for hepatitis b or c were excluded from clinical trials. screening for viral hepatitis should be performed in accordance with clinical guidelines before starting therapy with xeljanz. the risk of herpes zoster is increased in patients treated with xeljanz and appears to be higher in patients treated with xeljanz in japan.  
+
+
+
+    5.2 malignancy and lymphoproliferative disorders
+
+
+
+  consider the risks and benefits of xeljanz treatment prior to initiating therapy in patients with a known malignancy other than a successfully treated non-melanoma skin cancer (nmsc) or when considering continuing xeljanz in patients who develop a malignancy. malignancies were observed in clinical studies of xeljanz [see  adverse reactions (6.1)  ].  
+
+
+
+ in the seven controlled rheumatoid arthritis clinical studies, 11 solid cancers and one lymphoma were diagnosed in 3328 patients receiving xeljanz with or without dmard, compared to 0 solid cancers and 0 lymphomas in 809 patients in the placebo with or without dmard group during the first 12 months of exposure. lymphomas and solid cancers have also been observed in the long-term extension studies in rheumatoid arthritis patients treated with xeljanz.
+
+
+
+ in phase 2b, controlled dose-ranging trials in de-novo  renal transplant patients, all of whom received induction therapy with basiliximab, high-dose corticosteroids, and mycophenolic acid products, epstein barr virus-associated post-transplant lymphoproliferative disorder was observed in 5 out of 218 patients treated with xeljanz (2.3%) compared to 0 out of 111 patients treated with cyclosporine.
+
+
+
+    non-melanoma skin cancer  
+
+
+
+ non-melanoma skin cancers (nmscs) have been reported in patients treated with xeljanz. periodic skin examination is recommended for patients who are at increased risk for skin cancer.
+
+
+
+    5.3 gastrointestinal perforations
+
+
+
+  events of gastrointestinal perforation have been reported in clinical studies with xeljanz in rheumatoid arthritis patients, although the role of jak inhibition in these events is not known.
+
+
+
+ xeljanz should be used with caution in patients who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis). patients presenting with new onset abdominal symptoms should be evaluated promptly for early identification of gastrointestinal perforation [see  adverse reactions (6.1)  ].  
+
+
+
+    5.4 laboratory abnormalities
+
+
+
+   lymphocyte abnormalities  
+
+
+
+ treatment with xeljanz was associated with initial lymphocytosis at one month of exposure followed by a gradual decrease in mean absolute lymphocyte counts below the baseline of approximately 10% during 12 months of therapy. lymphocyte counts less than 500 cells/mm  3  were associated with an increased incidence of treated and serious infections.
+
+
+
+ avoid initiation of xeljanz treatment in patients with a low lymphocyte count (i.e., less than 500 cells/mm  3  ). in patients who develop a confirmed absolute lymphocyte count less than 500 cells/mm  3  treatment with xeljanz is not recommended.
+
+
+
+ monitor lymphocyte counts at baseline and every 3 months thereafter. for recommended modifications based on lymphocyte counts see  dosage and administration (2.2)    .
+
+
+
+    neutropenia  
+
+
+
+ treatment with xeljanz was associated with an increased incidence of neutropenia (less than 2000 cells/mm  3  ) compared to placebo.
+
+
+
+ avoid initiation of xeljanz treatment in patients with a low neutrophil count (i.e., anc less than 1000 cells/mm  3  ). for patients who develop a persistent anc of 500-1000 cells/mm  3  , interrupt xeljanz dosing until anc is greater than or equal to 1000 cells/mm  3  . in patients who develop an anc less than 500 cells/mm  3  , treatment with xeljanz is not recommended.
+
+
+
+ monitor neutrophil counts at baseline and after 4-8 weeks of treatment and every 3 months thereafter. for recommended modifications based on anc results see  dosage and administration (2.2)    .
+
+
+
+    anemia  
+
+
+
+ avoid initiation of xeljanz treatment in patients with a low hemoglobin level (i.e. less than 9 g/dl). treatment with xeljanz should be interrupted in patients who develop hemoglobin levels less than 8 g/dl or whose hemoglobin level drops greater than 2 g/dl on treatment.
+
+
+
+ monitor hemoglobin at baseline and after 4-8 weeks of treatment and every 3 months thereafter. for recommended modifications based on hemoglobin results see  dosage and administration (2.2)    .
+
+
+
+    liver enzyme elevations  
+
+
+
+ treatment with xeljanz was associated with an increased incidence of liver enzyme elevation compared to placebo. most of these abnormalities occurred in studies with background dmard (primarily methotrexate) therapy.
+
+
+
+ routine monitoring of liver tests and prompt investigation of the causes of liver enzyme elevations is recommended to identify potential cases of drug-induced liver injury. if drug-induced liver injury is suspected, the administration of xeljanz should be interrupted until this diagnosis has been excluded.
+
+
+
+    lipid elevations  
+
+
+
+ treatment with xeljanz was associated with increases in lipid parameters including total cholesterol, low-density lipoprotein (ldl) cholesterol, and high-density lipoprotein (hdl) cholesterol. maximum effects were generally observed within 6 weeks. the effect of these lipid parameter elevations on cardiovascular morbidity and mortality has not been determined.
+
+
+
+ assessment of lipid parameters should be performed approximately 4-8 weeks following initiation of xeljanz therapy.
+
+
+
+ manage patients according to clinical guidelines [e.g., national cholesterol educational program (ncep)] for the management of hyperlipidemia.
+
+
+
+    5.5 vaccinations
+
+
+
+  no data are available on the response to vaccination or on the secondary transmission of infection by live vaccines to patients receiving xeljanz. avoid use of live vaccines concurrently with xeljanz.
+
+
+
+ update immunizations in agreement with current immunization guidelines prior to initiating xeljanz therapy.

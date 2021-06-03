@@ -1,0 +1,346 @@
+    6 adverse reactions
+
+  the following adverse reactions are discussed in greater detail in other sections of the labeling.
+
+
+
+ *    immune-mediated pneumonitis [see  warnings and precautions (5.1)  ]  
+ *    immune-mediated colitis [see  warnings and precautions (5.2)  ]  
+ *    immune-mediated hepatitis [see  warnings and precautions (5.3)  ]  
+ *    immune-mediated nephritis and renal dysfunction [see  warnings and precautions (5.4)  ]  
+ *    immune-mediated hypothyroidism and hyperthyroidism [see  warnings and precautions (5.5)  ]  
+ *    other immune-mediated adverse reactions [see  warnings and precautions (5.6)  ]  
+      excerpt:   most common adverse reaction (>=20%) in patients with melanoma was rash.  (6.1)  
+ 
+
+ most common adverse reactions (>=20%) in patients with advanced squamous non-small cell lung cancer were fatigue, dyspnea, musculoskeletal pain, decreased appetite, cough, nausea, and constipation.  (6.1)  
+
+
+
+   to report suspected adverse reactions, contact    bristol-myers squibb at 1-800-721-5072    or fda at 1-800-fda-1088 or      www.fda.gov/medwatch      .  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ the data described in the warnings and precautions section and below reflect exposure to opdivo in trial 1, a randomized trial in patients with unresectable or metastatic melanoma and in trial 3, a single-arm trial in patients with metastatic squamous non-small cell lung cancer (nsclc).
+
+
+
+ clinically significant adverse reactions were evaluated in a total of 691 patients enrolled in trials 1, 3, or an additional dose finding study (n=306) administering opdivo at doses of 0.1 to 10 mg/kg every 2 weeks  [see  warnings and precautions (5.1  ,  5.6)  ]  .
+
+
+
+   unresectable or metastatic melanoma
+
+  the safety of opdivo was evaluated in trial 1, a randomized, open-label trial in which 370 patients with unresectable or metastatic melanoma received opdivo 3 mg/kg every 2 weeks (n=268) or investigator's choice of chemotherapy (n=102), either dacarbazine 1000 mg/m  2  every 3 weeks or the combination of carboplatin auc 6 every 3 weeks plus paclitaxel 175 mg/m  2  every 3 weeks  [see      clinical studies (14.1)      ]  . the median duration of exposure was 5.3 months (range: 1 day to 13.8+ months) with a median of eight doses (range: 1 to 31) in opdivo-treated patients and was 2 months (range: 1 day to 9.6+ months) in chemotherapy treated patients. in this ongoing trial, 24% of patients received opdivo for greater than 6 months and 3% of patients received opdivo for greater than 1 year.
+
+
+
+ in trial 1, patients had documented disease progression following treatment with ipilimumab and, if braf v600 mutation positive, a braf inhibitor. the trial excluded patients with autoimmune disease, prior ipilimumab-related grade 4 adverse reactions (except for endocrinopathies) or grade 3 ipilimumab-related adverse reactions that had not resolved or were inadequately controlled within 12 weeks of the initiating event, patients with a condition requiring chronic systemic treatment with corticosteroids (>10 mg daily prednisone equivalent) or other immunosuppressive medications, a positive test for hepatitis b or c, and a history of hiv.
+
+
+
+ the study population characteristics in the opdivo group and the chemotherapy group were similar: 66% male, median age 59.5 years, 98% white, baseline ecog performance status 0 (59%) or 1 (41%), 74% with m1c stage disease, 73% with cutaneous melanoma, 11% with mucosal melanoma, 73% received two or more prior therapies for advanced or metastatic disease, and 18% had brain metastasis. there were more patients in the opdivo group with elevated ldh at baseline (51% vs. 38%).
+
+
+
+ opdivo was discontinued for adverse reactions in 9% of patients. twenty-six percent of patients receiving opdivo had a drug delay for an adverse reaction. serious adverse reactions occurred in 41% of patients receiving opdivo. grade 3 and 4 adverse reactions occurred in 42% of patients receiving opdivo. the most frequent grade 3 and 4 adverse reactions reported in 2% to less than 5% of patients receiving opdivo were abdominal pain, hyponatremia, increased aspartate aminotransferase, and increased lipase.
+
+
+
+ table 1 summarizes the adverse reactions that occurred in at least 10% of opdivo-treated patients. the most common adverse reaction (reported in at least 20% of patients) was rash.
+
+
+
+ table 1: selected adverse reactions occurring in >=10% of opdivo-treated patients and at a higher incidence than in the chemotherapy arm (between arm difference of >=5% [all grades] or >=2% [grades 3-4]) (trial 1) 
+                                        opdivo(n=268)      chemotherapy(n=102)     
+   adverse reaction                     allgrades       grades3-4            allgrades       grades3-4         
+                                        percentage (%) of patients     
+  
+   a    rash is a composite term which includes maculopapular rash, rash erythematous, rash pruritic, rash follicular, rash macular, rash papular, rash pustular, rash vesicular, and dermatitis acneiform.  b    upper respiratory tract infection is a composite term which includes rhinitis, pharyngitis, and nasopharyngitis.   
+  
+  skin and subcutaneous tissue disorders                                                                            
+       rasha                           21              0.4                  7               0                  
+       pruritus                        19              0                    3.9             0                  
+  respiratory, thoracic, and mediastinal disorders                                                                            
+       cough                           17              0                    6               0                  
+  infections and infestations                                                                                  
+       upper respiratory tract infectionb    11              0                    2.0             0                  
+  general disorders and administration site conditions                                                                            
+       peripheral edema                10              0                    5               0                  
+           other clinically important adverse reactions in less than 10% of patients treated with opdivo in trial 1 were:
+ 
+
+   cardiac disorders:  ventricular arrhythmia
+
+
+
+   eye disorders:  iridocyclitis
+
+
+
+   general disorders and administration site conditions:  infusion-related reactions
+
+
+
+   investigations:  increased amylase, increased lipase
+
+
+
+   nervous system disorders:  dizziness, peripheral and sensory neuropathy
+
+
+
+   skin and subcutaneous tissue disorders:  exfoliative dermatitis, erythema multiforme, vitiligo, psoriasis.
+
+
+
+ table 2: selected laboratory abnormalities worsening from baseline occurring in >=10% of opdivo-treated patients and at a higher incidence than in the chemotherapy arm (between arm difference of >=5% [all grades] or >=2% [grades 3-4]) (trial 1) 
+   a    each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: opdivo group (range 252 to 256 patients) and chemotherapy group (range 94 to 96 patients).   
+  
+                                   percentage of patients with worsening laboratory test from baselinea    
+  test                             opdivo              chemotherapy       
+  all grades                       grades 3-4          all grades         grades 3-4         
+  increased ast                    28                  2.4                12                 1.0               
+  increased alkaline phosphatase    22                  2.4                13                 1.1               
+  hyponatremia                     25                  5                  18                 1.1               
+  increased alt                    16                  1.6                5                  0                 
+  hyperkalemia                     15                  2.0                6                  0                 
+             metastatic squamous non-small cell lung cancer
+   the safety of opdivo was evaluated in trial 3, a single-arm multinational, multicenter trial in 117 patients with metastatic squamous nsclc and progression on both a prior platinum-based therapy and at least one additional systemic therapy  [see  clinical studies (14.2)  ]  . patients received 3 mg/kg of opdivo administered intravenously over 60 minutes every 2 weeks. the median duration of therapy was 2.3 months (range: 1 day to 16.1+ months). patients received a median of 6 doses (range: 1 to 34).
+
+
+
+ trial 3 excluded patients with active autoimmune disease, symptomatic interstitial lung disease, or untreated brain metastasis. the median age of patients was 65 years (range: 37 to 87) with 50% >=65 years of age and 14% >=75 years of age. the majority of patients were male (73%) and white (85%). all patients received two or more prior systemic treatments. baseline disease characteristics of the population were recurrent stage iiib (6%), stage iv (94%), and brain metastases (1.7%). baseline ecog performance status was 0 (22%) or 1 (78%).
+
+
+
+ opdivo was discontinued due to adverse reactions in 27% of patients. twenty-nine percent of patients receiving opdivo had a drug delay for an adverse reaction. serious adverse reactions occurred in 59% of patients receiving opdivo. the most frequent serious adverse reactions reported in at least 2% of patients were dyspnea, pneumonia, chronic obstructive pulmonary disease exacerbation, pneumonitis, hypercalcemia, pleural effusion, hemoptysis, and pain.
+
+
+
+ table 3 summarizes adverse reactions that occurred in at least 10% of patients. the most common adverse reactions (reported in at least 20% of patients) were fatigue, dyspnea, musculoskeletal pain, decreased appetite, cough, nausea, and constipation.
+
+
+
+ table 3: adverse reactions occurring in >=10% of patients for all nci ctcae* grades or >=5% for grades 3-4 (trial 3) 
+                                                         opdivo(n=117)            
+   adverse reaction                                      all grades                grades3-4               
+                                                         percentage (%) of patients     
+  
+ *  national cancer institute common terminology criteria for adverse events, version 4.0.  a    includes face edema, peripheral edema, local swelling, localized edema, lymphoedema.  b    includes chest discomfort and noncardiac chest pain.  c    includes back pain, bone pain, musculoskeletal chest pain, myalgia, neck pain, pain in extremity, spinal pain.  d    includes arthritis and osteoarthritis.  e    includes abdominal pain lower, abdominal pain upper, gastrointestinal pain.  f    includes maculopapular rash, rash erythematous, erythema, dermatitis, dermatitis exfoliative, and dermatitis acneiform.  g    includes lung infection and pneumonia aspiration.   
+  
+  general disorders and administration site conditions                                                       
+       fatigue                                          50                        7                        
+       asthenia                                         19                        1.7                      
+       edemaa                                           17                        1.7                      
+       pyrexia                                          17                        0                        
+       chest painb                                      13                        0                        
+       pain                                             10                        2.6                      
+  respiratory, thoracic, and mediastinal disorders                                                         
+       dyspnea                                          38                        9                        
+       cough                                            32                        1.7                      
+  musculoskeletal and connective tissue disorders                                                          
+       musculoskeletal painc                            36                        6                        
+       arthralgiad                                      13                        0                        
+  metabolism and nutrition disorders                                                                       
+       decreased appetite                               35                        2.6                      
+  gastrointestinal disorders                                                                               
+       nausea                                           29                        1.7                      
+       constipation                                     24                        0                        
+       vomiting                                         19                        0.9                      
+       diarrhea                                         18                        2.6                      
+       abdominal paine                                  16                        1.7                      
+  skin and subcutaneous tissue disorders                                                                   
+       rashf                                            16                        0.9                      
+       pruritus                                         11                        0.9                      
+  investigations                                                                                           
+       decreased weight                                 13                        0.9                      
+  infections and infestations                                                                              
+       pneumoniag                                       10                        5                        
+         other clinically important adverse reactions in less than 10% of patients in trial 3 were:
+ 
+
+   general disorders and administration site conditions:  stomatitis
+
+
+
+   nervous system disorders:  peripheral neuropathy
+
+
+
+   infections and infestations:  bronchitis, upper respiratory tract infection
+
+
+
+ table 4: laboratory abnormalities worsening from baseline occurring in >=10% of patients for all nci ctcae grades or >=2% for grades 3-4 (trial 3) 
+   a    each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (range 111 to 114 patients).   
+  
+  test                                        percentage of patients with worsening laboratory test from baselinea    
+  all grades                                  grades 3-4                       
+  chemistry                                                                                                  
+       hyponatremia                           38                               10                            
+       increased creatinine                   22                               0                             
+       hypercalcemia                          20                               2.6                           
+       hypokalemia                            20                               2.6                           
+       hypomagnesemia                         20                               0                             
+       hypocalcemia                           18                               1.8                           
+       hyperkalemia                           18                               4.4                           
+       increased ast                          16                               0.9                           
+       increased alkaline phosphatase         14                               0                             
+       increased alt                          12                               0                             
+  hematology                                                                                                 
+       lymphopenia                            47                               16                            
+       anemia                                 28                               2.6                           
+       thrombocytopenia                       14                               0                             
+           6.2 immunogenicity
+   as with all therapeutic proteins, there is a potential for immunogenicity.
+
+
+
+ of 281 patients who were treated with opdivo 3 mg/kg every 2 weeks and evaluable for the presence of anti-product antibodies, 24 patients (8.5%) tested positive for treatment-emergent anti-product antibodies by an electrochemiluminescent (ecl) assay. neutralizing antibodies were detected in two patients (0.7%). there was no evidence of altered pharmacokinetic profile or toxicity profile with anti-product binding antibody development based on the population pharmacokinetic and exposure-response analyses.
+
+
+
+ the detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of incidence of antibodies to opdivo with the incidences of antibodies to other products may be misleading.
+    5 warnings and precautions
+
+
+
+  excerpt:   immune-mediated adverse reactions: administer corticosteroids based on the severity of the reaction.  (5.1  ,  5.2  ,  5.3  ,  5.4  ,  5.6)  
+
+
+
+ *    immune-mediated pneumonitis: withhold for moderate and permanently discontinue for severe or life-threatening pneumonitis.  (5.1)   
+ *    immune-mediated colitis: withhold for moderate or severe and permanently discontinue for life-threatening colitis.  (5.2)   
+ *    immune-mediated hepatitis: monitor for changes in liver function. withhold for moderate and permanently discontinue for severe or life-threatening transaminase or total bilirubin elevation.  (5.3)   
+ *    immune-mediated nephritis and renal dysfunction: monitor for changes in renal function. withhold for moderate or severe and permanently discontinue for life-threatening serum creatinine elevation.  (5.4)   
+ *    immune-mediated hypothyroidism and hyperthyroidism: monitor for changes in thyroid function. initiate thyroid hormone replacement as needed.  (5.5)   
+ *    embryofetal toxicity: can cause fetal harm. advise of potential risk to a fetus and use of effective contraception.  (5.7  ,  8.1  ,  8.3)   
+    
+ 
+
+   5.1 immune-mediated pneumonitis
+
+
+
+  severe pneumonitis or interstitial lung disease, including fatal cases, occurred with opdivo treatment. across the clinical trial experience in 691 patients with solid tumors, fatal immune-mediated pneumonitis occurred in 0.7% (5/691) of patients receiving opdivo. no cases of fatal pneumonitis occurred in trial 1 or trial 3; all five fatal cases occurred in a dose-finding study with opdivo doses of 1 mg/kg (two patients), 3 mg/kg (two patients), and 10 mg/kg (one patient).
+
+
+
+ in trial 1, pneumonitis, including interstitial lung disease, occurred in 3.4% (9/268) of patients receiving opdivo and none of the 102 patients receiving chemotherapy. immune-mediated pneumonitis, defined as requiring use of corticosteroids and no clear alternate etiology, occurred in 2.2% (6/268) of patients receiving opdivo: one with grade 3 and five with grade 2 pneumonitis. the median time to onset for the six cases was 2.2 months (range: 25 days to 3.5 months). in two patients, pneumonitis was diagnosed after discontinuation of opdivo for other reasons, and grade 2 pneumonitis led to interruption or permanent discontinuation of opdivo in the remaining four patients. all six patients received high-dose corticosteroids (at least 40 mg prednisone equivalents per day); immune-mediated pneumonitis improved to grade 0 or 1 with corticosteroids in all six patients. there were two patients with grade 2 pneumonitis that completely resolved (defined as complete resolution of symptoms with completion of corticosteroids) and opdivo was restarted without recurrence of pneumonitis.
+
+
+
+  in trial 3, pneumonitis occurred in 6% (7/117) of patients receiving opdivo, including five grade 3 and two grade 2 cases, all immune-mediated. the median time to onset was 3.3 months (range: 1.4 to 13.5 months). all seven patients discontinued opdivo for pneumonitis or another event and all seven patients experienced complete resolution of pneumonitis following receipt of high-dose corticosteroids (at least 40 mg prednisone equivalents per day).  
+
+
+
+ monitor patients for signs and symptoms of pneumonitis. administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents for grade 2 or greater pneumonitis, followed by corticosteroid taper. permanently discontinue opdivo for severe (grade 3) or life-threatening (grade 4) pneumonitis and withhold opdivo until resolution for moderate (grade 2) pneumonitis [see  dosage and administration (2.2)  ]  .
+
+
+
+    5.2 immune-mediated colitis
+
+
+
+  in trial 1, diarrhea or colitis occurred in 21% (57/268) of patients receiving opdivo and 18% (18/102) of patients receiving chemotherapy. immune-mediated colitis, defined as requiring use of corticosteroids with no clear alternate etiology, occurred in 2.2% (6/268) of patients receiving opdivo: five patients with grade 3 and one patient with grade 2 colitis. the median time to onset of immune-mediated colitis from initiation of opdivo was 2.5 months (range: 1 to 6 months). in three patients, colitis was diagnosed after discontinuation of opdivo for other reasons, and grade 2 or 3 colitis led to interruption or permanent discontinuation of opdivo in the remaining three patients. five of these six patients received high-dose corticosteroids (at least 40 mg prednisone equivalents) for a median duration of 1.4 months (range: 3 days to 2.4 months) preceding corticosteroid taper. the sixth patient continued on low-dose corticosteroids started for another immune-mediated adverse reaction. immune-mediated colitis improved to grade 0 with corticosteroids in five patients, including one patient with grade 3 colitis retreated after complete resolution (defined as improved to grade 0 with completion of corticosteroids) without additional events of colitis. grade 2 colitis was ongoing in one patient.
+
+
+
+  in trial 3, diarrhea occurred in 21% (24/117) of patients. immune-mediated colitis (grade 3) occurred in 0.9% (1/117) of patients. the time to onset in this patient was 6.7 months. the patient received high-dose corticosteroids and was permanently discontinued from opdivo. complete resolution occurred.  
+
+
+
+ monitor patients for immune-mediated colitis. administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents followed by corticosteroid taper for severe (grade 3) or life-threatening (grade 4) colitis. administer corticosteroids at a dose of 0.5 to 1 mg/kg/day prednisone equivalents followed by corticosteroid taper for moderate (grade 2) colitis of more than 5 days duration; if worsening or no improvement occurs despite initiation of corticosteroids, increase dose to 1 to 2 mg/kg/day prednisone equivalents. withhold opdivo for grade 2 or 3 immune-mediated colitis. permanently discontinue opdivo for grade 4 colitis or for recurrent colitis upon restarting opdivo [see  dosage and administration (2.2)  ]  .
+
+
+
+    5.3 immune-mediated hepatitis
+
+
+
+  in trial 1, there was an increased incidence of liver test abnormalities in the opdivo-treated group as compared to the chemotherapy-treated group, with increases in ast (28% vs. 12%), alkaline phosphatase (22% vs. 13%), alt (16% vs. 5%), and total bilirubin (9% vs. 0). immune-mediated hepatitis, defined as requirement for corticosteroids and no clear alternate etiology, occurred in 1.1% (3/268) of patients receiving opdivo: two patients with grade 3 and one patient with grade 2 hepatitis. the time to onset was 97, 113, and 86 days after initiation of opdivo. in one patient, hepatitis was diagnosed after discontinuation of opdivo for other reasons. in two patients, opdivo was withheld. all three patients received high-dose corticosteroids (at least 40 mg prednisone equivalents). liver tests improved to grade 1 within 4 to 15 days of initiation of corticosteroids. immune-mediated hepatitis resolved and did not recur with continuation of corticosteroids in two patients; the third patient died of disease progression with persistent hepatitis. the two patients with grade 3 hepatitis that resolved restarted opdivo and, in one patient, grade 3 immune-mediated hepatitis recurred resulting in permanent discontinuation of opdivo.
+
+
+
+  in trial 3, the incidences of increased liver test values were ast (16%), alkaline phosphatase (14%), alt (12%), and total bilirubin (2.7%). no cases of immune-mediated hepatitis occurred in this trial.  
+
+
+
+ monitor patients for abnormal liver tests prior to and periodically during treatment. administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents for grade 2 or greater transaminase elevations, with or without concomitant elevation in total bilirubin. withhold opdivo for moderate (grade 2) and permanently discontinue opdivo for severe (grade 3) or life-threatening (grade 4) immune-mediated hepatitis [see  dosage and administration (2.2)  and  adverse reactions (6.1)  ]  .
+
+
+
+    5.4 immune-mediated nephritis and renal dysfunction
+
+
+
+  in trial 1, there was an increased incidence of elevated creatinine in the opdivo-treated group as compared to the chemotherapy-treated group (13% vs. 9%). grade 2 or 3 immune-mediated nephritis or renal dysfunction (defined as >= grade 2 increased creatinine, requirement for corticosteroids, and no clear alternate etiology) occurred in 0.7% (2/268) of patients at 3.5 and 6 months after opdivo initiation, respectively. opdivo was permanently discontinued in both patients; both received high-dose corticosteroids (at least 40 mg prednisone equivalents). immune-mediated nephritis resolved and did not recur with continuation of corticosteroids in one patient. renal dysfunction was ongoing in one patient.
+
+
+
+  in trial 3, the incidence of elevated creatinine was 22%. immune-mediated renal dysfunction (grade 2) occurred in 0.9% (1/117) of patients. the time to onset in this patient was 0.8 months. the patient received high-dose corticosteroids. opdivo was withheld, and the patient discontinued due to disease progression prior to receiving additional opdivo. immune-mediated renal dysfunction was ongoing.  
+
+
+
+ monitor patients for elevated serum creatinine prior to and periodically during treatment. administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents followed by corticosteroid taper for life-threatening (grade 4) serum creatinine elevation and permanently discontinue opdivo. for severe (grade 3) or moderate (grade 2) serum creatinine elevation, withhold opdivo and administer corticosteroids at a dose of 0.5 to 1 mg/kg/day prednisone equivalents followed by corticosteroid taper; if worsening or no improvement occurs, increase dose of corticosteroids to 1 to 2 mg/kg/day prednisone equivalents and permanently discontinue opdivo [see  dosage and administration (2.2)  and  adverse reactions (6.1)  ].  
+
+
+
+    5.5 immune-mediated hypothyroidism and hyperthyroidism
+
+
+
+  in trial 1, where patients were evaluated at baseline and during the trial for thyroid function, grade 1 or 2 hypothyroidism occurred in 8% (21/268) of patients receiving opdivo and none of the 102 patients receiving chemotherapy. the median time to onset was 2.5 months (range: 24 days to 11.7 months). seventeen of the 21 patients with hypothyroidism received levothyroxine. fifteen of 17 patients received subsequent opdivo dosing while continuing to receive levothyroxine.
+
+
+
+ grade 1 or 2 hyperthyroidism occurred in 3% (8/268) of patients receiving opdivo and 1% (1/102) of patients receiving chemotherapy. the median time to onset in opdivo-treated patients was 1.6 months (range: 0 to 3.3 months). four of five patients with grade 1 hyperthyroidism and two of three patients with grade 2 hyperthyroidism had documented resolution of hyperthyroidism; all three patients received medical management for grade 2 hyperthyroidism.
+
+
+
+  in trial 3, patients were evaluated for thyroid function at baseline, first day of treatment, and every 6 weeks. hypothyroidism occurred in 4.3% (5/117) of patients. the median time to onset for these five cases was 4.1 months (range: 1.4 to 4.6 months). all five patients with hypothyroidism received levothyroxine. complete resolution of hypothyroidism occurred in one patient allowing discontinuation of levothyroxine. interruption of opdivo did not occur in these five patients.  
+
+
+
+  hyperthyroidism occurred in 1.7% (2/117) of patients. one patient experienced grade 2 hyperthyroidism 5.2 months after the first dose of opdivo, requiring treatment with high-dose corticosteroids and methimazole. thyroid laboratory tests returned to normal 4.7 months later.  
+
+
+
+ monitor thyroid function prior to and periodically during treatment. administer hormone replacement therapy for hypothyroidism. initiate medical management for control of hyperthyroidism. there are no recommended dose adjustments of opdivo for hypothyroidism or hyperthyroidism.
+
+
+
+    5.6 other immune-mediated adverse reactions
+
+
+
+  other clinically significant immune-mediated adverse reactions can occur. immune-mediated adverse reactions may occur after discontinuation of opdivo therapy.
+
+
+
+ the following clinically significant, immune-mediated adverse reactions occurred in less than 2% of opdivo-treated patients in trials 1 and 3 (n=385): adrenal insufficiency, uveitis, pancreatitis, facial and abducens nerve paresis, demyelination, autoimmune neuropathy, motor dysfunction, and vasculitis.  
+
+
+
+ across clinical trials of opdivo administered at doses of 3 mg/kg and 10 mg/kg the following additional clinically significant, immune-mediated adverse reactions were identified: hypophysitis, diabetic ketoacidosis, hypopituitarism, guillain-barre syndrome, and myasthenic syndrome.
+
+
+
+ for any suspected immune-mediated adverse reactions, exclude other causes. based on the severity of the adverse reaction, withhold opdivo, administer high-dose corticosteroids, and if appropriate, initiate hormone-replacement therapy. upon improvement to grade 1 or less, initiate corticosteroid taper and continue to taper over at least 1 month. consider restarting opdivo after completion of corticosteroid taper based on the severity of the event [see  dosage and administration (2.2)  ]  .
+
+
+
+    5.7 embryofetal toxicity
+
+
+
+  based on its mechanism of action and data from animal studies, opdivo can cause fetal harm when administered to a pregnant woman. in animal reproduction studies, administration of nivolumab to cynomolgus monkeys from the onset of organogenesis through delivery resulted in increased abortion and premature infant death. advise pregnant women of the potential risk to a fetus. advise females of reproductive potential to use effective contraception during treatment with opdivo and for at least 5 months after the last dose of opdivo [see  use in specific populations (8.1  ,  8.3)  ]  .

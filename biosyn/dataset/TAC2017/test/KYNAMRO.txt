@@ -1,0 +1,273 @@
+    6 adverse reactions
+
+  the following important adverse reactions have been observed and are discussed in detail in other sections of the label: 
+
+
+
+ *  risk of hepatotoxicity [see  warnings and precautions (  5.1  )  ] 
+      excerpt:   the most commonly reported adverse reactions (incidence >= 10% and greater than placebo) are injection site reactions, flu-like symptoms, nausea, headache and elevations in serum transaminases, specifically alt (  5.4  ,  6  )
+ 
+
+  
+
+
+
+     to report suspected adverse reactions, contact genzyme corporation at 1-800-745-4447 or fda at 1-800-fda-1088 or www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 clinical trials
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trial of another drug and may not reflect the rates observed in patients in clinical practice.
+
+
+
+ safety data are based on pooled results from four phase 3, randomized, double-blind, placebo-controlled trials with a total of 390 patients of which 261 patients received weekly subcutaneous injections of 200 mg of kynamro and 129 patients received placebo for a median treatment duration of 25 weeks (age range 12-81 years, 47% women, 84% caucasian, 10% blacks, 3% asian, 3% other).  for the 141 participants who subsequently were treated in the open-label extension trial, the mean length of study treatment, including exposure to kynamro in the index study, was 19.8 months and the median was 18.2 months. a total of 41 individuals with hofh were exposed to kynamro for at least 6 months and 25 were exposed for at least 12 months.
+
+
+
+ eighteen percent of patients on kynamro and 2% of patients on placebo discontinued treatment due to adverse reactions. the five most common adverse reactions in patients treated with kynamro that led to treatment discontinuation and occurred at a rate greater than placebo were: injection site reactions (5.0%), alanine aminotransferase increased (3.4%), flu-like symptoms (2.7%), aspartate aminotransferase increased (2.3%), and liver function test abnormal (1.5%).
+
+
+
+     common adverse reactions    
+
+
+
+   table 2  enumerates adverse reactions that occurred among pooled phase 3 patients treated with kynamro at an incidence that was at least 2% more than that observed in the placebo-treated patients, listed by system organ class and frequency (meddra v.13.0).  similar types and severities of adverse reactions were observed across all populations in this pooled table including the subset of patients with hofh.
+
+
+
+ table 2: summary of adverse reactions for pooled phase 3 placebo-controlled trials 
+    system organ class         preferred term           treatment group       
+  kynamro  (%)     (n=261)        placebo  (%)     (n=129)        
+       total patients with events            95%               85%          
+       cardiac disorders           9%                6%           
+       angina pectoris   4%                2%               
+      palpitations   3%                0%               
+       gastrointestinal disorders           30%               29%          
+      nausea      14%               8%               
+      vomiting    4%               2%                
+      abdominal pain  3%               1%                
+       general disorders and administration site conditions          87%              47%           
+      injection site reactions       84%              33%               
+      fatigue     15%              8%                
+      influenza like illness  13%              3%                
+      pyrexia     8%               3%                
+      chills      6%               1%                
+      edema peripheral  5%               2%                
+       hepatobiliary disorders          9%               5%            
+      hepatic steatosis  7%               2%                
+       investigations          30%              15%           
+      alanine aminotransferase increased  10%              1%                
+      aspartate aminotransferase increased  6%               2%                
+      liver function test abnormal  5%               1%                
+      hepatic enzyme increased  3%               1%                
+       musculoskeletal and connective tissue disorders          26%              26%           
+      pain in extremity  7%               3%                
+      musculoskeletal pain  4%               2%                
+       nervous system disorders          25%              17%           
+      headache    12%              9%                
+       psychiatric disorders          10%              3%            
+      insomnia    3%               1%                
+       vascular disorders          11%              5%            
+      hypertension  7%               3%                
+      in the pooled phase 3 trials, neoplasms (benign and malignant) were reported in 4% of patients receiving kynamro and 0% of patients receiving placebo. in addition, 9% of patients receiving kynamro and 3% of patients receiving placebo developed 1+ or greater proteinuria by dipstick measurement by the end of the trial.
+ 
+
+ in the open-label extension trial, one case of hypersensitivity reaction with angioedema and one case of glomerular nephritis were reported.
+
+
+
+   platelets  
+
+
+
+ in the phase 3 trial in patients with hofh, the mean change in platelet count from baseline to week 28/early termination was -30.6 * 10  3  /ul in the mipomersen group and +8.1 * 10  3  /ul in the placebo group. in the pooled phase 3 trials the mean change in platelet count from baseline to week 28/early termination was -23.8 * 10  3  /ul in the mipomersen group and -3.5 * 10  3  /ul in the placebo group.
+
+
+
+     transaminase elevations    
+
+
+
+ in the pooled, placebo-controlled clinical trials with kynamro, elevated serum transaminase levels, mainly alt, have been observed as presented in  table 3  .  elevated alt levels >= 3x uln have been reported on two consecutive occasions at least 7 days apart in 8.4% of patients receiving kynamro therapy (versus 0% of placebo patients) with 16.5% of patients receiving kynamro therapy having at least 1 result that was >= 3x uln (versus 0.8% for placebo patients).  the alt elevations observed in the pooled, placebo-controlled trials were generally accompanied by lesser ast elevations and were not associated with increased total bilirubin, changes in inr or ptt, nor by decreased albumin levels.  after stopping therapy, in the patients in whom an elevation was observed, transaminase elevations trended toward baseline over a period of weeks to months.
+
+
+
+ table 3: transaminase results for pooled phase 3 placebo-controlled trials 
+     parameter                  statistic                  kynamro        (%)        (n=261)          placebo        (%)        (n=129)       
+   alt maximum                incidence rate, %         
+   >= 3 * uln and < 5 * uln    12%                        1%                         
+   >= 5 * uln and < 10 * uln    3%                         0%                         
+   >= 10 x uln               1%                         0%                         
+   alt                        >= 3 * uln, two consecutive results (at least 7 days apart), %    8%                         0%                         
+   ast maximum                incidence rate, %         
+   >= 3 * uln and < 5 * uln    7%                         1%                         
+   >= 5 * uln and < 10 * uln    3%                         0%                         
+   >= 10 x uln               0%                         0%                         
+   ast                        >= 3 * uln, two consecutive results (at least 7 days apart), %    4%                         0%                         
+             adults:  alt uln= 41 u/l; ast uln =  34 u/l
+ 
+
+     hepatic steatosis    
+
+
+
+ increases in liver fat as measured by mri were greater in patients receiving kynamro therapy than in patients receiving placebo.  data from phase 3 supportive trials in patients with heterozygous familial hypercholesterolemia and coronary artery disease and in patients with high risk hypercholesterolemia demonstrated after 26 weeks of treatment, a median nominal increase in fat fraction of 9.6% relative to baseline following kynamro therapy versus a nominal 0.02% change in the placebo group (mean increases were 12.2% mipomersen vs 0.4% placebo).  the maximum change in fat fraction was 46% for the kynamro group and 28% for the placebo group. sixty-two percent of patients receiving kynamro developed a 5% or greater increase in hepatic fat versus 8% of patients receiving placebo. in general, these elevations in fat fraction decreased when assessed by mri performed 24 weeks after cessation of kynamro in the phase 3 trial of patients with high-risk hypercholesterolemia. in the open-label extension trial, among individuals with a measurement at baseline and at 12 months or longer on kynamro, 25% had an average liver fat fraction > 20% on at least one occasion.  
+
+
+
+     injection site reactions    
+
+
+
+ the most commonly-reported adverse reactions were injection site reactions occurring in 84% of patients receiving kynamro versus 33% of placebo treated patients.  the most common injection site reactions were erythema (59%), pain (56%), hematoma (32%), pruritus (29%), swelling (18%) and discoloration (17%).  injection site reactions did not occur with every injection.  injection site reactions resulted in discontinuation of kynamro in 5% of patients. recall reactions, consisting of local erythema, tenderness and/or pruritus at previous injection sites when subsequent injections were administered, were observed in 8% of patients, all of whom were receiving kynamro.  
+
+
+
+     flu-like symptoms    
+
+
+
+ flu-like symptoms, defined as any one of the following: influenza-like illness, pyrexia, chills, myalgia, arthralgia, malaise or fatigue and occurring within 2 days of injection, have been reported more frequently in patients receiving kynamro (29.9%) versus placebo (16.3%) in the pooled phase 3 studies. flu-like symptoms did not occur with all injections.  flu-like symptoms resulted in discontinuation of kynamro in 2.7% of patients. in the open-label extension trial, in which all patients received kynamro therapy, 66% reported flu-like symptoms, 25% discontinued treatment due to flu-like symptoms and 9% experienced severe flu-like symptoms.
+
+
+
+     immunogenicity    
+
+
+
+ in the pooled phase 3 trials, 38% of kynamro-treated patients tested positive for anti-kynamro antibodies during the 6-month trials. efficacy results in the phase 3 trials in patients who tested positive for anti-kynamro antibodies were similar to patients who remained negative for antibodies (mean ldl-c percent change from baseline was -32% for antibody-positive and -34% for antibody-negative participants).  in the open-label extension trial, approximately 72% of patients receiving kynamro therapy tested positive for anti-kynamro antibodies (35% with titers >3200). the incidence of flu-like symptoms and the incidence of discontinuation of kynamro were higher in antibody-positive patients.  antibodies to kynamro were associated with higher trough levels for the drug. the detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of the incidence of antibodies to kynamro with the incidence of antibodies to other products may be misleading.
+
+
+
+   6.2 postmarketing experience
+
+  the following adverse reactions have been identified during post-approval use of kynamro. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ *  idiopathic thrombocytopenic purpura 
+
+
+    boxed warning: warning: risk of hepatotoxicity
+
+  warning: risk of hepatotoxicity
+
+      kynamro can cause elevations in transaminases. in the kynamro clinical trial in patients with hofh, 4 (12%) of the 34 patients treated with kynamro compared with 0% of the 17 patients treated with placebo had at least one elevation in alanine aminotransferase (alt) >= 3x upper limit of normal (uln). there were no concomitant clinically meaningful elevations of total bilirubin, international normalized ratio (inr) or partial thromboplastin time (ptt) [see   warnings and precautions (  5.1  )  ].     
+
+
+
+     kynamro also increases hepatic fat, with or without concomitant increases in transaminases. in the trials in patients with heterozygous familial hypercholesterolemia (hefh) and hyperlipidemia, the median absolute increase in hepatic fat was 10% after 26 weeks of treatment, from 0% at baseline, measured by magnetic resonance imaging (mri).  hepatic steatosis is a risk factor for advanced liver disease; including steatohepatitis and cirrhosis [see   warnings and precautions (  5.1  )  ].      
+
+
+
+     measure alt, ast, alkaline phosphatase, and total bilirubin before initiating treatment and then alt, ast regularly as recommended. during treatment, withhold the dose of kynamro if the alt or ast are >= 3x uln. discontinue kynamro for clinically significant liver toxicity [see   dosage and administration (  2.3  ) and warnings and precautions (  5.1  )  ].     
+
+
+
+     because of the risk of hepatotoxicity, kynamro is available only through a restricted program under a risk evaluation and mitigation strategy (rems) called the kynamro rems [see   warnings and precautions (  5.2  )  ]  .        
+
+
+
+   excerpt:       warning: risk of hepatotoxicity    
+
+
+
+     see full prescribing information for complete boxed warning.    
+
+
+
+     kynamro can cause elevations in transaminases (  5.1  ).    
+
+
+
+ *  measure alanine aminotransferase (alt), aspartate aminotransferase (ast), alkaline phosphatase, and total bilirubin before initiating treatment and then alt and ast regularly as recommended (2.3, 5.1). 
+ *  during treatment, withhold the dose of kynamro if the alt or ast is >= 3 times the upper limit of normal (uln) (2.3, 5.1). 
+ *  discontinue kynamro for clinically significant liver toxicity (2.3, 5.1). 
+        kynamro increases hepatic fat (hepatic steatosis) with or without concomitant increases in transaminases (  5.1  ).    
+ 
+
+ *  hepatic steatosis associated with kynamro may be a risk factor for progressive liver disease, including steatohepatitis and cirrhosis (5.1). 
+        because of the risk of hepatotoxicity, kynamro is available only through a restricted program called the kynamro rems (  5.2  ).    
+    5 warnings and precautions
+
+
+
+   excerpt:    *  injection site reactions occur in 84% of patients and typically consist of one or more of the following: erythema, pain, tenderness, pruritus and local swelling (  5.3  ) 
+ *  flu-like symptoms, which typically occur within 2 days after an injection, occur in 30% of patients and include one or more of the following: influenza-like illness, pyrexia, chills, myalgia, arthralgia, malaise or fatigue (  5.4  ) 
+    
+ 
+
+   5.1 risk of hepatotoxicity
+
+
+
+  kynamro can cause elevations in transaminases and hepatic steatosis, as described below. to what extent kynamro-associated hepatic steatosis promotes the elevations in transaminases is unknown. there is concern that kynamro could induce steatohepatitis, which can progress to cirrhosis over several years. the clinical studies supporting the safety and efficacy of kynamro in hofh would have been unlikely to detect this adverse outcome given their size and duration [see  clinical studies (  14  )    ].
+
+
+
+  
+
+
+
+   elevation of transaminases    
+
+
+
+ kynamro can cause increases in serum transaminases (alanine aminotransferase [alt] and/or aspartate aminotransferase [ast]).  in the clinical trial, 4 (12%) of the 34 subjects with hofh treated with kynamro compared to 0% of the 17 subjects treated with placebo had an elevation in alt >= 3x uln, and 3 (9%) of those treated with kynamro compared to 0% treated with placebo had at least one elevation in alt >= 5x uln.
+
+
+
+ measure a full liver panel to include alt, ast, total bilirubin, and alkaline phosphatase before initiation of treatment with kynamro [see  dosage and administration (  2.1  )    ]. kynamro is contraindicated in patients with moderate or severe hepatic impairment, or active liver disease, including unexplained persistent elevations of serum transaminases. if the baseline liver-related tests are abnormal, consider initiating kynamro after an appropriate work-up and the baseline abnormalities are explained or resolved. during the first year, conduct liver-related tests monthly (alt and ast, at a minimum). after the first year, conduct these tests at least every 3 months. discontinue kynamro for persistent or clinically significant elevations [see  dosage and administration (  2.3  )    ].
+
+
+
+ if transaminase elevations are accompanied by clinical symptoms of liver injury (e.g., nausea, vomiting, abdominal pain, fever, jaundice, lethargy, flu-like symptoms), increases in bilirubin >= 2x uln, or active liver disease, discontinue treatment with kynamro and identify the probable cause.
+
+
+
+   hepatic steatosis    
+
+
+
+ kynamro increases hepatic fat (steatosis) with or without concomitant increases in transaminases [see  adverse reactions    (  6.1  )]. hepatic steatosis is a risk factor for advanced liver disease, including steatohepatitis and cirrhosis. the long-term consequences of hepatic steatosis associated with kynamro therapy are unknown. during the clinical trials in patients with heterozygous familial hypercholesterolemia (hefh) and hyperlipidemia, the median absolute increase in hepatic fat was 10% after 26 weeks of treatment, from 0% at baseline, measured by magnetic resonance imaging (mri). 
+
+
+
+ alcohol may increase levels of hepatic fat and induce or exacerbate liver injury. it is recommended that patients taking kynamro should consume no more than one alcoholic drink per day.
+
+
+
+ caution should be exercised when kynamro is used with other medications known to have potential for hepatotoxicity, for example isotretinoin, amiodarone, acetaminophen (>4 g/day for >= 3 days/week), methotrexate, tetracyclines, and tamoxifen. the effect of concomitant administration of kynamro with other hepatotoxic medications is unknown. more frequent monitoring of liver-related tests may be warranted.
+
+
+
+ mipomersen has not been studied concomitantly with other ldl-lowering agents that can also increase hepatic fat. therefore, the combined use of such agents is not recommended.
+
+
+
+    5.2 kynamro rems
+
+
+
+  because of the risk of hepatotoxicity, kynamro is available only through a limited program under the rems. under the kynamro rems, only certified healthcare providers and pharmacies may prescribe and distribute kynamro. further information is available at  www.kynamrorems.com    or by telephone at 1-877-kynamro (1-877-596-2676).
+
+
+
+    5.3 injection site reactions
+
+
+
+  injection site reactions have been reported in 84% of patients receiving kynamro therapy.  these local reactions typically consist of one or more of the following: erythema, pain, tenderness, pruritus and local swelling. injection site reactions do not occur with all injections but resulted in discontinuation of therapy in 5% of patients in pooled phase 3 trials.  [see  adverse reactions (  6.1  )    ]  to minimize the potential for injection site reactions, proper technique for subcutaneous administration should be followed.  [see  patient counseling information (  17  )    ]
+
+
+
+    5.4 flu-like symptoms
+
+
+
+  flu-like symptoms have been reported in 30% of patients receiving kynamro therapy and include one or more of the following: influenza-like illness, pyrexia, chills, myalgia, arthralgia, malaise or fatigue. flu-like symptoms, which typically occur within 2 days after an injection, do not occur with all injections but resulted in discontinuation of therapy in 3% of patients in pooled phase 3 trials. [see  adverse reactions (  6.1  )    ]

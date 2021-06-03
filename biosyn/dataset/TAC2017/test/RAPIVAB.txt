@@ -1,0 +1,90 @@
+    6 adverse reactions
+
+  the following adverse reactions are discussed in other sections of the labeling:
+
+
+
+ *  serious skin and hypersensitivity reactions [see  warnings and precautions (5.1)  ]  
+ *  neuropsychiatric events [ see  warnings and precautions (5.2)   ] 
+      excerpt:   most common adverse reaction (incidence >2%) is diarrhea (  6  )
+ 
+
+   to report suspected adverse reactions, contact biocryst pharmaceuticals, inc. at 1-844-273-2327 or fda at 1-800-fda-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ in five randomized, double-blind, controlled trials, 1,399 subjects with acute uncomplicated influenza received a single dose of rapivab, administered intravenously or intramuscularly, at doses up to 600 mg. among the 664 subjects receiving rapivab 600 mg (intravenous or intramuscular), the most commonly observed adverse reaction was diarrhea, occurring at a rate of 8% versus 7% in subjects receiving placebo. no subject receiving rapivab 600 mg experienced a serious adverse event and less than 1% discontinued study because of an adverse reaction.
+
+
+
+ clinically significant laboratory abnormalities (daids grade 2-4) listed in table 2 occurred more frequently in subjects treated with rapivab 600 mg (intravenous or intramuscular) than placebo. only events occurring at >=2% are included.
+
+
+
+ table 2: laboratory abnormalities occurring in >=2% of subjects treated with rapivab 600 mg 
+ laboratory parameter abnormality                            rapivab 600 mg                placebo          
+  
+   alanine aminotransferase (> 2.5 * uln)                      (n=654)3%                  (n=430)2%         
+   serum glucose (> 160 mg/dl)                                 (n=660)5%                  (n=433)3%         
+   creatine phosphokinase (>= 6.0 * uln)                       (n=654)4%                  (n=431)2%         
+   neutrophils (< 1.000 *10  9  /l)                            (n=654)8%                  (n=430)6%         
+         in a subset of subjects with serious influenza requiring hospitalization treated with rapivab 600 mg as monotherapy (n=101) the following adverse reactions were also reported more frequently with rapivab as compared to placebo: constipation (4% versus 2%), insomnia (3% versus 0%), ast increased (3% versus 2%), and hypertension (2% versus 0%).
+ 
+
+   6.2 postmarketing experience
+
+  the following additional adverse reactions have been identified during postapproval use of rapivab in japan. because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ dermatologic: stevens-johnson syndrome, exfoliative dermatitis, rash  [see  warnings and precautions (5.1)  ]  
+
+
+
+ psychiatric: abnormal behavior, hallucination  [see  warnings and precautions (5.2)  ]  
+    5 warnings and precautions
+
+
+
+   excerpt:    *  serious skin/hypersensitivity reactions such as stevens-johnson syndrome and erythema multiforme have occurred with rapivab. (  5.1  ) 
+ *  neuropsychiatric events: patients with influenza may be at an increased risk of hallucinations, delirium and abnormal behavior early in their illness. monitor for signs of abnormal behavior. (  5.2  ) 
+    
+ 
+
+   5.1 serious skin/hypersensitivity reactions
+
+
+
+  rare cases of serious skin reactions, including erythema multiforme, have been reported with rapivab in clinical studies and in postmarketing experience; stevens-johnson syndrome has been reported with rapivab in postmarketing experience. appropriate treatment should be instituted if a serious skin reaction occurs or is suspected.
+
+
+
+    5.2 neuropsychiatric events
+
+
+
+  influenza can be associated with a variety of neurologic and behavioral symptoms that can include events such as hallucinations, delirium, and abnormal behavior, in some cases resulting in fatal outcomes. these events may occur in the setting of encephalitis or encephalopathy but can occur in uncomplicated influenza as well.
+
+
+
+ there have been postmarketing reports (from japan) of delirium and abnormal behavior leading to injury in patients with influenza who were receiving neuraminidase inhibitors, including rapivab. because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made, but they appear to be uncommon. these events were reported primarily among pediatric patients and often had an abrupt onset and rapid resolution. the contribution of rapivab to these events has not been established. patients with influenza should be closely monitored for signs of abnormal behavior.
+
+
+
+    5.3 risk of bacterial infections
+
+
+
+  there is no evidence for efficacy of rapivab in any illness caused by agents other than influenza viruses. serious bacterial infections may begin with influenza-like symptoms or may coexist with or occur as complications during the course of influenza. rapivab has not been shown to prevent such complications.
+
+
+
+ prescribers should be alert to the potential for secondary bacterial infections and treat with antibiotics as appropriate.

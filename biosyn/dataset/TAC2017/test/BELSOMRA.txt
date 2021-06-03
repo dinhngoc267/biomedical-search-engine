@@ -1,0 +1,179 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are discussed in greater detail in other sections:
+
+
+
+ *  cns depressant effects and daytime impairment [see  warnings and precautions (5.1)  ]  
+ *  abnormal thinking and behavioral changes [see  warnings and precautions (5.3)  ]  
+ *  worsening of depression/suicidal ideation [see  warnings and precautions (5.4)  ]  
+ *  sleep paralysis, hypnagogic/hypnopompic hallucinations, cataplexy-like symptoms [see  warnings and precautions (5.6)  ]  
+      excerpt:   the most common adverse reaction (reported in 5% or more of patients treated with belsomra and at least twice the placebo rate) with belsomra was somnolence (  6.1  ).
+ 
+
+   to report suspected adverse reactions, contact merck sharp & dohme corp., a subsidiary of merck & co., inc., at 1-877-888-4231 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ in 3-month controlled efficacy trials (study 1 and study 2), 1263 patients were exposed to belsomra including 493 patients who received belsomra 15 mg or 20 mg (see  table 1  ).
+
+
+
+ in a long-term study, additional patients (n=521) were treated with belsomra at higher than recommended doses, including a total of 160 patients who received belsomra for at least one year.
+
+
+
+ table 1: patient exposure to belsomra 15 mg or 20 mg in study 1 and study 2 
+ patients treated                              belsomra15 mg                      belsomra20 mg             
+  
+ for >= 1 day (n)                                   202                                291                  
+   men (n)                                          69                                 105                  
+   women (n)                                        133                                186                  
+   mean age (years)                                 70                                 45                   
+ for >= 3 months (n)                                118                                172                  
+         the pooled safety data described below (see  table 2  ) reflect the adverse reaction profile during the first 3 months of treatment.
+ 
+
+     adverse reactions resulting in discontinuation of treatment  
+
+
+
+ the incidence of discontinuation due to adverse reactions for patients treated with 15 mg or 20 mg of belsomra was 3% compared to 5% for placebo. no individual adverse reaction led to discontinuation at an incidence >=1%.
+
+
+
+     most common adverse reactions  
+
+
+
+ in clinical trials of patients with insomnia treated with belsomra 15 mg or 20 mg, the most common adverse reaction (reported in 5% or more of patients treated with belsomra and at least twice the placebo rate) was somnolence (belsomra 7%; placebo 3%).
+
+
+
+ table 2 shows the percentage of patients with adverse reactions during the first three months of treatment, based on the pooled data from 3-month controlled efficacy trials (study 1 and study 2).
+
+
+
+ at doses of 15 or 20 mg, the incidence of somnolence was higher in females (8%) than in males (3%). of the adverse reactions reported in table 2, the following occurred in women at an incidence of at least twice that in men: headache, abnormal dreams, dry mouth, cough, and upper respiratory tract infection.
+
+
+
+ the adverse reaction profile in elderly patients was generally consistent with non-elderly patients. the adverse reactions reported during long-term treatment up to 1 year were generally consistent with those observed during the first 3 months of treatment.
+
+
+
+ table 2: percentage of patients with adverse reactions incidence >=2% and greater than placebo in 3-month controlled efficacy trials (study 1 and study 2) 
+                                                  placebo               belsomra(20 mg in non-elderly or 15 mg in elderly patients)   
+                                                   n=767                              n=493                 
+  
+ gastrointestinal disorders                                                                                 
+   diarrhea                                          1                                  2                   
+   dry mouth                                         1                                  2                   
+ infections and infestations                                                                                
+   upper respiratory tract infection                  1                                  2                   
+ nervous system disorders                                                                                   
+   headache                                          6                                  7                   
+   somnolence                                        3                                  7                   
+   dizziness                                         2                                  3                   
+ psychiatric disorders                                                                                      
+   abnormal dreams                                   1                                  2                   
+ respiratory, thoracic and mediastinal disorders                                                                         
+   cough                                             1                                  2                   
+             dose relationship for adverse reactions  
+ 
+
+ there is evidence of a dose relationship for many of the adverse reactions associated with belsomra use, particularly for certain cns adverse reactions.
+
+
+
+ in a placebo-controlled crossover study (study 3), non-elderly adult patients were treated for up to one month with belsomra at doses of 10 mg, 20 mg, 40 mg (2 times the maximum recommended dose) or 80 mg (4 times the maximum recommended dose). in patients treated with belsomra 10 mg (n=62), although no adverse reactions were reported at an incidence of >=2%, the types of adverse reactions observed were similar to those observed in patients treated with belsomra 20 mg. belsomra was associated with a dose-related increase in somnolence: 2% at the 10 mg dose, 5% at the 20 mg dose, 12% at the 40 mg dose, and 11% at the 80 mg dose, compared to <1% for placebo. belsomra was also associated with a dose-related increase in serum cholesterol: 1 mg/dl at the 10 mg dose, 2 mg/dl at the 20 mg dose, 3 mg/dl at the 40 mg dose, and 6 mg/dl at the 80 mg dose after 4 weeks of treatment, compared to a 4 mg/dl decrease for placebo.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  daytime somnolence: risk of impaired alertness and motor coordination, including impaired driving; risk increases with dose; caution patients taking 20 mg against next-day driving and other activities requiring complete mental alertness (  5.1  ). 
+ *  need to evaluate for co-morbid diagnoses: reevaluate if insomnia persists after 7 to 10 days of treatment (  5.2  ). 
+ *  nighttime "sleep-driving" and other complex behaviors while out of bed and not fully awake. risk increases with dose, with use of cns depressants, and with alcohol (  5.3  ). 
+ *  depression: worsening of depression or suicidal thinking may occur. risk increases with dose. immediately evaluate any new behavioral changes (  5.4  ). 
+ *  compromised respiratory function: effect on respiratory function should be considered (  5.5  ,  8.6  ). 
+ *  sleep paralysis, hypnagogic/hypnopompic hallucinations, and cataplexy-like symptoms: risk increases with dose (  5.6  ). 
+    
+ 
+
+   5.1 cns depressant effects and daytime impairment
+
+
+
+  belsomra is a central nervous system (cns) depressant that can impair daytime wakefulness even when used as prescribed. prescribers should monitor for somnolence and cns depressant effects, but impairment can occur in the absence of symptoms, and may not be reliably detected by ordinary clinical exam (i.e., less than formal testing of daytime wakefulness and/or psychomotor performance). cns depressant effects may persist in some patients for up to several days after discontinuing belsomra.
+
+
+
+ belsomra can impair driving skills and may increase the risk of falling asleep while driving. discontinue or decrease the dose in patients who drive if daytime somnolence develops. in a study of healthy adults, driving ability was impaired in some individuals taking 20 mg belsomra [see  clinical studies (14.2)  ].  although pharmacodynamic tolerance or adaptation to some adverse depressant effects of belsomra may develop with daily use, patients using the 20 mg dose of belsomra should be cautioned against next-day driving and other activities requiring full mental alertness. patients taking lower doses of belsomra should also be cautioned about the potential for driving impairment because there is individual variation in sensitivity to belsomra.
+
+
+
+ co-administration with other cns depressants (e.g., benzodiazepines, opioids, tricyclic antidepressants, alcohol) increases the risk of cns depression. patients should be advised not to consume alcohol in combination with belsomra because of additive effects [see  drug interactions (7.1)  ]  . dosage adjustments of belsomra and of concomitant cns depressants may be necessary when administered together because of potentially additive effects. the use of belsomra with other drugs to treat insomnia is not recommended [see  dosage and administration (2.3)  ].  
+
+
+
+ the risk of next-day impairment, including impaired driving, is increased if belsomra is taken with less than a full night of sleep remaining, if a higher than the recommended dose is taken, if co-administered with other cns depressants, or if co-administered with other drugs that increase blood levels of belsomra. patients should be cautioned against driving and other activities requiring complete mental alertness if belsomra is taken in these circumstances.
+
+
+
+    5.2 need to evaluate for co-morbid diagnoses
+
+
+
+  because sleep disturbances may be the presenting manifestation of a physical and/or psychiatric disorder, treatment of insomnia should be initiated only after careful evaluation of the patient. the failure of insomnia to remit after 7 to 10 days of treatment may indicate the presence of a primary psychiatric and/or medical illness that should be evaluated. worsening of insomnia or the emergence of new cognitive or behavioral abnormalities may be the result of an unrecognized underlying psychiatric or physical disorder, and can emerge during the course of treatment with hypnotic drugs such as belsomra.
+
+
+
+    5.3 abnormal thinking and behavioral changes
+
+
+
+  a variety of cognitive and behavioral changes (e.g., amnesia, anxiety, hallucinations and other neuro-psychiatric symptoms) have been reported to occur in association with the use of hypnotics such as belsomra. complex behaviors such as "sleep-driving" (i.e., driving while not fully awake after taking a hypnotic) and other complex behaviors (e.g., preparing and eating food, making phone calls, or having sex), with amnesia for the event, have been reported in association with the use of hypnotics. these events can occur in hypnotic-naive as well as in hypnotic-experienced persons. the use of alcohol and other cns depressants may increase the risk of such behaviors. discontinuation of belsomra should be strongly considered for patients who report any complex sleep behavior.
+
+
+
+    5.4 worsening of depression/suicidal ideation
+
+
+
+  in clinical studies, a dose-dependent increase in suicidal ideation was observed in patients taking belsomra as assessed by questionnaire. immediately evaluate patients with suicidal ideation or any new behavioral sign or symptom.
+
+
+
+ in primarily depressed patients treated with sedative-hypnotics, worsening of depression, and suicidal thoughts and actions (including completed suicides) have been reported. suicidal tendencies may be present in such patients and protective measures may be required. intentional overdose is more common in this group of patients; therefore, the lowest number of tablets that is feasible should be prescribed for the patient at any one time.
+
+
+
+ the emergence of any new behavioral sign or symptom of concern requires careful and immediate evaluation.
+
+
+
+    5.5 patients with compromised respiratory function
+
+
+
+  effect of belsomra on respiratory function should be considered if prescribed to patients with compromised respiratory function. belsomra has not been studied in patients with severe obstructive sleep apnea (osa) or severe chronic obstructive pulmonary disease (copd) [see  use in specific populations (8.6)  ].  
+
+
+
+    5.6 sleep paralysis, hypnagogic/hypnopompic hallucinations, cataplexy-like symptoms
+
+
+
+  sleep paralysis, an inability to move or speak for up to several minutes during sleep-wake transitions, and hypnagogic/hypnopompic hallucinations, including vivid and disturbing perceptions by the patient, can occur with the use of belsomra. prescribers should explain the nature of these events to patients when prescribing belsomra.
+
+
+
+ symptoms similar to mild cataplexy can occur, with risk increasing with the dose of belsomra. such symptoms can include periods of leg weakness lasting from seconds to a few minutes, can occur both at night and during the day, and may not be associated with an identified triggering event (e.g., laughter or surprise).

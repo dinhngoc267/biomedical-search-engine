@@ -1,0 +1,266 @@
+    6 adverse reactions
+
+  the following serious adverse reactions have been associated with zydelig in clinical trials and are discussed in greater detail in other sections of the prescribing information.
+
+
+
+ *  hepatotoxicity [see  warnings and precautions (5.1)  ]  
+ *  severe diarrhea or colitis [see  warnings and precautions (5.2)  ]  
+ *  pneumonitis [see  warnings and precautions (5.3)  ]  
+ *  intestinal perforation [see  warnings and precautions (5.4)  ]  
+ *  severe cutaneous reactions [see  warnings and precautions (5.5)  ]  
+ *  anaphylaxis [see  warnings and precautions (5.6)  ]  
+ *  neutropenia [see  warnings and precautions (5.7)  ]  
+      excerpt:   the most common adverse reactions (incidence >=20%) are diarrhea, pyrexia, fatigue, nausea, cough, pneumonia, abdominal pain, chills, and rash (  6.1  ).
+ 
+
+ the most common laboratory abnormalities (incidence >=30%) are neutropenia, hypertriglyceridemia, hyperglycemia, alt elevations, and ast elevations (  6.1  ).
+
+
+
+   to report suspected adverse reactions, contact gilead sciences, inc. at 1-800-gilead-5 or fda at 1-800-fda-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 clinical trial experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+       summary of clinical trials in chronic lymphocytic leukemia    
+
+
+
+ the safety data reflect subject exposure to zydelig from study 1, in which 218 subjects with relapsed cll received up to 8 doses of rituximab with or without zydelig 150 mg twice daily. the median duration of exposure to zydelig was 5 months.
+
+
+
+ serious adverse reactions were reported in 54 (49%) subjects treated with zydelig + rituximab. the most frequent (>=2%) serious adverse reactions reported for subjects treated with zydelig were pneumonia (17%), pyrexia (9%), sepsis (8%), febrile neutropenia (5%) and diarrhea (5%). adverse reactions that led to discontinuation of zydelig occurred in 11 (10%) subjects. the most common adverse reactions that led to treatment discontinuations were hepatotoxicity and diarrhea/colitis.
+
+
+
+ thirty-nine subjects (35%) had dose interruptions and sixteen subjects (15%) had dose reductions due to adverse reactions or laboratory abnormalities. the most common reasons for dose reductions were elevated transaminases, diarrhea or colitis, and rash.
+
+
+
+ table 2 and table 3 summarize common adverse reactions and laboratory abnormalities reported for zydelig + rituximab and placebo + rituximab arms.
+
+
+
+ table 2 adverse reactions reported in >=5% of cll patients and occurred at >=2% higher incidence in subjects receiving zydelig 
+                                           zydelig + rn=110 (%)  placebo + rn=108 (%)   
+ adverse reaction                          any grade        grade >=3        any grade        grade >=3         
+  
+ r: rituximab                               
+  
+ gastrointestinal disorders                 
+   nausea                                  28 (25)          0                23 (21)          0                 
+   vomiting                                14 (13)          0                9 (8)            0                 
+   diarrhea                                23 (21)          6 (5)            17 (16)          0                 
+   gastroesophageal reflux disease         7 (6)            0                1 (1)            0                 
+   stomatitis                              7 (6)            2 (2)            2 (2)            0                 
+ nervous system disorders                   
+   headache                                11 (10)          1 (1)            5 (5)            0                 
+ general disorders and administration site conditions   
+   pyrexia                                 38 (35)          3 (3)            18 (17)          1 (1)             
+   chills                                  23 (21)          2 (2)            17 (16)          0                 
+   pain                                    8 (7)            0                2 (2)            0                 
+ skin and subcutaneous tissue disorders     
+   rash                                    20 (18)          4 (4)            7 (6)            1 (1)             
+ respiratory, thoracic, and mediastinal disorders   
+   pneumonia                               25 (23)          18 (16)          19 (18)          14 (13)           
+   nasal congestion                        6 (5)            0                2 (2)            0                 
+ infections and infestations                
+   sepsis                                  9 (8)            8 (7)            4 (4)            4 (4)             
+   bronchitis                              7 (6)            1 (1)            3 (3)            1 (1)             
+   sinusitis                               9 (8)            0                4 (4)            0                 
+   urinary tract infection                 6 (5)            0                3 (3)            2 (2)             
+ musculoskeletal and connective tissue disorders   
+   arthralgia                              8 (7)            1 (1)            4 (4)            1 (1)             
+          table 3 treatment-emergent laboratory abnormalities reported in >=10% of cll patients occurring at a >=5% higher incidence in subjects receiving zydelig 
+                                           zydelig + rn=110 (%)  placebo + rn=108 (%)   
+ laboratory parameter                      any grade        grade 3-4        any grade        grade 3-4         
+  
+ grades were obtained per ctcae version 4.03.r: rituximab   
+  
+ hematology abnormalities                   
+   neutrophil count decreased              66 (60)          41 (37)          55 (51)          29 (27)           
+   lymphocyte count decreased              22 (20)          10 (9)           13 (12)          4 (4)             
+   lymphocyte count increased              27 (25)          20 (18)          10 (9)           5 (5)             
+ serum chemistry abnormalities              
+   alt increased                           38 (35)          9 (8)            11 (10)          1 (1)             
+   ast increased                           27 (25)          6 (5)            15 (14)          0                 
+   ggt increased                           29 (26)          2 (2)            15 (14)          3 (3)             
+   triglycerides (hypertriglyceridemia)    62 (56)          3 (3)            37 (34)          0                 
+   hyperglycemia                           59 (54)          8 (7)            50 (46)          2 (2)             
+   hypoglycemia                            12 (11)          0                5 (5)            0                 
+   hyponatremia                            22 (20)          2 (2)            16 (15)          7 (6)             
+                 summary of clinical trials in indolent non-hodgkin lymphoma    
+ 
+
+ the safety data reflect exposure to zydelig in 146 adults with indolent non-hodgkin lymphoma treated with zydelig 150 mg twice daily in clinical trials. the median duration of exposure was 6.1 months (range 0.3 to 26.4 months).
+
+
+
+ serious adverse reactions were reported in 73 (50%) subjects. the most frequent serious adverse reactions that occurred were pneumonia (15%), diarrhea (11%), and pyrexia (9%).
+
+
+
+ adverse reactions resulted in interruption or discontinuation for 78 (53%) subjects. the most common reasons for interruption or discontinuations were diarrhea (11%), pneumonia (11%), and elevated transaminases (10%).
+
+
+
+ table 4 provides the adverse reactions occurring in at least 10% of subjects receiving zydelig monotherapy, and table 5 provides the treatment-emergent laboratory abnormalities.
+
+
+
+ table 4 adverse reactions (>= 10% of subjects) in patients with indolent non-hodgkin lymphoma treated with zydelig 150 mg bid 
+                                                     zydelig monotherapyn=146 (%)   
+ adverse reaction                                    any grade                  grade >=3                   
+  
+ gastrointestinal disorders                           
+   diarrhea                                          68 (47)                    20 (14)                     
+   nausea                                            42 (29)                    2 (1)                       
+   abdominal pain                                    38 (26)                    3 (2)                       
+   vomiting                                          22 (15)                    2 (1)                       
+ general disorders and administration site conditions   
+   fatigue                                           44 (30)                    2 (1)                       
+   pyrexia                                           41 (28)                    3 (2)                       
+   asthenia                                          17 (12)                    3 (2)                       
+   peripheral edema                                  15 (10)                    3 (2)                       
+ infections and infestations                          
+   upper respiratory tract infection                 18 (12)                    0                           
+ respiratory, thoracic, and mediastinal disorders     
+   pneumonia                                         37 (25)                    23 (16)                     
+   cough                                             42 (29)                    1 (1)                       
+   dyspnea                                           25 (17)                    6 (4)                       
+ skin and subcutaneous disorders                      
+   rash                                              31 (21)                    4 (3)                       
+   night sweats                                      18 (12)                    0                           
+ nervous system disorders                             
+   headache                                          16 (11)                    1 (1)                       
+ metabolism and nutrition disorders                   
+   decreased appetite                                24 (16)                    1 (1)                       
+ psychiatric disorders                                
+   insomnia                                          17 (12)                    0                           
+        table 5 treatment-emergent laboratory abnormalities in patients with indolent non-hodgkin lymphoma treated with zydelig 150 mg bid 
+                                                    zydelig monotherapyn=146 (%)   
+ laboratory abnormality                             any grade          grade 3            grade 4             
+  
+ grades were obtained per ctcae version 4.03.        
+  
+ serum chemistry abnormalities                                                                                
+   alt increased                                    73 (50)            20 (14)            7 (5)               
+   ast increased                                    60 (41)            12 (8)             6 (4)               
+ hematology abnormalities                            
+   neutrophils decreased                            78 (53)            20 (14)            16 (11)             
+   hemoglobin decreased                             41 (28)            3 (2)              0                   
+   platelets decreased                              38 (26)            4 (3)              5 (3)               
+
+
+    boxed warning: warning: fatal and serious toxicities: hepatic, severe diarrhea, colitis, pneumonitis, and  intestinal perforation
+
+  warning: fatal and serious toxicities: hepatic, severe diarrhea, colitis, pneumonitis, and  intestinal perforation
+
+    *  fatal and/or serious hepatotoxicity occurred in 14% of zydelig-treated patients. monitor hepatic function prior to and during treatment. interrupt and then reduce or discontinue zydelig as recommended [see dosage and administration (2.2), warnings and precautions (5.1)]. 
+ *  fatal and/or serious and severe diarrhea or colitis occurred in 14% of zydelig-treated patients. monitor for the development of severe diarrhea or colitis. interrupt and then reduce or discontinue zydelig as recommended [see dosage and administration (2.2), warnings and precautions (5.2)]. 
+ *  fatal and serious pneumonitis can occur in zydelig-treated patients. monitor for pulmonary symptoms and bilateral interstitial infiltrates. interrupt or discontinue zydelig as recommended [see dosage and administration (2.2), warnings and precautions (5.3)]. 
+ *  fatal and serious intestinal perforation can occur in zydelig-treated patients across clinical trials. discontinue zydelig for intestinal perforation [see warnings and precautions (5.4)]. 
+      excerpt:   warning: fatal and serious toxicities: hepatic, severe diarrhea, colitis, pneumonitis, and intestinal perforation
+ 
+
+     see full prescribing information for complete boxed warning.    
+
+
+
+ *  fatal and/or serious hepatotoxicity occurred in 14% of zydelig-treated patients. monitor hepatic function prior to and during treatment. interrupt and then reduce or discontinue zydelig. ( 5.1) 
+ *  fatal and/or serious and severe diarrhea or colitis occurred in 14% of zydelig-treated patients. monitor for the development of severe diarrhea or colitis. interrupt and then reduce or discontinue zydelig. ( 5.2) 
+ *  fatal and serious pneumonitis can occur in zydelig-treated patients. monitor for pulmonary symptoms and bilateral interstitial infiltrates. interrupt or discontinue zydelig. ( 5.3) 
+ *  fatal and serious intestinal perforation can occur in zydelig-treated patients across clinical trials. discontinue zydelig if intestinal perforation is suspected. ( 5.4) 
+    5 warnings and precautions
+
+
+
+   excerpt:    *  severe cutaneous reactions: monitor patients for the development of severe cutaneous reactions and discontinue zydelig. (  5.5  ) 
+ *  anaphylaxis: monitor patients for anaphylaxis and discontinue zydelig. (  5.6  ) 
+ *  neutropenia: monitor blood counts. (  5.7  ) 
+ *  embryo-fetal toxicity: may cause fetal harm. advise women of potential risk to a fetus and to avoid pregnancy while taking zydelig. (  5.8  ) 
+    
+ 
+
+   5.1 hepatotoxicity
+
+
+
+  fatal and/or serious hepatotoxicity occurred in 14% of patients treated with zydelig. elevations in alt or ast greater than 5 times the upper limit of normal have occurred [see  adverse reactions (6.1)  ].  these findings were generally observed within the first 12 weeks of treatment and were reversible with dose interruption. after resumption of treatment at a lower dose, 26% of patients had recurrence of alt and ast elevations. discontinue zydelig for recurrent hepatotoxicity.
+
+
+
+ avoid concurrent use of zydelig with other drugs that may cause liver toxicity.
+
+
+
+ monitor alt and ast in all patients every 2 weeks for the first 3 months of treatment, every 4 weeks for the next 3 months, then every 1 to 3 months thereafter. monitor weekly for liver toxicity if the alt or ast rises above 3 times the upper limit of normal until resolved. withhold zydelig if the alt or ast is greater than 5 times the upper limit of normal, and continue to monitor ast, alt and total bilirubin weekly until the abnormality is resolved [see  dosage and administration (2.2)  ].  
+
+
+
+    5.2 severe diarrhea or colitis
+
+
+
+  severe diarrhea or colitis (grade 3 or higher) occurred in 14% of zydelig-treated patients across clinical trials [see  adverse reactions (6.1)  ].  diarrhea can occur at any time. avoid concurrent use of zydelig and other drugs that cause diarrhea. diarrhea due to zydelig responds poorly to antimotility agents. median time to resolution ranged between 1 week and 1 month across trials, following interruption of zydelig therapy and in some instances, use of corticosteroids [see  dosage and administration (2.2)  ].  
+
+
+
+    5.3 pneumonitis
+
+
+
+  fatal and serious pneumonitis occurred in patients treated with zydelig. patients taking zydelig who present with pulmonary symptoms such as cough, dyspnea, hypoxia, interstitial infiltrates on a radiologic exam, or a decline by more than 5% in oxygen saturation should be evaluated for pneumonitis. if pneumonitis is suspected, interrupt zydelig until the etiology of the pulmonary symptoms has been determined. patients with pneumonitis thought to be caused by zydelig have been treated with discontinuation of zydelig and administration of corticosteroids.
+
+
+
+    5.4 intestinal perforation
+
+
+
+  fatal and serious intestinal perforation occurred in zydelig-treated patients. at the time of perforation, some patients had moderate to severe diarrhea. advise patients to promptly report any new or worsening abdominal pain, chills, fever, nausea, or vomiting. discontinue zydelig permanently in patients who experience intestinal perforation.
+
+
+
+    5.5 severe cutaneous reactions
+
+
+
+  one case of toxic epidermal necrolysis (ten) occurred in a study of zydelig in combination with rituximab and bendamustine. other severe or life-threatening (grade >=3) cutaneous reactions, including dermatitis exfoliative, rash, rash erythematous, rash generalized, rash macular, rash maculo-papular, rash papular, rash pruritic, exfoliative rash, and skin disorder, have been reported in zydelig-treated patients. monitor patients for the development of severe cutaneous reactions and discontinue zydelig.
+
+
+
+    5.6 anaphylaxis
+
+
+
+  serious allergic reactions, including anaphylaxis, have been reported in patients on zydelig. in patients who develop serious allergic reactions, discontinue zydelig permanently and institute appropriate supportive measures.
+
+
+
+    5.7 neutropenia
+
+
+
+  treatment-emergent grade 3 or 4 neutropenia occurred in 31% of zydelig-treated patients across clinical trials [see  adverse reactions (6.1)  ].  monitor blood counts at least every two weeks for the first 3 months of therapy, and at least weekly in patients while neutrophil counts are less than 1.0 gi/l [see  dosage and administration (2.2)  ].  
+
+
+
+    5.8 embryo-fetal toxicity
+
+
+
+  based on findings in animals, zydelig may cause fetal harm when administered to a pregnant woman. idelalisib is teratogenic in rats, at systemic exposures 12 times those reported in patients at the recommended dose of 150 mg twice daily. if this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see  use in specific populations (8.1)  ].  
+
+
+
+ advise females of reproductive potential to avoid becoming pregnant while taking zydelig. if contraceptive methods are being considered, use effective contraception during treatment, and for at least 1 month after the last dose of zydelig [see  use in specific populations (8.6)  ].  

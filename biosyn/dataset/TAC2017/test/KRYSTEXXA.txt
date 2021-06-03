@@ -1,0 +1,198 @@
+      6 adverse reactions  
+
+  the most commonly reported serious adverse reactions from pre-marketing controlled clinical trials were anaphylaxis, which occurred at a frequency of 6.5% in patients treated with krystexxa 8 mg every 2 weeks, compared to none with placebo; infusion reactions, which occurred at a frequency of 26% in patients treated with krystexxa 8 mg every 2 weeks, compared to 5% treated with placebo; and gout flares, which were more common during the first 3 months of treatment with krystexxa compared with placebo. all patients in pre-marketing controlled clinical trials were pre-treated with an oral antihistamine, intravenous corticosteroid and/or acetaminophen to prevent anaphylaxis and infusion reaction. patients also received non-steroidal anti-inflammatory drugs or colchicine, or both, for at least 7 days as gout flare prophylaxis before beginning krystexxa treatment. [  see      boxed warning      ,    warnings and precautions   (  5.1  ,  5.2  ,  5.3  )]
+
+
+
+   excerpt:   the most common adverse reactions (occurring in at least 5% of krystexxa-treated patients) are gout flares, infusion reactions, nausea, contusion or ecchymosis, nasopharyngitis, constipation, chest pain, anaphylaxis and vomiting. (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact crealta pharmaceuticals llc at 1-888-579-7839 (1-888-krystexxa) or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+    6.1 clinical trials experience  
+
+  the data described below reflect exposure to krystexxa in patients with chronic gout refractory to conventional therapy in two replicate randomized, placebo-controlled, double-blind 6-month clinical trials: 85 patients were treated with krystexxa 8 mg every 2 weeks; 84 patients were treated with krystexxa 8 mg every 4 weeks; and 43 patients were treated with placebo. these patients were between the ages of 23 and 89 years (average 55 years); 173 patients were male and 39 were female; and 143 patients were white/caucasian, 27 were black/african american, 24 were hispanic/latino and 18 were all other ethnicities. common co-morbid conditions among the enrolled patients included hypertension (72%), dyslipidemia (49%), chronic kidney disease (28%), diabetes (24%), coronary artery disease (18%), arrhythmia (16%), and cardiac failure/left ventricular dysfunction (12%).
+
+
+
+ because clinical studies are conducted under widely varying and controlled conditions, adverse reaction rates observed in clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug, and may not predict the rates observed in a broader patient population in clinical practice.
+
+
+
+   anaphylaxis:  diagnostic criteria of anaphylaxis were skin or mucosal tissue involvement, and, either airway compromise, and/or reduced blood pressure with or without associated symptoms, and a temporal relationship to krystexxa or placebo injection with no other identifiable cause. using these clinical criteria, anaphylaxis was identified in 14 (5.1%) of 273 total patients studied in the clinical program of iv krystexxa. the frequency was 6.5% for the every 2-week dosing regimen (8 of 123 patients), and 4.8% for the 4-week dosing frequency (6 of 126) of krystexxa. there were no cases of anaphylaxis in patients receiving placebo. anaphylaxis generally occurred within 2 hours after treatment. this occurred with patients being pre-treated with an oral antihistamine, intravenous corticosteroid, and acetaminophen. [see    boxed warning      ,         warnings and precautions       (  5.1  ,  5.2  )]
+
+
+
+   infusion reactions:  infusion reactions occurred in 26% of patients in the 2 week dosing regimen group and 41% of patients in the 4 week dosing regimen group, compared to 5% of placebo-treated patients. manifestations of these reactions included urticaria (frequency of 10.6%), dyspnea (frequency of 7.1%), chest discomfort (frequency of 9.5%), chest pain (frequency of 9.5%), erythema (frequency of 9.5%), and pruritus (frequency of 9.5%). these manifestations overlap with the symptoms of anaphylaxis, but in a given patient did not occur together to satisfy the clinical criteria for diagnosing anaphylaxis. infusion reactions are thought to result from release of various mediators, such as cytokines. infusion reactions occurred at any time during a course of treatment with approximately 3% occurring with the first infusion, and approximately 91% occurred during the time of infusion. some infusion reaction manifestations were reduced with slowing the rate of infusion, or stopping the infusion and restarting the infusion at a slower rate. these infusion reactions occurred with all patients being pre-treated with an oral antihistamine, intravenous corticosteroid and acetaminophen. [  see      boxed warning      ,    warnings and precautions       (  5.1  ,  5.2  )]
+
+
+
+   gout flares:  gout flares were common in the study patients before randomization to treatment, with patients experiencing an average of 10 flares in the preceding 18 months prior to study entry. during the controlled treatment period with krystexxa or placebo, the frequencies of gout flares were high in all treatment groups, but more so with krystexxa treatment during the first 3 months of treatment, which seemed to decrease in the subsequent 3 months of treatment. the percentages of patients with any flare for the first 3 months were 74%, 81%, and 51%, for krystexxa 8 mg every 2 weeks, krystexxa 8 mg every 4 weeks, and placebo, respectively. the percentages of patients with any flare for the subsequent 3 months were 41%, 57%, and 67%, for krystexxa 8 mg every 2 weeks, krystexxa 8 mg every 4 weeks, and placebo, respectively. patients received gout flare prophylaxis with colchicine and/or nonsteroidal anti-inflammatory drugs (nsaids) starting at least one week before receiving krystexxa. [  see    warnings and precautions       (  5.3  )]
+
+
+
+   congestive heart failure:  two cases of congestive heart failure exacerbation occurred during the trials in patients receiving treatment with krystexxa 8 mg every 2 weeks. no cases were reported in placebo-treated patients. four subjects had exacerbations of pre-existing congestive heart failure while receiving krystexxa 8 mg every 2 weeks during the open-label extension study. [  see    warnings and precautions       (  5.4  )].
+
+
+
+   other adverse reactions    :  the most commonly reported adverse reactions that occurred in greater than or equal to 5% of patients treated with krystexxa 8mg every 2 weeks are provided in table 1.
+
+
+
+ table 1. adverse reactions occurring in 5% or more of patients treated with krystexxa compared to placebo 
+   adverse reaction    (preferred term)      krystexxa    8 mg e    very 2 weeks    (n=85)    n      a    (%)    placebo    (n=43)    n (%)     
+ gout flare       65 (77%)         35 (81%)          
+ infusion reaction  22 (26%)         2 (5%)            
+ nausea           10 (12%)         1 (2%)            
+ contusion  b  or ecchymosis  b    9 (11%)          2 (5%)            
+ nasopharyngitis  6 (7%)           1 (2%)            
+ constipation     5 (6%)           2 (5%)            
+ chest pain       5 (6%)           1 (2%)            
+ anaphylaxis      4 (5%)           0 (0%)            
+ vomiting         4 (5%)           1 (2%)            
+           a       if the same subject in a given group had more than one occurrence in the same preferred term event category, the subject was counted only once.
+ 
+
+   b  most did not occur on the day of infusion and could be related to other factors (e.g. concomitant medications relevant to contusion or ecchymosis, insulin dependent diabetes mellitus).
+
+
+
+     6.2 immunogenicity  
+
+  anti-pegloticase antibodies developed in 92% of patients treated with krystexxa every 2 weeks, and 28% for placebo.         anti-peg antibodies were also detected in 42% of patients treated with krystexxa.         high anti-pegloticase antibody titer was associated with a failure to maintain pegloticase-induced normalization of uric acid. the impact of anti-peg antibodies on patients' responses to other peg-containing therapeutics is unknown.
+
+
+
+ there was a higher incidence of infusion reactions in patients with high anti-pegloticase antibody titer: 53% (16 of 30) in the krystexxa every 2 weeks group compared to 6% in patients who had undetectable or low antibody titers.  
+
+
+
+ as with all therapeutic proteins, there is a potential for immunogenicity. the observed incidence of antibody positivity in an assay is highly dependent on several factors including assay sensitivity and specificity and assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, the comparison of the incidence of antibodies to pegloticase with the incidence of antibodies to other products may be misleading.
+
+
+    boxed warning: warning: anaphylaxis and infusion reactions
+
+    warning: anaphylaxis     and         infusion reactions  
+
+  ?    anaphylaxis     and infusion reactions     ha    ve     been reported to occur during and afte    r administration of krystexxa.     [    see     warnings and precautions         (      5.1      ,       5.2      )]  
+
+
+
+   ?          anaphylaxis may occur with any infusion, including a first infusion, and generally manifest    s     within 2 hours of the infusion.  however, delayed-type hypersensitivity reactions have also been reported.    
+
+
+
+   ?          krystexxa should be administered in healthcare settings and by healthcare providers prepared to manage anaphylaxis     and infusion reactions    .   
+
+
+
+   ?          patients should be pre    medicated     with     antihistamine    s         and     corticosteroid    s    .   
+
+
+
+   ?          patients should be closely monitored for an appropriate period of time for anaphylaxis after administration of krystexxa.        
+
+
+
+   ?          monitor serum uric acid     level    s     prior to infusions and consider discontinuing treatment if     level    s     increase to above 6 mg/dl, particularly     when     2 consecutive     level    s     above 6 mg/dl are observed.       
+
+
+
+   excerpt:     warning: anaphylaxis and infusion reactions  
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ ?     anaphylaxis and infusion reactions have been reported to occur during and after administration of krystexxa (      5.1      ,       5.2      ).  
+
+
+
+   ?       anaphylaxis may occur with any infusion, including a first infusion, and generally manifests within 2 hours of the infusion.  however, delayed-type hypersensitivity reactions have also been reported.    
+
+
+
+   ?       krystexxa should be administered in healthcare settings and by healthcare providers prepared to manage anaphylaxis and infusion reactions.   
+
+
+
+   ?       patients should be pre-medicated with antihistamines and corticosteroids.  
+
+
+
+   ?       patients should be closely monitored for an appropriate period of time for anaphylaxis after administration of krystexxa.  
+
+
+
+   ?       monitor serum uric acid levels prior to infusions and consider discontinuing treatment if levels increase to above 6 mg/dl, particularly when 2 consecutive levels above 6 mg/dl are observed.  
+     5 warnings   and   precautions      
+
+
+
+   excerpt:    *   anaphylaxis  :   anaphylaxis may occur with any krystexxa infusion. pre-medicate and monitor patients. (  5.1  ) 
+ *   infusion reactions  : infusion reactions occurred in patients treated with krystexxa. pre-medicate and monitor patients.  (  5.2  ) 
+ *   gout flares : gout flare prophylaxis is recommended for at least the first 6 months of krystexxa therapy. (  5.3  ) 
+ *   congestive heart failure : congestive heart failure exacerbation may occur. monitor patients closely following infusion. (  5.4  ) 
+    
+ 
+
+    5.1   anaphylaxis  
+
+
+
+  during pre-marketing controlled clinical trials, anaphylaxis was reported with a frequency of 6.5% of patients treated with krystexxa every 2 weeks, compared to none with placebo. manifestations included wheezing, peri-oral or lingual edema, or hemodynamic instability, with or without rash or urticaria. cases occurred in patients being pre-treated with one or more doses of an oral antihistamine, an intravenous corticosteroid and/or acetaminophen. this pre-treatment may have blunted or obscured symptoms or signs of anaphylaxis and therefore the reported frequency may be an underestimate. [ see   adverse reactions      (  6  )]
+
+
+
+ krystexxa should be administered in a healthcare setting by healthcare providers prepared to manage anaphylaxis. patients should be pre-treated with antihistamines and corticosteroids. anaphylaxis may occur with any infusion, including a first infusion, and generally manifests within 2 hours of the infusion. however, delayed type hypersensitivity reactions have also been reported. patients should be closely monitored for an appropriate period of time for anaphylaxis after administration of krystexxa. patients should be informed of the symptoms and signs of anaphylaxis and instructed to seek immediate medical care should anaphylaxis occur after discharge from the healthcare setting.
+
+
+
+ the risk of anaphylaxis is higher in patients whose uric acid level increases to above 6 mg/dl, particularly when 2 consecutive levels above 6 mg/dl are observed. monitor serum uric acid levels prior to infusions and consider discontinuing treatment if levels increase to above 6 mg/dl. because of the possibility that concomitant use of oral urate-lowering therapy and krystexxa may potentially blunt the rise of serum uric acid levels, it is recommended that before starting krystexxa patients discontinue oral urate-lowering medications and not institute therapy with oral urate-lowering agents while taking krystexxa.
+
+
+
+     5.2   infusion reactions  
+
+
+
+  during pre-marketing controlled clinical trials, infusion reactions were reported in 26% of patients treated with krystexxa 8 mg every 2 weeks, and 41% of patients treated with krystexxa 8 mg every 4 weeks, compared to 5% of patients treated with placebo. these infusion reactions occurred in patients being pre-treated with an oral antihistamine, intravenous corticosteroid and/or acetaminophen. this pre-treatment may have blunted or obscured symptoms or signs of infusion reactions and therefore the reported frequency may be an underestimate. [ see       adverse reactions      (  6  )]
+
+
+
+ krystexxa should be administered in a healthcare setting by healthcare providers prepared to manage infusion reactions. patients should be pre-treated with antihistamines and corticosteroids. krystexxa should be infused slowly over no less than 120 minutes. in the event of an infusion reaction, the infusion should be slowed, or stopped and restarted at a slower rate.
+
+
+
+ the risk of infusion reaction is higher in patients whose uric acid level increases to above 6 mg/dl, particularly when 2 consecutive levels above 6 mg/dl are observed. monitor serum uric acid levels prior to infusions and consider discontinuing treatment if levels increase to above 6 mg/dl. because of the possibility that concomitant use of oral urate-lowering therapy and krystexxa may potentially blunt the rise of serum uric acid levels, it is recommended that before starting krystexxa patients discontinue oral urate-lowering medications and not institute therapy with oral urate-lowering agents while taking krystexxa.
+
+
+
+     5.   3   gout flares  
+
+
+
+  gout flares may occur after initiation of krystexxa. [ see   adverse reactions      (  6.1  )]  an increase in gout flares is frequently observed upon initiation of anti-hyperuricemic therapy, due to changing serum uric acid levels resulting in mobilization of urate from tissue deposits. gout flare prophylaxis with a non-steroidal anti-inflammatory drug (nsaid) or colchicine is recommended starting at least 1 week before initiation of krystexxa therapy and lasting at least 6 months, unless medically contraindicated or not tolerated.                krystexxa does not need to be discontinued because of a gout flare. the gout flare should be managed concurrently as appropriate for the individual patient. [ see   dosage and administration  (  2  )] 
+
+
+
+     5.   4       congestive heart failure  
+
+
+
+  krystexxa has not been formally studied in patients with congestive heart failure, but some patients in the clinical trials experienced exacerbation. [ see   adverse reactions      (  6.1  )] exercise caution when using krystexxa in patients who have congestive heart failure and monitor patients closely following infusion.
+
+
+
+     5.   5   re-treatment with krystexxa  
+
+
+
+  no controlled trial data are available on the safety and efficacy of re-treatment with krystexxa after stopping treatment for longer than 4 weeks.           due to the immunogenicity of krystexxa, patients receiving re-treatment may be at increased risk of anaphylaxis and infusion reactions. therefore, patients receiving re-treatment after a drug-free interval should be monitored carefully. [ see   adverse reactions  (  6.2  )]

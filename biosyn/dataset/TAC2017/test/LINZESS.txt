@@ -1,0 +1,204 @@
+    6 adverse reactions
+
+  excerpt:   most common adverse reactions (incidence of at least 2%) reported in ibs-c or cic patients are diarrhea, abdominal pain, flatulence and abdominal distension. (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact forest pharmaceuticals, inc., at 1- 800- 678-1605 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ during clinical development, approximately 2570, 2040, and 1220 patients with either ibs-c or cic were treated with linzess for 6 months or longer, 1 year or longer, and 18 months or longer, respectively (not mutually exclusive).
+
+
+
+     irritable bowel syndrome with constipation (ibs-c)  
+
+
+
+     most common adverse reactions  
+
+
+
+ the data described below reflect exposure to linzess in the two placebo-controlled clinical trials involving 1605 adult patients with ibs-c (trials 1 and 2). patients were randomized to receive placebo or 290 mcg linzess once daily on an empty stomach for up to 26 weeks. demographic characteristics were comparable between treatment groups  [see clinical studies (  14.1  )]  .    table 1    provides the incidence of adverse reactions reported in at least 2% of ibs-c patients in the linzess treatment group and at an incidence that was greater than in the placebo group.
+
+
+
+ table 1: adverse reactions reported in at least 2% of linzess-treated patients and at an incidence greater than in placebo group patients in the two phase 3 placebo-controlled trials (1 and 2) in ibs-c 
+  a: "abdominal pain" term includes abdominal pain, upper abdominal pain, and lower abdominal pain.    
+  
+   adverse reactions                               linzess    290 mcg    [n=807]    %      placebo    [n=798]    %     
+   gastrointestinal       diarrhea     abdominal pain  a       flatulence     abdominal distension  20742                         3521                        
+   infections and infestations       viral gastroenteritis  3                             1                           
+   nervous system disorders       headache       4                             3                           
+             diarrhea  
+ 
+
+ diarrhea was the most commonly reported adverse reaction of the linzess-treated patients in the pooled ibs-c pivotal placebo-controlled trials. in these trials, 20% of linzess-treated patients reported diarrhea compared to 3% of placebo-treated patients. severe diarrhea was reported in 2% of the linzess-treated patients versus less than 1% of the placebo-treated patients, and 5% of linzess-treated patients discontinued due to diarrhea vs less than 1% of placebo-treated patients. the majority of reported cases of diarrhea started within the first 2 weeks of linzess treatment. fecal incontinence and dehydration were each reported in less than or equal to 1% of patients in the linzess treatment group  [see warnings and precautions (  5.2  )]  .
+
+
+
+     adverse reactions leading to discontinuation  
+
+
+
+ in placebo-controlled trials in patients with ibs-c, 9% of patients treated with linzess and 3% of patients treated with placebo discontinued prematurely due to adverse reactions. in the linzess treatment group, the most common reasons for discontinuation due to adverse reactions were diarrhea (5%) and abdominal pain (1%). in comparison, less than 1% of patients in the placebo group withdrew due to diarrhea or abdominal pain.
+
+
+
+     adverse reactions leading to dose reductions  
+
+
+
+ in the open-label, long-term trials, 2147 patients with ibs-c received 290 mcg of linzess daily for up to 18 months. in these trials, 29% of patients had their dose reduced or suspended secondary to adverse reactions, the majority of which were diarrhea or other gi adverse reactions.
+
+
+
+     other adverse reactions  
+
+
+
+ adverse reactions that were reported in at least 1% and less than 2% of ibs-c patients in the linzess treatment group and at an incidence greater than in the placebo treatment group are listed below by body system:
+
+
+
+   gastrointestinal disorders:  gastroesophageal reflux disease, vomiting
+
+
+
+   general disorders and administration site conditions:  fatigue
+
+
+
+     other adverse events  
+
+
+
+ in placebo-controlled trials in patients with ibs-c, less than 1% linzess-treated patients and no placebo-treated patients reported hematochezia; no patient in either treatment group reported melena. less than 1% of linzess-treated and placebo-treated patients reported allergic reactions, urticaria, or hives as adverse events.
+
+
+
+     chronic idiopathic constipation (cic)  
+
+
+
+     most common adverse reactions  
+
+
+
+ the data described below reflect exposure to linzess in the two double-blind placebo-controlled clinical trials of 1275 adult patients with cic (trials 3 and 4). patients were randomized to receive placebo or 145 mcg linzess or 290 mcg linzess once daily on an empty stomach, for at least 12 weeks. demographic characteristics were comparable between both linzess treatment groups and placebo  [see clinical studies (  14.2  )]  . only data for the recommended linzess 145 mcg dose and placebo are presented.    table 2    provides the incidence of adverse reactions reported in at least 2% of cic patients in the 145 mcg linzess treatment group and at an incidence that was greater than in the placebo treatment group.
+
+
+
+ table 2: adverse reactions reported in at least 2% of 145 mcg linzess-treated patients and at an incidence greater than in placebo group patients in the two phase 3 placebo-controlled trials (3 and 4) in cic 
+  a: "abdominal pain" term includes abdominal pain, upper abdominal pain, and lower abdominal pain.    
+  
+   adverse reactions                                        linzess    145 mcg    [n=430]    %      placebo    [n=423]    %     
+   gastrointestinal       diarrhea     abdominal pain  a       flatulence     abdominal distension  16763                   5652                    
+   infections and infestations       upper respiratory tract infection     sinusitis  53                      42                      
+             diarrhea  
+ 
+
+ diarrhea was the most commonly reported adverse reaction of the linzess-treated patients in the pooled cic placebo-controlled trials. in these trials, 16% of linzess-treated patients reported diarrhea compared to 5% of placebo-treated patients. severe diarrhea was reported in 2% of the 145 mcg linzess-treated patients versus less than 1% of the placebo-treated patients, and 5% of linzess-treated patients discontinued due to diarrhea vs less than 1% of placebo-treated patients. the majority of reported cases of diarrhea started within the first 2 weeks of linzess treatment. fecal incontinence was reported in 1% of patients in the linzess treatment group, compared with less than 1% in the placebo group. dehydration was reported in less than 1% of patients in the linzess treatment group  [see warnings and precautions (  5.2  )]  .
+
+
+
+     adverse reactions leading to discontinuation  
+
+
+
+ in placebo-controlled trials in patients with cic, 8% of patients treated with linzess and 4% of patients treated with placebo discontinued prematurely due to adverse reactions. in the 145 mcg linzess treatment group, the most common reasons for discontinuation due to adverse reactions were diarrhea (5%) and abdominal pain (1%). in comparison, less than 1% of patients in the placebo group withdrew due to diarrhea or abdominal pain.
+
+
+
+     adverse reactions leading to dose reductions  
+
+
+
+ in the open-label, long-term trials, 1129 patients with cic received 290 mcg of linzess daily for up to 18 months. in these trials, 27% of patients had their dose reduced or suspended secondary to adverse reactions, the majority of which were diarrhea or other gi adverse reactions.
+
+
+
+     other adverse reactions  
+
+
+
+ adverse reactions that were reported in at least 1% of and less than 2% of cic patients in the 145 mcg linzess treatment group and at an incidence greater than in the placebo treatment group are listed below by body system:
+
+
+
+   gastrointestinal disorders:  dyspepsia, fecal incontinence
+
+
+
+   infections and infestations:  viral gastroenteritis
+
+
+
+     other adverse events  
+
+
+
+ in placebo-controlled trials in patients with cic, less than 1% of both linzess-treated and placebo-treated patients reported rectal hemorrhage, hematochezia or melena. less than 1% of linzess-treated and placebo-treated patients reported allergic reactions, urticaria, or hives as adverse events.
+
+
+    boxed warning: warning: pediatric risk
+
+
+
+      warning: pediatric risk
+
+
+
+        linzess is contraindicated in pediatric patients up to 6 years of age; in nonclinical studies, administration of a single, clinically relevant adult oral dose of linaclotide caused deaths due to dehydration in young juvenile mice. avoid use of linzess in pediatric patients 6 through 17 years of age. the safety and efficacy of linzess has not been established in pediatric patients under 18 years of age 
+
+    [see contraindications (  4  ), warnings and precautions (  5.1  ), use in specific populations (  8.4  ) and nonclinical toxicology (  13.2  )].  
+
+
+
+   excerpt:     warning: pediatric risk  
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+   linzess is contraindicated in pediatric patients up to 6 years of age; linaclotide caused deaths due to dehydration in young juvenile mice. avoid use of linzess in pediatric patients 6 through 17 years of age. the safety and efficacy of linzess has not been established in pediatric patients under 18 years of age (  4  ,   5.1  ,   8.4  ,   13.2  ).  
+    5 warnings and precautions
+
+
+
+   excerpt:    *   diarrhea: patients may experience severe diarrhea. hold or stop linzess (  5.2  ) 
+    
+ 
+
+      5.1 pediatric risk
+
+
+
+     linzess is contraindicated in children under 6 years of age. the safety and effectiveness of linzess in pediatric patients under 18 years of age have not been established. in neonatal mice, increased fluid secretion as a consequence of gc-c agonism resulted in mortality within the first 24 hours due to dehydration. due to increased intestinal expression of gc-c, children under 6 years of age may be more likely than older children and adults to develop significant diarrhea and its potentially serious consequences.
+
+
+
+    avoid use of linzess in pediatric patients 6 through 17 years of age. although there were no deaths in older juvenile mice, given the deaths in young juvenile mice and the lack of clinical safety and efficacy data in pediatric patients, avoid the use of linzess in pediatric patients 6 through 17 years of age [see contraindications (  4  ), warnings and precautions (  5.2  ), use in specific populations (  8.4  ) and nonclinical toxicology (  13.2  )]  .
+
+
+
+    5.2 diarrhea
+
+
+
+  diarrhea was the most common adverse reaction of linzess-treated patients in the pooled ibs-c and cic double-blind placebo-controlled trials. severe diarrhea was reported in 2% of the linzess-treated patients. the incidence of diarrhea was similar between the ibs-c and cic populations [see adverse reactions (  6.1  )]  .
+
+
+
+    instruct patients to stop linzess if severe diarrhea occurs and to contact their healthcare provider. the healthcare provider should consider dose suspension and rehydration [see patient counseling information (  17  )]  .

@@ -1,0 +1,721 @@
+    6 adverse reactions
+
+  because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not predict the rates observed in a broader patient population in clinical practice.
+
+
+
+   excerpt:   most common adverse reactions (incidence of at least 5%): upper respiratory tract infections, nasopharyngitis, headache, hypertension, increased alt, injection site reactions. (  6.1  )  to report suspected adverse reactions, contact genentech at 1-888-835-2555 or fda at 1-800-fda-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 clinical trials experience in rheumatoid arthritis patients treated with intravenous actemra (actemra-iv)
+
+  the actemra-iv data in rheumatoid arthritis (ra) includes 5 double-blind, controlled, multicenter studies. in these studies, patients received doses of actemra-iv 8 mg per kg monotherapy (288 patients), actemra-iv 8 mg per kg in combination with dmards (including methotrexate) (1582 patients), or actemra-iv 4 mg per kg in combination with methotrexate (774 patients).
+
+
+
+ the all exposure population includes all patients in registration studies who received at least one dose of actemra-iv. of the 4009 patients in this population, 3577 received treatment for at least 6 months, 3309 for at least one year; 2954 received treatment for at least 2 years and 2189 for 3 years.
+
+
+
+ all patients in these studies had moderately to severely active rheumatoid arthritis. the study population had a mean age of 52 years, 82% were female and 74% were caucasian.
+
+
+
+ the most common serious adverse reactions were serious infections  [see  warnings and precautions (5.1)  ]  . the most commonly reported adverse reactions in controlled studies up to 24 weeks (occurring in at least 5% of patients treated with actemra-iv monotherapy or in combination with dmards) were upper respiratory tract infections, nasopharyngitis, headache, hypertension and increased alt.
+
+
+
+ the proportion of patients who discontinued treatment due to any adverse reactions during the double-blind, placebo-controlled studies was 5% for patients taking actemra-iv and 3% for placebo-treated patients. the most common adverse reactions that required discontinuation of actemra-iv were increased hepatic transaminase values (per protocol requirement) and serious infections.
+
+
+
+     overall infections  
+
+
+
+ in the 24 week, controlled clinical studies, the rate of infections in the actemra-iv monotherapy group was 119 events per 100 patient-years and was similar in the methotrexate monotherapy group. the rate of infections in the 4 mg per kg and 8 mg per kg actemra-iv plus dmard group was 133 and 127 events per 100 patient-years, respectively, compared to 112 events per 100 patient-years in the placebo plus dmard group. the most commonly reported infections (5% to 8% of patients) were upper respiratory tract infections and nasopharyngitis.
+
+
+
+ the overall rate of infections with actemra-iv in the all exposure population remained consistent with rates in the controlled periods of the studies.
+
+
+
+     serious infections  
+
+
+
+ in the 24 week, controlled clinical studies, the rate of serious infections in the actemra-iv monotherapy group was 3.6 per 100 patient-years compared to 1.5 per 100 patient-years in the methotrexate group. the rate of serious infections in the 4 mg per kg and 8 mg per kg actemra-iv plus dmard group was 4.4 and 5.3 events per 100 patient-years, respectively, compared to 3.9 events per 100 patient-years in the placebo plus dmard group.
+
+
+
+ in the all-exposure population, the overall rate of serious infections remained consistent with rates in the controlled periods of the studies. the most common serious infections included pneumonia, urinary tract infection, cellulitis, herpes zoster, gastroenteritis, diverticulitis, sepsis and bacterial arthritis. cases of opportunistic infections have been reported  [see  warnings and precautions (5.1)  ]  .
+
+
+
+     gastrointestinal perforations  
+
+
+
+ during the 24 week, controlled clinical trials, the overall rate of gastrointestinal perforation was 0.26 events per 100 patient-years with actemra-iv therapy.
+
+
+
+ in the all-exposure population, the overall rate of gastrointestinal perforation remained consistent with rates in the controlled periods of the studies. reports of gastrointestinal perforation were primarily reported as complications of diverticulitis including generalized purulent peritonitis, lower gi perforation, fistula and abscess. most patients who developed gastrointestinal perforations were taking concomitant nonsteroidal anti-inflammatory medications (nsaids), corticosteroids, or methotrexate  [see  warnings and precautions (5.2)  ]  . the relative contribution of these concomitant medications versus actemra-iv to the development of gi perforations is not known.
+
+
+
+       infusion reactions    
+
+
+
+ in the 24 week, controlled clinical studies, adverse events associated with the infusion (occurring during or within 24 hours of the start of infusion) were reported in 8% and 7% of patients in the 4 mg per kg and 8 mg per kg actemra-iv plus dmard group, respectively, compared to 5% of patients in the placebo plus dmard group. the most frequently reported event on the 4 mg per kg and 8 mg per kg dose during the infusion was hypertension (1% for both doses), while the most frequently reported event occurring within 24 hours of finishing an infusion were headache (1% for both doses) and skin reactions (1% for both doses), including rash, pruritus and urticaria. these events were not treatment limiting.
+
+
+
+       anaphylaxis    
+
+
+
+ hypersensitivity reactions requiring treatment discontinuation, including anaphylaxis, associated with actemra-iv were reported in 0.1% (3 out of 2644) in the 24 week, controlled trials and in 0.2% (8 out of 4009) in the all-exposure population. these reactions were generally observed during the second to fourth infusion of actemra-iv. appropriate medical treatment should be available for immediate use in the event of a serious hypersensitivity reaction  [see  warnings and precautions (5.5)  ]  .
+
+
+
+     laboratory abnormalities  
+
+
+
+     neutropenia  
+
+
+
+ in the 24 week, controlled clinical studies, decreases in neutrophil counts below 1000 per mm  3  occurred in 1.8% and 3.4% of patients in the 4 mg per kg and 8 mg per kg actemra-iv plus dmard group, respectively, compared to 0.1% of patients in the placebo plus dmard group. approximately half of the instances of anc below 1000 per mm  3  occurred within 8 weeks of starting therapy. decreases in neutrophil counts below 500 per mm  3  occurred in 0.4% and 0.3% of patients in the 4 mg per kg and 8 mg per kg actemra-iv plus dmard, respectively, compared to 0.1% of patients in the placebo plus dmard group. there was no clear relationship between decreases in neutrophils below 1000 per mm  3  and the occurrence of serious infections.
+
+
+
+ in the all-exposure population, the pattern and incidence of decreases in neutrophil counts remained consistent with what was seen in the 24 week controlled clinical studies  [see  warnings and precautions (5.3)  ]  .
+
+
+
+     thrombocytopenia  
+
+
+
+ in the 24 week, controlled clinical studies, decreases in platelet counts below 100,000 per mm  3  occurred in 1.3% and 1.7% of patients on 4 mg per kg and 8 mg per kg actemra-iv plus dmard, respectively, compared to 0.5% of patients on placebo plus dmard, without associated bleeding events.
+
+
+
+ in the all-exposure population, the pattern and incidence of decreases in platelet counts remained consistent with what was seen in the 24 week controlled clinical studies  [see  warnings and precautions (5.3)  ]  .
+
+
+
+     elevated liver enzymes  
+
+
+
+ liver enzyme abnormalities are summarized in    table 1    . in patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant dmard, interruption of actemra-iv, or reduction in actemra-iv dose, resulted in decrease or normalization of liver enzymes  [see  dosage and administration (2.5)  ]  . these elevations were not associated with clinically relevant increases in direct bilirubin, nor were they associated with clinical evidence of hepatitis or hepatic insufficiency  [see  warnings and precautions (5.3)  ]  .
+
+
+
+ table 1 incidence of liver enzyme abnormalities in the 24 week controlled period of studies i to vfor a description of these studies, see section 14, clinical studies. 
+                       actemra8 mg per kg monotherapy     methotrexate    actemra4 mg per kg + dmards  actemra8 mg per kg + dmards  placebo + dmards   
+                          n = 288(%)        n = 284(%)        n = 774(%)       n = 1582(%)       n = 1170(%)      
+  
+ uln = upper limit of normal   
+  
+ ast (u/l)                                                                                                        
+ > uln to 3* uln              22                26                34                41                17          
+ > 3* uln to 5* uln          0.3                2                 1                 2                0.3          
+ > 5* uln                    0.7               0.4               0.1               0.2              < 0.1         
+ alt (u/l)                                                                                                        
+ > uln to 3* uln              36                33                45                48                23          
+ > 3* uln to 5* uln           1                 4                 5                 5                 1           
+ > 5* uln                    0.7                1                1.3               1.5               0.3          
+            in the all-exposure population, the elevations in alt and ast remained consistent with what was seen in the 24 week, controlled clinical trials
+ 
+
+     lipids  
+
+
+
+ elevations in lipid parameters (total cholesterol, ldl, hdl, triglycerides) were first assessed at 6 weeks following initiation of actemra-iv in the controlled 24 week clinical trials. increases were observed at this time point and remained stable thereafter. increases in triglycerides to levels above 500 mg per dl were rarely observed. changes in other lipid parameters from baseline to week 24 were evaluated and are summarized below:
+
+
+
+ *  -  mean ldl increased by 13 mg per dl in the actemra 4 mg per kg+dmard arm, 20 mg per dl in the actemra 8 mg per kg+dmard, and 25 mg per dl in actemra 8 mg per kg monotherapy. 
+ *  -  mean hdl increased by 3 mg per dl in the actemra 4 mg per kg+dmard arm, 5 mg per dl in the actemra 8 mg per kg+dmard, and 4 mg per dl in actemra 8 mg per kg monotherapy. 
+ *  -  mean ldl/hdl ratio increased by an average of 0.14 in the actemra 4 mg per kg+dmard arm, 0.15 in the actemra 8 mg per kg+dmard, and 0.26 in actemra 8 mg per kg monotherapy. 
+ *  -  apob/apoa1 ratios were essentially unchanged in actemra-treated patients. 
+    elevated lipids responded to lipid lowering agents.
+ 
+
+ in the all-exposure population, the elevations in lipid parameters remained consistent with what was seen in the 24 week, controlled clinical trials.
+
+
+
+       immunogenicity    
+
+
+
+ in the 24 week, controlled clinical studies, a total of 2876 patients have been tested for anti-tocilizumab antibodies. forty-six patients (2%) developed positive anti-tocilizumab antibodies, of whom 5 had an associated, medically significant, hypersensitivity reaction leading to withdrawal. thirty patients (1%) developed neutralizing antibodies.
+
+
+
+ the data reflect the percentage of patients whose test results were positive for antibodies to tocilizumab in specific assays. the observed incidence of antibody positivity in an assay is highly dependent on several factors, including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medication, and underlying disease. for these reasons, comparison of the incidence of antibodies to tocilizumab with the incidence of antibodies to other products may be misleading.
+
+
+
+       malignancies    
+
+
+
+ during the 24 week, controlled period of the studies, 15 malignancies were diagnosed in patients receiving actemra-iv, compared to 8 malignancies in patients in the control groups. exposure-adjusted incidence was similar in the actemra-iv groups (1.32 events per 100 patient-years) and in the placebo plus dmard group (1.37 events per 100 patient-years).
+
+
+
+ in the all-exposure population, the rate of malignancies remained consistent with the rate observed in the 24 week, controlled period  [see  warnings and precautions (5.4)  ]  .
+
+
+
+       other adverse reactions    
+
+
+
+ adverse reactions occurring in 2% or more of patients on 4 or 8 mg per kg actemra-iv plus dmard and at least 1% greater than that observed in patients on placebo plus dmard are summarized in    table 2  .  
+
+
+
+ table 2 adverse reactions occurring in at least 2% or more of patients on 4 or 8 mg per kg actemra plus dmard and at least 1% greater than that observed in patients on placebo plus dmard 
+ 24 week phase 3 controlled study population   
+                                 actemra8 mg per kg monotherapy    methotrexate   actemra4 mg per kg + dmards  actemra8 mg per kg + dmards  placebo + dmards   
+ preferred term                     n = 288(%)       n = 284(%)      n = 774(%)     n = 1582(%)    n = 1170(%)    
+  
+ upper respiratory tract infection         7                5               6               8              6         
+ nasopharyngitis                        7                6               4               6              4         
+ headache                               7                2               6               5              3         
+ hypertension                           6                2               4               4              3         
+ alt increased                          6                4               3               3              1         
+ dizziness                              3                1               2               3              2         
+ bronchitis                             3                2               4               3              3         
+ rash                                   2                1               4               3              1         
+ mouth ulceration                       2                2               1               2              1         
+ abdominal pain upper                   2                2               3               3              2         
+ gastritis                              1                2               1               2              1         
+ transaminase increased                 1                5               2               2              1         
+            other infrequent and medically relevant adverse reactions occurring at an incidence less than 2% in rheumatoid arthritis patients treated with actemra-iv in controlled trials were:
+ 
+
+   infections and infestations:  oral herpes simplex
+
+
+
+   gastrointestinal disorders:  stomatitis, gastric ulcer
+
+
+
+   investigations:  weight increased, total bilirubin increased
+
+
+
+   blood and lymphatic system disorders:  leukopenia
+
+
+
+   general disorders and administration site conditions:  edema peripheral
+
+
+
+   respiratory, thoracic, and mediastinal disorders  : dyspnea, cough
+
+
+
+   eye disorders:  conjunctivitis
+
+
+
+   renal disorders:  nephrolithiasis
+
+
+
+   endocrine disorders:  hypothyroidism
+
+
+
+   6.2 clinical trials experience in rheumatoid arthritis patients treated with subcutaneous actemra (actemra-sc)
+
+  the actemra-sc data in rheumatoid arthritis (ra) includes 2 double-blind, controlled, multicenter studies. study sc-i was a non-inferiority study that compared the efficacy and safety of tocilizumab 162 mg administered every week subcutaneously (sc) and 8 mg/kg intravenously (iv) every four weeks in 1262 adult subjects with rheumatoid arthritis. study sc-ii was a placebo controlled superiority study that evaluated the safety and efficacy of tocilizumab 162 mg administered every other week sc or placebo in 656 patients. all patients in both studies received background non-biologic dmards.
+
+
+
+ the safety observed for actemra administered subcutaneously was consistent with the known safety profile of intravenous actemra, with the exception of injection site reactions, which were more common with actemra-sc compared with placebo sc injections (iv arm).
+
+
+
+       injection site reactions    
+
+
+
+ in the 6-month control period, in sc-i, the frequency of injection site reactions was 10.1% (64/631) and 2.4% (15/631) for the weekly actemra-sc and placebo sc (iv-arm) groups, respectively. in sc-ii, the frequency of injection site reactions was 7.1% (31/437) and 4.1% (9/218) for the every other week sc actemra and placebo groups, respectively. these injection site reactions (including erythema, pruritus, pain and hematoma) were mild to moderate in severity. the majority resolved without any treatment and none necessitated drug discontinuation.
+
+
+
+       immunogenicity    
+
+
+
+ in the 6-month control period in sc-i, 0.8% (5/625) in the actemra-sc arm and 0.8% (5/627) in the iv arm developed anti-tocilizumab antibodies; of these, all developed neutralizing antibodies. in sc-ii, 1.6% (7/434) in the actemra-sc arm compared with 1.4 % (3/217) in the placebo arm developed anti- tocilizumab antibodies; of these, 1.4% (6/434) in the actemra-sc arm and 0.5% (1/217) in the placebo arm also developed neutralizing antibodies.
+
+
+
+ a total of 1454 (>99%) patients who received actemra-sc in the all exposure group have been tested for anti-tocilizumab antibodies. thirteen patients (0.9%) developed anti-tocilizumab antibodies, and, of these, 12 patients (0.8%) developed neutralizing antibodies.
+
+
+
+ the rate is consistent with previous intravenous experience. no correlation of antibody development to adverse events or loss of clinical response was observed.
+
+
+
+       laboratory abnormalities    
+
+
+
+     neutropenia  
+
+
+
+ during routine laboratory monitoring in the 6-month controlled clinical trials, a decrease in neutrophil count below 1 * 10  9  /l occurred in 2.9% and 3.7% of patients receiving actemra-sc weekly and every other week, respectively.
+
+
+
+ there was no clear relationship between decreases in neutrophils below 1 * 10  9  /l and the occurrence of serious infections.
+
+
+
+     thrombocytopenia  
+
+
+
+ during routine laboratory monitoring in the actemra-sc 6-month controlled clinical trials, none of the patients had a decrease in platelet count to <=50 * 10  3  /mcl.
+
+
+
+     elevated liver enzymes  
+
+
+
+ during routine laboratory monitoring in the 6-month controlled clinical trials, elevation in alt or ast >=3 * uln occurred in 6.5% and 1.4% of patients, respectively, receiving actemra-sc weekly and 3.4% and 0.7% receiving actemra sc every other week.
+
+
+
+     lipids  
+
+
+
+ during routine laboratory monitoring in the actemra-sc 6-month clinical trials, 19% of patients dosed weekly and 19.6% of patients dosed every other week and 10.2% of patients on placebo experienced sustained elevations in total cholesterol > 6.2 mmol/l (240 mg/dl), with 9%, 10.4% and 5.1% experiencing a sustained increase in ldl to 4.1 mmol/l (160 mg/dl) receiving actemra-sc weekly, every other week and placebo, respectively.
+
+
+
+   6.3 clinical trials experience in polyarticular juvenile idiopathic arthritis patients treated with intravenous actemra (actemra-iv)
+
+  the safety of actemra-iv was studied in 188 pediatric patients 2 to 17 years of age with pjia who had an inadequate clinical response or were intolerant to methotrexate. the total patient exposure in the actemra-iv all exposure population (defined as patients who received at least one dose of actemra-iv) was 184.4 patient years. at baseline, approximately half of the patients were taking oral corticosteroids and almost 80% were taking methotrexate. in general, the types of adverse drug reactions in patients with pjia were consistent with those seen in ra and sjia patients [  see  adverse reactions (6.1  and  6.4)    ].
+
+
+
+     infections  
+
+
+
+ the rate of infections in the actemra-iv all exposure population was 163.7 per 100 patient years. the most common events observed were nasopharyngitis and upper respiratory tract infections. the rate of serious infections was numerically higher in patients weighing less than 30 kg treated with 10 mg/kg tocilizumab (12.2 per 100 patient years) compared to patients weighing at or above 30 kg, treated with 8 mg/kg tocilizumab (4.0 per 100 patient years). the incidence of infections leading to dose interruptions was also numerically higher in patients weighing less than 30 kg treated with 10 mg/kg tocilizumab (21%) compared to patients weighing at or above 30 kg, treated with 8 mg/kg tocilizumab (8%).
+
+
+
+     infusion reactions  
+
+
+
+ in pjia patients, infusion-related reactions are defined as all events occurring during or within 24 hours of an infusion. in the actemra-iv all exposure population, 11 patients (6%) experienced an event during the infusion, and 38 patients (20.2%) experienced an event within 24 hours of an infusion. the most common events occurring during infusion were headache, nausea and hypotension, and occurring within 24 hours of infusion were dizziness and hypotension. in general, the adverse drug reactions observed during or within 24 hours of an infusion were similar in nature to those seen in ra and sjia patients  [see  adverse reactions (6.1  and  6.4)  ]  .
+
+
+
+ no clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation were reported.
+
+
+
+     immunogenicity  
+
+
+
+ one patient, in the 10 mg/kg less than 30 kg group, developed positive anti-tocilizumab antibodies without developing a hypersensitivity reaction and subsequently withdrew from the study.
+
+
+
+     laboratory abnormalities  
+
+
+
+     neutropenia  
+
+
+
+ during routine laboratory monitoring in the actemra-iv all exposure population, a decrease in neutrophil counts below 1 * 10  9  per l occurred in 3.7% of patients.
+
+
+
+ there was no clear relationship between decreases in neutrophils below 1 * 10  9  per l and the occurrence of serious infections.
+
+
+
+     thrombocytopenia  
+
+
+
+ during routine laboratory monitoring in the actemra-iv all exposure population, 1% of patients had a decrease in platelet count at or less than 50 * 10  3  per mcl without associated bleeding events.
+
+
+
+     elevated liver enzymes  
+
+
+
+ during routine laboratory monitoring in the actemra-iv all exposure population, elevation in alt or ast at or greater than 3 * uln occurred in 4% and less than 1% of patients, respectively.
+
+
+
+     lipids  
+
+
+
+ during routine laboratory monitoring in the tocilizumab all exposure population, elevation in total cholesterol greater than 1.5-2 * uln occurred in one patient (0.5%) and elevation in ldl greater than 1.5-2 * uln occurred in one patient (0.5%).
+
+
+
+   6.4 clinical trials experience in systemic juvenile idiopathic arthritis patients treated with intravenous actemra (actemra-iv)
+
+  the data described below reflect exposure to actemra-iv in one randomized, double-blind, placebo-controlled trial of 112 pediatric patients with sjia 2 to 17 years of age who had an inadequate clinical response to nonsteroidal anti-inflammatory drugs (nsaids) or corticosteroids due to toxicity or lack of efficacy. at baseline, approximately half of the patients were taking 0.3 mg/kg/day corticosteroids or more, and almost 70% were taking methotrexate. the trial included a 12 week controlled phase followed by an open-label extension. in the 12 week double-blind, controlled portion of the clinical study 75 patients received treatment with actemra-iv (8 or 12 mg per kg based upon body weight). after 12 weeks or at the time of escape, due to disease worsening, patients were treated with actemra-iv in the open-label extension phase.
+
+
+
+ the most common adverse events (at least 5%) seen in actemra-iv treated patients in the 12 week controlled portion of the study were: upper respiratory tract infection, headache, nasopharyngitis and diarrhea.
+
+
+
+       infections    
+
+
+
+ in the 12 week controlled phase, the rate of all infections in the actemra-iv group was 345 per 100 patient-years and 287 per 100 patient-years in the placebo group. in the open label extension over an average duration of 73 weeks of treatment, the overall rate of infections was 304 per 100 patient-years.
+
+
+
+ in the 12 week controlled phase, the rate of serious infections in the actemra-iv group was 11.5 per 100 patient years. in the open label extension over an average duration of 73 weeks of treatment, the overall rate of serious infections was 11.4 per 100 patient years. the most commonly reported serious infections included pneumonia, gastroenteritis, varicella, and otitis media.
+
+
+
+       macrophage activation syndrome    
+
+
+
+ in the 12 week controlled study, no patient in any treatment group experienced macrophage activation syndrome (mas) while on assigned treatment; 3 per 112 (3%) developed mas during open-label treatment with actemra-iv. one patient in the placebo group escaped to actemra-iv 12 mg per kg at week 2 due to severe disease activity, and ultimately developed mas at day 70. two additional patients developed mas during the long-term extension. all 3 patients had actemra-iv dose interrupted (2 patients) or discontinued (1 patient) for the mas event, received treatment, and the mas resolved without sequelae. based on a limited number of cases, the incidence of mas does not appear to be elevated in the actemra-iv sjia clinical development experience; however no definitive conclusions can be made.
+
+
+
+       infusion reactions    
+
+
+
+ patients were not premedicated, however most patients were on concomitant corticosteroids as part of their background treatment for sjia. infusion related reactions were defined as all events occurring during or within 24 hours after an infusion. in the 12 week controlled phase, 4% of actemra-iv and 0% of placebo treated patients experienced events occurring during infusion. one event (angioedema) was considered serious and life-threatening, and the patient was discontinued from study treatment.
+
+
+
+ within 24 hours after infusion, 16% of patients in the actemra-iv treatment group and 5% of patients in the placebo group experienced an event. in the actemra-iv group the events included rash, urticaria, diarrhea, epigastric discomfort, arthralgia and headache. one of these events, urticaria, was considered serious.
+
+
+
+       anaphylaxis    
+
+
+
+ anaphylaxis was reported in 1 out of 112 patients (less than 1%) treated with actemra-iv during the controlled and open label extension study  [see  warnings and precautions (5.5)  ]  .
+
+
+
+       immunogenicity    
+
+
+
+ all 112 patients were tested for anti-tocilizumab antibodies at baseline. two patients developed positive anti-tocilizumab antibodies: one of these patients experienced serious adverse events of urticaria and angioedema consistent with an anaphylactic reaction which led to withdrawal; the other patient developed macrophage activation syndrome while on escape therapy and was discontinued from the study.
+
+
+
+     laboratory abnormalities  
+
+
+
+     neutropenia  
+
+
+
+ during routine monitoring in the 12 week controlled phase, a decrease in neutrophil below 1 * 10  9  per l occurred in 7% of patients in the actemra-iv group, and in no patients in the placebo group. in the open label extension over an average duration of 73 weeks of treatment, a decreased neutrophil count occurred in 17% of the actemra-iv group. there was no clear relationship between decrease in neutrophils below 1 * 10  9  per l and the occurrence of serious infections.
+
+
+
+     thrombocytopenia  
+
+
+
+ during routine monitoring in the 12 week controlled phase, 1% of patients in the actemra-iv group and 3% in the placebo group had a decrease in platelet count to no more than 100 * 10  3  per mcl.
+
+
+
+ in the open label extension over an average duration of 73 weeks of treatment, decreased platelet count occurred in 4% of patients in the actemra-iv group, with no associated bleeding.
+
+
+
+     elevated liver enzymes  
+
+
+
+ during routine laboratory monitoring in the 12 week controlled phase, elevation in alt or ast at or above 3* uln occurred in 5% and 3% of patients, respectively in the actemra-iv group and in 0% of placebo patients.
+
+
+
+ in the open label extension over an average duration of 73 weeks of treatment, the elevation in alt or ast at or above 3* uln occurred in 13% and 5% of actemra-iv treated patients, respectively.
+
+
+
+     lipids  
+
+
+
+ during routine laboratory monitoring in the 12 week controlled phase, elevation in total cholesterol greater than 1.5* uln - 2x uln occurred in 1.5% of the actemra-iv group and in 0% of placebo patients. elevation in ldl greater than 1.5* uln - 2x uln occurred in 1.9% of patients in the actemra-iv group and 0% of the placebo group.
+
+
+
+ in the open label extension study over an average duration of 73 weeks of treatment, the pattern and incidence of elevations in lipid parameters remained consistent with the 12 week controlled study data.
+
+
+
+   6.5 postmarketing experience
+
+  the following adverse reactions have been identified during postapproval use of intravenous actemra. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ *  fatal anaphylaxis [see  warnings and precautions (5.5)  ]  
+ *  stevens-johnson syndrome 
+
+
+    boxed warning: warning: risk of serious infections
+
+    warning: risk of serious infections  
+
+    patients treated with actemra are at increased risk for developing serious infections that may lead to hospitalization or death   [see   warnings and precautions (5.1)  ,   adverse reactions (6.1)  ]  . most patients who developed these infections were taking concomitant immunosuppressants such as methotrexate or corticosteroids.   
+
+
+
+   if a serious infection develops, interrupt actemra until the infection is controlled.   
+
+
+
+   reported infections include:   
+
+
+
+ *  active tuberculosis, which may present with pulmonary or extrapulmonary disease. patients should be tested for latent tuberculosis before actemra use and during therapy. treatment for latent infection should be initiated prior to actemra use. 
+ *  invasive fungal infections, including candidiasis, aspergillosis, and pneumocystis. patients with invasive fungal infections may present with disseminated, rather than localized, disease. 
+ *  bacterial, viral and other infections due to opportunistic pathogens. 
+      the risks and benefits of treatment with actemra should be carefully considered prior to initiating therapy in patients with chronic or recurrent infection.   
+ 
+
+   patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with actemra, including the possible development of tuberculosis in patients who tested negative for latent tuberculosis infection prior to initiating therapy   [see   warnings and precautions (5.1)  ]  .   
+
+
+
+   excerpt:     warning: risk of serious infections  
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  serious infections leading to hospitalization or death including tuberculosis (tb), bacterial, invasive fungal, viral, and other opportunistic infections have occurred in patients receiving actemra. (5.1) 
+ *  if a serious infection develops, interrupt actemra until the infection is controlled. (5.1) 
+ *  perform test for latent tb; if positive, start treatment for tb prior to starting actemra. (5.1) 
+ *  monitor all patients for active tb during treatment, even if initial latent tb test is negative. (5.1) 
+    5 warnings and precautions
+
+
+
+   excerpt:    *  serious infections - do not administer actemra during an active infection, including localized infections. if a serious infection develops, interrupt actemra until the infection is controlled. (  5.1  ) 
+ *  gastrointestinal (gi) perforation - use with caution in patients who may be at increased risk. (  5.2  ) 
+ *  laboratory monitoring - recommended due to potential consequences of treatment-related changes in neutrophils, platelets, lipids, and liver function tests. (  2.7  ,  5.3  ) 
+ *  hypersensitivity reactions, including anaphylaxis and death have occurred. (  5.5  ) 
+ *  live vaccines - avoid use with actemra. (  5.8  ,  7.3  ) 
+    
+ 
+
+   5.1 serious infections
+
+
+
+  serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, protozoal, or other opportunistic pathogens have been reported in patients receiving immunosuppressive agents including actemra for rheumatoid arthritis. the most common serious infections included pneumonia, urinary tract infection, cellulitis, herpes zoster, gastroenteritis, diverticulitis, sepsis and bacterial arthritis [see  adverse reactions (6.1)  ]  . among opportunistic infections, tuberculosis, cryptococcus, aspergillosis, candidiasis, and pneumocystosis were reported with actemra. other serious infections, not reported in clinical studies, may also occur (e.g., histoplasmosis, coccidioidomycosis, listeriosis). patients have presented with disseminated rather than localized disease, and were often taking concomitant immunosuppressants such as methotrexate or corticosteroids which in addition to rheumatoid arthritis may predispose them to infections.
+
+
+
+ do not administer actemra in patients with an active infection, including localized infections. the risks and benefits of treatment should be considered prior to initiating actemra in patients:
+
+
+
+ *  with chronic or recurrent infection; 
+ *  who have been exposed to tuberculosis; 
+ *  with a history of serious or an opportunistic infection; 
+ *  who have resided or traveled in areas of endemic tuberculosis or endemic mycoses; or 
+ *  with underlying conditions that may predispose them to infection. 
+    closely monitor patients for the development of signs and symptoms of infection during and after treatment with actemra, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see  dosage and administration (2.4)  ,  adverse reactions (6.1)  , and  patient counseling information (17)  ]  .
+ 
+
+ hold actemra if a patient develops a serious infection, an opportunistic infection, or sepsis. a patient who develops a new infection during treatment with actemra should undergo a prompt and complete diagnostic workup appropriate for an immunocompromised patient, initiate appropriate antimicrobial therapy, and closely monitor the patient.
+
+
+
+    tuberculosis  
+
+
+
+ evaluate patients for tuberculosis risk factors and test for latent infection prior to initiating actemra.
+
+
+
+ consider anti-tuberculosis therapy prior to initiation of actemra in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but having risk factors for tuberculosis infection. consultation with a physician with expertise in the treatment of tuberculosis is recommended to aid in the decision whether initiating anti-tuberculosis therapy is appropriate for an individual patient.
+
+
+
+ closely monitor patients for the development of signs and symptoms of tuberculosis including patients who tested negative for latent tuberculosis infection prior to initiating therapy.
+
+
+
+ it is recommended that patients be screened for latent tuberculosis infection prior to starting actemra. the incidence of tuberculosis in worldwide clinical development programs is 0.1%. patients with latent tuberculosis should be treated with standard antimycobacterial therapy before initiating actemra.
+
+
+
+    viral reactivation  
+
+
+
+ viral reactivation has been reported with immunosuppressive biologic therapies and cases of herpes zoster exacerbation were observed in clinical studies with actemra. no cases of hepatitis b reactivation were observed in the trials; however patients who screened positive for hepatitis were excluded.
+
+
+
+    5.2 gastrointestinal perforations
+
+
+
+  events of gastrointestinal perforation have been reported in clinical trials, primarily as complications of diverticulitis in ra patients. use actemra with caution in patients who may be at increased risk for gastrointestinal perforation. promptly evaluate patients presenting with new onset abdominal symptoms for early identification of gastrointestinal perforation [see  adverse reactions (6.1)  ]  .
+
+
+
+    5.3 laboratory parameters
+
+
+
+   rheumatoid arthritis  
+
+
+
+    neutropenia  
+
+
+
+ treatment with actemra was associated with a higher incidence of neutropenia. infections have been uncommonly reported in association with treatment-related neutropenia in long-term extension studies and postmarketing clinical experience.
+
+
+
+ *  -  it is not recommended to initiate actemra treatment in patients with a low neutrophil count, i.e., absolute neutrophil count (anc) less than 2000 per mm  3  . in patients who develop an absolute neutrophil count less than 500 per mm  3  treatment is not recommended. 
+ *  -   monitor neutrophils 4 to 8 weeks after start of therapy and every 3 months thereafter [see  clinical pharmacology (12.2)  ] . for recommended modifications based on anc results see [  dosage and administration (2.7)  ] .  
+       thrombocytopenia  
+ 
+
+ treatment with actemra was associated with a reduction in platelet counts. treatment-related reduction in platelets was not associated with serious bleeding events in clinical trials [see  adverse reactions (6.1  ,  6.2)  ]  .
+
+
+
+ *  -  it is not recommended to initiate actemra treatment in patients with a platelet count below 100,000 per mm  3  . in patients who develop a platelet count less than 50,000 per mm  3  treatment is not recommended. 
+ *  -   monitor platelets 4 to 8 weeks after start of therapy and every 3 months thereafter. for recommended modifications based on platelet counts see [  dosage and administration (2.7)  ] .  
+       elevated liver enzymes  
+ 
+
+ treatment with actemra was associated with a higher incidence of transaminase elevations. these elevations did not result in apparent permanent or clinically evident hepatic injury in clinical trials [see  adverse reactions (6.1  ,  6.2)  ]  . increased frequency and magnitude of these elevations was observed when potentially hepatotoxic drugs (e.g., mtx) were used in combination with actemra.
+
+
+
+ in one case, a patient who had received actemra 8 mg per kg monotherapy without elevations in transaminases experienced elevation in ast to above 10* uln and elevation in alt to above 16* uln when mtx was initiated in combination with actemra. transaminases normalized when both treatments were held, but elevations recurred when mtx and actemra were restarted at lower doses. elevations resolved when mtx and actemra were discontinued.
+
+
+
+ *  -  it is not recommended to initiate actemra treatment in patients with elevated transaminases alt or ast greater than 1.5* uln. in patients who develop elevated alt or ast greater than 5* uln treatment is not recommended. 
+ *  -   monitor alt and ast levels 4 to 8 weeks after start of therapy and every 3 months thereafter. when clinically indicated, other liver function tests such as bilirubin should be considered. for recommended modifications based on transaminases see [  dosage and administration (2.7)  ] .  
+        lipid abnormalities    
+ 
+
+ treatment with actemra was associated with increases in lipid parameters such as total cholesterol, triglycerides, ldl cholesterol, and/or hdl cholesterol [see  adverse reactions (6.1  ,  6.2)  ]  .
+
+
+
+ *  -  assess lipid parameters approximately 4 to 8 weeks following initiation of actemra therapy, then at approximately 24 week intervals. 
+ *  -  manage patients according to clinical guidelines [e.g., national cholesterol educational program (ncep)] for the management of hyperlipidemia. 
+       polyarticular and systemic juvenile idiopathic arthritis  
+ 
+
+ a similar pattern of liver enzyme elevation, low neutrophil count, low platelet count and lipid elevations is noted with actemra treatment in the pjia and sjia populations. monitor neutrophils, platelets, alt and ast at the time of the second infusion and thereafter every 4 to 8 weeks for pjia and every 2 to 4 weeks for sjia. monitor lipids as above for ra [see  dosage and administration (2.7)  ]  .
+
+
+
+    5.4 immunosuppression
+
+
+
+  the impact of treatment with actemra on the development of malignancies is not known but malignancies were observed in clinical studies [see  adverse reactions (6.1)  ]  . actemra is an immunosuppressant, and treatment with immunosuppressants may result in an increased risk of malignancies.
+
+
+
+    5.5 hypersensitivity reactions, including anaphylaxis
+
+
+
+   hypersensitivity reactions, including anaphylaxis, have been reported in association with actemra [see  adverse reactions (6)  ]  and anaphylactic events with a fatal outcome have been reported with intravenous infusion of actemra. anaphylaxis and other hypersensitivity reactions that required treatment discontinuation were reported in 0.1% (3 out of 2644) of patients in the 6-month controlled trials of intravenous actemra, 0.2% (8 out of 4009) of patients in the intravenous all-exposure ra population, 0.7% (8 out of 1068) in the subcutaneous 6-month controlled ra trials, and in 0.7% (10 out of 1465) of patients in the subcutaneous all-exposure population. in the sjia controlled trial with intravenous actemra, 1 out of 112 patients (0.9%) experienced hypersensitivity reactions that required treatment discontinuation. in the pjia controlled trial with intravenous actemra, 0 out of 188 patients (0%) in the actemra all-exposure population experienced hypersensitivity reactions that required treatment discontinuation. reactions that required treatment discontinuation included generalized erythema, rash, and uticaria. injection site reactions were categorized separately [s ee  adverse reactions (6)    ].  
+
+
+
+  in the postmarketing setting, events of hypersensitivity reactions, including anaphylaxis and death have occurred in patients treated with a range of doses of intravenous actemra, with or without concomitant arthritis therapies.  events have occurred in patients who received premedication. hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of actemra [see  adverse reactions (6.5)  ]  . actemra for intravenous use should only be infused by a healthcare professional with appropriate medical support to manage anaphylaxis. for actemra subcutaneous injection, advise patients to seek immediate medical attention if they experience any symptoms of a hypersensitivity reaction. if anaphylaxis or other hypersensitivity reaction occurs, stop administration of actemra immediately and discontinue actemra permanently. do not administer actemra to patients with known hypersensitivity to actemra [see  contraindications (4)  and  adverse reactions (6)  ]  .
+
+
+
+    5.6 demyelinating disorders
+
+
+
+  the impact of treatment with actemra on demyelinating disorders is not known, but multiple sclerosis and chronic inflammatory demyelinating polyneuropathy were reported rarely in ra clinical studies. monitor patients for signs and symptoms potentially indicative of demyelinating disorders. prescribers should exercise caution in considering the use of actemra in patients with preexisting or recent onset demyelinating disorders.
+
+
+
+    5.7 active hepatic disease and hepatic impairment
+
+
+
+  treatment with actemra is not recommended in patients with active hepatic disease or hepatic impairment [see  adverse reactions (6.1)  ,  use in specific populations (8.6)  ]  .
+
+
+
+    5.8 vaccinations
+
+
+
+  avoid use of live vaccines concurrently with actemra as clinical safety has not been established. no data are available on the secondary transmission of infection from persons receiving live vaccines to patients receiving actemra.
+
+
+
+ no data are available on the effectiveness of vaccination in patients receiving actemra. because il-6 inhibition may interfere with the normal immune response to new antigens, it is recommended that all patients, particularly pjia and sjia patients, if possible, be brought up to date with all immunizations in agreement with current immunization guidelines prior to initiating actemra therapy. the interval between live vaccinations and initiation of actemra therapy should be in accordance with current vaccination guidelines regarding immunosuppressive agents.

@@ -1,0 +1,290 @@
+      6         adverse reactions  
+
+  the following serious adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *  suicidal behavior and ideation [see warnings and precautions (    5.1    )]  
+ *  central nervous system reactions [see warnings and precautions (    5.2    )]  
+ *  qt shortening [see warnings and precautions (    5.3    )]  
+ *  multi-organ hypersensitivity/drug reaction with eosinophilia and systemic symptoms (dress)  [see warnings and precautions (    5.4    )]  
+ *  leukopenia [see warnings and precautions (    5.7    )]  
+      excerpt:   most common adverse reactions (>= 10% and greater than placebo) were headache, dizziness, fatigue, somnolence, and nausea (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact eisai, inc. at 1-888-274-2378 or www.banzel.com or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+    6.1         clinical    trials    experience  
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+   adverse reactions in    adult and pediatric patients ages    3    to 17 years of age  
+
+
+
+ in the pooled, double-blind, adjunctive therapy studies in adult and pediatric patients ages 3 to 17 years of age, the most common (>=10%) adverse reactions in banzel-treated patients, in all doses studied (200 to 3200 mg per day) with a higher frequency than in patients on placebo were: headache, dizziness, fatigue, somnolence, and nausea.
+
+
+
+ table 2 lists adverse reactions that occurred in at least 3% of pediatric patients (ages 3 to less than 17 years) with epilepsy treated with banzel in controlled adjunctive studies and were numerically more common in patients treated with banzel than in patients on placebo.
+
+
+
+ at the target dose of 45 mg/kg per day for adjunctive therapy in pediatric patients (ages 3 to less than 17 years), the most common (>=3%) adverse reactions with an incidence greater than in placebo for banzel were somnolence, vomiting, and headache.
+
+
+
+ table 2: adverse reactions in pediatric patients (ages 3 to less than 17 years) in pooled double-blind adjunctive trials 
+   adverse reaction      banzel    (n=187)    %      placebo    (n=182)    %     
+ somnolence       17               9                 
+ vomiting         17               7                 
+ headache         16               8                 
+ fatigue          9                8                 
+ dizziness        8                6                 
+ nausea           7                3                 
+ influenza        5                4                 
+ nasopharyngitis  5                3                 
+ decreased appetite  5                2                 
+ rash             4                2                 
+ ataxia           4                1                 
+ diplopia         4                1                 
+ bronchitis       3                2                 
+ sinusitis        3                2                 
+ psychomotor hyperactivity  3                1                 
+ upper abdominal pain  3                2                 
+ aggression       3                2                 
+ ear infection    3                1                 
+ disturbance in attention  3                1                 
+ pruritis         3                0                 
+         table 3 lists adverse reactions that occurred in at least 3% of adult patients with epilepsy treated with banzel (up to 3200 mg per day) in adjunctive controlled studies and were numerically more common in patients treated with banzel than in patients on placebo. in these studies, either banzel or placebo was added to the current aed therapy.
+ 
+
+ at all doses studied of up to 3200 mg per day given as adjunctive therapy in adults, the most common (>= 3%) adverse reactions, and with the greatest increase in incidence compared to placebo, for banzel were dizziness, fatigue, nausea, diplopia, vision blurred, and ataxia.
+
+
+
+ table 3: adverse reactions in adults in pooled double-blind adjunctive trials 
+   adverse reaction      banzel    (n=823)    %      placebo    (n=376)    %     
+ headache         27               26                
+ dizziness        19               12                
+ fatigue          16               10                
+ nausea           12               9                 
+ somnolence       11               9                 
+ diplopia         9                3                 
+ tremor           6                5                 
+ nystagmus        6                5                 
+ blurred vision   6                2                 
+ vomiting         5                4                 
+ ataxia           4                0                 
+ upper abdominal pain  3                2                 
+ anxiety          3                2                 
+ constipation     3                2                 
+ dyspepsia        3                2                 
+ back pain        3                1                 
+ gait disturbance  3                1                 
+ vertigo          3                1                 
+           discontinuation in controlled clinical studies  
+ 
+
+ in controlled, double-blind, adjunctive clinical studies, 9% of pediatric and adult patients receiving banzel as adjunctive therapy and 4% receiving placebo discontinued as a result of an adverse reaction. the adverse reactions most commonly leading to discontinuation of banzel (>1%) used as adjunctive therapy were generally similar in adults and pediatric patients.
+
+
+
+ in pediatric patients (ages 4 to less than 17 years) double-blind adjunctive clinical studies, 8% of patients receiving banzel as adjunctive therapy (at the recommended dose of 45 mg/kg per day) and 2% receiving placebo discontinued as a result of an adverse reaction. the adverse reactions most commonly leading to discontinuation of banzel (>1%) used as adjunctive therapy are presented in table 4.
+
+
+
+ table 4: most common adverse reactions leading to discontinuation in pediatric patients (ages 4 to less than 17 years) in pooled double-blind adjunctive trials 
+   adverse    reaction      banzel    (n=187)    %      placebo    (n=182)    %     
+ convulsion       2                1                 
+ rash             2                1                 
+ fatigue          2                0                 
+ vomiting         1                0                 
+         in adult double-blind, adjunctive clinical studies, 10% of patients receiving banzel as adjunctive therapy (at doses up to 3200 mg per day) and 6% receiving placebo discontinued as a result of an adverse reaction. the adverse reactions most commonly leading to discontinuation of banzel (>1%) used as adjunctive therapy are presented in table 5.
+ 
+
+ table 5: most common adverse reactions leading to discontinuation in adult patients in pooled double-blind adjunctive trials 
+   adverse reaction      banzel    (n=823)    %      placebo    (n=376)    %     
+ dizziness        3                1                 
+ fatigue          2                1                 
+ headache         2                1                 
+ nausea           1                0                 
+ ataxia           1                0                 
+           pediatric    patients    age    s    1         to    less than 4 years  
+ 
+
+ in a multicenter, parallel group, open-label study comparing banzel (45 mg/kg per day) adjunctive treatment (n=25) to the adjunctive treatment with an aed of the investigator's choice (n=11) in pediatric patients (1 year to less than 4 years of age) with inadequately controlled lennox-gastaut syndrome, the adverse reaction profile was generally similar to that observed in adults and pediatric patients 4 years of age and older treated with banzel. adverse reactions that occurred in at least 2 (8 %) banzel-treated patients and with a higher frequency than in the aed comparator group were: vomiting (24%), somnolence (16%), bronchitis (12%), constipation (12%), cough (12%), decreased appetite (12%), rash (12%), otitis media (8%), pneumonia (8%), decreased weight (8%), gastroenteritis (8%), nasal congestion (8%), and pneumonia aspiration (8%).  
+
+
+
+   other adverse    reactions    observed during clinical trials  
+
+
+
+ banzel has been administered to 1978 individuals during all epilepsy clinical trials (placebo-controlled and open-label). adverse reactions occurring during these studies were recorded by the investigators using terminology of their own choosing. to provide a meaningful estimate of the proportion of patients having adverse reactions, these events were grouped into standardized categories using the meddra dictionary. adverse events occurring at least three times and considered possibly related to treatment are included in the system organ class listings below. terms not included in the listings are those already included in the tables above, those too general to be informative, those related to procedures, and terms describing events common in the population. some events occurring fewer than 3 times are also included based on their medical significance. because the reports include events observed in open-label, uncontrolled observations, the role of banzel in their causation cannot be reliably determined.
+
+
+
+ events are classified by body system and listed in order of decreasing frequency as follows:  frequent adverse events  -those occurring in at least 1/100 patients; infrequent adverse events-those occurring in 1/100 to 1/1000 patients;  rare  -those occurring in fewer than 1/1000 patients.
+
+
+
+ blood and lymphatic system disorders:  frequent:  anemia.  infrequent:  lymphadenopathy, leukopenia, neutropenia, iron deficiency anemia, thrombocytopenia.
+
+
+
+ cardiac disorders:  infrequent:  bundle branch block right, atrioventricular block first degree.
+
+
+
+ metabolic and nutritional disorders:  frequent:  decreased appetite, increased appetite.
+
+
+
+ renal and urinary disorders:  frequent:  pollakiuria.  infrequent:  urinary incontinence, dysuria, hematuria, nephrolithiasis, polyuria, enuresis, nocturia, incontinence.
+
+
+
+     6.2         post    m    arketing experience  
+
+  the following adverse reactions have been identified during post approval use of banzel. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   dermatologic:   stevens-johnson syndrome and other serious skin rashes with mucosal involvement. 
+     5        warnings and precautions  
+
+
+
+   excerpt:    *  monitor patients for new or worsening depression, suicidal thoughts/behavior, and unusual changes in mood or behavior (  5.1  ) 
+ *  central nervous system reactions can occur (  5.2  ) 
+ *  use caution when administering banzel with other drugs that shorten the qt interval (  5.3  ) 
+ *  discontinue banzel if multi-organ hypersensitivity reaction occurs (  5.4  ) 
+ *  withdraw banzel gradually to minimize the risk of precipitating seizures, seizure exacerbation, or status epilepticus (  5.5  ) 
+    
+ 
+
+    5.1        suicidal behavior and ideation  
+
+
+
+  antiepileptic drugs (aeds), including banzel, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication. patients treated with any aed for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
+
+
+
+ pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different aeds showed that patients randomized to one of the aeds had approximately twice the risk (adjusted relative risk 1.8, 95% ci:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo. in these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 aed-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated. there were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
+
+
+
+ the increased risk of suicidal thoughts or behavior with aeds was observed as early as 1 week after starting drug treatment with aeds and persisted for the duration of treatment assessed. because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
+
+
+
+ the risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed. the finding of increased risk with aeds of varying mechanisms of action and across a range of indications suggests that the risk applies to all aeds used for any indication. the risk did not vary substantially by age (5-100 years) in the clinical trials analyzed. table 1 shows absolute and relative risk by indication for all evaluated aeds.
+
+
+
+ table 1: absolute and relative risk of suicidal behavior and ideation 
+ indication       placebo patients with eventsper 1000 patients  drug patientswith events per1000 patients  relative risk:incidence ofevents in drug patients/incidence in placebo patients  risk difference: additional drug patients with events per 1000 patients   
+ epilepsy         1.0              3.4              3.5              2.4               
+ psychiatric      5.7              8.5              1.5              2.9               
+ other            1.0              1.8              1.9              0.9               
+ total            2.4              4.3              1.8              1.9               
+           the relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
+ 
+
+ anyone considering prescribing banzel or any other aed must balance the risk of suicidal thoughts or behavior with the risk of untreated illness. epilepsy and many other illnesses for which aeds are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior. should suicidal thoughts and behavior emerge during treatment, consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
+
+
+
+ patients, their caregivers, and families should be informed that aeds increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm. behaviors of concern should be reported immediately to healthcare providers.
+
+
+
+     5.2        c   entral nervous system reactions  
+
+
+
+  use of banzel has been associated with central nervous system-related adverse reactions in the controlled clinical trial of patients 4 years or older with lennox-gastaut syndrome. the most significant of these can be classified into two general categories: 1) somnolence or fatigue, and 2) coordination abnormalities, dizziness, gait disturbances, and ataxia.
+
+
+
+ somnolence was reported in 24% of banzel-treated patients compared to 13% of patients on placebo, and led to study discontinuation in 3% of banzel-treated patients compared to 0% of patients on placebo. fatigue was reported in 10% of banzel-treated patients compared to 8% of patients on placebo patients. it led to study discontinuation in 1% of banzel-treated patients and 0% of patients on placebo patients.
+
+
+
+ dizziness was reported in 2.7% of banzel-treated patients compared to 0% of patients on placebo, and did not lead to study discontinuation.
+
+
+
+ ataxia and gait disturbance were reported in 5.4% and 1.4% of banzel-treated patients, respectively, compared to no patient on placebo. none of these reactions led to study discontinuation.
+
+
+
+ accordingly, patients should be advised not to drive or operate machinery until they have gained sufficient experience on banzel to gauge whether it adversely affects their ability to drive or operate machinery.
+
+
+
+     5.3        qt shortening  
+
+
+
+  formal cardiac ecg studies demonstrated shortening of the qt interval (mean = 20 msec, for doses >  2400 mg twice daily) with banzel. in a placebo-controlled study of the qt interval, a higher percentage of banzel-treated subjects (46% at 2400 mg, 46% at 3200 mg, and 65% at 4800 mg) had a qt shortening of greater than 20 msec at tmaxcompared to placebo (5-10%). 
+
+
+
+ reductions of the qt interval below 300 msec were not observed in the formal qt studies with doses up to 7200 mg per day. moreover, there was no signal for drug-induced sudden death or ventricular arrhythmias.
+
+
+
+ the degree of qt shortening induced by banzel is without any known clinical risk.  familial short qt syndrome is associated with an increased risk of sudden death and ventricular arrhythmias, particularly ventricular fibrillation.  such events in this syndrome are believed to occur primarily when the corrected qt interval falls below 300 msec. non-clinical data also indicate that qt shortening is associated with ventricular fibrillation.
+
+
+
+ patients with familial short qt syndrome should not be treated with banzel. caution should be used when administering banzel with other drugs that shorten the qt interval [ see   contraindications   (     4     )  ]. 
+
+
+
+     5.4        multi-organ hypersensitivity   /drug reaction with eosinophilia and systemic symptoms (dress)  
+
+
+
+  drug reaction with eosinophilia and systemic symptoms (dress), also known as multi-organ hypersensitivity, has been reported in patients taking antiepileptic drugs, including banzel.  dress may be fatal or life-threatening. dress typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection. eosinophilia is often present. it is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.  because this disorder is variable in its expression, other organ systems not noted here may be involved. 
+
+
+
+ all cases of dress identified in clinical trials with banzel occurred in pediatric patients less than 12 years of age, occurred within 4 weeks of treatment initiation, and resolved or improved with banzel discontinuation. dress has also been reported in adult and pediatric patients taking banzel in the postmarketing setting.
+
+
+
+ if dress is suspected, the patient should be evaluated immediately, banzel should be discontinued, and alternative treatment should be started.
+
+
+
+     5.5        withdrawal of aeds  
+
+
+
+  as with all antiepileptic drugs, banzel should be withdrawn gradually to minimize the risk of precipitating seizures, seizure exacerbation, or status epilepticus. if abrupt discontinuation of the drug is medically necessary, the transition to another aed should be made under close medical supervision. in clinical trials, banzel discontinuation was achieved by reducing the dose by approximately 25% every 2 days.
+
+
+
+     5.6        status epilepticus  
+
+
+
+  estimates of the incidence of treatment emergent status epilepticus among patients treated with banzel are difficult because standard definitions were not employed. in a controlled lennox-gastaut syndrome trial, 3 of 74 (4.1%) banzel-treated patients had episodes that could be described as status epilepticus in the banzel-treated patients compared with none of the 64 patients in the placebo-treated patients. in all controlled trials that included patients with different epilepsies, 11 of 1240 (0.9%) banzel-treated patients had episodes that could be described as status epilepticus compared with none of 635 patients in the placebo-treated patients.
+
+
+
+     5.7        leukopenia  
+
+
+
+  banzel has been shown to reduce white cell count. leukopenia (white cell count < 3x10  9  l) was more commonly observed in banzel-treated patients 43 of 1171 (3.7%) than placebo-treated patients, 7 of 579 (1.2%) in all controlled trials.

@@ -1,0 +1,318 @@
+    6 adverse reactions
+
+  the following serious adverse reactions have been associated with synribo in clinical trials and are discussed in greater detail in other sections of the label.
+
+
+
+ *    myelosuppression [see warnings and precautions (  5.1  )]  
+ *    bleeding [see warnings and precautions (  5.2  )]  
+ *    hyperglycemia [see warnings and precautions (  5.3  )]  
+    because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+ 
+
+ the safety data for synribo are from 3 clinical trials which enrolled a total of 163 adult patients with tki resistant and/or intolerant chronic phase (n=108) and accelerated phase (n=55) cml. all patients were treated with initial induction therapy consisting of a dose of 1.25 mg/m  2  administered subcutaneously twice daily for 14 consecutive days every 28 days (induction cycle). responding patients were then treated with the same dose and a twice daily schedule for 7 consecutive days every 28 days (maintenance cycle).
+
+
+
+   excerpt:   cml-chronic phase and accelerated phase: most common adverse reactions (frequency >= 20%): thrombocytopenia, anemia, neutropenia, diarrhea, nausea, fatigue, asthenia, injection site reaction, pyrexia, infection, and lymphopenia (  6.1  ).
+
+
+
+   to report suspected adverse reactions, contact teva pharmaceuticals usa, inc. at 1-800-896-5855 or fda at 1-800-fda-1088 or      www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+    chronic phase cml  
+
+
+
+ the median duration of exposure for the 108 patients with chronic phase cml was 7.4 months (range 0 to 43 months). the median total cycles of exposure was 6 (range 1 to 41), and the median total dose delivered during the trials was 131 mg/m  2  (range 1.2 to 678). among the patients with chronic phase cml, 87% received 14 days of treatment during cycle 1. by cycles 2 and 3, the percentage of patients receiving 14 days of treatment decreased to 42% and 16% respectively. of the 91 patients who received at least 2 cycles of treatment, 79 (87%) had at least 1 cycle delay during the trials. the median number of days of cycle delays was greatest for cycle 2 (17 days) and cycle 3 (25 days) when more patients were receiving induction cycles.
+
+
+
+ adverse reactions were reported for 99% of the patients with chronic phase cml. a total of 18% of patients had adverse reactions leading to withdrawal. the most frequently occurring adverse reactions leading to discontinuation were pancytopenia, thrombocytopenia, and increased alanine aminotransferase (each 2%). a total of 87% of patients reported at least 1 grade 3 or grade 4 treatment emergent adverse reaction (  table 2  ).
+
+
+
+ table 2: adverse reactions occurringoccurred in the period between the first dose and 30 days after the last dose. in at least 10% of patients (chronic myeloid leukemia - chronic phase) 
+                                                                  number (%) of patients(n=108)    
+  adverse reactions                                               all reactions    grade 3 or 4 reactions    
+  patients with at least 1 commonly occurring adverse reaction    107 (99)         94 (87)                   
+  blood and lymphatic system disorders                                                                       
+                                                                 thrombocytopenia                                               
+                                                                                                                                  82 (76)          73 (68)                   
+                                                                 anemia                                                         
+                                                                                                                                  66 (61)          39 (36)                   
+                                                                 neutropenia                                                    
+                                                                                                                                  57 (53)          51 (47)                   
+                                                                 lymphopenia                                                    
+                                                                                                                                  18 (17)          17 (16)                   
+                                                                 bone marrow failure                                            
+                                                                                                                                  11 (10)          11 (10)                   
+                                                                 febrile neutropenia                                            
+                                                                                                                                  11 (10)          11 (10)                   
+  gastrointestinal disorders                                                                                 
+                                                                 diarrhea                                                       
+                                                                                                                                  44 (41)          1 (1)                     
+                                                                 nausea                                                         
+                                                                                                                                  38 (35)          1 (1)                     
+                                                                 constipation                                                   
+                                                                                                                                  15 (14)          0                         
+                                                                 abdominal pain/upper abdominal pain                            
+                                                                                                                                  25 (23)          0                         
+                                                                 vomiting                                                       
+                                                                                                                                  13 (12)          0                         
+  general disorders and administration site conditions                                                       
+                                                                 fatigue                                                        
+                                                                                                                                  31 (29)          5 (5)                     
+                                                                 pyrexia                                                        
+                                                                                                                                  27 (25)          1 (1)                     
+                                                                 asthenia                                                       
+                                                                                                                                  25 (23)          1 (1)                     
+                                                                 edema peripheral                                               
+                                                                                                                                  17 (16)          0                         
+                                                                ast_print:dispatch: unexpected key: "footnote" in dispatch table: {'*item_func*': <function ignore_element at 0x7fe5e1c95578>, 'list': <function print_list at 0x7fe5e1c95d70>, 'text': <function print_text at 0x7fe5e1c955f0>, 'caption': <function print_caption at 0x7fe5e1c959b0>}
+ infusion and injection site related reactions                  
+                                                                                                                                  38 (35)          0                         
+  infections and infestationsinfection includes bacterial, viral, fungal, and non-specified.    52 (48)          12 (11)                   
+  metabolism and nutrition disorders                                                                         
+                                                                 anorexia                                                       
+                                                                                                                                  11 (10)          1 (1)                     
+  musculoskeletal and connective tissue disorders                                                            
+                                                                 arthralgia                                                     
+                                                                                                                                  20 (19)          1 (1)                     
+                                                                 pain in extremity                                              
+                                                                                                                                  14 (13)          1 (1)                     
+                                                                 back pain                                                      
+                                                                                                                                  13 (12)          2 (2)                     
+                                                                 myalgia                                                        
+                                                                                                                                  12 (11)          1 (1)                     
+  nervous system disorders                                                                                   
+                                                                 headache                                                       
+                                                                                                                                  22 (20)          1 (1)                     
+  psychiatric disorders                                                                                      
+                                                                 insomnia                                                       
+                                                                                                                                  13 (12)          1 (1)                     
+  respiratory, thoracic and mediastinal disorders                                                            
+                                                                 cough                                                          
+                                                                                                                                  17 (16)          1 (1)                     
+                                                                 epistaxis                                                      
+                                                                                                                                  18 (17)          1 (1)                     
+  skin and subcutaneous tissue disorders                                                                     
+                                                                 alopecia                                                       
+                                                                                                                                  16 (15)          0                         
+                                                                 rash                                                           
+                                                                                                                                  12 (11)          0                         
+         serious adverse reactions were reported for 51% of patients. serious adverse reactions reported for at least 5% of patients were bone marrow failure and thrombocytopenia (each 10%), and febrile neutropenia (6%). serious adverse reactions of infections were reported for 8% of patients.
+ 
+
+ deaths occurred while on study in five (5%) patients with cp cml. two patients died due to cerebral hemorrhage, one due to multi-organ failure, one due to progression of disease, and one from unknown causes.
+
+
+
+   accelerated phase cml  
+
+
+
+ median total cycles of exposure was 2 (range 1 to 29), and the median total dose delivered during the trials was 70 mg/m  2  . the median duration of exposure for the 55 patients with accelerated phase cml was 1.9 months (range 0 to 30 months). of the patients with accelerated phase cml, 86% received 14 days of treatment during cycle 1. by cycles 2 and 3, the percentage of patients receiving 14 days of treatment decreased to 55% and 44% respectively. of the 40 patients who received at least 2 cycles of treatment, 27 (68%) had at least 1 cycle delay during the trials. the median number of days of cycle delays was greatest for cycle 3 (31 days) and cycle 8 (36 days).
+
+
+
+ adverse reactions regardless of investigator attribution were reported for 100% patients with accelerated phase cml. a total of 33% of patients had adverse reactions leading to withdrawal. the most frequently occurring adverse reactions leading to withdrawal were leukocytosis (6%), and thrombocytopenia (4%). a total of 84% of patients reported at least 1 grade 3 or grade 4 treatment emergent adverse reaction (  table 3  ).
+
+
+
+ table 3: adverse reactions occurringoccurred in the period between the first dose and 30 days after the last dose. in at least 10% of patients (chronic myeloid leukemia - accelerated phase) 
+                                                                  number (%) of patients(n=55)    
+  adverse reactions                                               all reactions    grade 3 or 4 reactions    
+  patients with at least 1 commonly occurring adverse reaction    55 (100)         47 (86)                   
+  blood and lymphatic system disorders                                                                       
+                                                                 anemia                                                         
+                                                                                                                                  28 (51)          21 (38)                   
+                                                                 febrile neutropenia                                            
+                                                                                                                                  11 (20)          9 (16)                    
+                                                                 neutropenia                                                    
+                                                                                                                                  11 (20)          10 (18)                   
+                                                                 thrombocytopenia                                               
+                                                                                                                                  32 (58)          27 (49)                   
+  gastrointestinal disorders                                                                                 
+                                                                 diarrhea                                                       
+                                                                                                                                  19 (35)          4 (7)                     
+                                                                 nausea                                                         
+                                                                                                                                  16 (29)          2 (4)                     
+                                                                 vomiting                                                       
+                                                                                                                                  9 (16)           1 (2)                     
+                                                                 abdominal pain/upper abdominal pain                            
+                                                                                                                                  9 (16)           0                         
+  general disorders and administration site conditions                                                       
+                                                                 fatigue                                                        
+                                                                                                                                  17 (31)          5 (9)                     
+                                                                 pyrexia                                                        
+                                                                                                                                  16 (29)          1 (2)                     
+                                                                 asthenia                                                       
+                                                                                                                                  13 (24)          1 (2)                     
+                                                                 chills                                                         
+                                                                                                                                  7 (13)           0                         
+                                                                ast_print:dispatch: unexpected key: "footnote" in dispatch table: {'*item_func*': <function ignore_element at 0x7fe5e1c95578>, 'list': <function print_list at 0x7fe5e1c95d70>, 'text': <function print_text at 0x7fe5e1c955f0>, 'caption': <function print_caption at 0x7fe5e1c959b0>}
+ infusion and injection site related reactions                  
+                                                                                                                                  12 (22)          0                         
+  infections and infestationsinfection includes bacterial, viral, fungal, and non-specified.    31 (56)          11 (20)                   
+  metabolism and nutrition disorders                                                                         
+                                                                 anorexia                                                       
+                                                                                                                                  7 (13)           1 (2)                     
+  musculoskeletal and connective tissue disorders                                                            
+                                                                 pain in extremity                                              
+                                                                                                                                  6 (11)           1 (2)                     
+  nervous system disorders                                                                                   
+                                                                 headache                                                       
+                                                                                                                                  7 (13)           0                         
+  respiratory, thoracic and mediastinal disorders                                                            
+                                                                 cough                                                          
+                                                                                                                                  8 (15)           0                         
+                                                                 dyspnea                                                        
+                                                                                                                                  6 (11)           1 (2)                     
+                                                                 epistaxis                                                      
+                                                                                                                                  6 (11)           1 (2)                     
+         serious adverse reactions were reported for 60% of patients. serious adverse reactions reported for at least 5% of patients were febrile neutropenia (18%), thrombocytopenia (9%), anemia (7%), and diarrhea (6%). serious adverse reactions of infections were reported for 11% of patients.
+ 
+
+ death occurred while on study in 5 (9%) patients with ap cml. two patients died due to cerebral hemorrhage and three due to progression of disease.
+
+
+
+   laboratory abnormalities in chronic and accelerated phase cml  
+
+
+
+ grade 3/4 laboratory abnormalities reported in patients with chronic and accelerated phase cml are described in  table 4  . myelosuppression occurred in all patients treated with synribo  [see warnings and precautions (  5.1  )].  five patients with chronic phase cml and 4 patients with accelerated phase cml permanently discontinued synribo due to pancytopenia, thrombocytopenia, febrile neutropenia, or bone marrow necrosis. an event of hyperosmolar non-ketotic hyperglycemia was reported in one patient in the safety population and a similar case has been reported in the literature. two patients with chronic phase cml permanently discontinued synribo due to elevated transaminases.
+
+
+
+ table 4: grade 3/4 laboratory abnormalities in clinical studies in patients with chronic phase and accelerated phase cml 
+                                               chronic phase      accelerated phase     
+                                               %                  %                     
+  hematology parameters                                                                 
+  hemoglobin decreased                         62  72             80                    
+  leukocytes decreased                         61                 
+  neutrophils decreased                        81  85             71                    
+  platelets decreased                          88                 
+  biochemistry parameters                                                               
+  alanine aminotransferase (alt) increased     6                  2                     
+  bilirubin increased  creatinine increased    9  9               6  16                 
+  glucose increased                            10                 15                    
+  uric acid increased                          56                 57                    
+  glucose decreased                            8                  6                     
+           6.2 additional data from safety population
+   the following adverse reactions were reported in patients in the synribo clinical studies of patients with chronic phase and accelerated phase cml at a frequency of 1% to less than 10%. within each category, adverse reactions are ranked on the basis of frequency.
+
+
+
+   cardiac disorders:  tachycardia, palpitations, acute coronary syndrome, angina pectoris, arrhythmia, bradycardia, ventricular extrasystoles.
+
+
+
+   ear and labyrinth disorders:  ear pain, ear hemorrhage, tinnitus.
+
+
+
+   eye disorders:  cataract, vision blurred, conjunctival hemorrhage, dry eye, lacrimation increased, conjunctivitis, diplopia, eye pain, eyelid edema.
+
+
+
+   gastrointestinal disorders:  stomatitis, mouth ulceration, abdominal distension, dyspepsia, gastroesophageal reflux disease, gingival bleeding, aphthous stomatitis, dry mouth, hemorrhoids, gastritis, gastrointestinal hemorrhage, melena, mouth hemorrhage, oral pain, anal fissure, dysphagia, gingival pain, gingivitis.
+
+
+
+   general disorders and administration site conditions:  mucosal inflammation, pain, chest pain, hyperthermia, influenza-like illness, catheter site pain, general edema, malaise.
+
+
+
+   immune system disorders:  hypersensitivity.
+
+
+
+   injury, poisoning and procedural complications:  contusion, transfusion reaction.
+
+
+
+   metabolism and nutrition disorders:  decreased appetite, diabetes mellitus, gout, dehydration.
+
+
+
+   musculoskeletal and connective tissue disorders:  bone pain, myalgia, muscular weakness, muscle spasms, musculoskeletal chest pain, musculoskeletal pain, musculoskeletal stiffness, musculoskeletal discomfort.
+
+
+
+   nervous system disorders:  dizziness, cerebral hemorrhage, paresthesia, convulsion, hypoesthesia, lethargy, sciatica, burning sensation, dysgeusia, tremor.
+
+
+
+   psychiatric disorders:  anxiety, depression, agitation, confusional state, mental status change.
+
+
+
+   renal and urinary disorders:  dysuria.
+
+
+
+   respiratory, thoracic and mediastinal disorders:  pharyngolaryngeal pain, nasal congestion, dysphonia, productive cough, rales, rhinorrhea, hemoptysis, sinus congestion.
+
+
+
+   skin and subcutaneous tissue disorders:  erythema, pruritus, dry skin, petechiae, hyperhidrosis, night sweats, ecchymosis, purpura, skin lesion, skin ulcer, rash erythematous, rash papular, skin exfoliation, skin hyperpigmentation.
+
+
+
+   vascular disorders:  hematoma, hypertension, hot flush, hypotension.
+    5 warnings and precautions
+
+
+
+   excerpt:    *    myelosuppression: severe and fatal thrombocytopenia, neutropenia and anemia. monitor hematologic parameters frequently (  2.3  ,  5.1  ). 
+ *    bleeding: severe thrombocytopenia and increased risk of hemorrhage. fatal cerebral hemorrhage and severe, non-fatal gastrointestinal hemorrhage (  5.1  ,  5.2  ). 
+ *    hyperglycemia: glucose intolerance and hyperglycemia including hyperosmolar non-ketotic hyperglycemia (  5.3  ). 
+ *    embryo-fetal toxicity: can cause fetal harm. advise females of reproductive potential to avoid pregnancy (  5.4  ,  8.1  ). 
+    
+ 
+
+   5.1 myelosuppression
+
+
+
+  in uncontrolled trials with synribo, patients with chronic phase and accelerated phase cml experienced nci ctc (version 3.0) grade 3 or 4 thrombocytopenia (85%, 88%), neutropenia (81%, 71%), and anemia (62%, 80%), respectively. fatalities related to myelosuppression occurred in 3% of patients in the safety population (n=163). patients with neutropenia are at increased risk for infections, and should be monitored frequently and advised to contact a physician if they have symptoms of infection or fever.
+
+
+
+ monitor complete blood counts weekly during induction and initial maintenance cycles and every two weeks during later maintenance cycles, as clinically indicated. in clinical trials myelosuppression was generally reversible and usually managed by delaying next cycle and/or reducing days of treatment with synribo [see dosage and administration (  2.3  ) and adverse reactions (  6.1  )].  
+
+
+
+    5.2 bleeding
+
+
+
+  synribo causes severe thrombocytopenia which increases the risk of hemorrhage. in clinical trials with cp and ap cml patients, a high incidence of grade 3 and 4 thrombocytopenia (85% and 88%, respectively) was observed. fatalities from cerebral hemorrhage occurred in 2% of patients treated with synribo in the safety population. severe, non-fatal, gastrointestinal hemorrhages occurred in 2% of patients in the same population. most bleeding events were associated with severe thrombocytopenia.
+
+
+
+ monitor platelet counts as part of the cbc monitoring as recommended [see warnings and precautions (  5.1  )].  avoid anticoagulants, aspirin, and non-steroidal anti-inflammatory drugs (nsaids) when the platelet count is less than 50,000/ul as they may increase the risk of bleeding.
+
+
+
+    5.3 hyperglycemia
+
+
+
+  synribo can induce glucose intolerance. grade 3 or 4 hyperglycemia was reported in 11% of patients in the safety population. hyperosmolar non-ketotic hyperglycemia occurred in 1 patient treated with synribo in the safety population. monitor blood glucose levels frequently, especially in patients with diabetes or risk factors for diabetes. avoid synribo in patients with poorly controlled diabetes mellitus until good glycemic control has been established.
+
+
+
+    5.4 embryo-fetal toxicity
+
+
+
+  synribo can cause fetal harm when administered to a pregnant woman. omacetaxine mepesuccinate caused embryo-fetal death in animals. females of reproductive potential should avoid becoming pregnant while being treated with synribo. there are no adequate and well-controlled studies of synribo in pregnant women. if this drug is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus [see use in specific populations (  8.1  )].  

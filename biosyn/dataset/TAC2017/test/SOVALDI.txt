@@ -1,0 +1,202 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *  serious symptomatic bradycardia when coadministered with amiodarone and another hcv direct acting antiviral [see  warnings and precautions (5.1)  ] . 
+      excerpt:   the most common adverse events (incidence greater than or equal to 20%, all grades) observed with sovaldi in combination with ribavirin were fatigue and headache. the most common adverse events observed with sovaldi in combination with peginterferon alfa and ribavirin were fatigue, headache, nausea, insomnia and anemia. (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact gilead sciences, inc. at 1-800-gilead-5 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ when sovaldi is administered with ribavirin or peginterferon alfa/ribavirin, refer to the respective prescribing information for a description of adverse reactions associated with their use.
+
+
+
+ the safety assessment of sovaldi was based on pooled phase 3 clinical trial data (both controlled and uncontrolled) including:
+
+
+
+ *  650 subjects who received sovaldi + ribavirin (rbv) combination therapy for 12 weeks, 
+ *  98 subjects who received sovaldi + ribavirin combination therapy for 16 weeks, 
+ *  250 subjects who received sovaldi + ribavirin combination therapy for 24 weeks, 
+ *  327 subjects who received sovaldi + peginterferon (peg-ifn) alfa + ribavirin combination therapy for 12 weeks, 
+ *  243 subjects who received peginterferon alfa + ribavirin for 24 weeks, and 
+ *  71 subjects who received placebo (pbo) for 12 weeks [see  clinical studies (14)  ] . 
+    the proportion of subjects who permanently discontinued treatment due to adverse events was 4% for subjects receiving placebo, 1% for subjects receiving sovaldi + ribavirin for 12 weeks, less than 1% for subjects receiving sovaldi + ribavirin for 24 weeks, 11% for subjects receiving peginterferon alfa + ribavirin for 24 weeks and 2% for subjects receiving sovaldi + peginterferon alfa + ribavirin for 12 weeks.
+ 
+
+ adverse events observed in at least 15% of subjects in the phase 3 clinical trials outlined above are provided in table 2. a side-by-side tabulation is displayed to simplify presentation; direct comparison across trials should not be made due to differing trial designs.
+
+
+
+ the most common adverse events (at least 20%) for sovaldi + ribavirin combination therapy were fatigue and headache. the most common adverse events (at least 20%) for sovaldi + peginterferon alfa + ribavirin combination therapy were fatigue, headache, nausea, insomnia and anemia.
+
+
+
+ table 2 adverse events (all grades and without regard to causality) reported in >=15% of subjects with hcv in any treatment arm 
+                    interferon-free regimens  interferon-containing regimens   
+                    pbo12 weeks   sovaldi + rbv12 weeks  sovaldi + rbv24 weeks  peg-ifn alfa + rbv24 weeks  sovaldi + peg-ifn alfa + rbv12 weeks   
+                        n=71            n=650              n=250              n=243                n=327          
+  
+ fatigue                24%              38%                30%                55%                  59%           
+ headache               20%              24%                30%                44%                  36%           
+ nausea                 18%              22%                13%                29%                  34%           
+ insomnia                4%              15%                16%                29%                  25%           
+ pruritus                8%              11%                27%                17%                  17%           
+ anemia                  0%              10%                6%                 12%                  21%           
+ asthenia                3%              6%                 21%                 3%                  5%            
+ rash                    8%              8%                 9%                 18%                  18%           
+ decreased appetite      10%              6%                 6%                 18%                  18%           
+ chills                  1%              2%                 2%                 18%                  17%           
+ influenza like illness       3%              3%                 6%                 18%                  16%           
+ pyrexia                 0%              4%                 4%                 14%                  18%           
+ diarrhea                6%              9%                 12%                17%                  12%           
+ neutropenia             0%              <1%                <1%                12%                  17%           
+ myalgia                 0%              6%                 9%                 16%                  14%           
+ irritability            1%              10%                10%                16%                  13%           
+            with the exception of anemia and neutropenia, the majority of events presented in table 2 occurred at severity of grade 1 in sovaldi-containing regimens.
+ 
+
+     less common adverse reactions reported in clinical trials (less than 1%):  the following adverse reactions occurred in less than 1% of subjects receiving sovaldi in a combination regimen in any one trial. these events have been included because of their seriousness or assessment of potential causal relationship.
+
+
+
+   hematologic effects:  pancytopenia (particularly in subjects receiving concomitant pegylated interferon).
+
+
+
+   psychiatric disorders:  severe depression (particularly in subjects with pre-existing history of psychiatric illness), including suicidal ideation and suicide.
+
+
+
+   laboratory abnormalities:
+
+
+
+ changes in selected hematological parameters are described in table 3. a side-by-side tabulation is displayed to simplify presentation; direct comparison across trials should not be made due to differing trial designs.
+
+
+
+ table 3 percentage of subjects reporting selected hematological parameters 
+                            interferon-free regimens  interferon-containing regimens   
+ hematological parameters   pbo12 weeks   sovaldi + rbv12 weeks  sovaldi + rbv24 weeks  peg-ifn + rbv24 weeks  sovaldi + peg-ifn + rbv12 weeks   
+                                n=71           n=647            n=250            n=242             n=327          
+  
+ hemoglobin (g/dl)                                                                                                
+   <10                           0              8%               6%               14%               23%           
+   <8.5                          0              1%               <1%              2%                 2%           
+ neutrophils (*10  9  /l)                                                                                         
+   >=0.5 - <0.75                 1%             <1%               0               12%               15%           
+   <0.5                          0              <1%               0               2%                 5%           
+ platelets (*10  9  /l)                                                                                           
+   >=25 - <50                    3%             <1%              1%               7%                <1%           
+   <25                           0               0                0                0                 0            
+                bilirubin elevations  
+ 
+
+ total bilirubin elevation of more than 2.5*uln was observed in none of the subjects in the sovaldi + peginterferon alfa + ribavirin 12 weeks group and in 1%, 3% and 3% of subjects in the peginterferon alfa + ribavirin 24 weeks, sovaldi + ribavirin 12 weeks and sovaldi + ribavirin 24 weeks groups, respectively. bilirubin levels peaked during the first 1 to 2 weeks of treatment and subsequently decreased and returned to baseline levels by post-treatment week 4. these bilirubin elevations were not associated with transaminase elevations.
+
+
+
+     creatine kinase elevations  
+
+
+
+ creatine kinase was assessed in the fission and neutrino trials. isolated, asymptomatic creatine kinase elevation of greater than or equal to 10*uln was observed in less than 1%, 1% and 2% of subjects in the peginterferon alfa + ribavirin 24 weeks, sovaldi + peginterferon alfa + ribavirin 12 weeks and sovaldi + ribavirin 12 weeks groups, respectively.
+
+
+
+     lipase elevations  
+
+
+
+ isolated, asymptomatic lipase elevation of greater than 3*uln was observed in less than 1%, 2%, 2%, and 2% of subjects in the sovaldi + peginterferon alfa + ribavirin 12 weeks, sovaldi + ribavirin 12 weeks, sovaldi + ribavirin 24 weeks and peginterferon alfa + ribavirin 24 weeks groups, respectively.
+
+
+
+     patients with hcv/hiv-1 co-infection  
+
+
+
+ sovaldi used in combination with ribavirin was assessed in 223 hcv/hiv-1 co-infected subjects  [see  clinical studies (14.4)  ]  . the safety profile in hcv/hiv-1 co-infected subjects was similar to that observed in hcv mono-infected subjects. elevated total bilirubin (grade 3 or 4) was observed in 30/32 (94%) subjects receiving atazanavir as part of the antiretroviral regimen. none of the subjects had concomitant transaminase increases. among subjects not taking atazanavir, grade 3 or 4 elevated total bilirubin was observed in 2 (1.5%) subjects, similar to the rate observed with hcv mono-infected subjects receiving sovaldi + ribavirin in phase 3 trials.
+
+
+
+   6.2 postmarketing experience
+
+  the following adverse reactions have been identified during post approval use of sovaldi. because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+     cardiac disorders  
+
+
+
+ serious symptomatic bradycardia has been reported in patients taking amiodarone who initiate treatment with sovaldi in combination with another hcv direct acting antiviral  [see  warnings and precautions (5.1)  ,  drug interactions (7.1)  ].  
+    5 warnings and precautions
+
+
+
+   excerpt:    *  bradycardia with amiodarone coadministration: serious symptomatic bradycardia may occur in patients taking amiodarone and sovaldi in combination with another direct acting antiviral (daa), particularly in patients also receiving beta blockers, or those with underlying cardiac comorbidities and/or advanced liver disease. coadministration of amiodarone with sovaldi in combination with another daa is not recommended. in patients without alternative, viable treatment options, cardiac monitoring is recommended. (  5.1  ,  6.2  ,  7.1  ) 
+ *  use with other drugs containing sofosbuvir is not recommended (  5.4  ) 
+    
+ 
+
+   5.1 serious symptomatic bradycardia when coadministered with amiodarone and another hcv direct acting antiviral
+
+
+
+   postmarketing cases of symptomatic bradycardia and cases requiring pacemaker intervention have been reported when amiodarone is coadministered with sovaldi in combination with an investigational agent (ns5a inhibitor) or simeprevir. a fatal cardiac arrest was reported in a patient receiving a sofosbuvir-containing regimen (harvoni (ledipasvir/sofosbuvir)). bradycardia has generally occurred within hours to days, but cases have been observed up to 2 weeks after initiating hcv treatment. patients also taking beta blockers, or those with underlying cardiac comorbidities and/or advanced liver disease may be at increased risk for symptomatic bradycardia with coadministration of amiodarone. bradycardia generally resolved after discontinuation of hcv treatment. the mechanism for this effect is unknown.  
+
+
+
+  coadministration of amiodarone with sovaldi in combination with another direct acting antiviral (daa) is not recommended. for patients taking amiodarone who have no other alternative, viable treatment options and who will be coadministered sovaldi and another daa:  
+
+
+
+ *   counsel patients about the risk of serious symptomatic bradycardia  
+ *   cardiac monitoring in an in-patient setting for the first 48 hours of coadministration is recommended, after which outpatient or self-monitoring of the heart rate should occur on a daily basis through at least the first 2 weeks of treatment.  
+     patients who are taking sovaldi in combination with another daa who need to start amiodarone therapy due to no other alternative, viable treatment options should undergo similar cardiac monitoring as outlined above.  
+ 
+
+  due to amiodarone's long half-life, patients discontinuing amiodarone just prior to starting sovaldi in combination with a daa should also undergo similar cardiac monitoring as outlined above.  
+
+
+
+  patients who develop signs or symptoms of bradycardia should seek medical evaluation immediately. symptoms may include near-fainting or fainting, dizziness or lightheadedness, malaise, weakness, excessive tiredness, shortness of breath, chest pains, confusion or memory problems [see  adverse reactions (6.2)  ,  drug interactions (7.1)  ]  .  
+
+
+
+    5.2 risk of reduced therapeutic effect due to use with p-gp inducers
+
+
+
+   drugs that are p-gp inducers in the intestine (e.g., rifampin, st. john's wort) may significantly decrease sofosbuvir plasma concentrations and may lead to a reduced therapeutic effect of sovaldi. the use of rifampin and st. john's wort with sovaldi is not recommended [see  drug interactions (7.1)  ]  .  
+
+
+
+    5.3 risks associated with combination treatment
+
+
+
+   because sovaldi is used in combination with other antiviral drugs for treatment of hcv infection, consult the prescribing information for these drugs used in combination with sovaldi. warnings and precautions related to these drugs also apply to their use in sovaldi combination treatment.  
+
+
+
+    5.4 related products not recommended
+
+
+
+   the use of sovaldi with other products containing sofosbuvir is not recommended.  

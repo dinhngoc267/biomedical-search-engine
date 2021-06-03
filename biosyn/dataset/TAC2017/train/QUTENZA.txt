@@ -1,0 +1,152 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are discussed elsewhere in the labeling:
+
+
+
+ application-associated pain [  see  warnings and precautions (5.4  )]  
+
+
+
+ increase in blood pressure [  see  warnings and precautions (5.5  )]  
+
+
+
+   excerpt:   the most common adverse reactions (>= 5% and greater than control) are application site erythema, application site pain, application site pruritus and application site papules. (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact acorda therapeutics at 1-877-900-6479 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of other drugs and may not reflect the rates observed in clinical practice.
+
+
+
+ across all controlled and uncontrolled trials, more than 1,600 patients have received qutenza. a total of 394 patients received more than one treatment application and 274 patients were followed for 48 weeks or longer.
+
+
+
+ in controlled clinical studies, 98% of patients completed >= 90% of the intended patch application duration. among patients treated with qutenza, 1% discontinued prematurely due to an adverse event.
+
+
+
+     controlled clinical studies  
+
+
+
+     common adverse reactions  
+
+
+
+ adverse reactions occurring in >= 5% of patients in the qutenza group and at an incidence greater than in the control group were application site erythema, application site pain, application site pruritus and application site papules.
+
+
+
+ table 1 summarizes all adverse reactions, regardless of causality, occurring in >= 1% of patients with postherpetic neuralgia in the qutenza group for which the incidence was greater than in the control group. the majority of application site reactions were transient and self-limited. transient increases in pain were commonly observed on the day of treatment in patients treated with qutenza. pain increases occurring during patch application usually began to resolve after patch removal. on average, pain scores returned to baseline by the end of the treatment day and then remained at or below baseline levels. a majority of qutenza-treated patients in clinical studies had adverse reactions with a maximum intensity of "mild" or "moderate".
+
+
+
+ table 1: treatment-emergent adverse reaction incidence (%) in controlled trials in postherpetic neuralgia (events in >= 1% of qutenza-treated patients and at least 1% greater in the qutenza group than in the control group) 
+ body systempreferred term                           qutenza60 minutes(n = 622)%  control60 minutes(n = 495)%   
+  
+   general disorders and administration site conditions                                                           
+ application site erythema                                      63                         54               
+ application site pain                                          42                         21               
+ application site pruritus                                       6                          4               
+ application site papules                                        6                          3               
+ application site edema                                          4                          1               
+ application site swelling                                       2                          1               
+ application site dryness                                        2                          1               
+   infections and infestations                                                                              
+ nasopharyngitis                                                 4                          2               
+ bronchitis                                                      2                          1               
+ sinusitis                                                       3                          1               
+   gastrointestinal disorders                                                                               
+ nausea                                                          5                          2               
+ vomiting                                                        3                          1               
+   skin and subcutaneous tissue disorder                                                                    
+ pruritus                                                        2                         < 1              
+   vascular disorders                                                                                       
+ hypertension                                                    2                          1               
+             other adverse reactions observed during the clinical studies of qutenza  
+ 
+
+ general disorders and administration site conditions: application site urticaria, application site paresthesia, application site dermatitis, application site hyperesthesia, application site excoriation, application site warmth, application site anesthesia, application site bruising, application site inflammation, application site exfoliation, peripheral edema
+
+
+
+ nervous system disorders: headache, burning sensation, peripheral sensory neuropathy, dizziness, dysgeusia, hyperesthesia, hypoesthesia
+
+
+
+ respiratory, thoracic and mediastinal disorders: cough, throat irritation
+
+
+
+ skin and subcutaneous tissue disorders: abnormal skin odor
+    5 warnings and precautions
+
+
+
+   excerpt:    *  do not use near eyes or mucous membranes. (  5.1  ) 
+ *  inhalation of airborne capsaicin can result in coughing or sneezing. (  5.2  ) 
+ *  if irritation of eyes or airway occurs, remove the affected individual from the vicinity of qutenza and flush the mucous membranes or eyes with water. if skin not intended to be treated comes into contact with qutenza, apply cleansing gel and then wipe off with dry gauze. (  5.2  ,  5.3  ) 
+ *  transient increases in blood pressure may occur in patients during and shortly after the qutenza treatment. monitor blood pressure during and following the treatment procedure. for those patients who require the use of opioids to treat pain during or following the procedure, their ability to perform potentially hazardous activities such as driving or operating machinery may be affected. (  5.4  ,  5.5  ) 
+    
+ 
+
+   5.1 eye and mucous membrane exposure
+
+
+
+  do not apply qutenza to the face or scalp to avoid risk of exposure to the eyes or mucous membranes.
+
+
+
+    5.2 aerosolization of capsaicin
+
+
+
+  aerosolization of capsaicin can occur upon rapid removal of qutenza patches. therefore, remove qutenza patches gently and slowly by rolling the adhesive side inward [see  dosage and administration (2.3  )]  .
+
+
+
+ if irritation of eyes or airways occurs, remove the affected individual from the vicinity of qutenza. flush eyes and mucous membranes with cool water.
+
+
+
+ inhalation of airborne capsaicin can result in coughing or sneezing. provide supportive medical care if shortness of breath develops.
+
+
+
+    5.3 unintended skin exposure
+
+
+
+  if skin not intended to be treated comes in contact with qutenza, apply cleansing gel for one minute and wipe off with dry gauze. after the cleansing gel has been wiped off, wash the area with soap and water.
+
+
+
+    5.4 application associated pain
+
+
+
+  even following use of a local anesthetic prior to administration of qutenza, patients may experience substantial procedural pain. prepare to treat acute pain during and following the application procedure with local cooling (such as an ice pack) and/or appropriate analgesic medication, such as opioids. opioids may affect the ability to perform potentially hazardous activities such as driving or operating machinery.
+
+
+
+    5.5 increase in blood pressure
+
+
+
+  in clinical trials, increases in blood pressure occurred during or shortly after exposure to qutenza. the changes averaged less than 10 mm hg, although some patients had greater increases and these changes lasted for approximately two hours after patch removal. increases in blood pressure were unrelated to the pretreatment blood pressure but were related to treatment-related increases in pain. monitor blood pressure periodically during the treatment and provide adequate support for treatment related pain.
+
+
+
+ patients with unstable or poorly controlled hypertension, a recent history of cardiovascular or cerebrovascular events may be at an increased risk of adverse cardiovascular effects. consider these factors prior to initiating qutenza treatment.

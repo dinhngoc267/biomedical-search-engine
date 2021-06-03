@@ -1,0 +1,180 @@
+    6 adverse reactions
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the following have been observed with benlysta and are discussed in detail in the warnings and precautions section:
+
+
+
+ *     mortality  [ see   warnings and precautions (5.1)  ]  
+ *     serious infections  [ see   warnings and precautions (5.2)  ]  
+ *     malignancy  [ see   warnings and precautions (5.3)  ]  
+ *     hypersensitivity reactions, including anaphylaxis  [ see   warnings and precautions (5.4)  ]  
+ *     infusion reactions  [ see   warnings and precautions (5.5)  ]  
+ *     depression  [ see   warnings and precautions (5.6)  ]  
+      excerpt:   common adverse reactions (>=5%) in clinical trials were: nausea, diarrhea, pyrexia, nasopharyngitis, bronchitis, insomnia, pain in extremity, depression, migraine, and pharyngitis. (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact glaxosmithkline at 1-877-423-6597 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  the data described below reflect exposure to benlysta plus standard of care compared with placebo plus standard of care in 2,133 patients in 3 controlled trials. patients received benlysta at doses of 1 mg/kg (n = 673), 4 mg/kg (n = 111; trial 1 only), or 10 mg/kg (n = 674) or placebo (n = 675) intravenously over a 1-hour period on days 0, 14, 28, and then every 28 days. in 2 of the trials (trial 1 and trial 3), treatment was given for 48 weeks, while in the other trial (trial 2) treatment was given for 72 weeks  [see  clinical studies (14)  ]  . because there was no apparent dose-related increase in the majority of adverse events observed with benlysta, the safety data summarized below are presented for the 3 doses pooled, unless otherwise indicated; the adverse reaction table displays the results for the recommended dose of 10 mg/kg compared with placebo.
+
+
+
+ the population had a mean age of 39 (range: 18 to 75), 94% were female, and 52% were caucasian. in these trials, 93% of patients treated with benlysta reported an adverse reaction compared with 92% treated with placebo.
+
+
+
+ the most common serious adverse reactions were serious infections (6.0% and 5.2% in the groups receiving benlysta and placebo, respectively)  [see warnings and precautions (5.2)]  .
+
+
+
+ the most commonly-reported adverse reactions, occurring in >=5% of patients in clinical trials were nausea, diarrhea, pyrexia, nasopharyngitis, bronchitis, insomnia, pain in extremity, depression, migraine, and pharyngitis.
+
+
+
+ the proportion of patients who discontinued treatment due to any adverse reaction during the controlled clinical trials was 6.2% for patients receiving benlysta and 7.1% for patients receiving placebo. the most common adverse reactions resulting in discontinuation of treatment (>=1% of patients receiving benlysta or placebo) were infusion reactions (1.6% benlysta and 0.9% placebo), lupus nephritis (0.7% benlysta and 1.2% placebo), and infections (0.7% benlysta and 1.0% placebo).
+
+
+
+   table 1  lists adverse reactions, regardless of causality, occurring in at least 3% of patients with sle who received benlysta 10 mg/kg and at an incidence at least 1% greater than that observed with placebo in the 3 controlled studies.
+
+
+
+ table 1. incidence of adverse reactions occurring in at least 3% of patients treated with benlysta 10 mg/kg plus standard of care and at least 1% more frequently than in patients receiving placebo plus standard of care in 3 controlled sle studies 
+  preferred term                       benlysta  10 mg/kg +  standard of care(n = 674)%    placebo +  standard of care(n = 675)%    
+  nausea                               15                                 12                                 
+  diarrhea                             12                                 9                                  
+  pyrexia                              10                                 8                                  
+  nasopharyngitis                      9                                  7                                  
+  bronchitis                           9                                  5                                  
+  insomnia                             7                                  5                                  
+  pain in extremity                    6                                  4                                  
+  depression                           5                                  4                                  
+  migraine                             5                                  4                                  
+  pharyngitis                          5                                  3                                  
+  cystitis                             4                                  3                                  
+  leukopenia                           4                                  2                                  
+  gastroenteritis viral                3                                  1                                  
+           6.2 immunogenicity
+   in trials 2 and 3, anti-belimumab antibodies were detected in 4 of 563 (0.7%) patients receiving benlysta 10 mg/kg and in 27 of 559 (4.8%) patients receiving benlysta 1 mg/kg. the reported frequency for the group receiving 10 mg/kg may underestimate the actual frequency due to lower assay sensitivity in the presence of high drug concentrations. neutralizing antibodies were detected in 3 patients receiving benlysta 1 mg/kg. three patients with anti-belimumab antibodies experienced mild infusion reactions of nausea, erythematous rash, pruritus, eyelid edema, headache, and dyspnea; none of the reactions was life-threatening. the clinical relevance of the presence of anti-belimumab antibodies is not known.
+
+
+
+ the data reflect the percentage of patients whose test results were positive for antibodies to belimumab in specific assays. the observed incidence of antibody positivity in an assay is highly dependent on several factors, including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. for these reasons, comparison of the incidence of antibodies to belimumab with the incidence of antibodies to other products may be misleading.
+
+
+
+   6.3 postmarketing experience
+
+  the following adverse reactions have been identified during postapproval use of benlysta. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ *    fatal anaphylaxis   [see warnings and precautions (5.4)]   . 
+    5 warnings and precautions
+
+
+
+   excerpt:    *    mortality: there were more deaths reported with benlysta than with placebo during the controlled period of clinical trials. (  5.1  ) 
+ *    serious infections: serious and sometimes fatal infections have been reported in patients receiving immunosuppressive agents, including benlysta. use with caution in patients with chronic infections. consider interrupting therapy with benlysta if patients develop a new infection during treatment with benlysta. (  5.2  ) 
+ *    progressive multifocal leukoencephalopathy (pml): patients presenting with new-onset or deteriorating neurological signs and symptoms should be evaluated for pml by an appropriate specialist. if pml is confirmed, consider discontinuation of immunosuppressant therapy, including benlysta. (  5.2  ) 
+ *    hypersensitivity reactions, including anaphylaxis: serious and fatal reactions have been reported. benlysta should be administered by healthcare providers prepared to manage anaphylaxis. monitor patients during and for an appropriate period of time after administration of benlysta. (  2.2  ,  5.4  ) 
+ *    depression: depression and suicidality have been reported in trials with benlysta. patients should be instructed to contact their healthcare provider if they experience new or worsening depression, suicidal thoughts or other mood changes. (  5.6  ) 
+ *    immunization: live vaccines should not be given concurrently with benlysta. (  5.7  ) 
+    
+ 
+
+   5.1 mortality
+
+
+
+  there were more deaths reported with benlysta than with placebo during the controlled period of the clinical trials. out of 2,133 patients in 3 clinical trials, a total of 14 deaths occurred during the placebo-controlled, double-blind treatment periods: 3/675 (0.4%), 5/673 (0.7%), 0/111 (0%), and 6/674 (0.9%) deaths in the groups receiving placebo, benlysta 1 mg/kg, benlysta 4 mg/kg, and benlysta 10 mg/kg, respectively. no single cause of death predominated. etiologies included infection, cardiovascular disease, and suicide.
+
+
+
+    5.2 serious infections
+
+
+
+  serious and sometimes fatal infections have been reported in patients receiving immunosuppressive agents, including benlysta. physicians should exercise caution when considering the use of benlysta in patients with chronic infections. patients receiving any therapy for chronic infection should not begin therapy with benlysta. consider interrupting therapy with benlysta in patients who develop a new infection while undergoing treatment with benlysta and monitor these patients closely.
+
+
+
+ in the controlled clinical trials, the overall incidence of infections was 71% in patients treated with benlysta compared with 67% in patients who received placebo. the most frequent infections (>5% of patients receiving benlysta) were upper respiratory tract infection, urinary tract infection, nasopharyngitis, sinusitis, bronchitis, and influenza. serious infections occurred in 6.0% of patients treated with benlysta and in 5.2% of patients who received placebo. the most frequent serious infections included pneumonia, urinary tract infection, cellulitis, and bronchitis. infections leading to discontinuation of treatment occurred in 0.7% of patients receiving benlysta and 1.0% of patients receiving placebo. infections resulting in death occurred in 0.3% (4/1,458) of patients treated with benlysta and in 0.1% (1/675) of patients receiving placebo.
+
+
+
+  progressive multifocal leukoencephalopathy (pml)  
+
+
+
+ cases of jc virus-associated pml resulting in neurological deficits, including fatal cases, have been reported in patients with sle receiving immunosuppressants, including benlysta. risk factors for pml include treatment with immunosuppressant therapies and impairment of immune function. consider the diagnosis of pml in any patient presenting with new-onset or deteriorating neurological signs and symptoms and consult with a neurologist or other appropriate specialist as clinically indicated. in patients with confirmed pml, consider stopping immunosuppressant therapy, including benlysta.
+
+
+
+    5.3 malignancy
+
+
+
+  the impact of treatment with benlysta on the development of malignancies is not known. in the controlled clinical trials, malignancies (including non-melanoma skin cancers) were reported in 0.4% of patients receiving benlysta and 0.4% of patients receiving placebo. in the controlled clinical trials, malignancies, excluding non-melanoma skin cancers, were observed in 0.2% (3/1,458) and 0.3% (2/675) of patients receiving benlysta and placebo, respectively. the mechanism of action of benlysta could increase the risk for the development of malignancies.
+
+
+
+    5.4 hypersensitivity reactions, including anaphylaxis
+
+
+
+  acute hypersensitivity reactions, including anaphylaxis and death, have been reported in association with benlysta. these events generally occurred within hours of the infusion; however, they may occur later. non-acute hypersensitivity reactions including rash, nausea, fatigue, myalgia, headache, and facial edema, have been reported and typically occurred up to a week following the most recent infusion. hypersensitivity, including serious reactions, has occurred in patients who have previously tolerated infusions of benlysta. limited data suggest that patients with a history of multiple drug allergies or significant hypersensitivity may be at increased risk. in the controlled clinical trials, hypersensitivity reactions (occurring on the same day of infusion) were reported in 13% (191/1,458) of patients receiving benlysta and 11% (76/675) of patients receiving placebo. anaphylaxis was observed in 0.6% (9/1,458) of patients receiving benlysta and 0.4% (3/675) of patients receiving placebo. manifestations included hypotension, angioedema, urticaria or other rash, pruritus, and dyspnea. due to overlap in signs and symptoms, it was not possible to distinguish between hypersensitivity reactions and infusion reactions in all cases [see  warnings and precautions (5.5)  ]  . some patients (13%) received premedication, which may have mitigated or masked a hypersensitivity response; however, there is insufficient evidence to determine whether premedication diminishes the frequency or severity of hypersensitivity reactions.
+
+
+
+ benlysta should be administered by healthcare providers prepared to manage anaphylaxis. in the event of a serious reaction, administration of benlysta must be discontinued immediately and appropriate medical therapy administered. patients should be monitored during and for an appropriate period of time after administration of benlysta. patients should be informed of the signs and symptoms of an acute hypersensitivity reaction and be instructed to seek immediate medical care should a reaction occur.
+
+
+
+    5.5 infusion reactions
+
+
+
+  in the controlled clinical trials, adverse events associated with the infusion (occurring on the same day of the infusion) were reported in 17% (251/1,458) of patients receiving benlysta and 15% (99/675) of patients receiving placebo. serious infusion reactions (excluding hypersensitivity reactions) were reported in 0.5% of patients receiving benlysta and 0.4% of patients receiving placebo and included bradycardia, myalgia, headache, rash, urticaria, and hypotension. the most common infusion reactions (>=3% of patients receiving benlysta) were headache, nausea, and skin reactions. due to overlap in signs and symptoms, it was not possible to distinguish between hypersensitivity reactions and infusion reactions in all cases [see  warnings and precautions (5.4)  ]  . some patients (13%) received premedication, which may have mitigated or masked an infusion reaction; however, there is insufficient evidence to determine whether premedication diminishes the frequency or severity of infusion reactions [see  adverse reactions (6.1)  ]  .
+
+
+
+ benlysta should be administered by healthcare providers prepared to manage infusion reactions. the infusion rate may be slowed or interrupted if the patient develops an infusion reaction. healthcare providers should be aware of the risk of hypersensitivity reactions, which may present as infusion reactions, and monitor patients closely.
+
+
+
+    5.6 depression
+
+
+
+  in the controlled clinical trials, psychiatric events were reported more frequently with benlysta (16%) than with placebo (12%), related primarily to depression-related events (6.3% benlysta and 4.7% placebo), insomnia (6.0% benlysta and 5.3% placebo), and anxiety (3.9% benlysta and 2.8% placebo). serious psychiatric events were reported in 0.8% of patients receiving benlysta (0.6% and 1.2% with 1 and 10 mg/kg, respectively) and 0.4% of patients receiving placebo. serious depression was reported in 0.4% (6/1,458) of patients receiving benlysta and 0.1% (1/675) of patients receiving placebo. two suicides (0.1%) were reported in patients receiving benlysta. the majority of patients who reported serious depression or suicidal behavior had a history of depression or other serious psychiatric disorders and most were receiving psychoactive medications. it is unknown if treatment with benlysta is associated with increased risk for these events.
+
+
+
+ patients receiving benlysta should be instructed to contact their healthcare provider if they experience new or worsening depression, suicidal thoughts, or other mood changes.
+
+
+
+    5.7 immunization
+
+
+
+  live vaccines should not be given for 30 days before or concurrently with benlysta as clinical safety has not been established. no data are available on the secondary transmission of infection from persons receiving live vaccines to patients receiving benlysta or the effect of benlysta on new immunizations. because of its mechanism of action, benlysta may interfere with the response to immunizations.
+
+
+
+    5.8 concomitant use with other biologic therapies or intravenous cyclophosphamide
+
+
+
+  benlysta has not been studied in combination with other biologic therapies, including b-cell targeted therapies, or intravenous cyclophosphamide. therefore, use of benlysta is not recommended in combination with biologic therapies or intravenous cyclophosphamide.

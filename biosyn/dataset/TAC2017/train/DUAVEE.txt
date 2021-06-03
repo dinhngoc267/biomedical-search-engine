@@ -1,0 +1,577 @@
+    6 adverse reactions
+
+  the following adverse reactions are discussed in greater detail in other sections of the label:
+
+
+
+ *  cardiovascular disorders [see  warnings and precautions (5.2)  ]  
+ *  malignant neoplasms [see  warnings and precautions (5.3)  ]  
+ *  gallbladder disease [see  warnings and precautions (5.5)  ]  
+ *  hypertriglyceridemia [see  warnings and precautions (5.8)  ]  
+      excerpt:   in four prospective, randomized, placebo-controlled trials the common adverse reactions (incidence >= 5%) were muscle spasms, nausea, diarrhea, dyspepsia, abdominal pain upper, oropharyngeal pain, dizziness, and neck pain (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact pfizer inc. at 1-800-438-1985 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ the safety of conjugated estrogens/bazedoxifene was evaluated in four phase 3 clinical trials ranging from 12 weeks to 24 months in duration and enrolling 6,210 postmenopausal women age 40 to 75 years (mean age 55 years). a total of 1,224 patients were treated with duavee and 1,069 patients received placebo. women enrolled in studies 1 and 2 received calcium (600-1200 mg) and vitamin d (200-400 iu) daily, while women in studies 3 and 4 received no calcium and vitamin d supplementation as part of the protocol.
+
+
+
+ the incidence of all-cause mortality was 0.0% in the duavee group and 0.2% in the placebo group. the incidence of serious adverse reactions was 3.5% in the duavee group and 4.8% in the placebo group. the percentage of patients who withdrew from treatment due to adverse reactions was 7.5% in the duavee group and 10.0% in the placebo group. the most common adverse reactions leading to discontinuation were hot flush, abdominal pain upper, and nausea.
+
+
+
+ the most commonly observed adverse reactions (incidence >= 5%) more frequently reported in women treated with duavee than placebo are presented in table 1.
+
+
+
+ table 1: adverse reactions (incidence >= 5%) more common in the duavee treatment group in placebo-controlled trials 
+                                           duavee (n=1224)n (%)               placebo (n=1069)n (%)         
+  
+   gastrointestinal disorders        
+ nausea                                          100 (8)                             58 (5)                 
+ diarrhea                                         96 (8)                             57 (5)                 
+ dyspepsia                                        84 (7)                             59 (6)                 
+ abdominal pain upper                             81 (7)                             58 (5)                 
+   musculoskeletal and connective tissue disorders     
+ muscle spasms                                   110 (9)                             63 (6)                 
+ neck pain                                        62 (5)                             46 (4)                 
+   nervous system disorders          
+ dizziness                                        65 (5)                             37 (3)                 
+   respiratory, thoracic, and mediastinal disorders     
+ oropharyngeal pain                               80 (7)                             61 (6)                 
+             venous thromboembolism  : in the clinical studies with duavee, the reporting rates for venous thromboembolism (deep venous thrombosis, pulmonary embolism, and retinal vein thrombosis) were low in all treatment groups. adverse reactions of venous thromboembolism were reported in 0.0% of patients treated with duavee and 0.1% of patients treated with placebo. due to the low rate of events in both groups, it is not possible to conclude that the risk of venous thromboembolism with duavee is different from that seen with other estrogen therapies  [see  warnings and precautions (5.2)  ]  .
+
+
+    boxed warning: warning: endometrial cancer, cardiovascular disorders, and probable dementia 
+
+    warning: endometrial cancer, cardiovascular disorders, and probable dementia   
+
+    *  women taking duavee should not take additional estrogens [see warnings and precautions (5.1)] 
+ *  there is an increased risk of endometrial cancer in a woman with a uterus who uses unopposed estrogens. duavee has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer. adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal genital bleeding [see warnings and precautions (5.3)] 
+ *  estrogen therapy should not be used for the prevention of cardiovascular disease or dementia [see warnings and precautions (5.2, 5.4)] 
+ *  the women's health initiative (whi) estrogen-alone substudy reported increased risks of stroke and deep vein thrombosis (dvt) in postmenopausal women (50 to 79 years of age) during 7.1 years of treatment with daily oral conjugated estrogens (0.625 mg)-alone, relative to placebo [see warnings and precautions (5.2)] 
+ *  the whi memory study (whims) estrogen-alone ancillary study of whi reported an increased risk of probable dementia in postmenopausal women 65 years of age and older during 5.2 years of treatment with daily conjugated estrogens (0.625 mg)-alone, relative to placebo. it is unknown whether this finding applies to younger postmenopausal women [see warnings and precautions (5.4)] 
+      in the absence of comparable data, these risks should be assumed to be similar for other doses of conjugated estrogens and other dosage forms of estrogens.  
+ 
+
+   estrogens should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.  
+
+
+
+   excerpt:     warning: endometrial cancer, cardiovascular disorders, and probable dementia  
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  women taking duavee should not take additional estrogens (5.1) 
+ *  there is an increased risk of endometrial cancer in a woman with a uterus who uses unopposed estrogens (5.1, 5.3) 
+ *  estrogen therapy should not be used for the prevention of cardiovascular disease or dementia (5.2, 5.4) 
+ *  the women's health initiative (whi) estrogen-alone substudy reported increased risks of stroke and deep vein thrombosis (dvt) (5.2) 
+ *  the whi memory study (whims) estrogen-alone ancillary study of whi reported an increased risk of probable dementia in postmenopausal women 65 years of age and older (5.4) 
+    
+ 
+
+
+
+
+
+
+
+    boxed warning: 
+
+    patient informationduavee  (r)   (dew' ah-vee)(conjugated estrogens/bazedoxifene)tablets  
+
+
+
+ read this patient information before you start taking duavee and each time you get a refill. there may be new information. this information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
+
+
+
+     what is the most important information i should know about duavee?  
+
+
+
+ *  do not take additional estrogen products while you are taking duavee. 
+ *  using estrogens may increase your chance of getting cancer of the uterus (womb). 
+ *  report any unusual vaginal bleeding right away while you are taking duavee. vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). your healthcare provider should check any unusual vaginal bleeding to find out the cause. 
+ *  do not use estrogens to prevent heart disease, heart attacks, strokes or dementia (decline in brain function). 
+ *  using estrogens may increase your chances of getting strokes or blood clots. 
+ *  using estrogens may increase your chance of getting dementia, based on a study of women 65 years of age or older. 
+ *  you and your healthcare provider should talk regularly about whether you still need treatment with duavee. 
+        what is duavee?  
+ 
+
+ duavee is a prescription medicine that contains a mixture of estrogens and bazedoxifene.
+
+
+
+   what is duavee used for?  
+
+
+
+ duavee is used after menopause for women with a uterus to:
+
+
+
+ *  reduce moderate to severe hot flushesestrogens are hormones made by a woman's ovaries. the ovaries normally stop making estrogens when a woman is between 45 and 55 years old. this drop in body estrogen levels causes the "change of life" or menopause (the end of monthly menstrual periods). sometimes both ovaries are removed during an operation before natural menopause takes place. the sudden drop in estrogen levels causes "surgical menopause."when the estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden intense episodes of heat and sweating ("hot flashes" or "hot flushes"). in some women, the symptoms are mild, and they will not need to take medicines. in other women, symptoms can be more severe. 
+ *  help reduce your chances of developing osteoporosis (thin, weak bones)if you use duavee only to prevent osteoporosis due to menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.duavee should be taken for the shortest time possible and only for as long as treatment is needed. 
+    you and your healthcare provider should talk regularly about whether you still need treatment with duavee.
+ 
+
+ duavee is not for use in children.
+
+
+
+ it is not known if duavee is safe and effective in people with kidney problems.
+
+
+
+   who should not take duavee?  
+
+
+
+   do not take duavee if you:  
+
+
+
+ *  currently have or have had blood clots 
+ *  are allergic to estrogens or bazedoxifene, the active ingredients in duavee, or any of its ingredients. see the list of ingredients in duavee at the end of this leaflet. 
+ *  have unusual vaginal bleeding. vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). your healthcare provider should check any unusual vaginal bleeding to find out the cause. 
+ *  currently have or have had certain cancers. estrogens may increase the chances of getting certain types of cancers, including cancer of the breast or uterus. if you have or have had cancer, talk with your healthcare provider about whether you should use duavee. 
+ *  currently have or have had liver problems 
+ *  have been diagnosed with a bleeding disorder 
+ *  think you may be pregnant. duavee is not for pregnant women. if you think you may be pregnant, you should have a pregnancy test and know the results. do not take duavee if the test is positive and talk to your healthcare provider. 
+ *  are breastfeeding or plan to breastfeed. it is not known if duavee passes into your breast milk. you and your healthcare provider should decide if you will take duavee or breastfeed. you should not do both. 
+      what should i tell my healthcare provider before taking duavee?  
+ 
+
+   before you take duavee, tell your healthcare provider if you:  
+
+
+
+ *  have any unusual vaginal bleeding. 
+ *  have any other medical conditions. your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood. 
+ *  are going to have surgery or will be on bed rest. your healthcare provider will let you know if you need to stop taking duavee. 
+      tell your healthcare provider about all the medicines you take,   including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+ 
+
+ especially tell your healthcare provider if you take other hormonal medicines, including progestins or other medicines like duavee. ask your healthcare provider if you do not know if you take any of these medicines.
+
+
+
+ some medicines may affect how duavee works. duavee may also affect how your other medicines work. keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
+
+
+
+   how should i take duavee?    
+
+
+
+ *  duavee comes in a blister package. 
+ *  record the date you open the foil pouch in the space provided on the blister package label. do not use if the blister package has been open for more than 60 days. 
+ *  take duavee exactly as your healthcare provider tells you to take it. 
+ *  take 1 duavee tablet at the same time each day. 
+ *  duavee should be swallowed whole. 
+ *  take duavee with or without food. 
+ *  you should not remove duavee from the blister until right before you are ready to take it. remove 1 tablet at a time from the blister package. do not place duavee in pill boxes or pill organizers. 
+ *  if you miss a dose of duavee, take it as soon as you remember. if it is almost time for your next dose, skip the missed dose. take the next dose at your regular time. do not take 2 doses at the same time unless your healthcare provider tells you to. if you are not sure about your dosing, call your healthcare provider. 
+ *  if you take a calcium or vitamin d supplement, you may take it at the same time you take duavee. 
+ *  if you take too much duavee, call your healthcare provider. symptoms of taking too much duavee include: nauseavomitingbreast tendernessdizzinessabdominal painfeeling tiredvaginal bleeding 
+      what are the possible side effects of duavee?  
+ 
+
+   side effects are grouped by how serious they are and how often they happen when you are treated.  
+
+
+
+   serious side effects include:  
+
+
+
+ *  blood clots 
+ *  stroke 
+ *  heart attack 
+ *  cancer of the lining of the uterus 
+ *  breast cancer 
+ *  cancer of the ovary 
+ *  dementia 
+ *  gallbladder problems 
+ *  loss of vision 
+ *  high blood pressure 
+ *  increased fats in your blood 
+ *  liver problems 
+ *  thyroid problems 
+ *  fluid retention 
+ *  low calcium 
+ *  swelling of your mouth or tongue 
+ *  worsening of other medical problems such as asthma, diabetes, epilepsy, migraines, a genetic problem called porphyria, lupus and liver problems 
+      call your healthcare provider right away if you get any of the following warning signs, or any other unusual symptoms that concern you:  
+ 
+
+ *  new breast lumps 
+ *  unusual vaginal bleeding 
+ *  changes in vision or speech 
+ *  sudden new severe headaches 
+ *  severe pains in your chest or legs with or without shortness of breath, weakness and fatigue 
+      less serious, but common side effects include:  
+ 
+
+ *  muscle spasms 
+ *  nausea 
+ *  diarrhea 
+ *  upset stomach 
+ *  abdominal pain 
+ *  throat pain 
+ *  dizziness 
+ *  neck pain 
+    these are not all the possible side effects of duavee. for more information, ask your healthcare provider or pharmacist. tell your healthcare provider if you have any side effects that bother you or do not go away.
+ 
+
+ call your doctor for medical advice about side effects. you may report side effects to fda at 1-800-fda-1088.
+
+
+
+   what can i do to lower my chances of a serious side effect with duavee?  
+
+
+
+ *  talk with your healthcare provider regularly about whether you should continue taking duavee. 
+ *  see you healthcare provider right away if you get vaginal bleeding while taking duavee. 
+ *  have a pelvic exam, breast exam and mammogram (breast x-ray) every year unless your healthcare provider tells you something else. 
+ *  if members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often. 
+ *  if you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances of getting heart disease. 
+    ask your healthcare provider for ways to lower your chances of getting heart disease.
+ 
+
+   how do i store duavee?  
+
+
+
+ *  store duavee at room temperature between 68 degrees f to 77 degrees f (20 degrees c to 25 degrees c). 
+ *  keep duavee in the blister until you are ready to take it to protect the tablet from moisture. 
+ *  do not place duavee in pill boxes or pill organizers. 
+ *  after opening the foil pouch the duavee blisters come in, duavee must be used within 60 days. 
+      keep duavee and all other medicines out of the reach of children.  
+ 
+
+   general information about the safe and effective use of duavee  
+
+
+
+ medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet. do not use duavee for a condition for which it was not prescribed. do not give duavee to other people, even if they have the same symptoms you have. it may harm them.
+
+
+
+ this patient information summarizes the most important information about duavee. if you would like more information, talk with your healthcare provider. you can ask your pharmacist or healthcare provider for information about duavee that is written for health professionals.
+
+
+
+ for more information, go to www.duavee.com, or call 1-800-438-1985.
+
+
+
+   what are the ingredients in duavee?  
+
+
+
+   active ingredients  : conjugated estrogens and bazedoxifene. conjugated estrogens are a mixture of sodium estrone sulfate and sodium equilin sulfate and other components, including sodium sulfate conjugates, 17alpha-dihydroequilin, 17alpha-estradiol, and 17beta-dihydroequilin.
+
+
+
+   inactive ingredients:   calcium phosphate tribasic, hydroxypropyl cellulose, microcrystalline cellulose, powdered cellulose, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, sucrose, ascorbic acid, sucrose palmitic acid ester, hydroxyethylcellulose, titanium dioxide, red iron oxide, yellow iron oxide, black iron oxide, povidone, polydextrose, maltitol, poloxamer 188, propylene glycol, isopropyl alcohol.
+
+
+
+ this patient information has been approved by the u.s. food and drug administration.
+
+
+
+ this product's label may have been updated. for current full prescribing information, please visit www.pfizer.com.
+
+
+
+ 
+
+
+
+ lab-0583-1.0
+
+
+
+ october 2013
+    5 warnings and precautions
+
+
+
+   excerpt:    *  women taking duavee should not take progestins, additional estrogens or additional estrogen agonist/antagonists (  5.1  ) 
+ *  cardiovascular disorders, including venous thromboembolism, pulmonary embolism, stroke, and retinal vascular thrombosis (  5.2  ,  5.6  ) 
+ *  malignant neoplasms, including endometrial cancer, breast cancer, and ovarian cancer (  5.3  ) 
+ *  estrogens increase the risk of gallbladder disease (  5.5  ) 
+ *  discontinue estrogen if loss of vision, severe hypertriglyceridemia or cholestatic jaundice occurs (  5.6  ,  5.8  ,  5.9  ) 
+ *  monitor thyroid function in women on thyroid replacement therapy (  5.10  ,  5.17  ) 
+    
+ 
+
+   5.1 drugs containing progestins, estrogens or estrogen agonist/antagonists
+
+
+
+  duavee contains conjugated estrogens and bazedoxifene, an estrogen agonist/antagonist. women taking duavee should not take progestins, additional estrogens or additional estrogen agonist/antagonists.
+
+
+
+    5.2 cardiovascular disorders
+
+
+
+  estrogen agonist/antagonists (including bazedoxifene, a component of duavee) and estrogens individually are known to increase the risk of vte.
+
+
+
+ an increased risk of stroke and dvt has been reported with estrogen-alone therapy. should any of these occur or be suspected, duavee should be discontinued immediately.
+
+
+
+ risk factors for arterial vascular disease (for example, hypertension, diabetes mellitus, tobacco use, hypercholesterolemia, and obesity) and/or vte (for example, personal history or family history of vte, obesity, and systemic lupus erythematosus) should be managed appropriately.
+
+
+
+    stroke  
+
+
+
+ in the whi estrogen-alone substudy, a statistically significant increased risk of stroke was reported in women 50 to 79 years of age receiving daily conjugated estrogens (ce) (0.625 mg)-alone compared to women in the same age group receiving placebo (45 versus 33 per 10,000 women-years). the increase in risk was demonstrated in year 1 and persisted [see  clinical studies (14.5)  ]  .
+
+
+
+ subgroup analyses of women 50 to 59 years of age suggest no increased risk of stroke for those women receiving conjugated estrogens (0.625 mg)-alone versus those receiving placebo (18 versus 21 per 10,000 women-years).
+
+
+
+ should a stroke occur or be suspected, duavee should be discontinued immediately [see  contraindications (4)  ].  
+
+
+
+    coronary heart disease  
+
+
+
+ in the whi estrogen-alone substudy, no overall effect on coronary heart disease (chd) events (defined as nonfatal myocardial infarction, silent myocardial infarction, or chd death) was reported in women receiving estrogen-alone compared to placebo [see  clinical studies (14.5)  ]  .
+
+
+
+ subgroup analyses of women 50 to 59 years of age suggest a statistically non-significant reduction in chd events (ce [0.625 mg]-alone compared to placebo) in women with less than 10 years since menopause (8 versus 16 per 10,000 women-years).
+
+
+
+    venous thromboembolism (vte)  
+
+
+
+ in the whi estrogen-alone substudy, the risk of vte [dvt and pulmonary embolism (pe)] was increased for women receiving daily conjugated estrogens (0.625 mg)-alone compared to placebo (30 versus 22 per 10,000 women-years), although only the increased risk of dvt reached statistical significance (23 versus 15 per 10,000 women-years). the increase in vte risk was demonstrated during the first 2 years [see  clinical studies (14.5)  ]  .
+
+
+
+ if feasible, duavee should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization. because immobilization increases the risk for venous thromboembolic events independent of therapy, duavee should be discontinued prior to and during prolonged immobilization (e.g., post-surgical recovery, prolonged bed rest) and duavee therapy should be resumed only after the patient is fully ambulatory. in addition, women taking duavee should be advised to move about periodically during travel involving prolonged immobilization.
+
+
+
+    5.3 malignant neoplasms
+
+
+
+   endometrial cancer  
+
+
+
+ an increased risk of endometrial cancer has been reported with the use of unopposed estrogen therapy in women with a uterus. the reported endometrial cancer risk among unopposed estrogen users is about 2 to 12 times greater than in non-users, and appears dependent on duration of treatment and on estrogen dose. most studies show no significant increased risk associated with use of estrogens for less than 1 year. the greatest risk appears associated with prolonged use, with increased risks of 15- to 24-fold for 5 to 10 years or more of treatment. this risk has been shown to persist for at least 8 to 15 years after estrogen therapy is discontinued.
+
+
+
+ duavee contains an estrogen agonist/antagonist. this component reduces the risk of endometrial hyperplasia that can occur with the conjugated estrogens component. endometrial hyperplasia may be a precursor to endometrial cancer. women taking duavee should not take additional estrogens as this may increase the risk of endometrial hyperplasia.
+
+
+
+ clinical surveillance of all women taking duavee is important. adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal genital bleeding.
+
+
+
+    breast cancer  
+
+
+
+ the most important randomized clinical study providing information about breast cancer in estrogen-alone users is the whi substudy of daily conjugated estrogens (0.625 mg)-alone. in the whi estrogen-alone substudy, after an average follow-up of 7.1 years, daily conjugated estrogen (0.625 mg)-alone was not associated with an increased risk of invasive breast cancer (relative risk [rr] 0.80).
+
+
+
+ the use of estrogen-alone has been reported to result in an increase in abnormal mammograms requiring further evaluation. the effect of treatment with duavee on the risk of breast cancer is unknown.
+
+
+
+ all women should receive yearly breast examinations by a healthcare provider and perform monthly breast self-examinations. in addition, mammography examinations should be scheduled based on patient age, risk factors, and prior mammogram results.
+
+
+
+    ovarian cancer  
+
+
+
+ in some epidemiological studies, the use of estrogen-only products, in particular for 5 or more years, has been associated with an increased risk of ovarian cancer. however, the duration of exposure associated with increased risk is not consistent across all epidemiologic studies, and some report no association. the effect of treatment with duavee on the risk of ovarian cancer is unknown.
+
+
+
+    5.4 probable dementia
+
+
+
+  in the whims estrogen-alone ancillary study of whi, a population of 2,947 hysterectomized women 65 to 79 years of age was randomized to daily ce (0.625 mg)-alone or placebo.
+
+
+
+ after an average follow-up of 5.2 years, 28 women in the estrogen-alone group and 19 women in the placebo group were diagnosed with probable dementia. the relative risk of probable dementia for ce-alone versus placebo was 1.49 (95 percent ci, 0.83-2.66). the absolute risk of probable dementia for ce-alone versus placebo was 37 versus 25 cases per 10,000 women-years [see  use in specific populations (8.5)  and  clinical studies (14.6)  ]  .
+
+
+
+    5.5 gallbladder disease
+
+
+
+  a 2- to 4-fold increase in the risk of gallbladder disease requiring surgery in postmenopausal women receiving estrogens has been reported.
+
+
+
+    5.6 visual abnormalities
+
+
+
+  retinal vascular thrombosis has been reported in patients receiving estrogens. discontinue medication pending examination if there is sudden partial or complete loss of vision, or a sudden onset of proptosis, diplopia, or migraine. if examination reveals papilledema or retinal vascular lesions, duavee should be permanently discontinued.
+
+
+
+    5.7 elevated blood pressure
+
+
+
+  in a small number of case reports in women receiving estrogens, substantial increases in blood pressure have been attributed to idiosyncratic reactions to estrogens. in a large, randomized, placebo-controlled clinical study, a generalized effect of estrogens on blood pressure was not seen.
+
+
+
+    5.8 hypertriglyceridemia
+
+
+
+  in women with pre-existing hypertriglyceridemia, treatment with estrogens may be associated with elevations of plasma triglycerides leading to pancreatitis. consider discontinuation of duavee if pancreatitis occurs.
+
+
+
+    5.9 hepatic impairment and past history of cholestatic jaundice
+
+
+
+  duavee has not been studied in women with impaired liver function or past history of cholestatic jaundice.
+
+
+
+ estrogens may be poorly metabolized in women with impaired liver function.
+
+
+
+ on average, women with hepatic impairment treated with bazedoxifene alone showed a 4.3-fold increase in overall exposures compared with controls [see  use in specific populations (8.7)  and  clinical pharmacology (12.3)  ]  .
+
+
+
+ for women with a history of cholestatic jaundice associated with past estrogen use or with pregnancy, caution should be exercised; and in the case of recurrence, duavee should be discontinued. use of duavee in patients with hepatic impairment is contraindicated [see  contraindications (4)  ]  .
+
+
+
+    5.10 hypothyroidism
+
+
+
+  estrogen administration leads to increased thyroid-binding globulin (tbg) levels. women with normal thyroid function can compensate for the increased tbg by making more thyroid hormone, thus maintaining free t4 and t3 serum concentrations in the normal range. women dependent on thyroid hormone replacement therapy who are also receiving estrogens may require increased doses of their thyroid replacement therapy. these women should have their thyroid function monitored in order to maintain their free thyroid hormone levels in an acceptable range.
+
+
+
+    5.11 fluid retention
+
+
+
+  estrogens may cause some degree of fluid retention. because of this, patients who have conditions that might be influenced by this factor, such as cardiac dysfunction or renal impairment, warrant careful observation when estrogens are prescribed. use of duavee in patients with renal impairment is not recommended [see  use in specific populations (8.6)  ]  .
+
+
+
+    5.12 hypocalcemia
+
+
+
+  estrogen therapy should be used with caution in women with hypoparathyroidism as estrogen-induced hypocalcemia may occur.
+
+
+
+    5.13 hereditary angioedema
+
+
+
+  exogenous estrogens may exacerbate symptoms of angioedema in women with hereditary angioedema.
+
+
+
+    5.14 exacerbation of other conditions
+
+
+
+  estrogens may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine or porphyria, systemic lupus erythematosus, and hepatic hemangiomas and should be used with caution in women with these conditions.
+
+
+
+    5.15 premenopausal women
+
+
+
+  there is no indication for premenopausal use of duavee. the efficacy and safety of duavee in premenopausal women have not been established, and its use is not recommended.
+
+
+
+    5.16 laboratory tests
+
+
+
+  serum follicle stimulating hormone (fsh) and estradiol levels have not been shown to be useful in the management of moderate to severe vasomotor symptoms.
+
+
+
+    5.17 drug-laboratory test interactions
+
+
+
+  accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors ii, vii antigen, viii antigen, viii coagulant activity, ix, x, xii, vii-x complex, ii-vii-x complex, and beta-thromboglobulin; decreased levels of antifactor xa and antithrombin iii, decreased antithrombin iii activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
+
+
+
+ increased thyroid-binding globulin (tbg) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (pbi), t4 levels (by column or by radioimmunoassay), or t3 levels by radioimmunoassay. t3 resin uptake is decreased, reflecting the elevated tbg. free t4 and free t3 concentrations are unaltered. women on thyroid replacement therapy may require higher doses of thyroid hormone.
+
+
+
+ other binding proteins may be elevated in serum, for example, corticosteroid binding globulin (cbg), sex hormone-binding globulin (shbg), leading to increased total circulating corticosteroids and sex steroids, respectively. free hormone concentrations, such as testosterone and estradiol, may be decreased. other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
+
+
+
+ increased plasma high-density lipoprotein (hdl) and hdl2 cholesterol subfraction concentrations, reduced low-density lipoprotein (ldl) cholesterol concentrations, increased triglyceride levels.
+
+
+
+ impaired glucose tolerance.

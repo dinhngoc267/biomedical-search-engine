@@ -1,0 +1,236 @@
+    6 adverse reactions
+
+  the following adverse reactions are described in more detail in other sections of the prescribing information.
+
+
+
+ *  myelosuppression [see  warnings and precautions (5.1)  ]  
+ *  infection [see  warnings and precautions (5.2)  ]  
+ *  electrocardiographic changes [see  warnings and precautions (5.3)  ]  
+ *  tumor lysis syndrome [see  warnings and precautions (5.4)  ]  
+      excerpt:   the most common adverse reactions were neutropenia, lymphopenia, thrombocytopenia, infections, nausea, fatigue, vomiting, anorexia, anemia, and ecg t-wave changes (  6  ).
+ 
+
+   to report suspected adverse reactions, contact celgene corporation at 1-888-423-5436 or the fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+  cutaneous t-cell lymphoma   the safety of istodax was evaluated in 185 patients with ctcl in 2 single arm clinical studies in which patients received a starting dose of 14 mg/m  2  . the mean duration of treatment in these studies was 5.6 months (range: <1 to 83.4 months).
+
+
+
+   
+
+  common adverse reactions
+
+
+
+ table 1 summarizes the most frequent adverse reactions (> 20%) regardless of causality using the national cancer institute-common terminology criteria for adverse events (nci-ctcae, version 3.0). due to methodological differences between the studies, the ae data are presented separately for study 1 and study 2. adverse reactions are ranked by their incidence in study 1. laboratory abnormalities commonly reported (> 20%) as adverse reactions are included in table 1.
+
+
+
+ table 1. adverse reactions occurring in >20% of patients in either ctcl study (n=185) 
+   adverse reactions n (%)                   study 1(n=102)      study 2(n=83)     
+   all grades                                grade 3 or 4      all grades       grade 3 or 4     
+   any adverse reaction                        99 (97)          36 (35)         83 (100)          68 (82)       
+ nausea                                        57 (56)           3 (3)           71 (86)           5 (6)        
+ asthenia/fatigue                              54 (53)           8 (8)           64 (77)          12 (14)       
+ infections                                    47 (46)          11 (11)          45 (54)          27 (33)       
+ vomiting                                      35 (34)          1 (<1)           43 (52)          8 (10)        
+ anorexia                                      23 (23)          1 (<1)           45 (54)           3 (4)        
+ hypomagnesemia                                22 (22)          1 (<1)           23 (28)             0          
+ diarrhea                                      20 (20)          1 (<1)           22 (27)           1 (1)        
+ pyrexia                                       20 (20)           4 (4)           19 (23)           1 (1)        
+ anemia                                        19 (19)           3 (3)           60 (72)          13 (16)       
+ thrombocytopenia                              17 (17)             0             54 (65)          12 (14)       
+ dysgeusia                                     15 (15)             0             33 (40)             0          
+ constipation                                  12 (12)           2 (2)           32 (39)           1 (1)        
+ neutropenia                                   11 (11)           4 (4)           47 (57)          22 (27)       
+ hypotension                                    7 (7)            3 (3)           19 (23)           3 (4)        
+ pruritus                                       7 (7)              0             26 (31)           5 (6)        
+ hypokalemia                                    6 (6)              0             17 (20)           2 (2)        
+ dermatitis/exfoliative dermatitis              4 (4)           1 (<1)           22 (27)           7 (8)        
+ hypocalcemia                                   4 (4)              0             43 (52)           5 (6)        
+ leukopenia                                     4 (4)              0             38 (46)          18 (22)       
+ lymphopenia                                    4 (4)              0             47 (57)          31 (37)       
+ alanine aminotransferase increased             3 (3)              0             18 (22)           2 (2)        
+ aspartate aminotransferase increased           3 (3)              0             23 (28)           3 (4)        
+ hypoalbuminemia                                3 (3)           1 (<1)           40 (48)           3 (4)        
+ electrocardiogram st-t wave changes            2 (2)              0             52 (63)             0          
+ hyperglycemia                                  2 (2)            2 (2)           42 (51)           1 (1)        
+ hyponatremia                                  1 (<1)           1 (<1)           17 (20)           2 (2)        
+ hypermagnesemia                                  0                0             22 (27)           7 (8)        
+ hypophosphatemia                                 0                0             22 (27)          8 (10)        
+ hyperuricemia                                    0                0             27 (33)           7 (8)        
+             
+   serious adverse reactions
+
+
+
+ infections were the most common type of sae reported in both studies with 8 patients (8%) in study 1 and 26 patients (31%) in study 2 experiencing a serious infection. serious adverse reactions reported in > 2% of patients in study 1 were sepsis and pyrexia (3%). in study 2, serious adverse reactions in > 2% of patients were fatigue (7%), supraventricular arrhythmia, central line infection, neutropenia (6%), hypotension, hyperuricemia, edema (5%), ventricular arrhythmia, thrombocytopenia, nausea, leukopenia, dehydration, pyrexia, aspartate aminotransferase increased, sepsis, catheter related infection, hypophosphatemia and dyspnea (4%).
+
+
+
+ most deaths were due to disease progression. in study 1, there were two deaths due to cardiopulmonary failure and acute renal failure. in study 2, there were six deaths due to infection (4), myocardial ischemia, and acute respiratory distress syndrome.
+
+
+
+   
+
+  discontinuations
+
+
+
+ discontinuation due to an adverse event occurred in 21% of patients in study 1 and 11% in study 2. discontinuations occurring in at least 2% of patients in either study included infection, fatigue, dyspnea, qt prolongation, and hypomagnesemia.
+
+
+
+   peripheral t-cell lymphoma  
+
+
+
+ the safety of istodax was evaluated in 178 patients with ptcl in a sponsor-conducted pivotal study (study 3) and a secondary nci-sponsored study (study 4) in which patients received a starting dose of 14 mg/m  2  . the mean duration of treatment and number of cycles were 5.6 months and 6 cycles in study 3 and 9.6 months and 8 cycles in study 4.
+
+
+
+ common adverse reactions
+
+
+
+ table 2 summarizes the most frequent adverse reactions (>= 10%) regardless of causality, using the nci-ctcae, version 3.0. the ae data are presented separately for study 3 and study 4. laboratory abnormalities commonly reported (>= 10%) as adverse reactions are included in table 2.
+
+
+
+ table 2. adverse reactions occurring in >=10% of patients with ptcl in study 3 and corresponding incidence in study 4 (n=178) 
+   adverse reactions n (%)                   study 3(n=131)      study 4(n=47)     
+ all grades                                  grade 3 or 4      all grades       grade 3 or 4     
+   any adverse reactions                      128 (97)          88 (67)         47 (100)          40 (85)       
+ gastrointestinal disorders                                                                                     
+     nausea                                    77 (59)           3 (2)           35 (75)           3 (6)        
+     vomiting                                  51 (39)           6 (5)           19 (40)           4 (9)        
+     diarrhea                                  47 (36)           3 (2)           17 (36)           1 (2)        
+     constipation                              39 (30)          1 (<1)           19 (40)           1 (2)        
+     abdominal pain                            18 (14)           3 (2)           6 (13)            1 (2)        
+     stomatitis                                14 (11)             0              3 (6)              0          
+ general disorders and administration site conditions                                                                       
+     asthenia/fatigue                          72 (55)          11 (8)           36 (77)          9 (19)        
+     pyrexia                                   46 (35)           8 (6)           22 (47)          8 (17)        
+     chills                                    14 (11)          1 (<1)           8 (17)              0          
+     edema peripheral                          13 (10)          1 (<1)            3 (6)              0          
+ blood and lymphatic system disorders                                                                           
+     thrombocytopenia                          53 (41)          32 (24)          34 (72)          17 (36)       
+     neutropenia                               39 (30)          26 (20)          31 (66)          22 (47)       
+     anemia                                    33 (25)          14 (11)          29 (62)          13 (28)       
+     leukopenia                                16 (12)           8 (6)           26 (55)          21 (45)       
+ metabolism and nutrition disorders                                                                             
+     anorexia                                  37 (28)           2 (2)           21 (45)           1 (2)        
+     hypokalemia                               14 (11)           3 (2)           8 (17)            1 (2)        
+ nervous system disorders                                                                                       
+     dysgeusia                                 27 (21)             0             13 (28)             0          
+     headache                                  19 (15)             0             16 (34)           1 (2)        
+ respiratory, thoracic and mediastinal disorders                                                                       
+     cough                                     23 (18)             0             10 (21)             0          
+     dyspnea                                   17 (13)           3 (2)           10 (21)           2 (4)        
+ investigations                                                                                                 
+     weight decreased                          14 (11)             0             7 (15)              0          
+ cardiac disorders                                                                                              
+     tachycardia                               13 (10)             0                0                0          
+           serious adverse reactions
+ 
+
+ infections were the most common type of sae reported. in study 3, 26 patients (20%) experienced a serious infection, including 6 patients (5%) with serious treatment-related infections. in study 4, 11 patients (23%) experienced a serious infection, including 8 patients (17%) with serious treatment-related infections. serious adverse reactions reported in >= 2% of patients in study 3 were pyrexia (8%), pneumonia, sepsis, vomiting (5%), cellulitis, deep vein thrombosis, (4%), febrile neutropenia, abdominal pain (3%), chest pain, neutropenia, pulmonary embolism, dyspnea, and dehydration (2%). in study 4, serious adverse reactions in >= 2 patients were pyrexia (17%), aspartate aminotransferase increased, hypotension (13%), anemia, thrombocytopenia, alanine aminotransferase increased (11%), infection, dehydration, dyspnea (9%), lymphopenia, neutropenia, hyperbilirubinemia, hypocalcemia, hypoxia (6%), febrile neutropenia, leukopenia, ventricular arrhythmia, vomiting, hypersensitivity, catheter related infection, hyperuricemia, hypoalbuminemia, syncope, pneumonitis, packed red blood cell transfusion, and platelet transfusion (4%).
+
+
+
+ reactivation of hepatitis b virus infection has occurred in 1% of patients with ptcl patients in clinical trials in western population enrolled in study 3 and study 4  [see  warnings and precautions (5.2)  ].  
+
+
+
+ deaths due to all causes within 30 days of the last dose of istodax occurred in 7% of patients in study 3 and 17% of patients in study 4. in study 3, there were 5 deaths unrelated to disease progression that were due to infections, including multi-organ failure/sepsis, pneumonia, septic shock, candida sepsis, and sepsis/cardiogenic shock. in study 4, there were 3 deaths unrelated to disease progression that were due to sepsis, aspartate aminotransferase elevation in the setting of epstein barr virus reactivation, and death of unknown cause.
+
+
+
+   discontinuations  
+
+
+
+ discontinuation due to an adverse event occurred in 19% of patients in study 3 and in 28% of patients in study 4. in study 3, thrombocytopenia and pneumonia were the only events leading to treatment discontinuation in at least 2% of patients. in study 4, events leading to treatment discontinuation in >= 2 patients were thrombocytopenia (11%), anemia, infection, and alanine aminotransferase increased (4%).
+
+
+
+   6.2 postmarketing experience
+
+  no additional safety signals have been observed from postmarketing experience.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  myelosuppression: istodax can cause thrombocytopenia, leukopenia (neutropenia and lymphopenia), and anemia; monitor blood counts during treatment with istodax; interrupt and/or modify the dose as necessary (  2.2  ). 
+ *  infections: fatal and serious infections. reactivation of dna viruses (epstein barr and hepatitis b). consider monitoring and prophylaxis in patients with evidence of prior hepatitis b (  5.2  ). 
+ *  electrocardiographic (ecg) changes: consider cardiovascular monitoring in patients with congenital long qt syndrome, a history of significant cardiovascular disease, and patients taking medicinal products that lead to significant qt prolongation. ensure that potassium and magnesium are within the normal range before administration of istodax (  5.3  ). 
+ *  tumor lysis syndrome: patients with advanced stage disease and/or high tumor burden are at greater risk and should be closely monitored and appropriate precautions taken (  5.4  ). 
+ *  embryo-fetal toxicity: istodax may cause fetal harm when administered to a pregnant woman. advise women of potential hazard to the fetus and to avoid pregnancy while receiving istodax (  5.5  ,  8.1  ). 
+    
+ 
+
+   5.1 myelosuppression
+
+
+
+  treatment with istodax can cause thrombocytopenia, leukopenia (neutropenia and lymphopenia), and anemia. monitor blood counts regularly during treatment with istodax, and modify the dose as necessary [see  dosage and administration (2.2)  and  adverse reactions (6)  ].  
+
+
+
+    5.2 infections
+
+
+
+   fatal and serious infections, including pneumonia, sepsis, and viral reactivation, including epstein barr and hepatitis b viruses, have been reported in clinical trials with istodax. these can occur during treatment and within 30 days after treatment. the risk of life threatening infections may be greater in patients with a history of prior treatment with monoclonal antibodies directed against lymphocyte antigens and in patients with disease involvement of the bone marrow [see  adverse reactions (6)  ].    
+
+
+
+  reactivation of hepatitis b virus infection has occurred in 1% of ptcl patients in clinical trials in western populations [see  adverse reactions (6)  ]  . in patients with evidence of prior hepatitis b infection, consider monitoring for reactivation, and consider antiviral prophylaxis.  
+
+
+
+  reactivation of epstein barr viral infection leading to liver failure has occurred in a trial of patients with relapsed or refractory extranodal nk/t-cell lymphoma. in one case, ganciclovir prophylaxis failed to prevent epstein barr viral reactivation.  
+
+
+
+    5.3 electrocardiographic changes
+
+
+
+  several treatment-emergent morphological changes in ecgs (including t-wave and st-segment changes) have been reported in clinical studies. the clinical significance of these changes is unknown [see  adverse reactions (6)  ].  
+
+
+
+ in patients with congenital long qt syndrome, patients with a history of significant cardiovascular disease, and patients taking anti-arrhythmic medicines or medicinal products that lead to significant qt prolongation, consider cardiovascular monitoring of ecgs at baseline and periodically during treatment.
+
+
+
+ confirm that potassium and magnesium levels are within normal range before administration of istodax [see  adverse reactions (6)  ].  
+
+
+
+    5.4 tumor lysis syndrome
+
+
+
+  tumor lysis syndrome (tls) has been reported to occur in 1% of patients with tumor stage ctcl and 2% of patients with stage iii/iv ptcl. patients with advanced stage disease and/or high tumor burden may be at greater risk, should be closely monitored, and managed as appropriate.
+
+
+
+    5.5 use in pregnancy
+
+
+
+  there are no adequate and well-controlled studies of istodax in pregnant women. however, based on its mechanism of action and findings in animals, istodax may cause fetal harm when administered to a pregnant woman. in an animal reproductive study, romidepsin was embryocidal and resulted in adverse effects on the developing fetus at exposures below those in patients at the recommended dose of 14 mg/m  2  /week. if this drug is used during pregnancy, or if the patient becomes pregnant while taking istodax, the patient should be apprised of the potential hazard to the fetus [see  use in specific populations (8.1)  ]  .

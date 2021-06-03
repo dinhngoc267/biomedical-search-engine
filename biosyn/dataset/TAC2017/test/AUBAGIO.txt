@@ -1,0 +1,268 @@
+    6 adverse reactions
+
+  the following serious adverse reactions are described elsewhere in the prescribing information:
+
+
+
+ *  hepatotoxicity [see  contraindications (4.1)  and  warnings and precautions (5.1)  ]  
+ *  bone marrow effects/immunosuppression potential/infections [see  warnings and precautions (5.4)  ]  
+ *  peripheral neuropathy [see  warnings and precautions (5.5)  ]  
+ *  skin reactions [see  warnings and precautions (5.6)  ]  
+ *  increased blood pressure [see  warnings and precautions (5.7)  ]  
+ *  respiratory effects [see  warnings and precautions (5.8)  ]  
+      excerpt:   most common adverse reactions (>=10% and >=2% greater than placebo): headache, diarrhea, nausea, alopecia, increase in alt (  6  )  to report suspected adverse reactions, contact genzyme corporation at 1-800-745-4447 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch.    
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ a total of 2047 patients receiving aubagio (7 mg or 14 mg once daily) constituted the safety population in the pooled analysis of placebo controlled studies in patients with relapsing forms of multiple sclerosis; of these, 71% were female. the average age was 37 years.
+
+
+
+ table 1 lists adverse reactions in placebo-controlled trials with rates that were at least 2% for aubagio patients and also at least 2% above the rate in placebo patients. the most common were headache, an increase in alt, diarrhea, alopecia, and nausea. the adverse reaction most commonly associated with discontinuation was an increase in alt (3.3%, 2.6%, and 2.3% of all patients in the aubagio 7 mg, aubagio 14 mg, and placebo treatment arms, respectively).
+
+
+
+ table 1. adverse reactions in pooled placebo-controlled studies in patients with relapsing forms of multiple sclerosis 
+   adverse reaction                        aubagio 7 mg(n=1045)  aubagio 14 mg(n=1002)     placebo(n=997)      
+  
+ headache                                          18%                   16%                   15%            
+ increase in alanine aminotransferase              13%                   15%                    9%            
+ diarrhea                                          13%                   14%                    8%            
+ alopecia                                          10%                   13%                    5%            
+ nausea                                             8%                   11%                    7%            
+ paresthesia                                        8%                    9%                    7%            
+ arthralgia                                         8%                    6%                    5%            
+ neutropenia                                        4%                    6%                    2%            
+ hypertension                                       3%                    4%                    2%            
+              cardiovascular deaths  
+ 
+
+ four cardiovascular deaths, including three sudden deaths, and one myocardial infarction in a patient with a history of hyperlipidemia and hypertension were reported among approximately 2600 patients exposed to aubagio in the premarketing database. these cardiovascular deaths occurred during uncontrolled extension studies, one to nine years after initiation of treatment. a relationship between aubagio and cardiovascular death has not been established.
+
+
+
+     acute renal failure  
+
+
+
+ in placebo-controlled studies, creatinine values increased more than 100% over baseline in 8/1045 (0.8%) patients in the 7 mg aubagio group and 6/1002 (0.6%) patients in the 14 mg aubagio group versus 4/997 (0.4%) patients in the placebo group. these elevations were transient. some elevations were accompanied by hyperkalemia. aubagio may cause acute uric acid nephropathy with transient acute renal failure because aubagio increases renal uric acid clearance.
+
+
+
+     hypophosphatemia  
+
+
+
+ in clinical trials, 18% of aubagio-treated patients had hypophosphatemia with serum phosphorus levels of at least 0.6 mmol/l, compared to 7% of placebo-treated patients; 4% of aubagio-treated patients had hypophosphatemia with serum phosphorus levels at least 0.3 mmol/l but less than 0.6 mmol/l, compared to 0.8% of placebo-treated patients. no patient in any treatment group had a serum phosphorus below 0.3 mmol/l.
+
+
+    boxed warning: warning:  hepatotoxicity and risk of teratogenicity
+
+  warning:  hepatotoxicity and risk of teratogenicity
+
+  excerpt:   warning:  hepatotoxicity and risk of teratogenicity
+
+
+
+   see full prescribing information for complete boxed warning  
+
+
+
+   hepatotoxicity  
+
+
+
+   severe liver injury including fatal liver failure has been reported in patients treated with leflunomide, which is indicated for rheumatoid arthritis. a similar risk would be expected for teriflunomide because recommended doses of teriflunomide and leflunomide result in a similar range of plasma concentrations of teriflunomide. obtain transaminase and bilirubin levels within 6 months before initiation of aubagio and monitor alt levels at least monthly for six months (  5.1  ). if drug induced liver injury is suspected, discontinue aubagio and start accelerated elimination procedure (  5.3  ).   
+
+
+
+   risk of teratogenicity  
+
+
+
+   based on animal data, aubagio may cause major birth defects if used during pregnancy. aubagio is contraindicated in pregnant women or women of childbearing potential who are not using reliable contraception. pregnancy must be avoided during aubagio treatment. (  4.2  ,   5.2  )  
+
+
+
+ 
+
+
+
+  hepatotoxicity
+
+    severe liver injury including fatal liver failure has been reported in patients treated with leflunomide, which is indicated for rheumatoid arthritis. a similar risk would be expected for teriflunomide because recommended doses of teriflunomide and leflunomide result in a similar range of plasma concentrations of teriflunomide. concomitant use of aubagio with other potentially hepatotoxic drugs may increase the risk of severe liver injury. obtain transaminase and bilirubin levels within 6 months before initiation of aubagio therapy. monitor alt levels at least monthly for six months after starting aubagio   [see   warnings and precautions (5.1)  ].   if drug induced liver injury is suspected, discontinue aubagio and start an accelerated elimination procedure with cholestyramine or charcoal   [see   warnings and precautions (5.3)  ]  . aubagio is contraindicated in patients with severe hepatic impairment   [see   contraindications (4.1)  ]  . patients with pre-existing liver disease may be at increased risk of developing elevated serum transaminases when taking aubagio.   
+
+
+
+   risk of teratogenicity
+
+    based on animal data, aubagio may cause major birth defects if used during pregnancy. pregnancy must be excluded before starting aubagio. aubagio is contraindicated in pregnant women or women of childbearing potential who are not using reliable contraception. pregnancy must be avoided during aubagio treatment or prior to the completion of an accelerated elimination procedure after aubagio treatment   [see   contraindications (4.2)  ,   warnings and precautions (5.2)  , and   use in specific populations (8.1)  ]  .   
+    5 warnings and precautions
+
+
+
+   excerpt:    *  elimination of aubagio can be accelerated by administration of cholestyramine or activated charcoal for 11 days (  5.3  ) 
+ *  aubagio may decrease wbc. a recent cbc should be available before starting aubagio. monitor for signs and symptoms of infection. consider suspending treatment with aubagio in case of serious infection. do not start aubagio in patients with active infections (  5.4  ) 
+ *  if patient develops symptoms consistent with peripheral neuropathy, evaluate patient and consider discontinuing aubagio (  5.5  ) 
+ *  stop aubagio if patient develops stevens-johnson syndrome or toxic epidermal necrolysis (  5.6  ) 
+ *  aubagio may increase blood pressure. measure blood pressure at treatment initiation and monitor blood pressure during treatment (  5.7  ) 
+    
+ 
+
+   5.1 hepatotoxicity
+
+
+
+  severe liver injury including fatal liver failure and dysfunction has been reported in some patients treated with leflunomide, which is indicated for rheumatoid arthritis. a similar risk would be expected for teriflunomide because recommended doses of teriflunomide and leflunomide result in a similar range of plasma concentrations of teriflunomide. patients with pre-existing liver disease may be at increased risk of developing elevated serum transaminases when taking aubagio. patients with pre-existing acute or chronic liver disease, or those with serum alanine aminotransferase (alt) greater than two times the upper limit of normal (uln) before initiating treatment, should not normally be treated with aubagio. aubagio is contraindicated in patients with severe hepatic impairment [see  contraindications (4.1)  ]  .
+
+
+
+  in placebo-controlled trials, alt greater than three times the uln occurred in 61/1045 (5.8%) and 62/1002 (6.2%) of patients receiving aubagio 7 mg and 14 mg, respectively, and 38/997 (3.8%) of patients receiving placebo, during the treatment period. these elevations occurred mostly within the first year of treatment. half of the cases returned to normal without drug discontinuation. in clinical trials, if alt elevation was greater than three times the uln on two consecutive tests, aubagio was discontinued and patients underwent an accelerated elimination procedure [see  warnings and precautions (5.3)  ]  . of the patients who underwent discontinuation and accelerated elimination in controlled trials, half returned to normal or near normal values within 2 months.  
+
+
+
+ one patient in the controlled trials developed alt 32 times the uln and jaundice 5 months after initiation of aubagio 14 mg treatment. the patient was hospitalized for 5 weeks and recovered after plasmapheresis and cholestyramine accelerated elimination procedure. aubagio-induced liver injury in this patient could not be ruled out.
+
+
+
+ obtain serum transaminase and bilirubin levels within 6 months before initiation of aubagio therapy. monitor alt levels at least monthly for six months after starting aubagio. consider additional monitoring when aubagio is given with other potentially hepatotoxic drugs. consider discontinuing aubagio if serum transaminase increase (greater than three times the uln) is confirmed. monitor serum transaminase and bilirubin on aubagio therapy, particularly in patients who develop symptoms suggestive of hepatic dysfunction, such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine. if liver injury is suspected to be aubagio-induced, discontinue aubagio and start an accelerated elimination procedure [see  warnings and precautions (5.3)  ]  and monitor liver tests weekly until normalized. if aubagio-induced liver injury is unlikely because some other probable cause has been found, resumption of aubagio therapy may be considered.
+
+
+
+    5.2 use in women of childbearing potential
+
+
+
+  there are no adequate and well-controlled studies evaluating aubagio in pregnant women. however, based on animal studies, teriflunomide may increase the risk of teratogenic effects or fetal death when administered to a pregnant woman [see  contraindications (4.2)  ]  .
+
+
+
+ women of childbearing potential must not be started on aubagio until pregnancy is excluded and it has been confirmed that they are using reliable contraception. before starting treatment with aubagio, patients must be fully counseled on the potential for serious risk to the fetus. the patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must notify the physician immediately for pregnancy testing and, if positive, the physician and patient must discuss the risk to the fetus. it is possible that rapidly lowering the plasma concentration of teriflunomide by instituting an accelerated elimination procedure may decrease the risk to the fetus from aubagio [see  warnings and precautions (5.3)  ]  .
+
+
+
+ upon discontinuing aubagio, it is recommended that all women of childbearing potential undergo an accelerated elimination procedure. women receiving aubagio treatment who wish to become pregnant must discontinue aubagio and undergo an accelerated elimination procedure, which includes verification of teriflunomide plasma concentrations less than 0.02 mg/l (0.02 mcg/ml). human plasma concentrations of teriflunomide less than 0.02 mg/l (0.02 mcg/ml) are expected to have minimal risk [see  contraindications (4.2)  ,  warnings and precautions (5.3)  and  use in specific populations (8.1)  ]  .
+
+
+
+    5.3 procedure for accelerated elimination of teriflunomide
+
+
+
+  teriflunomide is eliminated slowly from the plasma. without an accelerated elimination procedure, it takes on average 8 months to reach plasma concentrations less than 0.02 mg/l, although because of individual variations in drug clearance it may take as long as 2 years. an accelerated elimination procedure could be used at any time after discontinuation of aubagio. elimination can be accelerated by either of the following procedures:
+
+
+
+ *  administration of cholestyramine 8 g every 8 hours for 11 days. if cholestyramine 8 g three times a day is not well tolerated, cholestyramine 4 g three times a day can be used. 
+ *  administration of 50 g oral activated charcoal powder every 12 hours for 11 days. 
+    if either elimination procedure is poorly tolerated, treatment days do not need to be consecutive unless there is a need to lower teriflunomide plasma concentration rapidly.
+ 
+
+ at the end of 11 days, both regimens successfully accelerated teriflunomide elimination, leading to more than 98% decrease in teriflunomide plasma concentrations.
+
+
+
+ use of the accelerated elimination procedure may potentially result in return of disease activity if the patient had been responding to aubagio treatment.
+
+
+
+    5.4 bone marrow effects/immunosuppression potential/infections
+
+
+
+   white blood cell (wbc) count decrease  
+
+
+
+  a mean decrease in white blood cell (wbc) count of approximately 15% (mainly neutrophils and lymphocytes) and in platelet count of approximately 10% was observed in placebo-controlled trials with 7 mg and 14 mg of aubagio compared to baseline. the decrease in mean wbc count occurred during the first 6 weeks and wbc count remained low during treatment. in placebo-controlled studies, neutrophil count < 1.5*10  9  /l was observed in 12% and 16% of patients receiving aubagio 7 mg and 14 mg, respectively, compared with 7% of patients receiving placebo; lymphocyte count <0.8*10  9  /l was observed in 10% and 12% of patients receiving aubagio 7 mg and 14 mg, respectively, compared with 6% of patients receiving placebo. no cases of serious pancytopenia were reported in premarketing clinical trials of aubagio but rare cases of pancytopenia, agranulocytosis, and thrombocytopenia have been reported in the postmarketing setting with leflunomide. a similar risk would be expected for aubagio [see  clinical pharmacology (12.3)  ]  . obtain a complete blood cell count (cbc) within 6 months before the initiation of treatment with aubagio. further monitoring should be based on signs and symptoms suggestive of bone marrow suppression.  
+
+
+
+    risk of infection / tuberculosis screening  
+
+
+
+ patients with active acute or chronic infections should not start treatment until the infection(s) is resolved. if a patient develops a serious infection consider suspending treatment with aubagio and using an accelerated elimination procedure. reassess the benefits and risks prior to resumption of therapy. instruct patients receiving aubagio to report symptoms of infections to a physician.
+
+
+
+ aubagio is not recommended for patients with severe immunodeficiency, bone marrow disease, or severe, uncontrolled infections. medications like aubagio that have immunosuppression potential may cause patients to be more susceptible to infections, including opportunistic infections.
+
+
+
+  in placebo-controlled studies of aubagio, no overall increase in the risk of serious infections was observed with aubagio 7 mg (2.2%) or 14 mg (2.7%) compared to placebo (2.2%). however, one fatal case of klebsiella pneumonia sepsis occurred in a patient taking aubagio 14 mg for 1.7 years. fatal infections have been reported in the post-marketing setting in patients receiving leflunomide, especially pneumocystis jiroveci  pneumonia and aspergillosis. most of the reports were confounded by concomitant immunosuppressant therapy and/or comorbid illness which, in addition to rheumatoid disease, may predispose patients to infection. in clinical studies with aubagio, cytomegalovirus hepatitis reactivation has been observed.  
+
+
+
+  in clinical studies with aubagio, cases of tuberculosis have been observed. prior to initiating aubagio, screen patients for latent tuberculosis infection with a tuberculin skin test or with a blood test for mycobacterium tuberculosis infection. aubagio has not been studied in patients with a positive tuberculosis screen, and the safety of aubagio in individuals with latent tuberculosis infection is unknown. for patients testing positive in tuberculosis screening, treat by standard medical practice prior to therapy with aubagio.  
+
+
+
+    vaccination  
+
+
+
+ no clinical data are available on the efficacy and safety of live vaccinations in patients taking aubagio. vaccination with live vaccines is not recommended. the long half-life of aubagio should be considered when contemplating administration of a live vaccine after stopping aubagio.
+
+
+
+    malignancy  
+
+
+
+ the risk of malignancy, particularly lymphoproliferative disorders, is increased with the use of some immunosuppressive medications. there is a potential for immunosuppression with aubagio. no apparent increase in the incidence of malignancies and lymphoproliferative disorders was reported in the aubagio clinical trials, but larger and longer-term studies would be needed to determine whether there is an increased risk of malignancy or lymphoproliferative disorders with aubagio.
+
+
+
+    5.5 peripheral neuropathy
+
+
+
+   in placebo-controlled studies, peripheral neuropathy, including both polyneuropathy and mononeuropathy (e.g., carpal tunnel syndrome), occurred more frequently in patients taking aubagio than in patients taking placebo. the incidence of peripheral neuropathy confirmed by nerve conduction studies was 1.4% (13 patients) and 1.9% (17 patients) of patients receiving 7 mg and 14 mg of aubagio, respectively, compared with 0.4% receiving placebo (4 patients). treatment was discontinued in 0.7% (8 patients) with confirmed peripheral neuropathy (3 patients receiving aubagio 7 mg and 5 patients receiving aubagio 14 mg). five of them recovered following treatment discontinuation. not all cases of peripheral neuropathy resolved with continued treatment. peripheral neuropathy also occurred in patients receiving leflunomide.  
+
+
+
+ age older than 60 years, concomitant neurotoxic medications, and diabetes may increase the risk for peripheral neuropathy .  if a patient taking aubagio develops symptoms consistent with peripheral neuropathy, such as bilateral numbness or tingling of hands or feet, consider discontinuing aubagio therapy and performing an accelerated elimination procedure [see  warnings and precautions (5.3)  ]  .
+
+
+
+    5.6 skin reactions
+
+
+
+  rare cases of stevens-johnson syndrome and toxic epidermal necrolysis have been reported in patients with rheumatoid arthritis receiving leflunomide. a similar risk would be expected for aubagio [see  clinical pharmacology (12.3)  ]  . if a patient taking aubagio develops any of these conditions, stop aubagio therapy and perform an accelerated elimination procedure [see  warnings and precautions (5.3)  ]  .
+
+
+
+    5.7 increased blood pressure
+
+
+
+   in placebo-controlled studies, the mean change from baseline to the end of study in systolic blood pressure was +2.3 mmhg and +2.7 mmhg for aubagio 7 mg and 14 mg, respectively, and -0.6 mmhg for placebo. the change from baseline in diastolic blood pressure was +1.4 mmhg and +1.9 mmhg for aubagio 7 mg and 14 mg, respectively, and -0.3 mmhg for placebo. hypertension was an adverse reaction in 3.1% and 4.3% of patients treated with 7 mg or 14 mg of aubagio compared with 1.8% for placebo. check blood pressure before start of aubagio treatment and periodically thereafter. elevated blood pressure should be appropriately managed during treatment with aubagio.  
+
+
+
+    5.8 respiratory effects
+
+
+
+  interstitial lung disease and worsening of pre-existing interstitial lung disease have been reported during treatment with leflunomide. a similar risk would be expected for aubagio [see  clinical pharmacology (12.3)  ]  . interstitial lung disease may be fatal. interstitial lung disease may occur acutely at any time during therapy and has a variable clinical presentation. new onset or worsening pulmonary symptoms, such as cough and dyspnea, with or without associated fever, may be a reason for discontinuation of the therapy and for further investigation as appropriate. if discontinuation of the drug is necessary, consider initiation of an accelerated elimination procedure [see  warnings and precautions (5.3)  ]  .
+
+
+
+    5.9 concomitant use with immunosuppressive or immunomodulating therapies
+
+
+
+  co-administration with antineoplastic, or immunosuppressive therapies used for treatment of multiple sclerosis has not been evaluated. safety studies in which aubagio was concomitantly administered with other immune modulating therapies for up to one year (interferon beta, glatiramer acetate) did not reveal any specific safety concerns. the long term safety of these combinations in the treatment of multiple sclerosis has not been established.
+
+
+
+ in any situation in which the decision is made to switch from aubagio to another agent with a known potential for hematologic suppression, it would be prudent to monitor for hematologic toxicity, because there will be overlap of systemic exposure to both compounds. use of an accelerated elimination procedure may decrease this risk, but may also potentially result in return of disease activity if the patient had been responding to aubagio treatment [see  warnings and precautions (5.3)  ]  .

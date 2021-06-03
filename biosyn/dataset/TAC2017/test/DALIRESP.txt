@@ -1,0 +1,127 @@
+    6 adverse reactions
+
+  the following adverse reactions are described in greater detail in other sections:
+
+
+
+ *    psychiatric events including suicidality [see warnings and precautions (  5.2  )]  
+ *    weight decrease [see warnings and precautions (  5.3  )]  
+      excerpt:   most common adverse reactions (>= 2%) are diarrhea, weight decrease, nausea, headache, back pain, influenza, insomnia, dizziness and decreased appetite. (  6.1  )
+ 
+
+   to report suspected adverse reactions, contact forest laboratories, llc at 1-800-678-1605 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 adverse reactions in clinical studies
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the safety data described below reflect exposure of 4438 patients to daliresp 500 mcg once daily in four 1-year placebo-controlled trials, two 6-month placebo-controlled trials, and two 6-month drug add-on trials  [see clinical studies (  14.1  )].  in these trials, 3136 and 1232 copd patients were exposed to daliresp 500 mcg once daily for 6 months and 1-year, respectively.
+
+
+
+ the population had a median age of 64 years (range 40-91), 73% were male, 92.9% were caucasian, and had copd with a mean pre-bronchodilator forced expiratory volume in one second (fev1) of 8.9 to 89.1% predicted. in these trials, 68.5% of the patients treated with daliresp reported an adverse reaction compared with 65.3% treated with placebo.
+
+
+
+ the proportion of patients who discontinued treatment due to adverse reaction was 14.8% for daliresp-treated patients and 9.9% for placebo-treated patients. the most common adverse reactions that led to discontinuation of daliresp were diarrhea (2.4%) and nausea (1.6%).
+
+
+
+ serious adverse reactions, whether considered drug-related or not by the investigators, which occurred more frequently in daliresp-treated patients include diarrhea, atrial fibrillation, lung cancer, prostate cancer, acute pancreatitis, and acute renal failure.
+
+
+
+   table 1  summarizes the adverse reactions reported by >= 2% of patients in the daliresp group in 8 controlled copd clinical trials.
+
+
+
+ table 1: adverse reactions reported by >= 2% of patients treated with daliresp 500 mcg daily and greater than placebo 
+                                             treatment                      
+  adverse reactions                          daliresp                       placebo                        
+  (preferred term)                           (n=4438)                       (n=4192)                       
+                                             n (%)                          n (%)                          
+  diarrhea                                   420 (9.5)                      113 (2.7)                      
+  weight decreased                           331 (7.5)                      89 (2.1)                       
+  nausea                                     209 (4.7)                      60 (1.4)                       
+  headache                                   195 (4.4)                      87 (2.1)                       
+  back pain                                  142 (3.2)                      92 (2.2)                       
+  influenza                                  124 (2.8)                      112 (2.7)                      
+  insomnia                                   105 (2.4)                      41 (1.0)                       
+  dizziness                                  92 (2.1)                       45 (1.1)                       
+  decreased appetite                         91 (2.1)                       15 (0.4)                       
+         adverse reactions that occurred in the daliresp group at a frequency of 1 to 2% where rates exceeded that in the placebo group include:
+ 
+
+ gastrointestinal disorders - abdominal pain, dyspepsia, gastritis, vomiting
+
+
+
+ infections and infestations - rhinitis, sinusitis, urinary tract infection,
+
+
+
+ musculoskeletal and connective tissue disorders - muscle spasms
+
+
+
+ nervous system disorders - tremor
+
+
+
+ psychiatric disorders - anxiety, depression
+
+
+
+   6.2 postmarketing experience
+
+  the following adverse reactions have been identified from spontaneous reports of daliresp received worldwide and have not been listed elsewhere. these adverse reactions have been chosen for inclusion due to a combination of seriousness, frequency of reporting or potential causal connection to daliresp. because these adverse reactions were reported voluntarily from a population of uncertain size, it is not possible to estimate their frequency or establish a causal relationship to daliresp exposure:  hypersensitivity reactions including angioedema, urticaria, and rash.
+    5 warnings and precautions
+
+
+
+   excerpt:    *    acute bronchospasm: do not use for the relief of acute bronchospasm. (  5.1  ) 
+ *    psychiatric events including suicidality: advise patients, their caregivers, and families to be alert for the emergence or worsening of insomnia, anxiety, depression, suicidal thoughts or other mood changes, and if such changes occur to contact their healthcare provider. carefully weigh the risks and benefits of treatment with daliresp in patients with a history of depression and/or suicidal thoughts or behavior. (  5.2  ) 
+ *    weight decrease: monitor weight regularly. if unexplained or clinically significant weight loss occurs, evaluate weight loss and consider discontinuation of daliresp. (  5.3  ) 
+ *    drug interactions: use with strong cytochrome p450 enzyme inducers (e.g. rifampicin, phenobarbital, carbamazepine, phenytoin) is not recommended. (  5.4  ) 
+    
+ 
+
+   5.1 treatment of acute bronchospasm
+
+
+
+  daliresp is not a bronchodilator and should not be used for the relief of acute bronchospasm.
+
+
+
+    5.2 psychiatric events including suicidality
+
+
+
+  treatment with daliresp is associated with an increase in psychiatric adverse reactions. in 8 controlled clinical trials 5.9% (263) of patients treated with daliresp 500 mcg daily reported psychiatric adverse reactions compared to 3.3% (137) treated with placebo. the most commonly reported psychiatric adverse reactions were insomnia, anxiety, and depression which were reported at higher rates in those treated with daliresp 500 mcg daily (2.4%, 1.4%, and 1.2% for daliresp versus 1.0%, 0.9%, and 0.9% for placebo, respectively) [see adverse reactions (  6.1  )]  . instances of suicidal ideation and behavior, including completed suicide, have been observed in clinical trials. three patients experienced suicide-related adverse reactions (one completed suicide and two suicide attempts) while receiving daliresp compared to one patient (suicidal ideation) who received placebo. cases of suicidal ideation and behavior, including completed suicide, have been observed in the post-marketing setting in patients with or without a history of depression.
+
+
+
+ before using daliresp in patients with a history of depression and/or suicidal thoughts or behavior, prescribers should carefully weigh the risks and benefits of treatment with daliresp in such patients. patients, their caregivers, and families should be advised of the need to be alert for the emergence or worsening of insomnia, anxiety, depression, suicidal thoughts or other mood changes, and if such changes occur to contact their healthcare provider. prescribers should carefully evaluate the risks and benefits of continuing treatment with daliresp if such events occur.
+
+
+
+    5.3 weight decrease
+
+
+
+  weight loss was a common adverse reaction in daliresp clinical trials and was reported in 7.5% (331) of patients treated with daliresp 500 mcg once daily compared to 2.1% (89) treated with placebo [ see adverse reactions (  6.1  )  ]. in addition to being reported as adverse reactions, weight was prospectively assessed in two placebo-controlled clinical trials of one year duration. in these studies, 20% of patients receiving roflumilast experienced moderate weight loss (defined as between 5-10% of body weight) compared to 7% of patients who received placebo. in addition, 7% of patients who received roflumilast compared to 2% of patients receiving placebo experienced severe (>10% body weight) weight loss. during follow-up after treatment discontinuation, the majority of patients with weight loss regained some of the weight they had lost while receiving daliresp. patients treated with daliresp should have their weight monitored regularly. if unexplained or clinically significant weight loss occurs, weight loss should be evaluated, and discontinuation of daliresp should be considered.
+
+
+
+    5.4 drug interactions
+
+
+
+  a major step in roflumilast metabolism is the n-oxidation of roflumilast to roflumilast n-oxide by cyp3a4 and cyp1a2. the administration of the cytochrome p450 enzyme inducer rifampicin resulted in a reduction in exposure, which may result in a decrease in the therapeutic effectiveness of daliresp. therefore, the use of strong cytochrome p450 enzyme inducers (e.g. rifampicin, phenobarbital, carbamazepine, phenytoin) with daliresp is not recommended [ see drugs that induce cytochrome p450 (cyp) enzymes (  7.1  ) and clinical pharmacology (  12.3  )  ].

@@ -1,0 +1,249 @@
+      6         adverse reactions  
+
+  clinically significant adverse reactions that appear in other sections of the labeling include:
+
+
+
+ *  hypocortisolism [see warnings and precautions (5.1)]  
+ *  hyperglycemia and diabetes  [see warnings and precautions (5.2)]  
+ *  bradycardia and qt prolongation  [see warnings and precautions (5.3)]  
+ *  liver test elevations [see warnings and precautions (5.4)]  
+ *  cholelithiasis  [see warnings and precautions (5.5)]  
+ *  pituitary hormone deficiency [see warnings and precautions (5.6)]  
+      excerpt:   most common adverse reactions occurring in >= 20% of patients are diarrhea, nausea, hyperglycemia, cholelithiasis, headache, abdominal pain, fatigue, and diabetes mellitus (  6  )
+ 
+
+   to report suspected adverse reactions, contact novartis pharmaceuticals corporation at 1-888-669-6682 or fda at 1-800-fda-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1       clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ a total of 162 cushing's disease patients were exposed to signifor in the phase iii study   [see clinical studies (14)]  . at study entry, patients were randomized to receive twice a day (b.i.d.) doses of either 0.6 mg or 0.9 mg of signifor given subcutaneously. the mean age of patients was approximately 40 years old with a predominance of female patients (78%). the majority of the patients had persistent or recurrent cushing's disease (83%) and few patients (<= 5%) in either treatment group had received previous pituitary irradiation. the median exposure to the treatment was 10.4 months (0.03-37.8) with 68% of patients having at least six-months exposure.
+
+
+
+ in the phase iii trial, adverse reactions were reported in 98% of patients. the most common adverse reactions (frequency >= 20% in either group) were diarrhea, nausea, hyperglycemia, cholelithiasis, headache, abdominal pain, fatigue, and diabetes mellitus. there were no deaths during the study. serious adverse events were reported in 25% of patients. adverse events leading to study discontinuation were reported in 17% of patients.
+
+
+
+ adverse reactions with an overall frequency higher than 5% are presented in table 1 by randomized dose group and overall. adverse reactions are ranked by frequency, with the most frequent reactions listed first.
+
+
+
+ table 1 - adverse reactions [n (%)] with an overall frequency of more than 5% in the combined dose group in the phase iii study in cushing's disease patients 
+                  signifor0.6 mg bidn=82  signifor0.9 mg bidn=80  overalln=162      
+ diarrhea         48 (59)          46 (58)          94 (58)           
+ nausea           38 (46)          46 (58)          84 (52)           
+ hyperglycemia    31 (38)          34 (43)          65 (40)           
+ cholelithiasis   25 (30)          24 (30)          49 (30)           
+ headache         23 (28)          23 (29)          46 (28)           
+ abdominal pain   19 (23)          20 (25)          39 (24)           
+ fatigue          12 (15)          19(24)           31 (19)           
+ diabetes mellitus  13 (16)          16 (20)          29 (18)           
+ injection site reactions  14 (17)          14 (18)          28 (17)           
+ nasopharyngitis  10 (12)          11 (14)          21 (13)           
+ alopecia         10 (12)          10 (13)          20 (12)           
+ asthenia         13 (16)          5 (6)            18 (11)           
+ glycosylated hemoglobin increased  10 (12)          8 (10)           18 (11)           
+ alanine aminotransferase increased  11 (13)          6 (8)            17 (10)           
+ gamma-glutamyl transferase increased  10 (12)          7 (9)            17 (10)           
+ edema peripheral  9 (11)           8 (10)           17 (10)           
+ abdominal pain upper  10 (12)          6 (8)            16 (10)           
+ decreased appetite  7 (9)            9 (11)           16 (10)           
+ hypercholesterolemia  7 (9)            9 (11)           16 (10)           
+ hypertension     8 (10)           8 (10)           16 (10)           
+ dizziness        8 (10)           7 (9)            15 (9)            
+ hypoglycemia     12 (15)          3 (4)            15 (9)            
+ type 2 diabetes mellitus  10 (12)          5 (6)            15 (9)            
+ anxiety          5 (6)            9 (11)           14 (9)            
+ influenza        9 (11)           5 (6)            14 (9)            
+ insomnia         3 (4)            11 (14)          14 (9)            
+ myalgia          10 (12)          4 (5)            14 (9)            
+ arthralgia       5 (6)            8 (10)           13 (8)            
+ pruritus         6 (7)            7 (9)            13 (8)            
+ lipase increased  7 (9)            5 (6)            12 (7)            
+ constipation     7 (9)            4 (5)            11 (7)            
+ hypotension      5 (6)            6 (8)            11 (7)            
+ vomiting         3 (4)            8 (10)           11 (7)            
+ back pain        4 (5)            6 (8)            10 (6)            
+ dry skin         5 (6)            5 (6)            10 (6)            
+ electrocardiogram qt prolonged  5 (6)            5 (6)            10 (6)            
+ hypokalemia      6 (7)            4 (5)            10 (6)            
+ pain in extremity  6 (7)            4 (5)            10 (6)            
+ sinus bradycardia  8 (10)           2 (3)            10 (6)            
+ vertigo          4 (5)            6 (8)            10 (6)            
+ abdominal distension  4 (5)            5 (6)            9 (6)             
+ adrenal insufficiency  4 (5)            5 (6)            9 (6)             
+ aspartate aminotransferase increased  6 (7)            3 (4)            9 (6)             
+ blood glucose increased  6 (7)            3 (4)            9 (6)             
+          other notable adverse reactions which occurred with a frequency less than 5% were: anemia (4%); blood amylase increased (2%) and prothrombin time prolonged (2%).
+ 
+
+   gastrointestinal disorders  
+
+
+
+ gastrointestinal disorders, predominantly diarrhea, nausea, abdominal pain and vomiting were reported frequently in the phase iii trial (see table 1). these events began to develop primarily during the first month of treatment with signifor and required no intervention.
+
+
+
+   hyperglycemia and diabetes  
+
+
+
+ hyperglycemia-related terms were reported frequently in the phase iii trial. for all patients, these terms included: hyperglycemia (40%), diabetes mellitus (18%), increased hba1c (11%), and type 2 diabetes mellitus (9%). in general, increases in fasting plasma glucose (fpg) and hemoglobin a1c (hba1c) were seen soon after initiation of signifor and were sustained during the treatment period. in the signifor 0.6 mg group, mean fasting plasma glucose (fpg) levels increased from 98.6 mg/dl at baseline to 125.1 mg/dl at month 6. in the signifor 0.9 mg group, mean fasting plasma glucose (fpg) levels increased from 97.0 mg/dl at baseline to 128.0 mg/dl at month 6. in the signifor 0.6 mg group, hba1c increased from 5.8% at baseline to 7.2% at month 6. in the signifor 0.9 mg group, hba1c increased from 5.8% at baseline to 7.3% at month 6  [see warning and precautions (5.2)]  .
+
+
+
+ at one-month follow-up visits following discontinuation of signifor, mean fpg and hba1c levels decreased but remained above baseline values. long-term follow-up data are not available.
+
+
+
+   elevated liver tests  
+
+
+
+ in the phase iii trial, there were transient mean elevations in aminotransferase values in patients treated with signifor. mean values returned to baseline levels by month 4 of treatment. the elevations were not associated with clinical symptoms of hepatic disease.
+
+
+
+ in the clinical development program of signifor, there were 4 patients with concurrent elevations in alt greater than 3 x uln and bilirubin greater than 2 x uln: one patient with cushing's disease and three healthy volunteers  [see warnings and precautions (5.4)]  . in all four cases, the elevations were noted within the first 10 days of treatment. in all of these cases, total bilirubin elevations were seen either concomitantly or preceding the transaminase elevation. the patient with cushing's disease developed jaundice. all four cases had resolution of the laboratory abnormalities with discontinuation of signifor.
+
+
+
+   hypocortisolism  
+
+
+
+ cases of hypocortisolism were reported in the phase iii study in cushing's disease patients  [see adverse reactions (6) and clinical studies (14)]  . the majority of cases were manageable by reducing the dose of signifor and/or adding low-dose, short-term glucocorticoid therapy  [see warnings and precautions (5.1)]  .
+
+
+
+   injection site reactions  
+
+
+
+ injection site reactions were reported in 17% of patients enrolled in the phase iii trial in cushing's disease. the events were most frequently reported as local pain, erythema, hematoma, hemorrhage, and pruritus. these events resolved spontaneously and required no intervention.
+
+
+
+   thyroid function  
+
+
+
+ hypothyroidism with the use of signifor was reported for seven patients participating in the phase iii study in cushing's disease. all seven patients presented with a tsh close to or below the lower limit at study entry which precludes establishing a conclusive relationship between the adverse event and the use of signifor.
+
+
+
+   other abnormal laboratory findings  
+
+
+
+ asymptomatic and reversible elevations in lipase and amylase were observed in patients receiving signifor in clinical studies. pancreatitis is a potential adverse reaction associated with the use of somatostatin analogs due to the association between cholelithiasis and acute pancreatitis.
+
+
+
+ for hemoglobin levels, mean decreases that remained within normal range were observed. also, post-baseline elevations in pt and ptt were noted in 33% and 47% of patients, respectively. the pt and ptt elevations were minimal. 
+
+
+
+ these laboratory findings are of unclear clinical significance.
+     5        warnings and precautions  
+
+
+
+   excerpt:    *   hypocortisolism:  decreases in circulating levels of cortisol may occur resulting in biochemical and/or clinical hypocortisolism. signifor dose reduction or interruption and/or adding a low-dose short-term glucocorticoid may be necessary (  5.1  ) 
+ *   hyperglycemia and diabetes  (occurs with initiation): intensive glucose monitoring is recommended and may require initiation or adjustment of anti-diabetic treatment per standard of care (  5.2  ) 
+ *   bradycardia and qt prolongation:  use with caution in at-risk patients; ecg testing prior to dosing and on treatment (  5.3  ,  7.1  ) 
+ *   liver test elevations:  evaluate liver tests prior to and during treatment (  5.4  ) 
+ *   cholelithiasis:  perform gallbladder ultrasounds before starting treatment and at 6-month intervals (  5.5  ) 
+    
+ 
+
+   5.1       hypocortisolism
+
+
+
+  treatment with signifor leads to suppression of adrenocorticotropic hormone (acth) secretion in cushing's disease. suppression of acth may lead to a decrease in circulating levels of cortisol and potentially hypocortisolism.
+
+
+
+ monitor and instruct patients on the signs and symptoms associated with hypocortisolism (e.g., weakness, fatigue, anorexia, nausea, vomiting, hypotension, hyponatremia or hypoglycemia). if hypocortisolism occurs, consider temporary dose reduction or interruption of treatment with signifor, as well as temporary, exogenous glucocorticoid replacement therapy.
+
+
+
+    5.2       hyperglycemia and diabetes 
+
+
+
+  elevations in blood glucose levels have been seen in healthy volunteers and patients treated with signifor. in the phase iii trial, the development of pre-diabetes and diabetes was observed  [see clinical studies (14)]  . in this trial, nearly all patients-including those with normal glucose status at baseline, pre-diabetes, and diabetes-developed worsening glycemia in the first two weeks of treatment. cushing's disease patients with poor glycemic control (as defined by hba1c values >8% while receiving anti-diabetic therapy) may be at a higher risk of developing severe hyperglycemia and associated complications, e.g., ketoacidosis. 
+
+
+
+ because of this predictable adverse reaction, the glycemic status [fasting plasma glucose (fpg) or hemoglobin a1c (hba1c)] should be assessed prior to starting treatment with signifor. in patients with uncontrolled diabetes mellitus intensive anti-diabetic therapy should be optimized prior to treatment with signifor. self-monitoring of blood glucose and/or fpg assessments should be done every week for the first two to three months and periodically thereafter, as clinically appropriate, as well as over the first two to four weeks after any dose increase. after treatment discontinuation, glycemic monitoring (e.g., fpg or hba1c) should be done according to clinical practice. patients who were initiated on anti-diabetic therapy as a result of signifor may require closer monitoring after discontinuation of signifor, especially if the anti-diabetic therapy has a risk of causing hypoglycemia.
+
+
+
+ if hyperglycemia develops in a patient treated with signifor, the initiation or adjustment of anti-diabetic treatment per standard of care is recommended. the optimal treatment for the management of signifor-induced hyperglycemia is not known. if uncontrolled hyperglycemia persists, despite appropriate medical management, the dose of signifor should be reduced or discontinued.
+
+
+
+    5.3       bradycardia and qt prolongation
+
+
+
+   bradycardia  
+
+
+
+ bradycardia has been reported with the use of signifor  [see adverse reactions (6)]  . patients with cardiac disease and/or risk factors for bradycardia, such as history of clinically significant bradycardia, high-grade heart block, or concomitant use of drugs associated with bradycardia, should be carefully monitored. dose adjustments of beta-blockers, calcium channel blockers, or correction of electrolyte disturbances may be necessary.
+
+
+
+  qt prolongation  
+
+
+
+ signifor is associated with qt prolongation. in two thorough qt studies with signifor, qt prolongation occurred at therapeutic and supra-therapeutic doses. signifor should be used with caution in patients who are at significant risk of developing prolongation of qtc, such as those:
+
+
+
+ *  with congenital long qt prolongation. 
+ *  with uncontrolled or significant cardiac disease including recent myocardial infarction, congestive heart failure, unstable angina or clinically significant bradycardia. 
+ *  on anti-arrhythmic therapy or other substances that are known to lead to qt prolongation. 
+ *  with hypokalemia and/or hypomagnesemia. 
+    a baseline ecg is recommended prior to initiating therapy with signifor and monitoring for an effect on the qtc interval is advisable. hypokalemia and hypomagnesemia must be corrected prior to signifor administration and should be monitored periodically during therapy. 
+ 
+
+    5.4       liver test elevations
+
+
+
+  in the phase iii trial, 5% of patients had an alt or ast level greater than 3 times the upper limit of normal (uln). in the entire clinical development program of signifor, there were 4 cases of concurrent elevations in alt (alanine aminotransferase) greater than 3 x uln and bilirubin greater than 2 x uln: one patient with cushing's disease and three healthy volunteers [see adverse reactions (6   )]  . in these cases, total bilirubin elevations were seen either concomitantly or preceding the transaminase elevation.
+
+
+
+ monitoring of liver tests should be done after 1 to 2 weeks on treatment, then monthly for 3 months, and every 6 months thereafter. if alt is normal at baseline and elevations of alt of 3-5 times the uln are observed on treatment, repeat the test within a week or within 48 hours if exceeding 5 times uln. if alt is abnormal at baseline and elevations of alt of 3-5 times the baseline values are observed on treatment, repeat the test within a week or sooner if exceeding 5 times uln. tests should be done in a laboratory that can provide same-day results. if the values are confirmed or rising, interrupt signifor treatment and investigate for probable cause of the findings, which may or may not be signifor-related. serial measures of alt, aspartate aminotransferase, alkaline phosphatase, and total bilirubin, should be done weekly, or more frequently, if any value exceeds 5 times the baseline value in case of abnormal baselines or 5 times the uln in case of normal baselines. if resolution of abnormalities to normal or near normal occurs, resuming treatment with signifor may be done cautiously, with close observation, and only if some other likely cause has been found.
+
+
+
+    5.5       cholelithiasis 
+
+
+
+  cholelithiasis has been frequently reported in clinical studies with signifor  [see adverse reactions (6)]  . ultrasonic examination of the gallbladder before, and at 6- to 12-month intervals during signifor therapy is recommended.
+
+
+
+    5.6       monitoring for deficiency of pituitary hormones
+
+
+
+  as the pharmacological activity of signifor mimics that of somatostatin, inhibition of pituitary hormones, other than acth, may occur. monitoring of pituitary function (e.g., tsh/free t4, gh/igf-1) should occur prior to initiation of therapy with signifor and periodically during treatment should be considered as clinically appropriate. patients who have undergone transsphenoidal surgery and pituitary irradiation are particularly at increased risk for deficiency of pituitary hormones. 

@@ -1,0 +1,143 @@
+    6 adverse reactions
+
+  the following serious adverse reaction is also discussed elsewhere in the labeling:
+
+
+
+ *  bleeding [see  boxed warning  and  warnings and precautions (5.1)  ].  
+   *  bleeding, including life-threatening and fatal bleeding, is the most commonly reported adverse reaction. (  6.1  ) 
+      excerpt:     to report suspected adverse reactions, contact merck sharp & dohme corp., a subsidiary of merck & co., inc., at 1-877-888-4231 or fda at 1-800-fda-1088 or www.fda.gov/medwatch  .
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ zontivity was evaluated for safety in 13,186 patients, including 2,187 patients treated for more than 3 years, in the phase 3 study tra 2 degrees p timi 50 (thrombin receptor antagonist in secondary prevention of atherothrombotic ischemic events). the overall study population, patients who had evidence or a history of atherosclerosis involving the coronary (post-mi), cerebral (ischemic stroke), or peripheral vascular (documented history of pad) systems, was treated once a day with zontivity (n=13,186) or placebo (n=13,166). patients randomized to zontivity received treatment for a median of 2.3 years.
+
+
+
+ the adverse events in the zontivity-treated (n=10,059) and placebo-treated (n=10,049) post-mi or pad patients with no history of stroke or tia are shown below  [see  contraindications (4)  ]  .
+
+
+
+     bleeding  
+
+
+
+ gusto severe bleeding was defined as fatal, intracranial, or bleeding with hemodynamic compromise requiring intervention; gusto moderate bleeding was defined as bleeding requiring transfusion of whole blood or packed red blood cells without hemodynamic compromise. (gusto: global utilization of streptokinase and tissue plasminogen activator for occluded arteries.)
+
+
+
+ the results for the bleeding endpoints in the post-mi or pad patients without a history of stroke or tia are shown in table 1. zontivity increased gusto moderate or severe bleeding by 55%.
+
+
+
+ table 1: non-cabg-related bleeds in post-mi or pad patients without a history of stroke or tia (first dose to last dose + 30 days) in the tra 2 degrees p study 
+                            placebo(n=10,049)  zontivity(n=10,059)                         
+ endpoints                  patients with events(%)  k-m %       patients with events(%)  k-m %       hazard ratio  ,  (95% ci)   
+  
+ gusto bleeding categories   
+ severe                     82 (0.8%)        1.0%        100 (1.0%)            1.3%        1.24 (0.92 - 1.66)     
+ moderate or severe         199 (2.0%)       2.4%        303 (3.0%)            3.7%        1.55 (1.30 - 1.86)     
+ any gusto bleeding (severe/moderate/mild)  1769 (17.6%)     19.8%       2518 (25.0%)          27.7%       1.52 (1.43 - 1.61)     
+ fatal bleeding             14 (0.1%)        0.2%        16 (0.2%)             0.2%        1.15 (0.56 - 2.36)     
+ intracranial hemorrhage (ich)  31 (0.3%)        0.4%        45 (0.4%)             0.6%        1.46 (0.92-2.31)       
+ clinically significant bleeding  950 (9.5%)       10.9%       1349 (13.4%)          15.5%       1.47 (1.35 - 1.60)     
+   gastrointestinal bleeding  297 (3.0%)       3.5%        400 (4.0%)            4.7%        1.37 (1.18-1.59)       
+            the effects of zontivity on bleeding were examined in a number of subsets based on demographic and other baseline characteristics. many of these are shown in figure 1. such analyses must be interpreted cautiously, as differences can reflect the play of chance among a large number of analyses.
+ 
+
+
+ figure 1: subgroup analyses (gusto moderate or severe bleeding) in post-mi or pad patients without a history of stroke or tia in the tra 2 degrees p study (first dose to last dose + 30 days)   
+  
+                                                                                                        
+       in tra 2 degrees p, 367 post-mi or pad patients without a history of stroke or tia underwent cabg surgery. study investigators were encouraged not to discontinue treatment with study drug (i.e., zontivity or placebo) prior to surgery. approximately 12.3% of patients discontinued zontivity more than 30 days prior to cabg. the relative risk for gusto moderate or severe bleeding was approximately 1.2 on zontivity vs. placebo.
+ 
+
+ bleeding events that occurred on zontivity were treated in the same manner as for other antiplatelet agents.
+
+
+
+  figure 1     use in patients with history of stroke, tia, or ich  
+
+
+
+ in the tra 2 degrees p study, patients with a history of ischemic stroke had a higher rate for ich on zontivity than on placebo. zontivity is contraindicated in patients with a history of stroke, tia, or ich  [see  contraindications (4)  ].  
+
+
+
+     other adverse reactions  
+
+
+
+ adverse reactions other than bleeding were evaluated in 19,632 patients treated with zontivity [13,186 patients in the tra 2 degrees p study and 6,446 patients in the tracer (thrombin receptor antagonist for clinical event reduction in acute coronary syndrome) study]. adverse events other than bleeding that occurred at a rate that was at least 2% in the zontivity group and also 10% greater than the rate in the placebo group are shown in table 2.
+
+
+
+ table 2: tra 2 degrees p / tracer - percentage of patients reporting non-hemorrhagic adverse reactions at a rate at least 2% in the zontivity group and at least 10% greater than placebo 
+                                                 zontivityn=19,632                placebon=19,607           
+                                                       n (%)                           n (%)                
+  
+ anemia                                              982 (5.0)                       783 (4.0)              
+ depression                                          477 (2.4)                       405 (2.1)              
+ rashes, eruptions, and exanthemas                   439 (2.2)                       395 (2.0)              
+         the following adverse reactions occurred at a rate less than 2% in the zontivity group but at least 40% greater than placebo. in descending order of rate in the zontivity group: iron deficiency, retinopathy or retinal disorder, and diplopia/oculomotor disturbances.
+ 
+
+ an increased rate of diplopia and related oculomotor disturbances was observed with zontivity treatment (30 subjects, 0.2%) vs. placebo (10 subjects, 0.06%). while some cases resolved during continued treatment, information on resolution of symptoms was not available for some cases.
+
+
+    boxed warning: warning: bleeding risk
+
+    warning: bleeding risk  
+
+    *  do not use zontivity in patients with a history of stroke, transient ischemic attack (tia), or intracranial hemorrhage (ich); or active pathological bleeding [see contraindications (4.1, 4.2)]. 
+ *  antiplatelet agents, including zontivity, increase the risk of bleeding, including ich and fatal bleeding [see warnings and precautions (5.1)]. 
+      excerpt:     warning: bleeding risk  
+ 
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+ *  do not use zontivity in patients with a history of stroke, transient ischemic attack (tia), or intracranial hemorrhage (ich); or active pathological bleeding. (4.1, 4.2) 
+ *  antiplatelet agents, including zontivity, increase the risk of bleeding, including ich and fatal bleeding. (5.1) 
+    5 warnings and precautions
+
+
+
+   excerpt:    *  like other antiplatelet agents, zontivity increases the risk of bleeding. (  5.1  ) 
+ *  avoid use with strong cyp3a inhibitors or inducers. (  5.2  ) 
+    
+ 
+
+   5.1 general risk of bleeding
+
+
+
+  antiplatelet agents, including zontivity, increase the risk of bleeding, including ich and fatal bleeding [see  adverse reactions (6.1)  ]  .
+
+
+
+ zontivity increases the risk of bleeding in proportion to the patient's underlying bleeding risk. consider the underlying risk of bleeding before initiating zontivity. general risk factors for bleeding include older age, low body weight, reduced renal or hepatic function, history of bleeding disorders, and use of certain concomitant medications (e.g., anticoagulants, fibrinolytic therapy, chronic nonsteroidal anti-inflammatory drugs [nsaids], selective serotonin reuptake inhibitors, serotonin norepinephrine reuptake inhibitors) increases the risk of bleeding [see  use in specific populations (8.7)  and  clinical pharmacology (12.3)  ]  . avoid concomitant use of warfarin or other anticoagulants.
+
+
+
+ suspect bleeding in any patient who is hypotensive and has recently undergone coronary angiography, percutaneous coronary intervention (pci), coronary artery bypass graft surgery (cabg), or other surgical procedures.
+
+
+
+ withholding zontivity for a brief period will not be useful in managing an acute bleeding event because of its long half-life. there is no known treatment to reverse the antiplatelet effect of zontivity. significant inhibition of platelet aggregation remains 4 weeks after discontinuation [see     overdosage (10)  and  clinical pharmacology (12.2  ,  12.3)  ].  
+
+
+
+    5.2 strong cyp3a inhibitors or inducers
+
+
+
+  strong cyp3a inhibitors increase and inducers decrease zontivity exposure. avoid concomitant use of zontivity with strong cyp3a inhibitors or inducers [see  drug interactions (7.1)  and  clinical pharmacology (12.3)  ]  .

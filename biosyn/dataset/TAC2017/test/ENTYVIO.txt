@@ -1,0 +1,233 @@
+    6 adverse reactions
+
+  the following topics are also discussed in detail in the warnings and precautions section:
+
+
+
+ *    infusion-related reactions and hypersensitivity reactions [see warnings and precautions (  5.1  )]  
+ *    infections  [see warnings and precautions (  5.2  )]  
+ *    progressive multifocal leukoencephalopathy [see warnings and precautions (  5.3)  ]  
+ *    liver injury  [see warnings and precautions (  5.4  )]  
+      excerpt:   most common adverse reactions (incidence >=3% and >=1% higher than placebo): nasopharyngitis, headache, arthralgia, nausea, pyrexia, upper respiratory tract infection, fatigue, cough, bronchitis, influenza, back pain, rash, pruritus, sinusitis, oropharyngeal pain, and pain in extremities. (  6.1  )
+ 
+
+  
+
+
+
+   to report suspected adverse reactions, contact    takeda pharmaceuticals at 1-877-takeda-7 (1-877-825-3327)    or fda at 1-800-fda-1088 or      www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ the data described below reflect exposure to entyvio in 3,326 patients and healthy volunteers in clinical trials, including 1,396 exposed for greater than one year, and 835 exposed for greater than two years.
+
+
+
+ the safety data described in  table 1  are derived from four controlled phase 3 trials (uc trials i and ii, and cd trials i and iii); data from patients receiving open-label entyvio treatment at weeks 0 and 2 (prior to entry into uc trial ii and cd trial iii) and from weeks 6 to 52 (non-responders at week 6 of uc trial i and cd trial i) are included  [see clinical studies (  14.1  and  14.2  )  ].
+
+
+
+ in these trials, 1,434 patients received entyvio 300 mg for up to 52 weeks, and 297 patients received placebo for up to 52 weeks. of these, 769 patients had ulcerative colitis and 962 patients had crohn's disease. patients were exposed for a mean duration of 259 days (uc trials i and ii) and 247 days (cd trials i and iii).
+
+
+
+ adverse reactions were reported in 52% of patients treated with entyvio and 45% of patients treated with placebo (uc trials i and ii: 49% with entyvio and 37% with placebo; cd trials i and iii: 55% with entyvio and 47% with placebo). serious adverse reactions were reported in 7% of patients treated with entyvio compared to 4% of patients treated with placebo (uc trials i and ii: 8% with entyvio and 7% with placebo; cd trials i and iii: 12% with entyvio and 9%, with placebo).
+
+
+
+ the most common adverse reactions (reported by >=3% of patients treated with entyvio in the uc trials i and ii and cd trials i and iii combined group and >=1% higher than in combined placebo group) were nasopharyngitis, headache, arthralgia, nausea, pyrexia, upper respiratory tract infection, fatigue, cough, bronchitis, influenza, back pain, rash, pruritus, sinusitis, oropharyngeal pain and pain in extremities  (table 1)  .
+
+
+
+
+                                                      ast_print:dispatch: unexpected key: "footnote" in dispatch table: {'*item_func*': <function ignore_element at 0x7f2541c0f578>, 'list': <function print_list at 0x7f2541c0fd70>, 'text': <function print_text at 0x7f2541c0f5f0>, 'caption': <function print_caption at 0x7f2541c0f9b0>}
+   table 1. adverse reactions in >=3% of entyvio-treated patients and >=1% higher than in placebo (uc trials i and ii    and cd trials i and iii    )   
+                                                                                                              
+                                                         adverse reaction                                   
+                                                                                                              entyviopatients who received entyvio for up to 52 weeks.(n=1434)    placebopatients who received placebo for up to 52 weeks.(n=297)    
+                                                        nasopharyngitis                                     
+                                                                                                              13%                      7%                         
+                                                        headache                                            
+                                                                                                              12%                      11%                        
+                                                        arthralgia                                          
+                                                                                                              12%                      10%                        
+                                                        nausea                                              
+                                                                                                              9%                       8%                         
+                                                        pyrexia                                             
+                                                                                                              9%                       7%                         
+                                                        upper respiratory tract infection                   
+                                                                                                              7%                       6%                         
+                                                        fatigue                                             
+                                                                                                              6%                       3%                         
+                                                        cough                                               
+                                                                                                              5%                       3%                         
+                                                        bronchitis                                          
+                                                                                                              4%                       3%                         
+                                                        influenza                                           
+                                                                                                              4%                       2%                         
+                                                        back pain                                           
+                                                                                                              4%                       3%                         
+                                                        rash                                                
+                                                                                                              3%                       2%                         
+                                                        pruritus                                            
+                                                                                                              3%                       1%                         
+                                                        sinusitis                                           
+                                                                                                              3%                       1%                         
+                                                        oropharyngeal pain                                  
+                                                                                                              3%                       1%                         
+                                                        pain in extremities                                 
+                                                                                                              3%                       1%                         
+                                                        
+         safety data for patients (n=279) in uc trials i and ii and cd trials i and iii who received entyvio at weeks 0 and 2 and were then randomized to placebo at week 6 for up to 52 weeks, and for patients (n=416) in cd trial ii, a 10 week crohn's disease trial, are similar to those listed in  table 1  .
+ 
+
+     infusion-related reactions and hypersensitivity reactions    
+
+
+
+ serious infusion-related reactions and hypersensitivity reactions including anaphylaxis have been reported following entyvio administration in clinical trials  [see warnings and precautions (  5.1  )]  . in uc trials i and ii and crohn's trials i and iii, one case of anaphylaxis [one out of 1434 patients treated with entyvio (0.07%)] was reported by a crohn's disease patient during the second infusion (symptoms reported were dyspnea, bronchospasm, urticaria, flushing, rash and increased blood pressure and heart rate) and was managed with discontinuation of infusion and treatment with antihistamine and intravenous hydrocortisone.
+
+
+
+ in uc trials i and ii and cd trials i and iii, 4% of patients treated with entyvio and 3% of patients treated with placebo experienced an infusion-related reaction (irr). the most frequently observed irr in the patients treated with entyvio (reported more than twice) were nausea, headache, pruritus, dizziness, fatigue, infusion-related reaction, pyrexia, urticaria and vomiting (each of these adverse reactions occurred in <1% in all patients treated with entyvio) and no individual adverse reaction reported occurred at a rate above 1%. these reactions generally occurred within the first two hours after the infusion and resolved with no treatment or following antihistamine and/or iv hydrocortisone treatment. less than 1% of patients treated with entyvio had irrs assessed by the investigator as severe, and irrs requiring discontinuation of study treatment occurred in <1%.
+
+
+
+ in clinical trials, for patients with mild irrs or hypersensitivity reactions, physicians were allowed to pretreat with standard medical treatment (e.g., antihistamine, hydrocortisone and/or acetaminophen) prior to next infusion.
+
+
+
+     infections    
+
+
+
+ in uc trials i and ii and cd trials i and iii, the rate of infections was 0.85 per patient-year in the patients treated with entyvio and 0.7 per patient-year in the patients treated with placebo  [see warnings and precautions (    5.2    )]  . the infections consisted primarily of nasopharyngitis, upper respiratory tract infection, sinusitis, and urinary tract infection. two percent of patients discontinued entyvio due to infections.
+
+
+
+ in uc trials i and ii and cd trials i and iii, the rate of serious infections was 0.07 per patient-year in patients treated with entyvio and 0.06 per patient-year in patients treated with placebo. serious infections were more common in crohn's disease patients than ulcerative colitis patients, and anal abscesses were the most frequently reported serious adverse reaction in crohn's disease patients. over 48 months, there was no increase in the rate of serious infections.
+
+
+
+ in controlled- and open-label long-term extension trials in adults treated with entyvio, serious infections have been reported, including anal abscess, sepsis (some fatal), tuberculosis, salmonella sepsis, listeria meningitis, giardiasis and cytomegaloviral colitis.
+
+
+
+ in uc trials i and ii and cd trials i and iii, sepsis, including bacterial sepsis and septic shock, was reported in four of 1434 (0.3%) patients treated with entyvio and in two of 297 patients treated with placebo (0.7%). during these trials, two crohn's disease patients treated with entyvio died due to reported sepsis or septic shock; both of these patients had significant comorbidities and a complicated hospital course that contributed to the deaths. in an open label long-term extension trial, additional cases of sepsis (some fatal), including bacterial sepsis and septic shock, were reported. the rate of sepsis in patients with ulcerative colitis or crohn's disease receiving entyvio was two per 1000 patient-years.
+
+
+
+ in clinical trials, all patients were screened for tuberculosis. one case of latent, pulmonary tuberculosis was diagnosed during the controlled trials with entyvio. additional cases of pulmonary tuberculosis were diagnosed during the open-label trial. all of these observed cases occurred outside the united states, and none of the patients had extrapulmonary manifestations.
+
+
+
+     liver injury    
+
+
+
+ there have been reports of elevations of transaminase and/or bilirubin in patients receiving entyvio  [see warnings and precautions (  5.4  )]  . in uc trials i and ii and cd trials i and iii, three patients reported serious adverse reactions of hepatitis, manifested as elevated transaminases with or without elevated bilirubin and symptoms consistent with hepatitis (e.g., malaise, nausea, vomiting, abdominal pain, anorexia). these adverse reactions occurred following two to five entyvio doses; however, based on case report information it is unclear if the reactions indicated drug-induced or autoimmune etiology. all patients recovered following discontinuation of therapy with some requiring corticosteroid treatment. in controlled trials, the incidence of alt and ast elevations >=3 x uln was <2% in patients treated with entyvio and in patients treated with placebo. in the open-label trial, one additional case of serious hepatitis was observed.
+
+
+
+     malignancies    
+
+
+
+ in uc trials i and ii and cd trials i and iii, malignancies (excluding dysplasia and basal cell carcinoma) were reported in six of 1434 (0.4%) patients treated with entyvio, including colon cancer (n=2), transitional cell carcinoma (n=1), breast cancer (n=1), carcinoid tumor of the appendix (n=1) and squamous cell carcinoma (n=1). malignancy was reported in one of 297 (0.3%) patients treated with placebo (squamous cell carcinoma).
+
+
+
+ malignancies (excluding dysplasia and basal cell carcinoma) observed during the ongoing open-label long-term extension trial included b-cell lymphoma, breast cancer, colon cancer, malignant hepatic neoplasm, malignant lung neoplasm, malignant melanoma, lung cancer of primary neuroendocrine carcinoma, renal cancer and squamous cell carcinoma. overall, the number of malignancies in the clinical trials was small; however, long-term exposure was limited.
+
+
+
+     live and oral vaccines    
+
+
+
+ there are no data on the secondary transmission of infection by live vaccines in patients receiving entyvio.
+
+
+
+ in a placebo-controlled study of healthy volunteers, 61 subjects were given a single entyvio 750 mg dose (2.5 times the recommended dose), and 62 subjects received placebo followed by intramuscular vaccination with hepatitis b surface antigen and oral cholera vaccine. after intramuscular vaccination with three doses of recombinant hepatitis b surface antigen, those treated with entyvio did not have lower rates of protective immunity to hepatitis b virus. however, those exposed to entyvio did have lower seroconversion rates and anti-cholera titers relative to placebo after receiving the two doses of a killed, oral cholera vaccine. the impact on other oral vaccines and on nasal vaccines in patients is unknown.
+
+
+
+   6.2 immunogenicity
+
+  as with all therapeutic proteins, there is potential for immunogenicity. in uc trials i and ii and cd trials i and iii, in patients who received entyvio, the frequency of antibodies detected in patients was 13% at 24 weeks after the last dose of study drug (greater than five half-lives after last dose). during treatment, 56 of 1434 (4%) of patients treated with entyvio had detectable anti-vedolizumab antibody at any time during the 52 weeks of continuous treatment. nine of 56 patients were persistently positive (at two or more study visits) for anti-vedolizumab antibody and 33 of 56 patients developed neutralizing antibodies to vedolizumab. among eight of these nine subjects with persistently positive anti-vedolizumab antibody and available vedolizumab concentration data, six had undetectable and two had reduced vedolizumab concentrations  [see clinical pharmacology (  12.3  )]  . none of the nine subjects with persistently positive anti-vedolizumab antibody achieved clinical remission at weeks 6 or 52 in the controlled trials.
+
+
+
+ the detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including sample handling, timing of sample collection, concomitant medications, presence of vedolizumab, and underlying disease. for these reasons, comparison of the incidence of antibodies to entyvio with the incidence of antibodies to other products may be misleading.
+    5 warnings and precautions
+
+
+
+   excerpt:    *     hypersensitivity reactions (including anaphylaxis) : discontinue entyvio if anaphylaxis or other serious allergic reactions occur. (  5.1  ) 
+ *     infections : treatment with entyvio is not recommended in patients with active, severe infections until the infections are controlled. consider withholding entyvio in patients who develop a severe infection while on treatment with entyvio. (  5.2  ) 
+ *     progressive multifocal leukoencephalopathy: although no cases have been observed in entyvio clinical trials, jcv infection resulting in progressive multifocal leukoencephalopathy (pml) and death has occurred in patients treated with another integrin receptor antagonist. a risk of pml cannot be ruled out. monitor patients for any new or worsening neurological signs or symptoms. (  5.3  ) 
+    
+ 
+
+   5.1 infusion-related reactions and hypersensitivity reactions
+
+
+
+  in uc trials i and ii and cd trials i and iii, hypersensitivity reactions occurred including a case of anaphylaxis (one out of 1434 patients [0.07%]) [see adverse reactions (  6.1  )]  . allergic reactions including dyspnea, bronchospasm, urticaria, flushing, rash, and increased blood pressure and heart rate have also been observed. the majority were mild to moderate in severity as assessed by the investigator. experience with other biologic medications suggests that hypersensitivity reactions and anaphylaxis to entyvio may vary in their time of onset from during infusion or immediately post-infusion to occurring up to several hours post-infusion.
+
+
+
+ if anaphylaxis or other serious allergic reactions occur, discontinue administration of entyvio immediately and initiate appropriate treatment (e.g., epinephrine and antihistamines).
+
+
+
+    5.2 infections
+
+
+
+  patients treated with entyvio are at increased risk for developing infections [see adverse reactions (  6.1  )]  . the most commonly reported infections in clinical trials occurring at a rate greater on entyvio than placebo involved the upper respiratory and nasal mucosa (e.g., nasopharyngitis, upper respiratory tract infection). serious infections have also been reported in patients treated with entyvio, including anal abscess, sepsis (some fatal), tuberculosis, salmonella sepsis, listeria meningitis, giardiasis and cytomegaloviral colitis.
+
+
+
+ entyvio is not recommended in patients with active, severe infections until the infections are controlled. consider withholding treatment in patients who develop a severe infection while on treatment with entyvio. exercise caution when considering the use of entyvio in patients with a history of recurring severe infections. consider screening for tuberculosis (tb) according to the local practice. for progressive multifocal leukoencephalopathy (pml), see warnings and precautions (  5.3    ).
+
+
+
+    5.3 progressive multifocal leukoencephalopathy
+
+
+
+  another integrin receptor antagonist has been associated with progressive multifocal leukoencephalopathy (pml), a rare and often fatal opportunistic infection of the central nervous system (cns). pml is caused by the john cunningham (jc) virus and typically only occurs in patients who are immunocompromised.
+
+
+
+ in entyvio clinical trials, patients were actively monitored for pml with frequent and regular screenings, and evaluations of any new, unexplained neurological symptoms, as necessary. while zero cases of pml were identified among patients with at least 24 months of exposure, a risk of pml cannot be ruled out. no claims of comparative safety to other integrin receptor antagonists can be made based on this data.
+
+
+
+ monitor patients on entyvio for any new onset, or worsening, of neurological signs and symptoms. typical signs and symptoms associated with pml are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes. the progression of deficits usually leads to death or severe disability over weeks or months. if pml is suspected, withhold dosing with entyvio and refer to a neurologist; if confirmed, discontinue dosing permanently.
+
+
+
+    5.4 liver injury
+
+
+
+  there have been reports of elevations of transaminase and/or bilirubin in patients receiving entyvio. in general, the combination of transaminase elevations and elevated bilirubin without evidence of obstruction is generally recognized as an important predictor of severe liver injury that may lead to death or the need for a liver transplant in some patients. entyvio should be discontinued in patients with jaundice or other evidence of significant liver injury [see adverse reactions (  6.1  )]  .
+
+
+
+    5.5 live and oral vaccines
+
+
+
+  prior to initiating treatment with entyvio, all patients should be brought up to date with all immunizations according to current immunization guidelines [see dosage and administration (  2.2  )]  . patients receiving entyvio may receive non-live vaccines (e.g., influenza vaccine injection) and may receive live vaccines if the benefits outweigh the risks. there are no data on the secondary transmission of infection by live vaccines in patients receiving entyvio [see adverse reactions (  6.1  )]  .

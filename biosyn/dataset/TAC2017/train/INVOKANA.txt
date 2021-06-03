@@ -1,0 +1,343 @@
+    6 adverse reactions
+
+  the following important adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *  hypotension [see  warnings and precautions (5.1)  ]  
+ *  impairment in renal function [see  warnings and precautions (5.2)  ]  
+ *  hyperkalemia [see  warnings and precautions (5.3)  ]  
+ *  hypoglycemia with concomitant use with insulin and insulin secretagogues [see  warnings and precautions (5.4)  ]  
+ *  genital mycotic infections [see  warnings and precautions (5.5)  ]  
+ *  hypersensitivity reactions [see  warnings and precautions (5.6)  ]  
+ *  bone fracture [see  warnings and precautions (5.7)  ]  
+ *  increases in low-density lipoprotein (ldl-c) [see  warnings and precautions (5.8)  ]  
+   *  most common adverse reactions associated with invokana (5% or greater incidence): female genital mycotic infections, urinary tract infection, and increased urination (  6.1  ) 
+      excerpt:     to report suspected adverse reactions, contact janssen pharmaceuticals, inc. at 1-800-526-7736 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch.    
+ 
+
+ 
+
+  6.1 clinical studies experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+     pool of placebo-controlled trials  
+
+
+
+ the data in table 1 is derived from four 26-week placebo-controlled trials. in one trial invokana was used as monotherapy and in three trials invokana was used as add-on therapy  [see  clinical studies (14)  ]  . these data reflect exposure of 1667 patients to invokana and a mean duration of exposure to invokana of 24 weeks. patients received invokana 100 mg (n=833), invokana 300 mg (n=834) or placebo (n=646) once daily. the mean age of the population was 56 years and 2% were older than 75 years of age. fifty percent (50%) of the population was male and 72% were caucasian, 12% were asian, and 5% were black or african american. at baseline the population had diabetes for an average of 7.3 years, had a mean hba1c of 8.0% and 20% had established microvascular complications of diabetes. baseline renal function was normal or mildly impaired (mean egfr 88 ml/min/1.73 m  2  ).
+
+
+
+ table 1 shows common adverse reactions associated with the use of invokana. these adverse reactions were not present at baseline, occurred more commonly on invokana than on placebo, and occurred in at least 2% of patients treated with either invokana 100 mg or invokana 300 mg.
+
+
+
+ table 1: adverse reactions from pool of four 26-week placebo-controlled studies reported in >= 2% of invokana-treated patientsthe four placebo-controlled trials included one monotherapy trial and three add-on combination trials with metformin, metformin and sulfonylurea, or metformin and pioglitazone. 
+ adverse reaction                              placebon=646      invokana 100 mgn=833  invokana 300 mgn=834   
+  
+ female genital mycotic infections                 3.2%                 10.4%                 11.4%           
+ urinary tract infections                          4.0%                  5.9%                  4.3%           
+ increased urination                               0.8%                  5.3%                  4.6%           
+ male genital mycotic infections                   0.6%                  4.2%                  3.7%           
+ vulvovaginal pruritus                             0.0%                  1.6%                  3.0%           
+ thirst                                            0.2%                  2.8%                  2.3%           
+ constipation                                      0.9%                  1.8%                  2.3%           
+ nausea                                            1.5%                  2.2%                  2.3%           
+          abdominal pain was also more commonly reported in patients taking invokana 100 mg (1.8%), 300 mg (1.7%) than in patients taking placebo (0.8%).
+ 
+
+     pool of placebo- and active-controlled trials  
+
+
+
+ the occurrence of adverse reactions for canagliflozin was evaluated in a larger pool of patients participating in placebo- and active-controlled trials.
+
+
+
+ the data combined eight clinical trials  [see  clinical studies (14)  ]  and reflect exposure of 6177 patients to invokana. the mean duration of exposure to invokana was 38 weeks with 1832 individuals exposed to invokana for greater than 50 weeks. patients received invokana 100 mg (n=3092), invokana 300 mg (n=3085) or comparator (n=3262) once daily. the mean age of the population was 60 years and 5% were older than 75 years of age. fifty-eight percent (58%) of the population was male and 73% were caucasian, 16% were asian, and 4% were black or african american. at baseline, the population had diabetes for an average of 11 years, had a mean hba1c of 8.0% and 33% had established microvascular complications of diabetes. baseline renal function was normal or mildly impaired (mean egfr 81 ml/min/1.73 m  2  ).
+
+
+
+ the types and frequency of common adverse reactions observed in the pool of eight clinical trials were consistent with those listed in table 1. in this pool, invokana was also associated with the adverse reactions of fatigue (1.7% with comparator, 2.2% with invokana 100 mg, and 2.0% with invokana 300 mg) and loss of strength or energy (i.e., asthenia) (0.6% with comparator, 0.7% with invokana 100 mg, and 1.1% with invokana 300 mg).
+
+
+
+ in the pool of eight clinical trials, the incidence rate of pancreatitis (acute or chronic) was 0.9, 2.7, and 0.9 per 1000 patient-years of exposure to comparator, invokana 100 mg, and invokana 300 mg, respectively.
+
+
+
+ in the pool of eight clinical trials, hypersensitivity-related adverse reactions (including erythema, rash, pruritus, urticaria, and angioedema) occurred in 3.0%, 3.8%, and 4.2% of patients receiving comparator, invokana 100 mg, and invokana 300 mg, respectively. five patients experienced serious adverse reactions of hypersensitivity with invokana, which included 4 patients with urticaria and 1 patient with a diffuse rash and urticaria occurring within hours of exposure to invokana. among these patients, 2 patients discontinued invokana. one patient with urticaria had recurrence when invokana was re-initiated.
+
+
+
+ photosensitivity-related adverse reactions (including photosensitivity reaction, polymorphic light eruption, and sunburn) occurred in 0.1%, 0.2%, and 0.2% of patients receiving comparator, invokana 100 mg, and invokana 300 mg, respectively.
+
+
+
+ other adverse reactions occurring more frequently on invokana than on comparator were:
+
+
+
+     volume depletion-related adverse reactions  
+
+
+
+ invokana results in an osmotic diuresis, which may lead to reductions in intravascular volume. in clinical studies, treatment with invokana was associated with a dose-dependent increase in the incidence of volume depletion-related adverse reactions (e.g., hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration). an increased incidence was observed in patients on the 300 mg dose. the three factors associated with the largest increase in volume depletion-related adverse reactions were the use of loop diuretics, moderate renal impairment (egfr 30 to less than 60 ml/min/1.73 m  2  ), and age 75 years and older (table 2)  [see  dosage and administration (2.2)  ,  warnings and precautions (5.1)  , and  use in specific populations (8.5  and  8.6)  ]  .
+
+
+
+ table 2: proportion of patients with at least one volume depletion-related adverse reaction (pooled results from 8 clinical trials) 
+ baseline characteristic                    comparator group%      invokana 100 mg%      invokana 300 mg%     
+  
+ overall population                                1.5%                  2.3%                  3.4%           
+ 75 years of age and older                         2.6%                  4.9%                  8.7%           
+ egfr less than 60 ml/min/1.73 m  2                2.5%                  4.7%                  8.1%           
+ use of loop diuretic                              4.7%                  3.2%                  8.8%           
+              falls  
+ 
+
+ in a pool of nine clinical trials with mean duration of exposure to invokana of 85 weeks, the proportion of patients who experienced falls was 1.3%, 1.5%, and 2.1% with comparator, invokana 100 mg, and invokana 300 mg, respectively. the higher risk of falls for patients treated with invokana was observed within the first few weeks of treatment.
+
+
+
+     impairment in renal function  
+
+
+
+ invokana is associated with a dose-dependent increase in serum creatinine and a concomitant fall in estimated gfr (table 3). patients with moderate renal impairment at baseline had larger mean changes.
+
+
+
+ table 3: changes in serum creatinine and egfr associated with invokana in the pool of four placebo-controlled trials and moderate renal impairment trial 
+                     placebon=646          invokana 100 mgn=833      invokana 300 mgn=834     
+ pool of four placebo-controlled trials  baseline              creatinine (mg/dl)         0.84           0.82              0.82         
+ egfr (ml/min/1.73 m  2  )  87.0                  88.3                       88.8      
+ week 6 change     creatinine (mg/dl)    0.01                       0.03           0.05         
+ egfr (ml/min/1.73 m  2  )  -1.6                  -3.8                       -5.0      
+ end of treatment change  creatinine (mg/dl)    0.01                       0.02           0.03         
+ egfr (ml/min/1.73 m  2  )  -1.6                  -2.3                       -3.4      
+                     placebon=90           invokana 100 mgn=90      invokana 300 mgn=89     
+ moderate renal impairment trial  baseline              creatinine (mg/dl)         1.61           1.62              1.63         
+ egfr (ml/min/1.73 m  2  )  40.1                  39.7                       38.5      
+ week 3 change     creatinine (mg/dl)    0.03                       0.18           0.28         
+ egfr (ml/min/1.73 m  2  )  -0.7                  -4.6                       -6.2      
+ end of treatment change  creatinine (mg/dl)    0.07                       0.16           0.18         
+ egfr (ml/min/1.73 m  2  )  -1.5                  -3.6                       -4.0      
+            in the pool of four placebo-controlled trials where patients had normal or mildly impaired baseline renal function, the proportion of patients who experienced at least one event of significant renal function decline, defined as an egfr below 80 ml/min/1.73 m  2  and 30% lower than baseline, was 2.1% with placebo, 2.0% with invokana 100 mg, and 4.1% with invokana 300 mg. at the end of treatment, 0.5% with placebo, 0.7% with invokana 100 mg, and 1.4% with invokana 300 mg had a significant renal function decline.
+ 
+
+ in a trial carried out in patients with moderate renal impairment with a baseline egfr of 30 to less than 50 ml/min/1.73 m  2  (mean baseline egfr 39 ml/min/1.73 m  2  )  [see  clinical studies (14.3)  ]  , the proportion of patients who experienced at least one event of significant renal function decline, defined as an egfr 30% lower than baseline, was 6.9% with placebo, 18% with invokana 100 mg, and 22.5% with invokana 300 mg. at the end of treatment, 4.6% with placebo, 3.4% with invokana 100 mg, and 2.2% with invokana 300 mg had a significant renal function decline.
+
+
+
+ in a pooled population of patients with moderate renal impairment (n=1085) with baseline egfr of 30 to less than 60 ml/min/1.73 m  2  (mean baseline egfr 48 ml/min/1.73 m  2  ), the overall incidence of these events was lower than in the dedicated trial but a dose-dependent increase in incident episodes of significant renal function decline compared to placebo was still observed.
+
+
+
+ use of invokana has been associated with an increased incidence of renal-related adverse reactions (e.g., increased blood creatinine, decreased glomerular filtration rate, renal impairment, and acute renal failure), particularly in patients with moderate renal impairment.
+
+
+
+ in the pooled analysis of patients with moderate renal impairment, the incidence of renal-related adverse reactions was 3.7% with placebo, 8.9% with invokana 100 mg, and 9.3% with invokana 300 mg. discontinuations due to renal-related adverse events occurred in 1.0% with placebo, 1.2% with invokana 100 mg, and 1.6% with invokana 300 mg  [see  warnings and precautions (5.2)  ]  .
+
+
+
+     genital mycotic infections  
+
+
+
+ in the pool of four placebo-controlled clinical trials, female genital mycotic infections (e.g., vulvovaginal mycotic infection, vulvovaginal candidiasis, and vulvovaginitis) occurred in 3.2%, 10.4%, and 11.4% of females treated with placebo, invokana 100 mg, and invokana 300 mg, respectively. patients with a history of genital mycotic infections were more likely to develop genital mycotic infections on invokana. female patients who developed genital mycotic infections on invokana were more likely to experience recurrence and require treatment with oral or topical antifungal agents and anti-microbial agents. in females, discontinuation due to genital mycotic infections occurred in 0% and 0.7% of patients treated with placebo and invokana, respectively  [see  warnings and precautions (5.5)  ]  .
+
+
+
+ in the pool of four placebo-controlled clinical trials, male genital mycotic infections (e.g., candidal balanitis, balanoposthitis) occurred in 0.6%, 4.2%, and 3.7% of males treated with placebo, invokana 100 mg, and invokana 300 mg, respectively. male genital mycotic infections occurred more commonly in uncircumcised males and in males with a prior history of balanitis or balanoposthitis. male patients who developed genital mycotic infections on invokana were more likely to experience recurrent infections (22% on invokana versus none on placebo), and require treatment with oral or topical antifungal agents and anti-microbial agents than patients on comparators. in males, discontinuations due to genital mycotic infections occurred in 0% and 0.5% of patients treated with placebo and invokana, respectively. in the pooled analysis of 8 controlled trials, phimosis was reported in 0.3% of uncircumcised male patients treated with invokana and 0.2% required circumcision to treat the phimosis  [see  warnings and precautions (5.5)  ]  .
+
+
+
+     hypoglycemia  
+
+
+
+ in all clinical trials, hypoglycemia was defined as any event regardless of symptoms, where biochemical hypoglycemia was documented (any glucose value below or equal to 70 mg/dl). severe hypoglycemia was defined as an event consistent with hypoglycemia where the patient required the assistance of another person to recover, lost consciousness, or experienced a seizure (regardless of whether biochemical documentation of a low glucose value was obtained). in individual clinical trials  [see  clinical studies (14)  ]  , episodes of hypoglycemia occurred at a higher rate when invokana was co-administered with insulin or sulfonylureas (table 4)  [see  warnings and precautions (5.4)  ]  .
+
+
+
+ table 4: incidence of hypoglycemianumber of patients experiencing at least one event of hypoglycemia based on either biochemically documented episodes or severe hypoglycemic events in the intent-to-treat population in controlled clinical studies 
+ monotherapy(26 weeks)              placebo(n=192)         invokana 100 mg(n=195)      invokana 300 mg(n=197)   
+  
+ overall [n (%)]                       5 (2.6)                    7 (3.6)                    6 (3.0)          
+   in combination with metformin(26 weeks)      placebo + metformin(n=183)      invokana 100 mg + metformin(n=368)      invokana 300 mg + metformin(n=367)     
+ overall [n (%)]                       3 (1.6)                    16 (4.3)                   17 (4.6)         
+ severe [n (%)]                         0 (0)                     1 (0.3)                    1 (0.3)          
+   in combination with metformin(52 weeks)      glimepiride + metformin(n=482)      invokana 100 mg + metformin(n=483)      invokana 300 mg + metformin(n=485)     
+ overall [n (%)]                      165 (34.2)                  27 (5.6)                   24 (4.9)         
+ severe [n (%)]                        15 (3.1)                   2 (0.4)                    3 (0.6)          
+   in combination with sulfonylurea(18 weeks)      placebo + sulfonylurea(n=69)      invokana 100 mg + sulfonylurea(n=74)      invokana 300 mg + sulfonylurea(n=72)     
+ overall [n (%)]                       4 (5.8)                    3 (4.1)                    9 (12.5)         
+   in combination with metformin + sulfonylurea(26 weeks)      placebo + metformin + sulfonylurea(n=156)      invokana 100 mg + metformin + sulfonylurea(n=157)      invokana 300 mg + metformin + sulfonylurea(n=156)     
+ overall [n (%)]                      24 (15.4)                  43 (27.4)                  47 (30.1)         
+ severe [n (%)]                        1 (0.6)                    1 (0.6)                       0             
+   in combination with metformin + sulfonylurea(52 weeks)      sitagliptin + metformin + sulfonylurea(n=378)                                      invokana 300 mg + metformin + sulfonylurea(n=377)     
+ overall [n (%)]                      154 (40.7)                                            163 (43.2)        
+ severe [n (%)]                        13 (3.4)                                              15 (4.0)         
+   in combination with metformin + pioglitazone(26 weeks)      placebo + metformin + pioglitazone(n=115)      invokana 100 mg + metformin + pioglitazone(n=113)      invokana 300 mg + metformin + pioglitazone(n=114)     
+ overall [n (%)]                       3 (2.6)                    3 (2.7)                    6 (5.3)          
+   in combination with insulin(18 weeks)       placebo(n=565)         invokana 100 mg(n=566)        invokana 300 mg(n=587)     
+ overall [n (%)]                      208 (36.8)                 279 (49.3)                 285 (48.6)        
+ severe [n (%)]                        14 (2.5)                   10 (1.8)                   16 (2.7)         
+              bone fracture  
+ 
+
+ the occurrence of bone fractures was evaluated in a pool of nine clinical trials with a mean duration of exposure to invokana of 85 weeks. the incidence rates of adjudicated bone fractures were 1.1, 1.4, and 1.5 per 100 patient-years of exposure in the comparator, invokana 100 mg, and invokana 300 mg groups, respectively. fractures were observed as early as 12 weeks after treatment initiation and were more likely to be low trauma (e.g., fall from no more than standing height), and affect the upper extremities  [see  warnings and precautions (5.7)  ]  .
+
+
+
+     laboratory and imaging tests  
+
+
+
+     increases in serum potassium  
+
+
+
+ in a pooled population of patients (n=723) with moderate renal impairment (egfr 45 to less than 60 ml/min/1.73 m  2  ), increases in serum potassium to greater than 5.4 meq/l and 15% above baseline occurred in 5.3%, 5.0%, and 8.8% of patients treated with placebo, invokana 100 mg, and invokana 300 mg, respectively. severe elevations (greater than or equal to 6.5 meq/l) occurred in 0.4% of patients treated with placebo, no patients treated with invokana 100 mg, and 1.3% of patients treated with invokana 300 mg.
+
+
+
+ in these patients, increases in potassium were more commonly seen in those with elevated potassium at baseline. among patients with moderate renal impairment, approximately 84% were taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, angiotensin-converting-enzyme inhibitors, and angiotensin-receptor blockers  [see  warnings and precautions (5.2  and  5.3)  and  use in specific populations (8.6)  ]  .
+
+
+
+     increases in serum magnesium  
+
+
+
+ dose-related increases in serum magnesium were observed early after initiation of invokana (within 6 weeks) and remained elevated throughout treatment. in the pool of four placebo-controlled trials, the mean percent change in serum magnesium levels was 8.1% and 9.3% with invokana 100 mg and invokana 300 mg, respectively, compared to -0.6% with placebo. in a trial of patients with moderate renal impairment  [see  clinical studies (14.3)  ]  , serum magnesium levels increased by 0.2%, 9.2%, and 14.8% with placebo, invokana 100 mg, and invokana 300 mg, respectively.
+
+
+
+     increases in serum phosphate  
+
+
+
+ dose-related increases in serum phosphate levels were observed with invokana. in the pool of four placebo controlled trials, the mean percent change in serum phosphate levels were 3.6% and 5.1% with invokana 100 mg and invokana 300 mg, respectively, compared to 1.5% with placebo. in a trial of patients with moderate renal impairment  [see  clinical studies (14.3)  ]  , the mean serum phosphate levels increased by 1.2%, 5.0%, and 9.3% with placebo, invokana 100 mg, and invokana 300 mg, respectively.
+
+
+
+     increases in low-density lipoprotein cholesterol (ldl-c) and non-high-density lipoprotein cholesterol (non-hdl-c)  
+
+
+
+ in the pool of four placebo-controlled trials, dose-related increases in ldl-c with invokana were observed. mean changes (percent changes) from baseline in ldl-c relative to placebo were 4.4 mg/dl (4.5%) and 8.2 mg/dl (8.0%) with invokana 100 mg and invokana 300 mg, respectively. the mean baseline ldl-c levels were 104 to 110 mg/dl across treatment groups  [see  warnings and precautions (5.8)  ]  .
+
+
+
+ dose-related increases in non-hdl-c with invokana were observed. mean changes (percent changes) from baseline in non-hdl-c relative to placebo were 2.1 mg/dl (1.5%) and 5.1 mg/dl (3.6%) with invokana 100 mg and 300 mg, respectively. the mean baseline non-hdl-c levels were 140 to 147 mg/dl across treatment groups.
+
+
+
+     increases in hemoglobin  
+
+
+
+ in the pool of four placebo-controlled trials, mean changes (percent changes) from baseline in hemoglobin were -0.18 g/dl (-1.1%) with placebo, 0.47 g/dl (3.5%) with invokana 100 mg, and 0.51 g/dl (3.8%) with invokana 300 mg. the mean baseline hemoglobin value was approximately 14.1 g/dl across treatment groups. at the end of treatment, 0.8%, 4.0%, and 2.7% of patients treated with placebo, invokana 100 mg, and invokana 300 mg, respectively, had hemoglobin above the upper limit of normal.
+
+
+
+     decreases in bone mineral density  
+
+
+
+ bone mineral density (bmd) was measured by dual-energy x-ray absorptiometry in a clinical trial of 714 older adults (mean age 64 years)  [see  clinical studies (14.3)  ]  . at 2 years, patients randomized to invokana 100 mg and invokana 300 mg had placebo-corrected declines in bmd at the total hip of 0.9% and 1.2%, respectively, and at the lumbar spine of 0.3% and 0.7%, respectively. additionally, placebo-adjusted bmd declines were 0.1% at the femoral neck for both invokana doses and 0.4% at the distal forearm for patients randomized to invokana 300 mg. the placebo-adjusted change at the distal forearm for patients randomized to invokana 100 mg was 0%.
+    5 warnings and precautions
+
+
+
+   excerpt:    *  hypotension: before initiating invokana, assess volume status and correct hypovolemia in patients with renal impairment, the elderly, in patients with low systolic blood pressure, or if on diuretics, acei, or arb. monitor for signs and symptoms during therapy (  5.1  ) 
+ *  impairment in renal function: monitor renal function during therapy. more frequent monitoring is recommended in patients with egfr below 60 ml/min/1.73 m  2  (  5.2  ) 
+ *  hyperkalemia: monitor potassium levels in patients with impaired renal function and in patients predisposed to hyperkalemia (  2.2  ,  5.3  ,  6.1  ,  8.6  ) 
+ *  hypoglycemia: consider a lower dose of insulin or the insulin secretagogue to reduce the risk of hypoglycemia when used in combination with invokana (  5.4  ) 
+ *  genital mycotic infections: monitor and treat if indicated (  5.5  ) 
+ *  hypersensitivity reactions: discontinue invokana and monitor until signs and symptoms resolve (  5.6  ) 
+ *  bone fracture: consider factors that contribute to fracture risk before initiating invokana (  5.7  ) 
+ *  increased ldl-c: monitor ldl-c and treat if appropriate (  5.8  ) 
+    
+ 
+
+   5.1 hypotension
+
+
+
+  invokana causes intravascular volume contraction. symptomatic hypotension can occur after initiating invokana [see  adverse reactions (6.1  )]  particularly in patients with impaired renal function (egfr less than 60 ml/min/1.73 m  2  ), elderly patients, patients on either diuretics or medications that interfere with the renin-angiotensin-aldosterone system (e.g., angiotensin-converting-enzyme [ace] inhibitors, angiotensin receptor blockers [arbs]), or patients with low systolic blood pressure. before initiating invokana in patients with one or more of these characteristics, volume status should be assessed and corrected. monitor for signs and symptoms after initiating therapy.
+
+
+
+    5.2 impairment in renal function
+
+
+
+  invokana increases serum creatinine and decreases egfr. patients with hypovolemia may be more susceptible to these changes. renal function abnormalities can occur after initiating invokana [see  adverse reactions (6.1)  ]  . more frequent renal function monitoring is recommended in patients with an egfr below 60 ml/min/1.73 m  2  .
+
+
+
+    5.3 hyperkalemia
+
+
+
+  invokana can lead to hyperkalemia. patients with moderate renal impairment who are taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, or medications that interfere with the renin-angiotensin-aldosterone system are at an increased risk of developing hyperkalemia [see  dosage and administration (2.2)  and  adverse reactions (6.1)  ]  .
+
+
+
+ monitor serum potassium levels periodically after initiating invokana in patients with impaired renal function and in patients predisposed to hyperkalemia due to medications or other medical conditions.
+
+
+
+    5.4 hypoglycemia with concomitant use with insulin and insulin secretagogues
+
+
+
+  insulin and insulin secretagogues are known to cause hypoglycemia. invokana can increase the risk of hypoglycemia when combined with insulin or an insulin secretagogue [see  adverse reactions (6.1)  ]  . therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with invokana.
+
+
+
+    5.5 genital mycotic infections
+
+
+
+  invokana increases the risk of genital mycotic infections. patients with a history of genital mycotic infections and uncircumcised males were more likely to develop genital mycotic infections [see  adverse reactions (6.1)  ]  . monitor and treat appropriately.
+
+
+
+    5.6 hypersensitivity reactions
+
+
+
+  hypersensitivity reactions (e.g., generalized urticaria), some serious, were reported with invokana treatment; these reactions generally occurred within hours to days after initiating invokana. if hypersensitivity reactions occur, discontinue use of invokana; treat and monitor until signs and symptoms resolve [see  contraindications (4)  and  adverse reactions (6.1)  ]  .
+
+
+
+    5.7 bone fracture
+
+
+
+   an increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in patients using invokana. consider factors that contribute to fracture risk prior to initiating invokana [see  adverse reactions (6.1)  ]  .  
+
+
+
+    5.8 increases in low-density lipoprotein (ldl-c)
+
+
+
+  dose-related increases in ldl-c occur with invokana [see  adverse reactions (6.1)  ]  . monitor ldl-c and treat if appropriate after initiating invokana.
+
+
+
+    5.9 macrovascular outcomes
+
+
+
+  there have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with invokana or any other antidiabetic drug.

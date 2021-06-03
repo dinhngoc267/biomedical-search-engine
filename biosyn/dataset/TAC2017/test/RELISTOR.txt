@@ -1,0 +1,130 @@
+    6 adverse reactions
+
+  serious and important adverse reactions described elsewhere in labeling include:
+
+
+
+ *  gastrointestinal perforation [see warnings and precautions (  5.1  )]  
+ *  severe or persistent diarrhea [see warnings and precautions (  5.2  )]  
+ *  opioid withdrawal [see warnings and precautions (  5.3  )]  
+   *  the most common adverse reactions (>= 1%) in adult patients with opioid-induced constipation and chronic non-cancer pain are abdominal pain, nausea, diarrhea, hyperhidrosis, hot flush, tremor, and chills (  6.1  ) 
+ *  the most common adverse reactions (>= 5%) in adult patients with opioid-induced constipation and advanced illness are abdominal pain, flatulence, nausea, dizziness, and diarrhea (  6.1  ) 
+      excerpt:     to report suspected adverse reactions, contact salix pharmaceuticals inc. at 1-800-508-0024 or fda at 1-800-fda-1088 or      www.fda.gov/medwatch  .  
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+   opioid-induced constipation in adult patients with chronic non-cancer pain  
+
+
+
+ the safety of relistor was evaluated in a double-blind, placebo-controlled trial in adult patients with opioid-induced constipation and chronic non-cancer pain receiving opioid analgesia. this study (study 1) included a 4-week, double-blind, placebo-controlled period in which adult patients were randomized to receive relistor 12 mg once daily (150 patients) or placebo (162 patients) [  see    clinical studies (    14.1        )  ]. after 4 weeks of double-blind treatment, patients began an 8-week open-label treatment period during which relistor 12 mg was administered less frequently than the recommended dosage regimen of 12 mg once daily.
+
+
+
+ adverse reactions in adult patients with opioid-induced constipation and chronic non-cancer pain receiving relistor are shown in table 2. the adverse reactions in the table below may reflect symptoms of opioid withdrawal.
+
+
+
+
+  table 2:  adverse reactions* in 4-week double-blind, placebo-controlled period of clinical study of relistor in adult patients with opioid-inducedconstipation and chronic non-cancer pain    
+  adverse reaction    relistor 12 mg once dailyn = 150      placebo  n = 162   
+  abdominal pain    21%             6%                
+  nausea           9%              6%                
+  diarrhea         6%               4%               
+  hyperhidrosis    6%              1%                
+  hot flush        3%              2%                
+ tremor           1%               < 1%              
+ chills           1%               0%                
+  *adverse reactions occuring in >= 1% of patients receiving relistor 12 mg once daily and at an incidence greater than placebo.   
+         .
+ 
+
+ during the 4-week double-blind period, in patients with opioid-induced constipation and chronic non-cancer pain that received relistor 12 mg every other day, there was a higher incidence of adverse reactions, including nausea (12%), diarrhea (12%), vomiting (7%), tremor (3%), feeling of body temperature change (3%), piloerection (3%), and chills (2%) as compared to daily relistor dosing.  use of relistor 12 mg every other day is not recommended in patients with oic and chronic non-cancer pain  [see dosage and administration (2.2)]  . the rates of discontinuation due to adverse reactions during the double-blind period (study 1) were higher in the relistor once daily (7%) than the placebo group (3%).  abdominal pain was the most common adverse reaction resulting in discontinuation from the double-blind period in the relistor once daily group (2%).
+
+
+
+ the safety of relistor was also evaluated in a 48-week, open-label, uncontrolled trial in 1034 adult patients with opioid-induced constipation and chronic non-cancer pain (study 2). patients were allowed to administer relistor 12 mg less frequently than the recommended dosage regimen of 12 mg once daily, and took a median of 6 doses per week. a total of 624 patients (60%) completed at least 24 weeks of treatment and 477 (46%) completed the 48-week study. the adverse reactions seen in this study were similar to those observed during the 4-week double-blind period of study 1. additionally, in study 2, investigators reported 4 myocardial infarctions (1 fatal), 1 stroke (fatal), 1 fatal cardiac arrest and 1 sudden death. it is not possible to establish a relationship between these events and relistor.
+
+
+
+   opioid-induced constipation in adult patients with advanced illness  
+
+
+
+ the safety of relistor was evaluated in two, double-blind, placebo-controlled trials in adult patients with opioid-induced constipation and advanced illness receiving palliative care: study 3 included a single-dose, double-blind, placebo-controlled period, whereas study 4 included a 14-day multiple dose, double-blind, placebo-controlled period [see  clinical studies (    14        .2        )  ]. 
+
+
+
+ the most common (>= 5%) adverse reactions in adult patients with opioid-induced constipation and advanced illness receiving relistor are shown in table 3 below.
+
+
+
+
+  table 3: adverse reactions from all doses in double-blind, placebo-controlled clinical studies of relistor in adult patients with opioid-induced constipation and advanced illness*    
+  adverse reaction    relistorn = 165    placebon = 123    
+  abdominal pain    29%              10%              
+  flatulence       13%              6%               
+  nausea           12%              5%               
+  dizziness        7%               2%               
+  diarrhea         6%               2%               
+  * adverse reactions occuring in >= 5% of patients receiving all doses of relistor (0.075, 0.15, and 0.30 mg/kg/dose) and at an incidence greater than placebo.    
+         the rates of discontinuation due to adverse events during the double-blind placebo controlled clinical trials (study 3 and study 4) were comparable between relistor (1%) and placebo (2%).
+ 
+
+   6.2 postmarketing experience
+
+  the following adverse reactions have been identified during post-approval use of relistor. because they are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   gastrointestinal  
+
+
+
+ perforation, cramping, vomiting
+
+
+
+   gen    eral disorders and administrative site disorders  
+
+
+
+ diaphoresis, flushing, malaise, pain.  cases of opioid withdrawal have been reported  [see warnings and precautions (  5.3  )].  
+    5 warnings and precautions
+
+
+
+   excerpt:    *   gastrointestinal perforation : consider the overall risk benefit in patients with known or suspected lesions of the gi tract. monitor for severe, persistent or worsening abdominal pain; discontinue if development of symptoms (  5.1  ) 
+ *   severe or persistent diarrhea : discontinue if severe or persistent diarrhea occurs during treatment (  5.2  ) 
+ *   opioid withdrawal : consider the overall risk benefit in patients with disruptions to the blood-brain barrier. monitor closely for symptoms of opioid withdrawal (  5.3  ) 
+    
+ 
+
+   5.1 gastrointestinal perforation
+
+
+
+   cases of gastrointestinal perforation have been reported in adult patients with opioid-induced constipation and advanced illness with conditions that may be associated with localized or diffuse reduction of structural integrity in the wall of the gastrointestinal tract (e.g., peptic ulcer disease, ogilvie's syndrome, diverticular disease, infiltrative gastrointestinal tract malignancies or peritoneal metastases). take into account the overall risk-benefit profile when using relistor in patients with these conditions or other conditions which might result in impaired integrity of the gastrointestinal tract wall (e.g., crohn's disease). monitor for the development of severe, persistent, or worsening abdominal pain; discontinue relistor in patients who develop this symptom [see contraindications (  4  )]  .  
+
+
+
+    5.2 severe or persistent diarrhea
+
+
+
+  if severe or persistent diarrhea occurs during treatment, advise patients to discontinue therapy with relistor and consult their healthcare provider.
+
+
+
+    5.3 opioid withdrawal
+
+
+
+   symptoms consistent with opioid withdrawal, including hyperhidrosis, chills, diarrhea, abdominal pain, anxiety, and yawning have occurred in patients treated with relistor [see adverse reactions (  6.1  )]  . patients having disruptions to the blood-brain barrier may be at increased risk for opioid withdrawal and/or reduced analgesia. take into account the overall risk-benefit profile when using relistor in such patients. monitor for adequacy of analgesia and symptoms of opioid withdrawal in such patients.  

@@ -1,0 +1,450 @@
+    6 adverse reactions
+
+  excerpt:   the most common adverse reactions in patients with advanced renal cell carcinoma (>=20%) are diarrhea, hypertension, hair color changes (depigmentation), nausea, anorexia, and vomiting. (  6.1  )
+
+
+
+ the most common adverse reactions in patients with advanced soft tissue sarcoma (>=20%) are fatigue, diarrhea, nausea, decreased weight, hypertension, decreased appetite, hair color changes, vomiting, tumor pain, dysgeusia, headache, musculoskeletal pain, myalgia, gastrointestinal pain, and dyspnea. (  6.1  )
+
+
+
+   to report suspected adverse reactions, contact glaxosmithkline at 1-888-825-5249 or fda at 1-800-fda-1088 or  www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 clinical trials experience
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ potentially serious adverse reactions with votrient included:
+
+
+
+ *    hepatotoxicity [see warnings and precautions (5.1)]  
+ *    qt prolongation and torsades de pointes [see warnings and precautions (5.2)]  
+ *    cardiac dysfunction [see warnings and precautions (5.3)]  
+ *    hemorrhagic events [see warnings and precautions (5.4)]  
+ *    arterial and venous thromboembolic events [see warnings and precautions (5.5 and 5.6)]  
+ *    thrombotic microangiopathy [see warnings and precautions (5.7)]  
+ *    gastrointestinal perforation and fistula [see warnings and precautions (5.8)]  
+ *    interstitial lung disease (ild)/pneumonitis [see warnings and precautions (5.9)]  
+ *    reversible posterior leukoencephalopathy syndrome (rpls) [see warnings and precautions (5.10)]  
+ *    hypertension [see warnings and precautions (5.11)]  
+ *    infection [see warnings and precautions (5.15)]  
+ *    increased toxicity with other cancer therapies [see warnings and precautions (5.16)]  
+      renal cell carcinoma:  the safety of votrient has been evaluated in 977 patients in the monotherapy trials which included 586 patients with rcc at the time of nda submission. with a median duration of treatment of 7.4 months (range: 0.1 to 27.6), the most commonly observed adverse reactions (>=20%) in the 586 patients were diarrhea, hypertension, hair color change, nausea, fatigue, anorexia, and vomiting.
+ 
+
+ the data described below reflect the safety profile of votrient in 290 rcc patients who participated in a randomized, double-blind, placebo-controlled trial  [see clinical studies (14.1)]  . the median duration of treatment was 7.4 months (range: 0 to 23) for patients who received votrient and 3.8 months (range: 0 to 22) for the placebo arm. forty-two percent of patients on votrient required a dose interruption. thirty-six percent of patients on votrient were dose reduced. table 1 presents the most common adverse reactions occurring in >=10% of patients who received votrient.
+
+
+
+ table 1. adverse reactions occurring in >=10% of patients with rcc who received votrient 
+                           votrient         placebo       
+                           (n = 290)        (n = 145)     
+                           all gradesa      grade 3       grade 4       all gradesa      grade 3       grade 4       
+  adverse reactions        %                %             %             %                %             %             
+  diarrhea                 52               3             <1            9                <1            0             
+  hypertension             40               4             0             10               <1            0             
+  hair color changes       38               <1            0             3                0             0             
+  nausea                   26               <1            0             9                0             0             
+  anorexia                 22               2             0             10               <1            0             
+  vomiting                 21               2             <1            8                2             0             
+  fatigue                  19               2             0             8                1             1             
+  asthenia                 14               3             0             8                0             0             
+  abdominal pain           11               2             0             1                0             0             
+  headache                 10               0             0             5                0             0             
+               a  national cancer institute common terminology criteria for adverse events, version 3.
+ 
+
+ other adverse reactions observed more commonly in patients treated with votrient than placebo and that occurred in <10% (any grade) were alopecia (8% versus <1%), chest pain (5% versus 1%), dysgeusia (altered taste) (8% versus <1%), dyspepsia (5% versus <1%), dysphonia (4% versus <1%), facial edema (1% versus 0%), palmar-plantar erythrodysesthesia (hand-foot syndrome) (6% versus <1%), proteinuria (9% versus 0%), rash (8% versus 3%), skin depigmentation (3% versus 0%), and weight decreased (9% versus 3%).
+
+
+
+ additional adverse reactions from other clinical trials in rcc patients treated with votrient are listed below:
+
+
+
+   musculoskeletal and connective tissue disorders:  arthralgia, muscle spasms.
+
+
+
+ table 2 presents the most common laboratory abnormalities occurring in >10% of patients who received votrient and more commonly (>=5%) in patients who received votrient versus placebo.
+
+
+
+ table 2. selected laboratory abnormalities occurring in >10% of patients with rcc who received votrient and more commonly (>=5%) in patients who received votrient versus placebo 
+                                votrient        placebo      
+                                (n = 290)       (n = 145)    
+                                all gradesa     grade 3      grade 4      all gradesa     grade 3      grade 4      
+  parameters                    %               %            %            %               %            %            
+  hematologic                                                                                                       
+     leukopenia                 37              0            0            6               0            0            
+     neutropenia                34              1            <1           6               0            0            
+     thrombocytopenia           32              <1           <1           5               0            <1           
+     lymphocytopenia            31              4            <1           24              1            0            
+  chemistry                                                                                                         
+     alt increased              53              10           2            22              1            0            
+     ast increased              53              7            <1           19              <1           0            
+     glucose increased          41              <1           0            33              1            0            
+     total bilirubin increased    36              3            <1           10              1            <1           
+     phosphorus decreased       34              4            0            11              0            0            
+     sodium decreased           31              4            1            24              4            0            
+     magnesium decreased        26              <1           1            14              0            0            
+     glucose decreased          17              0            <1           3               0            0            
+               a  national cancer institute common terminology criteria for adverse events, version 3.
+ 
+
+   soft tissue sarcoma:  the safety of votrient has been evaluated in 382 patients with advanced soft tissue sarcoma, with a median duration of treatment of 3.6 months (range: 0 to 53). the most commonly observed adverse reactions (>=20%) in the 382 patients were fatigue, diarrhea, nausea, decreased weight, hypertension, decreased appetite, vomiting, tumor pain, hair color changes, musculoskeletal pain, headache, dysgeusia, dyspnea, and skin hypopigmentation.
+
+
+
+ the data described below reflect the safety profile of votrient in 240 patients who participated in a randomized, double-blind, placebo-controlled trial  [see clinical studies (14.2)]  . the median duration of treatment was 4.5 months (range: 0 to 24) for patients who received votrient and 1.9 months (range: 0 to 24) for the placebo arm. fifty-eight percent of patients on votrient required a dose interruption. thirty-eight percent of patients on votrient had their dose reduced. seventeen percent of patients who received votrient discontinued therapy due to adverse reactions. table 3 presents the most common adverse reactions occurring in >=10% of patients who received votrient.
+
+
+
+ table 3. adverse reactions occurring in >=10% of patients with sts who received votrient 
+                              votrient         placebo      
+                              (n = 240)        (n = 123)    
+                              all gradesa      grade 3      grade 4      all gradesa      grade 3      grade 4      
+  adverse reactions           %                %            %            %                %            %            
+  fatigue                     65               13           1            48               4            1            
+  diarrhea                    59               5            0            15               1            0            
+  nausea                      56               3            0            22               2            0            
+  weight decreased            48               4            0            15               0            0            
+  hypertension                42               7            0            6                0            0            
+  appetite decreased          40               6            0            19               0            0            
+  hair color changes          39               0            0            2                0            0            
+  vomiting                    33               3            0            11               1            0            
+  tumor pain                  29               8            0            21               7            2            
+  dysgeusia                   28               0            0            3                0            0            
+  headache                    23               1            0            8                0            0            
+  musculoskeletal pain        23               2            0            20               2            0            
+  myalgia                     23               2            0            9                0            0            
+  gastrointestinal pain       23               3            0            9                4            0            
+  dyspnea                     20               5            <1           17               5            1            
+  exfoliative rash            18               <1           0            9                0            0            
+  cough                       17               <1           0            12               <1           0            
+  peripheral edema            14               2            0            9                2            0            
+  mucositis                   12               2            0            2                0            0            
+  alopecia                    12               0            0            1                0            0            
+  dizziness                   11               1            0            4                0            0            
+  skin disorderb              11               2            0            1                0            0            
+  skin hypopigmentation       11               0            0            0                0            0            
+  stomatitis                  11               <1           0            3                0            0            
+  chest pain                  10               2            0            6                0            0            
+               a  national cancer institute common terminology criteria for adverse events, version 3.
+ 
+
+   b  27 of the 28 cases of skin disorder were palmar-plantar erythrodysesthesia.
+
+
+
+ other adverse reactions observed more commonly in patients treated with votrient that occurred in >=5% of patients and at an incidence of more than 2% difference from placebo included insomnia (9% versus 6%), hypothyroidism (8% versus 0%), dysphonia (8% versus 2%), epistaxis (8% versus 2%), left ventricular dysfunction (8% versus 4%), dyspepsia (7% versus 2%), dry skin (6% versus <1%), chills (5% versus 1%), vision blurred (5% versus 2%), and nail disorder (5% versus 0%).
+
+
+
+ table 4 presents the most common laboratory abnormalities occurring in >10% of patients who received votrient and more commonly (>=5%) in patients who received votrient versus placebo.
+
+
+
+ table 4. selected laboratory abnormalities occurring in >10% of patients with sts who received votrient and more commonly (>=5%) in patients who received votrient versus placebo 
+                                     votrient       placebo     
+                                     (n = 240)      (n = 123)    
+                                     all gradesa    grade 3     grade 4     all gradesa    grade 3     grade 4     
+  parameters                         %              %           %           %              %           %           
+  hematologic                                                                                                      
+     leukopenia                      44             1           0           15             0           0           
+     lymphocytopenia                 43             10          0           36             9           2           
+     thrombocytopenia                36             3           1           6              0           0           
+     neutropenia                     33             4           0           7              0           0           
+  chemistry                                                                                                        
+     ast increased                   51             5           3           22             2           0           
+     alt increased                   46             8           2           18             2           1           
+     glucose increased               45             <1          0           35             2           0           
+     albumin decreased               34             1           0           21             0           0           
+     alkaline phosphatase increased    32             3           0           23             1           0           
+     sodium decreased                31             4           0           20             3           0           
+     total bilirubin increased       29             1           0           7              2           0           
+     potassium increased             16             1           0           11             0           0           
+               a  national cancer institute common terminology criteria for adverse events, version 3.
+ 
+
+   diarrhea:  diarrhea occurred frequently and was predominantly mild to moderate in severity in both the rcc and sts clinical trials. patients should be advised how to manage mild diarrhea and to notify their healthcare provider if moderate to severe diarrhea occurs so appropriate management can be implemented to minimize its impact.
+
+
+
+   lipase elevations:  in a single-arm rcc trial, increases in lipase values were observed for 27% (48/181) of patients. elevations in lipase as an adverse reaction were reported for 4% (10/225) of patients and were grade 3 for 6 patients and grade 4 for 1 patient. in the rcc trials of votrient, clinical pancreatitis was observed in <1% (4/586) of patients.
+
+
+
+   pneumothorax:  two of 290 patients treated with votrient and no patient on the placebo arm in the randomized rcc trial developed a pneumothorax. in the randomized trial of votrient for the treatment of sts, pneumothorax occurred in 3% (8/240) of patients treated with votrient and in no patients on the placebo arm.
+
+
+
+   bradycardia:  in the randomized trial of votrient for the treatment of rcc, bradycardia based on vital signs (<60 beats per minute) was observed in 19% (52/280) of patients treated with votrient and in 11% (16/144) of patients on the placebo arm. bradycardia was reported as an adverse reaction in 2% (7/290) of patients treated with votrient compared with <1% (1/145) of patients treated with placebo. in the randomized trial of votrient for the treatment of sts, bradycardia based on vital signs (<60 beats per minute) was observed in 19% (45/238) of patients treated with votrient and in 4% (5/121) of patients on the placebo arm. bradycardia was reported as an adverse reaction in 2% (4/240) of patients treated with votrient compared with <1% (1/123) of patients treated with placebo.
+
+
+
+   6.2 postmarketing experience
+
+  the following adverse reactions have been identified during post-approval use of votrient. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
+
+
+
+   eye disorders:  retinal detachment/tear.
+
+
+
+   gastrointestinal disorders:  pancreatitis.
+
+
+    boxed warning: warning: hepatotoxicity
+
+  warning: hepatotoxicity
+
+    severe and fatal hepatotoxicity has been observed in clinical trials. monitor hepatic function and interrupt, reduce, or discontinue dosing as recommended   [see warnings and precautions (5.1)]  .  
+
+
+
+   excerpt:   warning: hepatotoxicity
+
+
+
+     see full prescribing information for complete boxed warning.    
+
+
+
+   severe and fatal hepatotoxicity has been observed in clinical trials. monitor hepatic function and interrupt, reduce, or discontinue dosing as recommended   [see warnings and precautions (  5.1  )]  .  
+    5 warnings and precautions
+
+
+
+   excerpt:    *    increases in serum transaminase levels and bilirubin were observed. severe and fatal hepatotoxicity has occurred. measure liver chemistries before the initiation of treatment and regularly during treatment. (  5.1  ) 
+ *    prolonged qt intervals and torsades de pointes have been observed. use with caution in patients at higher risk of developing qt interval prolongation. monitoring electrocardiograms and electrolytes should be considered. (  5.2  ) 
+ *    cardiac dysfunction such as congestive heart failure and decreased left ventricular ejection fraction (lvef) have occurred. monitor blood pressure and manage hypertension promptly. baseline and periodic evaluation of lvef is recommended in patients at risk of cardiac dysfunction. (  5.3  ) 
+ *    fatal hemorrhagic events have been reported. votrient has not been studied in patients who have a history of hemoptysis, cerebral, or clinically significant gastrointestinal hemorrhage in the past 6 months and should not be used in those patients. (  5.4  ) 
+ *    arterial thromboembolic events have been observed and can be fatal. use with caution in patients who are at increased risk for these events. (  5.5  ) 
+ *    venous thromboembolic events (vte) have been observed, including fatal pulmonary emboli (pe). monitor for signs and symptoms of vte and pe. (  5.6  ) 
+ *    thrombotic microangiopathy (tma), including thrombotic thrombocytopenic purpura (ttp) and hemolytic uremic syndrome (hus) has been observed. permanently discontinue votrient if tma occurs. (  5.7  ) 
+ *    gastrointestinal perforation or fistula has occurred. fatal perforation events have occurred. use with caution in patients at risk for gastrointestinal perforation or fistula. (  5.8  ) 
+ *    interstitial lung disease (ild)/pneumonitis have been observed and can be fatal. discontinue votrient in patients developing ild or pneumonitis. (  5.9  ) 
+ *    reversible posterior leukoencephalopathy syndrome (rpls) has been observed and can be fatal. permanently discontinue votrient in patients developing rpls. (  5.10  ) 
+ *    hypertension including hypertensive crisis has been observed. blood pressure should be well controlled prior to initiating votrient. monitor blood pressure within one week after starting votrient and frequently thereafter. (  5.11  ) 
+ *    interruption of therapy with votrient is recommended in patients undergoing surgical procedures. (  5.12  ) 
+ *    hypothyroidism may occur. monitoring of thyroid function tests is recommended. (  5.13  ) 
+ *    proteinuria: monitor urine protein. interrupt treatment for 24-hour urine protein >=3 grams and discontinue for repeat episodes despite dose reductions. (  5.14  ) 
+ *    infection: serious infections (with or without neutropenia), some with fatal outcome, have been reported. monitor for signs and symptoms and treat active infection promptly. interrupt or discontinue votrient. (  5.15  ) 
+ *    animal studies have demonstrated votrient can severely affect organ growth and maturation during early post-natal development. the safety and effectiveness in pediatric patients have not been established. (  5.17  ) 
+ *    votrient can cause fetal harm when administered to a pregnant woman. women of childbearing potential should be advised of the potential hazard to the fetus and to avoid becoming pregnant while taking votrient. (  5.18  ,  8.1  ) 
+    
+ 
+
+   5.1 hepatic toxicity and hepatic impairment
+
+
+
+  in clinical trials with votrient, hepatotoxicity, manifested as increases in serum transaminases (alt, ast) and bilirubin, was observed. this hepatotoxicity can be severe and fatal. patients older than 65 years are at greater risk for hepatotoxicity [see use in specific populations (8.5)]  .  transaminase elevations occur early in the course of treatment (92.5% of all transaminase elevations of any grade occurred in the first 18 weeks) [see dosage and administration (2.2)]  .
+
+
+
+ in the randomized rcc trial, alt >3 x uln was reported in 18% and 3% of the groups receiving votrient and placebo, respectively. alt >10 x uln was reported in 4% of patients who received votrient and in <1% of patients who received placebo. concurrent elevation in alt >3 x uln and bilirubin >2 x uln in the absence of significant alkaline phosphatase >3 x uln occurred in 2% (5/290) of patients on votrient and 1% (2/145) on placebo.
+
+
+
+ in the randomized sts trial, alt >3 x uln was reported in 18% and 5% of the groups receiving votrient and placebo, respectively. alt >8 x uln was reported in 5% and 2% of the groups receiving votrient and placebo, respectively. concurrent elevation in alt >3 x uln and bilirubin >2 x uln in the absence of significant alkaline phosphatase >3 x uln occurred in 2% (4/240) of patients on votrient and <1% (1/123) on placebo.
+
+
+
+ two-tenths percent of the patients (2/977) from trials that supported the rcc indication died with disease progression and hepatic failure and 0.4% of patients (1/240) in the randomized sts trial died of hepatic failure.
+
+
+
+ *    monitor serum liver tests before initiation of treatment with votrient and at weeks 3, 5, 7, and 9. thereafter, monitor at month 3 and at month 4, and as clinically indicated. periodic monitoring should then continue after month 4. 
+ *    patients with isolated alt elevations between 3 x uln and 8 x uln may be continued on votrient with weekly monitoring of liver function until alt returns to grade 1 or baseline. 
+ *    patients with isolated alt elevations of >8 x uln should have votrient interrupted until they return to grade 1 or baseline. if the potential benefit for reinitiating treatment with votrient is considered to outweigh the risk for hepatotoxicity, then reintroduce votrient at a reduced dose of no more than 400 mg once daily and measure serum liver tests weekly for 8 weeks [see dosage and administration (2.2)] . following reintroduction of votrient, if alt elevations >3 x uln recur, then votrient should be permanently discontinued. 
+ *    if alt elevations >3 x uln occur concurrently with bilirubin elevations >2 x uln, votrient should be permanently discontinued. patients should be monitored until resolution. votrient is a uridine diphosphate (udp)-glucuronosyl transferase 1a1 (ugt1a1) inhibitor. mild, indirect (unconjugated) hyperbilirubinemia may occur in patients with gilbert's syndrome [see clinical pharmacology (12.5)] . patients with only a mild indirect hyperbilirubinemia, known gilbert's syndrome, and elevation in alt >3 x uln should be managed as per the recommendations outlined for isolated alt elevations. 
+    concomitant use of votrient and simvastatin increases the risk of alt elevations and should be undertaken with caution and close monitoring [see drug interactions (7.4)]  . insufficient data are available to assess the risk of concomitant administration of alternative statins and votrient.
+ 
+
+ in patients with pre-existing moderate hepatic impairment, the starting dose of votrient should be reduced or alternatives to votrient should be considered. treatment with votrient is not recommended in patients with pre-existing severe hepatic impairment, defined as total bilirubin >3 x uln with any level of alt [see dosage and administration (2.2), use in specific populations (8.6), clinical pharmacology (12.3)]  .
+
+
+
+    5.2 qt prolongation and torsades de pointes
+
+
+
+  in the rcc trials of votrient, qt prolongation (>=500 msec) was identified on routine electrocardiogram monitoring in 2% (11/558) of patients. torsades de pointes occurred in <1% (2/977) of patients who received votrient in the monotherapy trials.
+
+
+
+ in the randomized rcc and sts trials, 1% (3/290) of patients and 0.4% (1/240) of patients, respectively, who received votrient had post-baseline values between 500 to 549 msec. post-baseline qt data were only collected in the sts trial if ecg abnormalities were reported as an adverse reaction. none of the 268 patients who received placebo on the two trials had post-baseline qtc values >=500 msec.
+
+
+
+ votrient should be used with caution in patients with a history of qt interval prolongation, in patients taking antiarrhythmics or other medications that may prolong qt interval, and those with relevant pre-existing cardiac disease. when using votrient, baseline and periodic monitoring of electrocardiograms and maintenance of electrolytes (e.g., calcium, magnesium, potassium) within the normal range should be performed.
+
+
+
+    5.3 cardiac dysfunction
+
+
+
+  in clinical trials with votrient, events of cardiac dysfunction such as decreased left ventricular ejection fraction (lvef) and congestive heart failure have occurred. in the overall safety population for rcc (n = 586), cardiac dysfunction was observed in 0.6% (4/586) of patients without routine on-study lvef monitoring. in a randomized rcc trial of votrient compared with sunitinib, myocardial dysfunction was defined as symptoms of cardiac dysfunction or >=15% absolute decline in lvef compared with baseline or a decline in lvef of >=10% compared with baseline that is also below the lower limit of normal. in patients who had baseline and follow up lvef measurements, myocardial dysfunction occurred in 13% (47/362) of patients on votrient compared with 11% (42/369) of patients on sunitinib. congestive heart failure occurred in 0.5% of patients on each arm.   in the randomized sts trial, myocardial dysfunction occurred in 11% (16/142) of patients on votrient compared with 5% (2/40) of patients on placebo. one percent (3/240) of patients on votrient in the sts trial had congestive heart failure which did not resolve in one patient.
+
+
+
+ fourteen of the 16 patients with myocardial dysfunction treated with votrient in the sts trial had concurrent hypertension which may have exacerbated cardiac dysfunction in patients at risk (e.g., those with prior anthracycline therapy) possibly by increasing cardiac afterload. blood pressure should be monitored and managed promptly using a combination of anti-hypertensive therapy and dose modification of votrient (interruption and re-initiation at a reduced dose based on clinical judgment) [see warnings and precautions (5.11)]  . patients should be carefully monitored for clinical signs or symptoms of congestive heart failure. baseline and periodic evaluation of lvef is recommended in patients at risk of cardiac dysfunction including previous anthracycline exposure.
+
+
+
+    5.4 hemorrhagic events
+
+
+
+  fatal hemorrhage occurred in 0.9% (5/586) in the rcc trials; there were no reports of fatal hemorrhage in the sts trials. in the randomized rcc trial, 13% (37/290) of patients treated with votrient and 5% (7/145) of patients on placebo experienced at least 1 hemorrhagic event. the most common hemorrhagic events in the patients treated with votrient were hematuria (4%), epistaxis (2%), hemoptysis (2%), and rectal hemorrhage (1%). nine of 37 patients treated with votrient who had hemorrhagic events experienced serious events including pulmonary, gastrointestinal, and genitourinary hemorrhage. one percent (4/290) of patients treated with votrient died from hemorrhage compared with no (0/145) patients on placebo. in the overall safety population in rcc (n = 586), cerebral/intracranial hemorrhage was observed in <1% (2/586) of patients treated with votrient.
+
+
+
+ in the randomized sts trial, 22% (53/240) of patients treated with votrient compared with 8% (10/123) treated with placebo experienced at least 1 hemorrhagic event. the most common hemorrhagic events were epistaxis (8%), mouth hemorrhage (3%), and anal hemorrhage (2%). grade 4 hemorrhagic events in the sts population occurred in 1% (3/240) of patients and included intracranial hemorrhage, subarachnoid hemorrhage, and peritoneal hemorrhage.
+
+
+
+ votrient has not been studied in patients who have a history of hemoptysis, cerebral hemorrhage, or clinically significant gastrointestinal hemorrhage in the past 6 months and should not be used in those patients.
+
+
+
+    5.5 arterial thromboembolic events
+
+
+
+  fatal arterial thromboembolic events were observed in 0.3% (2/586) of patients in the rcc trials and in no patients in the sts trials. in the randomized rcc trial, 2% (5/290) of patients receiving votrient experienced myocardial infarction or ischemia, 0.3% (1/290) had a cerebrovascular accident, and 1% (4/290) had an event of transient ischemic attack. in the randomized sts trial, 2% (4/240) of patients receiving votrient experienced a myocardial infarction or ischemia, 0.4% (1/240) had a cerebrovascular accident and there were no incidents of transient ischemic attack. no arterial thromboembolic events were reported in patients who received placebo in either trial. votrient should be used with caution in patients who are at increased risk for these events or who have had a history of these events. votrient has not been studied in patients who have had an arterial thromboembolic event within the previous 6 months and should not be used in those patients.
+
+
+
+    5.6 venous thromboembolic events
+
+
+
+  in rcc and sts trials of votrient, venous thromboembolic events (vte) including venous thrombosis and fatal pulmonary embolus (pe) have occurred. in the randomized sts trial, venous thromboembolic events were reported in 5% of patients treated with votrient compared with 2% with placebo. in the randomized rcc trial, the rate was 1% in both arms. fatal pulmonary embolus occurred in 1% (2/240) of sts patients receiving votrient and in no patients receiving placebo. there were no fatal pulmonary emboli in the rcc trial. monitor for signs and symptoms of vte and pe.
+
+
+
+    5.7 thrombotic microangiopathy
+
+
+
+  thrombotic microangiopathy (tma), including thrombotic thrombocytopenic purpura (ttp) and hemolytic uremic syndrome (hus), has been reported in clinical trials of votrient as monotherapy, in combination with bevacizumab, and in combination with topotecan. votrient is not indicated for use in combination with other agents. six of the 7 tma cases occurred within 90 days of the initiation of votrient. improvement of tma was observed after treatment was discontinued. monitor for signs and symptoms of tma. permanently discontinue votrient in patients developing tma. manage as clinically indicated.
+
+
+
+    5.8 gastrointestinal perforation and fistula
+
+
+
+  in the rcc and sts trials, gastrointestinal perforation or fistula occurred in 0.9% (5/586) of patients and 1% (4/382) of patients receiving votrient, respectively. fatal perforations occurred in 0.3% (2/586) of these patients in the rcc trials and in 0.3% (1/382) of these patients in the sts trials. monitor for signs and symptoms of gastrointestinal perforation or fistula.
+
+
+
+    5.9 interstitial lung disease (ild)/pneumonitis
+
+
+
+   ild/pneumonitis, which can be fatal, has been reported in association with votrient. in clinical trials, ild/pneumonitis occurred in 0.1% of patients treated with votrient.  
+
+
+
+  monitor patients for pulmonary symptoms indicative of ild/pneumonitis and discontinue votrient in patients developing ild or pneumonitis.  
+
+
+
+    5.10 reversible posterior leukoencephalopathy syndrome
+
+
+
+  reversible posterior leukoencephalopathy syndrome (rpls) has been reported in patients receiving votrient and may be fatal.
+
+
+
+ rpls is a neurological disorder which can present with headache, seizure, lethargy, confusion, blindness, and other visual and neurologic disturbances. mild to severe hypertension may be present. the diagnosis of rpls is optimally confirmed by magnetic resonance imaging. permanently discontinue votrient in patients developing rpls.
+
+
+
+    5.11 hypertension
+
+
+
+  in clinical trials, hypertension (systolic blood pressure >=150 or diastolic blood pressure >=100 mm hg) and hypertensive crisis were observed in patients treated with votrient. blood pressure should be well controlled prior to initiating votrient. hypertension occurs early in the course of treatment (40% of cases occurred by day 9 and 90% of cases occurred in the first 18 weeks). blood pressure should be monitored early after starting treatment (no longer than one week) and frequently thereafter to ensure blood pressure control. approximately 40% of patients who received votrient experienced hypertension. grade 3 hypertension was reported in 4% to 7% of patients receiving votrient [see adverse reactions (6.1)]  .
+
+
+
+ increased blood pressure should be treated promptly with standard anti-hypertensive therapy and dose reduction or interruption of votrient as clinically warranted. votrient should be discontinued if there is evidence of hypertensive crisis or if hypertension is severe and persistent despite anti-hypertensive therapy and dose reduction. approximately 1% of patients required permanent discontinuation of votrient because of hypertension [see dosage and administration (2.2)]  .
+
+
+
+    5.12 wound healing
+
+
+
+  no formal trials on the effect of votrient on wound healing have been conducted. since vascular endothelial growth factor receptor (vegfr) inhibitors such as pazopanib may impair wound healing, treatment with votrient should be stopped at least 7 days prior to scheduled surgery. the decision to resume votrient after surgery should be based on clinical judgment of adequate wound healing. votrient should be discontinued in patients with wound dehiscence.
+
+
+
+    5.13 hypothyroidism
+
+
+
+  hypothyroidism, confirmed based on a simultaneous rise of tsh and decline of t4, was reported in 7% (19/290) of patients treated with votrient in the randomized rcc trial and in 5% (11/240) of patients treated with votrient in the randomized sts trial. no patients on the placebo arm of either trial had hypothyroidism. in rcc and sts trials of votrient, hypothyroidism was reported as an adverse reaction in 4% (26/586) and 5% (20/382) of patients, respectively. proactive monitoring of thyroid function tests is recommended.
+
+
+
+    5.14 proteinuria
+
+
+
+  in the randomized rcc trial, proteinuria was reported as an adverse reaction in 9% (27/290) of patients receiving votrient and in no patients receiving placebo. in 2 patients, proteinuria led to discontinuation of treatment with votrient. in the randomized sts trial, proteinuria was reported as an adverse reaction in 1% (2/240) of patients, and nephrotic syndrome was reported in 1 patient treated with votrient compared with none in patients receiving placebo. treatment was withdrawn in the patient with nephrotic syndrome.
+
+
+
+ baseline and periodic urinalysis during treatment is recommended with follow up measurement of 24-hour urine protein as clinically indicated. interrupt votrient and dose reduce for 24-hour urine protein >=3 grams; discontinue votrient for repeat episodes despite dose reductions [see dosage and administration (2.2)]  .
+
+
+
+    5.15 infection
+
+
+
+  serious infections (with or without neutropenia), including some with fatal outcome, have been reported. monitor patients for signs and symptoms of infection. institute appropriate anti-infective therapy promptly and consider interruption or discontinuation of votrient for serious infections.
+
+
+
+    5.16 increased toxicity with other cancer therapy
+
+
+
+  votrient is not indicated for use in combination with other agents. clinical trials of votrient in combination with pemetrexed and lapatinib were terminated early due to concerns over increased toxicity and mortality. the fatal toxicities observed included pulmonary hemorrhage, gastrointestinal hemorrhage, and sudden death. a safe and effective combination dose has not been established with these regimens.
+
+
+
+    5.17 increased toxicity in developing organs
+
+
+
+  the safety and effectiveness of votrient in pediatric patients have not been established. votrient is not indicated for use in pediatric patients. based on its mechanism of action, pazopanib may have severe effects on organ growth and maturation during early post-natal development. administration of pazopanib to juvenile rats less than 21 days old resulted in toxicity to the lungs, liver, heart, and kidney and in death at doses significantly lower than the clinically recommended dose or doses tolerated in older animals. votrient may potentially cause serious adverse effects on organ development in pediatric patients, particularly in patients younger than 2 years of age [see use in specific populations (8.4)]  .
+
+
+
+    5.18 pregnancy
+
+
+
+  votrient can cause fetal harm when administered to a pregnant woman. based on its mechanism of action, votrient is expected to result in adverse reproductive effects. in pre-clinical studies in rats and rabbits, pazopanib was teratogenic, embryotoxic, fetotoxic, and abortifacient.
+
+
+
+ there are no adequate and well-controlled studies of votrient in pregnant women. if this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus. women of childbearing potential should be advised to avoid becoming pregnant while taking votrient [see use in specific populations (8.1)]  .

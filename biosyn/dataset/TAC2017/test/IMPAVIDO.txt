@@ -1,0 +1,243 @@
+    6 adverse reactions
+
+  because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+    excerpt:    *    adverse reactions occurring in >=2% of patients include nausea, vomiting, diarrhea, headache, decreased appetite, dizziness, abdominal pain, pruritus, somnolence, elevated transaminases, and elevated creatinine (  6.1  ). 
+      to report suspected adverse reactions, contact    paladin therapeutics inc. at 1-888-550-6060    or fda at 1-800-fda-1088 or    www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 clinical trials experience
+
+    visceral leishmaniasis  
+
+
+
+ one phase 3 trial was conducted in patients >= 12 years of age in india. two-hundred and ninety-nine (299) patients (211 men and 88 women) received oral impavido at a target dose of 2.5 mg/kg/day for 28 days (50 mg capsule once daily if weight was less than 25 kg and 50 mg capsule twice daily if weight was 25 kg or greater). patients ranged between 12 and 64 years of age. weight ranged between 15 and 67 kg (mean weight 38.6 kg) and bmi ranged between 8.2 and 24 (mean 16.1). ninety-nine (99) patients received 1 mg/kg/day amphotericin b deoxycholate intravenously every other day for 15 doses. a statistically significant higher percentage of men received impavido compared to amphotericin b.
+
+
+
+  less than 1% of patients who received impavido died (2/299) and no patient who received amphotericin b died. serious adverse reactions were reported in 2% of impavido recipients (6/299) and 1% of amphotericin b recipients (1/99). approximately 3% of patients discontinued treatment in each treatment arm due to an adverse reaction. serious adverse reactions and adverse reactions leading to drug discontinuation that were thought to be related or possibly related to impavido included stevens-johnson syndrome, melena and thrombocytopenia, arthritis and skin rash, ctcae (common terminology criteria for adverse events) grade 4 diarrhea (>=10 stools per day) and ctcae grade 4 hyperbilirubinemia (>=10x upper limit of normal uln).
+ 
+
+ table 2: treatment emergent adverse reactions occurring in >=2% of visceral leishmaniasis patients receiving impavido 
+  system organ classpreferred term                       impavidon = 299               amphotericin b deoxycholaten = 99    
+  gastrointestinal disorders                                                                                                
+    diarrhea                                             61 (20.4%)                    6 (6.1%)                             
+    vomiting                                             113 (37.8%)                   20 (20.0%)                           
+  general disorders                                                                                                         
+    asthenia                                             19 (6.3%)                     4 (4.0%)                             
+  metabolism and nutrition disorders                                                                                        
+    decreased appetite                                   69 (23.1%)                    22 (22.2%)                           
+         in this study, creatinine (cr) elevations >= 1.5 times above baseline occurred in approximately 10% of impavido recipients and in 40% of amphotericin b recipients at the end of therapy. ten percent of subjects in each arm had cr elevations >=1.5 times above baseline at 6 months follow up. no impavido recipient discontinued therapy due to cr elevation.
+ 
+
+ elevations of transaminases during therapy occurred in up to half of impavido recipients and up to a third of amphotericin b recipients. the elevations were mild (< 3x uln) or moderate (3-5x uln) in 94% and 6% respectively of impavido-treated patients who experienced an elevation. no patient discontinued therapy due to elevations in transaminases.
+
+
+
+ at the end of therapy, 62% and 2.4% of impavido recipients and 54% and 2% of amphotericin b recipients had platelet count < 150,000 and < 50,000 respectively.
+
+
+
+   cutaneous leishmaniasis  
+
+
+
+ the efficacy of impavido in the treatment of cutaneous leishmaniasis was evaluated in one placebo-controlled trial conducted in colombia and guatemala and in two comparative trials conducted in bolivia and brazil respectively. in the placebo-controlled trial, eighty-nine (89) patients >=12 years of age received a target impavido dose of 2.5 mg/kg/day for 28 days and forty-four (44) received placebo. in the comparative trials, one hundred and twenty (120) patients >=12 years of age received a target impavido dose of 2.5 mg/kg/day for 28 days and fifty eight (58) patients received 20 mg/kg/day pentavalent antimony (meglumine) parenterally for 20 days.
+
+
+
+ table 3: adverse reactions occurring in >=2% of impavido-treated patients >=12 years of age with cutaneous leishmaniasis in the placebo-controlled trial 
+  system organ classpreferred term                           impavidon = 89                   placebon = 44                 
+  ear and labyrinth disorders                                                                                               
+    motion sickness                                          26 (29.2%)                       10 (22.7%)                    
+  gastrointestinal disorders                                                                                                
+    abdominal pain                                           10 (11.2%)                       3 (6.8%)                      
+    diarrhea                                                 7 (7.9%)                         2 (4.5%)                      
+    nausea                                                   32 (35.9%)                       5 (11.1%)                     
+    vomiting                                                 4 (4.5%)                         0                             
+  general and administration site disorders                                                                                 
+    malaise                                                  3 (3.4%)                         1 (2.3%)                      
+    pyrexia                                                  5 (5.6%)                         2 (4.5%)                      
+  nervous system disorders                                                                                                  
+    dizziness                                                4 (4.5%)                         0                             
+    headache                                                 25 (28.1%)                       10 (22.7%)                    
+    somnolence                                               3 (3.4%)                         0                             
+  skin and subcutaneous tissue disorders                                                                                    
+    pruritus                                                 4 (4.5%)                         0                             
+        table 4: adverse reactions occurring in >=2% of impavido-treated patients >= 12 years of age with cutaneous leishmaniasis in two comparative trials 
+  system organ classpreferred term                           impavidon = 120                  megluminen = 58               
+  gastrointestinal disorders                                                                                                
+    abdominal pain                                           9 (7.5%)                         3 (5.2%)                      
+    diarrhea                                                 18 (15.0%)                       3 (5.2%)                      
+    nausea                                                   50 (41.7%)                       3 (5.2%)                      
+    vomiting                                                 33 (27.5%)                       0                             
+  infections and infestations                                                                                               
+    lymphangitis                                             7 (5.8%)                         0                             
+  metabolism and nutrition disorders                                                                                        
+    decreased appetite                                       13 (10.8%)                       4 (5.8%)                      
+  nervous system disorders                                                                                                  
+    dizziness                                                15 (12.5%)                       4 (6.9%)                      
+  skin and subcutaneous tissue disorders                                                                                    
+    pruritus                                                 7 (5.8%)                         0                             
+         in the placebo controlled trial, 12/89 (13.4%) impavido subjects had cr increases of 1.5-3 times above baseline, compared to 2/44 (4.5%) placebo subjects at end of therapy. in the comparative trial, a similar percentage of subjects who received impavido or pentavalent antimony had cr elevations above baseline at 3 and 6 months after therapy (approximately 5%). approximately 25% of impavido subjects and 11% of pentavalent antimony subjects had cr elevations 1.5-3 times above baseline at the end of therapy in the two active controlled trials. the frequency of ast and alt increase above upper limit of normal at end of therapy was similar in impavido and placebo recipients (approximately 5%).
+ 
+
+ other adverse events seen at <2% incidence in the impavido group included anemia, lymphadenopathy, abdominal distension, constipation, dysphagia, flatulence, fatigue, malaise, abscess, cellulitis, ecthyma, paresthesia, testicular pain, testicular swelling, stevens-johnson syndrome, urticaria, rash, pyoderma.
+
+
+
+   6.2 postmarketing experience
+
+  the following adverse reactions have been identified during use of impavido worldwide. because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   blood and lymphatics disorders  : thrombocytopenia, agranulocytosis
+
+
+
+   gastrointestinal disorders  : melena
+
+
+
+   general disorders  : generalized edema, peripheral edema
+
+
+
+   hepatobiliary disorders  : jaundice
+
+
+
+   nervous system disorders  : seizure
+
+
+
+   reproductive system and breast disorders  : scrotal pain, decreased ejaculate volume, absent ejaculation.
+
+
+
+   vascular disorders  : epistaxis
+
+
+    boxed warning: warning: embryo-fetal toxicity
+
+  warning: embryo-fetal toxicity
+
+    impavido may cause fetal harm. fetal death and teratogenicity occurred in animals administered miltefosine at doses lower than the recommended human dose.  do not administer impavido to pregnant women. obtain a serum or urine pregnancy test in females of reproductive potential prior to prescribing impavido. females of reproductive potential should be advised to use effective contraception during impavido therapy and for 5 months after therapy   [see contraindications (  4.1  ), warnings and precautions (  5.1  ), use in specific populations (  8.1  ,   8.8  ) and nonclinical toxicology (  13.1  )]  .  
+
+
+
+   excerpt:   warning: embryo-fetal toxicity
+
+
+
+   see full prescribing information for complete boxed warning.  
+
+
+
+   impavido may cause fetal harm. fetal death and teratogenicity, occurred in animals administered miltefosine at doses lower than the recommended human dose.  do not administer impavido to pregnant women. obtain a serum or urine pregnancy test in females of reproductive potential prior to prescribing impavido.    
+
+
+
+   advise females of reproductive potential to use effective contraception during therapy and for 5 months after therapy (  4.1  ,   5.1  ,   8.1  ,   8.8  ,   13.1  ).  
+    5 warnings and precautions
+
+
+
+   excerpt:    *    embryo-fetal toxicity. do not use in pregnant women. obtain a urine or serum pregnancy test prior to initiation of therapy. advise use of effective contraception in females of reproductive potential (  boxed warning  ,  5.1  ,  8.1  ,  8.8  ,  13.1  ). 
+ *    reproductive effects. miltefosine caused testicular atrophy and impaired fertility in male rats and impaired fertility in female rats. advise patients of reproductive toxicities in animal studies and that the potential effects on human fertility have not been adequately evaluated (  13.1  ). 
+ *    renal effects. monitor serum creatinine during therapy and for 4 weeks after end of therapy (  5.3  ,  6.1  ). 
+ *    hepatic effects. monitor transaminases and bilirubin during therapy (  5.4  ,  6.1  ). 
+ *    gastrointestinal effects. encourage fluid intake (  5.5  ). 
+ *    thrombocytopenia. monitor platelet count during therapy for visceral leishmaniasis (  5.6  ,  6.1  ). 
+ *    absorption of oral contraceptives. advise use of alternative method of contraception if vomiting and/or diarrhea occur (  5.7  ). 
+ *    stevens-johnson syndrome. discontinue impavido (  5.8  ). 
+    
+ 
+
+   5.1 embryo-fetal toxicity
+
+
+
+  miltefosine may cause fetal harm. embryo-fetal toxicity, including death and teratogenicity, was observed in animals administered miltefosine prior to mating, during early pregnancy, and during organogenesis at doses lower than the maximum recommended human dose (mrhd). do not use impavido in pregnant women. obtain a urine or serum pregnancy test prior to prescribing impavido to females of reproductive potential. advise females of reproductive potential to use effective contraception during impavido therapy and for 5 months after completion of therapy [see  boxed warning  , contraindications (  4.1  ) and use in specific populations (  8.1  ,  8.8  )]  .
+
+
+
+    5.2 reproductive effects
+
+
+
+   females  
+
+
+
+ miltefosine caused impaired fertility in rats and reversible follicular atresia and diestrus in dogs at doses approximately 1.0 and 0.2 times respectively the mrhd based on body surface area comparisons [see nonclinical toxicology (  13.1  )]  . effects on human female fertility have not been formally studied.
+
+
+
+  males  
+
+
+
+ miltefosine caused reduced viable sperm counts and impaired fertility in rats at doses approximately 0.4 times the mrhd [see nonclinical toxicology (  13.1    ) ]  . a higher dose in rats, approximately 1.0 times the mrhd, caused testicular atrophy and impaired fertility that did not fully reverse 10 weeks after drug administration ended.
+
+
+
+ scrotal pain and decreased or absent ejaculation during therapy have been reported during impavido therapy [see adverse reactions (  6.2    ) ]  . the effects of impavido on human male fertility have not been adequately studied.
+
+
+
+ advise women and men of the animal fertility findings, and that the potential for impaired fertility with impavido therapy in humans has not been adequately evaluated.
+
+
+
+    5.3 renal effects
+
+
+
+  elevations of serum creatinine (cr) were noted in clinical trials evaluating impavido in the treatment of cutaneous, mucosal and visceral leishmaniasis. monitor renal function weekly in patients receiving impavido during therapy and for 4 weeks after end of therapy [see adverse reactions (  6.1  )]  .
+
+
+
+    5.4 hepatic effects
+
+
+
+  elevations in liver transaminases (alt, ast) and bilirubin were noted in clinical trials evaluating impavido in the treatment of visceral leishmaniasis. monitor liver transaminases (alt, ast) and bilirubin during therapy in patients receiving impavido [see adverse reactions (  6.1  )]  .
+
+
+
+    5.5 gastrointestinal effects
+
+
+
+  vomiting and/or diarrhea commonly occur during impavido administration and may result in volume depletion. encourage fluid intake to avoid volume depletion [see adverse reactions (  6.1  )]  .
+
+
+
+    5.6 thrombocytopenia
+
+
+
+  thrombocytopenia during therapy has been reported in patients treated for visceral leishmaniasis. monitor platelet count during therapy for visceral leishmaniasis [see adverse reactions (  6.1  ,  6.2  )]  .
+
+
+
+    5.7 absorption of oral contraceptives
+
+
+
+  vomiting and/or diarrhea occurring during impavido therapy may affect the absorption of oral contraceptives, and therefore compromise their efficacy. if vomiting and/or diarrhea occur during impavido therapy, advise females to use additional non-hormonal or alternative method(s) of effective contraception.
+
+
+
+    5.8 stevens-johnson syndrome
+
+
+
+  stevens-johnson syndrome has been reported during impavido therapy. discontinue impavido if an exfoliative or bullous rash is noted during therapy [see adverse reactions (  6.1  )]  .
