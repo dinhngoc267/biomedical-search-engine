@@ -1,20 +1,20 @@
 steps:
 # Build the container image
 - name: 'gcr.io/cloud-builders/docker'
-  args: ['build', '-t', 'gcr.io/chatbot-315313/chatbot', '.']
-# Push the container image to Container Registry
+  args: ['build', '-t', 'gcr.io/biomedical-search-engine/biosyn', '.']
+# # # # Push the container image to Container Registry
 - name: 'gcr.io/cloud-builders/docker'
-  args: ['push', 'gcr.io/chatbot-315313/chatbot']
+  args: ['push', 'gcr.io/biomedical-search-engine/biosyn']
 # Deploy container image to Cloud Run
 # - name: 'gcr.io/cloud-builders/gcloud'
 #   entrypoint: 'bash'
 #   args: ['-c', 'gcloud config set app/cloud_build_timeout 3600 && gcloud app deploy']
 - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
   entrypoint: gcloud
-  args: ['run', 'deploy', 'my-service', '--image', 'gcr.io/chatbot-315313/chatbot', '--region', 'us-central1', '--platform', 'managed']
+  args: ['run', 'deploy', 'biomedical-search-engine', '--image', 'gcr.io/biomedical-search-engine/biosyn', '--region', 'us-central1', '--platform', 'managed']
 images:
-- gcr.io/chatbot-315313/chatbot
-timeout: 3600s
+- gcr.io/biomedical-search-engine/biosyn
+timeout: 7200s
 
 # steps:
 # - name: 'gcr.io/cloud-builders/gcloud'
